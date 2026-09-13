@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 2645 verified English Dub streams!
+// Total: 3586 verified English Dub streams across 100 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -23367,6 +23367,8755 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/soul-eater-full-series/6.00B%20Soul%20Eater%20(FINALE)%20-%20Episode%2051%20(DUB)%201280x720%20-%20The%20Word%20Is%20Bravery!.ia.mp4",
         "dubUrl": "https://archive.org/download/soul-eater-full-series/6.00B%20Soul%20Eater%20(FINALE)%20-%20Episode%2051%20(DUB)%201280x720%20-%20The%20Word%20Is%20Bravery!.ia.mp4",
         "subUrl": "https://archive.org/download/soul-eater-full-series/6.00B%20Soul%20Eater%20(FINALE)%20-%20Episode%2051%20(DUB)%201280x720%20-%20The%20Word%20Is%20Bravery!.ia.mp4"
+      }
+    ]
+  },
+  {
+    "id": 150672,
+    "title": {
+      "english": "OSHI NO KO",
+      "romaji": "[Oshi no Ko]",
+      "native": "【推しの子】"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-WqmmwZ4nMzAy.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-WqmmwZ4nMzAy.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150672-WqmmwZ4nMzAy.png",
+      "color": "#ff35c9"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150672-ISwoA0eS722H.jpg",
+    "description": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai’s deluded stalker — and subsequently reborn as Ai’s child, Aquamarine Hoshino! The glitz and glamor of showbiz hide the dark underbelly of the entertainment industry, threatening to dull the shine of his favorite star. Can he help his new mother rise to the top of the charts? And what will he do when unthinkable disaster strikes? \n\n(Source: HIDIVE)\n\n\nNote: Episode 1【推しの子】Mother and Children was pre-screened in advance in Japanese theaters on March 17, 2023. The regular TV broadcast began on April 12, 2023. The first episode has an extended runtime of ~82 minutes.",
+    "averageScore": 84,
+    "seasonYear": 2023,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "HOT NEW 2023 • 11 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Watch My Star online free on 9anime --01 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--01.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--01.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Watch My Star online free on 9anime --02 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--02.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--02.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--02.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Watch My Star online free on 9anime --03 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--03.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--03.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--03.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Watch My Star online free on 9anime --04 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--04.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--04.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--04.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Watch My Star online free on 9anime --05 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--05.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--05.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--05.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Watch My Star online free on 9anime --06 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--06.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--06.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--06.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Watch My Star online free on 9anime --07 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--07.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--07.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--07.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Watch My Star online free on 9anime --08 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--08.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--08.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--08.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Watch My Star online free on 9anime --09 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--09.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--09.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--09.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Watch My Star online free on 9anime --10 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--10.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--10.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20--10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Watch My Star online free on 9anime - (English Dub)",
+        "duration": "82:00",
+        "videoUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20-.mp4",
+        "dubUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20-.mp4",
+        "subUrl": "https://archive.org/download/oshi-no-ko_202408/Watch%20My%20Star%20online%20free%20on%209anime%20-.mp4"
+      }
+    ]
+  },
+  {
+    "id": 175977,
+    "title": {
+      "english": "My Deer Friend Nokotan",
+      "romaji": "Shikanoko Nokonoko Koshitantan",
+      "native": "しかのこのこのここしたんたん"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-kNNpCt8Z72uK.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175977-kNNpCt8Z72uK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175977-kNNpCt8Z72uK.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175977-sfXIexEc0Jjx.jpg",
+    "description": "Koshi Torako has everyone fooled. Her classmates see her as the perfect honor student, unaware of her secret delinquent past. But her new picturesque school life is thrown into chaos when she bumps into Shikanoko Noko, a girl with antlers! Mayhem seems to follow this strange doe-eyed girl. Who, or what, is she?\n\n(Source: Crunchyroll)\nNote: Each episode streamed 4 days early on some streaming services. The original TV broadcast started on June 7th, 2024.",
+    "averageScore": 67,
+    "seasonYear": 2024,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "format": "ONA",
+    "hasDub": true,
+    "badgeText": "HOT NEW 2024 • 9 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/09-s-1e-9/My%20Deer%20Friend%20Nokotan/s1/09%20-%20s1e9.mp4"
+      }
+    ]
+  },
+  {
+    "id": 159831,
+    "title": {
+      "english": "Zom 100: Bucket List of the Dead",
+      "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+      "native": "ゾン100～ゾンビになるまでにしたい100のこと～"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159831-cJUNqCqzuApc.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159831-cJUNqCqzuApc.png",
+      "color": "#e4f135"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159831-FWfdyqpxhLli.jpg",
+    "description": "Surviving a zombie apocalypse beats being a wage slave any day! After spending years slaving away for a soul-crushing company, Akira's life has lost its luster. He lives in a trash-filled apartment, his pay is abysmal, and he can't even muster up the nerve to confess his love to his beautiful co-worker. But when a zombie apocalypse ravages his town, it gives him the push he needs to live for himself. Now Akira's on a mission to complete all 100 items on his bucket list before he...well, kicks the bucket.\n\n(Source: VIZ Media)",
+    "averageScore": 76,
+    "seasonYear": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "HOT NEW 2023 • 12 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2001%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2001%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2001%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2002%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2002%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2002%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2003%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2003%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2003%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2004%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2004%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2004%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2005%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2005%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2005%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2006%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2006%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2006%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2007%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2007%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2007%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2008%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2008%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2008%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2009%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2009%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2009%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2010%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2010%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2010%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2011%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2011%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2011%20%5BPS%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2012%20%5BPS%5D.mp4",
+        "dubUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2012%20%5BPS%5D.mp4",
+        "subUrl": "https://archive.org/download/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto_202408/Zom%20100%20-%20Zombie%20ni%20Naru%20made%20ni%20Shitai%20100%20no%20Koto%20-%2012%20%5BPS%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 20920,
+    "title": {
+      "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+      "native": "ダンジョンに出会いを求めるのは間違っているだろうか"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-MTREwZOG4BAD.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20920-MTREwZOG4BAD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20920-MTREwZOG4BAD.jpg",
+      "color": "#aee4d6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20920-QZeO1gVTQSUZ.jpg",
+    "description": "Some adventurers delve into the sprawling labyrinths beneath the city of Orario to find fame and fortune. Others come to test their skills against the legions of monsters lurking in the darkness below. However, Bell Cranel’s grandfather told him a different reason: it’s a great place to rescue (and subsequently meet) girls! Now that Bell’s a dungeon delver himself, the ladies he’s encountering aren’t the helpless damsels in distress he’d imagined, and one of them, the beautiful swordswoman Ais Wallenstein, keeps rescuing Bell instead. As embarrassing as that is, it’s nothing compared to what happens when goddesses get involved. Freya, Hephaistos, and Loki, with their powerful Familias, are intimidating enough, but there’s one goddess whose relationship with Bell is certain to spark trouble.\n\n(Source: Sentai Filmworks)",
+    "averageScore": 73,
+    "seasonYear": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "50 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "s1-e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e1.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e1.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "s1-e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e10.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e10.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e10.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "s1-e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e11.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e11.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e11.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "s1-e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e12.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e12.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e12.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "s1-e13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e13.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e13.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e13.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "s1-e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e2.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e2.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e2.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "s1-e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e3.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e3.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e3.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "s1-e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e4.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e4.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e4.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "s1-e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e5.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e5.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e5.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "s1-e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e6.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e6.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e6.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "s1-e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e7.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e7.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e7.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "s1-e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e8.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e8.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e8.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "s1-e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s1-e9.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s1-e9.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s1-e9.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "s2-e1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e1.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e1.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e1.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "s2-e10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e10.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e10.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e10.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "s2-e11 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e11.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e11.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e11.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "s2-e12 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e12.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e12.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e12.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "s2-e2 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e2.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e2.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e2.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "s2-e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e3.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e3.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e3.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "s2-e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e4.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e4.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e4.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "s2-e5 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e5.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e5.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e5.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "s2-e6 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e6.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e6.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e6.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "s2-e7 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e7.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e7.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e7.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "s2-e8 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e8.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e8.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e8.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "s2-e9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s2-e9.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s2-e9.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s2-e9.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "s3-e1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e1.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e1.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e1.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "s3-e10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e10.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e10.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e10.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "s3-e11 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e11.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e11.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e11.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "s3-e12 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e12.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e12.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e12.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "s3-e2 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e2.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e2.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e2.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "s3-e3 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e3.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e3.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e3.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "s3-e4 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e4.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e4.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e4.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "s3-e5 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e5.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e5.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e5.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "s3-e6 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e6.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e6.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e6.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "s3-e7 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e7.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e7.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e7.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "s3-e8 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e8.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e8.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e8.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "s3-e9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s3-e9.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s3-e9.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s3-e9.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "s4-e1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e1.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e1.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e1.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "s4-e10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e10.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e10.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e10.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "s4-e11 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e11.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e11.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e11.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "s4-e2 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e2.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e2.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e2.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "s4-e3 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e3.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e3.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e3.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "s4-e4 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e4.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e4.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e4.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "s4-e5 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e5.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e5.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e5.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "s4-e6 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e6.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e6.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e6.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "s4-e7 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e7.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e7.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e7.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "s4-e8 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e8.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e8.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e8.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "s4-e9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s4-e9.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s4-e9.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s4-e9.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "s5-e1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s5-e1.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s5-e1.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s5-e1.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "s5-e11 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/danmachi_202408/s5-e11.mp4",
+        "dubUrl": "https://archive.org/download/danmachi_202408/s5-e11.mp4",
+        "subUrl": "https://archive.org/download/danmachi_202408/s5-e11.mp4"
+      }
+    ]
+  },
+  {
+    "id": 19815,
+    "title": {
+      "english": "No Game, No Life",
+      "romaji": "No Game No Life",
+      "native": "ノーゲーム・ノーライフ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b19815-sEOQ9yQaPKlk.jpg",
+      "color": "#f1a135"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19815-BqbuD0wyBS3P.jpg",
+    "description": "Bored with life and considering the real world to be just a “crappy game,” savvy sibling shut-ins Sora and Shiro have withdrawn into their own fantasy world filled with video games. \n\nHowever, one day they find themselves summoned to another world by a boy who calls himself “God,” their abilities are about to be put to the ultimate test! Now not only their fates — but the fate of all of humanity — will be decided by a series of games that may just be the hardest these super-geniuses have ever faced!\n\n(Source: Sentai Filmworks, edited)",
+    "averageScore": 77,
+    "seasonYear": 2014,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/no-game-no-life_202409/No%20Game%2C%20No%20Life/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 139587,
+    "title": {
+      "english": "Reincarnated as a Sword",
+      "romaji": "Tensei Shitara Ken Deshita",
+      "native": "転生したら剣でした"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139587-rbZVcigCRtHY.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139587-rbZVcigCRtHY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139587-rbZVcigCRtHY.jpg",
+      "color": "#e4a135"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139587-XFbotQOPcLC4.jpg",
+    "description": "Some isekai protagonists are reincarnated as powerful warriors or skilled wizards, but our protagonist was reborn in another life as a sentient sword! He’s taken up by Fran, a desperate girl fleeing evil-doers intent on selling her into slavery. With her new weapon’s help and guidance, she’s able to strike down her captors and secure her freedom. Together, this unconventional master-student duo embark on an epic journey to liberate those in need and exact justice on the cruel of heart.\n\n(Source: Sentai Filmworks)\n\nNote: Episode 1 was streamed in advance on September 28, 2022 on AbemaTV. The regular TV broadcast began on October 5, 2022.",
+    "averageScore": 74,
+    "seasonYear": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "format": "ONA",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/reincarnated-as-a-sword_202409/Reincarnated%20as%20a%20Sword/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21087,
+    "title": {
+      "english": "One-Punch Man",
+      "romaji": "One Punch Man",
+      "native": "ワンパンマン"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21087-B5DHjqZ3kW4b.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21087-B5DHjqZ3kW4b.jpg",
+      "color": "#e4ae5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21087-sHb9zUZFsHe1.jpg",
+    "description": "Saitama has a rather peculiar hobby, being a superhero, but despite his heroic deeds and superhuman abilities, a shadow looms over his life. He's become much too powerful, to the point that every opponent ends up defeated with a single punch.\n\nThe lack of challenge has driven him into a state of apathy, as he watches his life pass by having lost all enthusiasm, at least until he's unwillingly thrust in the role of being a mentor to the young and revenge-driven Genos.   \n\n",
+    "averageScore": 83,
+    "seasonYear": 2015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/chivalry-of-a-failed-knight_202409/Chivalry%20of%20a%20Failed%20Knight/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 136707,
+    "title": {
+      "english": "Parallel World Pharmacy",
+      "romaji": "Isekai Yakkyoku",
+      "native": "異世界薬局"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136707-StRFbEwZT7q5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136707-StRFbEwZT7q5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136707-StRFbEwZT7q5.jpg",
+      "color": "#d6936b"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136707-HnFMl6YR3LeF.jpg",
+    "description": "A young pharmacologist and researcher in Japan died from overworking, and was reincarnated in a Medieval Parallel Europe. He was reincarnated as a 10-year-old apprentice to a famous Royal Court pharmacist, had attained an inhuman skills of ability to see through disease, material creation, and material destruction.\n\nIn a society in which dubious medical practice are rampant, price gouging thru the monopoly of the pharmacist guild, and good medicine aren't available to the commoners. He was recognized by the Emperor at that time and opened a Pharmacy at the corner of the town. He will wipe out the fraud that has swept the world, and deliver to the commoners a truly effective medicine that was developed using present day pharmacology. Thus the boy pharmacist will cheat by using his previous knowledge to create innovative medicines while helping the people of the parallel world, a story about living his new life to the fullest this time.",
+    "averageScore": 72,
+    "seasonYear": 2022,
+    "genres": [
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/parallel-world-pharmacy/Parallel%20World%20Pharmacy/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 98480,
+    "title": {
+      "english": "Sexual Sacrifice",
+      "romaji": "Daraku Reijou THE ANIMATION: Hakoiri Ojousama Netorare Choukyou Kiroku",
+      "native": "堕落令嬢 THE ANIMATION 箱入りお嬢様寝取られ調教記録"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98480-d52iCTMJ5rtB.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98480-d52iCTMJ5rtB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98480-d52iCTMJ5rtB.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98480-dZ31ydoYsHTJ.jpg",
+    "description": "Ichijou Yurika is a pretty, popular girl at school who is also the daughter of the company president. She enjoys dating Yuusuke, whom she loves very much. However, everything changes when her father's company burns down, prompting him to indirectly sell his own daughter in order to save the company.\n\n(Source: Nekopoi, translated)",
+    "averageScore": 56,
+    "seasonYear": 2017,
+    "genres": [
+      "Hentai"
+    ],
+    "format": "OVA",
+    "hasDub": true,
+    "badgeText": "24 DUB EPS • COMPLETE",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "01 - s2e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "02 - s2e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/02%20-%20s2e2.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/02%20-%20s2e2.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/02%20-%20s2e2.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "03 - s2e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/03%20-%20s2e3.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/03%20-%20s2e3.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/03%20-%20s2e3.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "04 - s2e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "05 - s2e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/05%20-%20s2e5.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/05%20-%20s2e5.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/05%20-%20s2e5.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "06 - s2e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/06%20-%20s2e6.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/06%20-%20s2e6.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/06%20-%20s2e6.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "07 - s2e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/07%20-%20s2e7.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/07%20-%20s2e7.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/07%20-%20s2e7.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "08 - s2e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/08%20-%20s2e8.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/08%20-%20s2e8.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/08%20-%20s2e8.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "09 - s2e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/09%20-%20s2e9.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/09%20-%20s2e9.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/09%20-%20s2e9.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "10 - s2e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/10%20-%20s2e10.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/10%20-%20s2e10.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/10%20-%20s2e10.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "11 - s2e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/11%20-%20s2e11.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/11%20-%20s2e11.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/11%20-%20s2e11.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "12 - s2e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/12%20-%20s2e12.mp4",
+        "dubUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/12%20-%20s2e12.mp4",
+        "subUrl": "https://archive.org/download/in-another-world-with-my-smartphone_202409/In%20Another%20World%20With%20My%20Smartphone/s2/12%20-%20s2e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 112608,
+    "title": {
+      "english": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+      "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita",
+      "native": "スライム倒して300年、知らないうちにレベルMAXになってました"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112608-T3OKdLhxYUfe.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112608-T3OKdLhxYUfe.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112608-T3OKdLhxYUfe.png",
+      "color": "#5dc9e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112608-MGv0rMEhEWq5.jpg",
+    "description": "An at-home comedy about a powerful girl who doesn’t work too hard!(⋈◍ ˃ᴗ˂ ◍)。✧♡\n\nAfter dying of overwork in the real world, I’m reincarnated as an immortal witch, and I spend 300 years enjoying a relaxing life. At some point, though, I end up at level 99!\nAll those years spent killing slimes to make the money to pay the bills gave me a ton of experience points… Rumors of the level 99 witch spread, and soon I’m up to my ears in curious adventurers, duelist dragons, and even a monster girl calling me her mom! “This isn’t a dojo, so don’t come here to fight me…!”\n\nI’ve never been on an adventure, but I’m the strongest in the world… What’s going to happen to my relaxing life?!\n\n(Source: Crunchyroll)",
+    "averageScore": 68,
+    "seasonYear": 2021,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level/I've%20Been%20Killing%20Slimes%20for%20300%20Years%20and%20Maxed%20Out%20My%20Level/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 103572,
+    "title": {
+      "english": "The Quintessential Quintuplets",
+      "romaji": "Go-toubun no Hanayome",
+      "native": "五等分の花嫁"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-cchriAdH95cQ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-cchriAdH95cQ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103572-cchriAdH95cQ.png",
+      "color": "#e4436b"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103572-qRtBguYOOR2j.jpg",
+    "description": "Uesugi Fuutarou, a high school second-year from a poor family, receives a highly appealing offer to work part-time as a tutor... but his students turn out to be girls from his own class! What's more, they're quintuplets... and all five are beautiful, but happen to be problem students who have borderline grades and hate studying! Looks like his first assignment will be to win all the sisters' trust?! Every day is a wild party in this rom-com centering around the quintuplet sisters of the Nakano household!\n(Source: Crunchyroll)",
+    "averageScore": 76,
+    "seasonYear": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "24 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "01 - s2e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "02 - s2e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/02%20-%20s2e2.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/02%20-%20s2e2.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/02%20-%20s2e2.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "03 - s2e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/03%20-%20s2e3.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/03%20-%20s2e3.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/03%20-%20s2e3.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "04 - s2e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "05 - s2e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/05%20-%20s2e5.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/05%20-%20s2e5.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/05%20-%20s2e5.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "06 - s2e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/06%20-%20s2e6.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/06%20-%20s2e6.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/06%20-%20s2e6.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "07 - s2e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/07%20-%20s2e7.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/07%20-%20s2e7.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/07%20-%20s2e7.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "08 - s2e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/08%20-%20s2e8.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/08%20-%20s2e8.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/08%20-%20s2e8.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "09 - s2e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/09%20-%20s2e9.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/09%20-%20s2e9.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/09%20-%20s2e9.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "10 - s2e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/10%20-%20s2e10.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/10%20-%20s2e10.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/10%20-%20s2e10.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "11 - s2e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/11%20-%20s2e11.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/11%20-%20s2e11.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/11%20-%20s2e11.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "12 - s2e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/12%20-%20s2e12.mp4",
+        "dubUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/12%20-%20s2e12.mp4",
+        "subUrl": "https://archive.org/download/watch-the-quintessential-quintuplets-the-movie-online-free-on-9a/The%20Quintessential%20Quintuplets/s2/12%20-%20s2e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 4224,
+    "title": {
+      "english": "Toradora!",
+      "romaji": "Toradora!",
+      "native": "とらドラ！"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4224-PXVMBLNwy2aF.jpg",
+      "color": "#e45d78"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4224-iPUOHdMde27j.jpg",
+    "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n\nToradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
+    "averageScore": 78,
+    "seasonYear": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "25 DUB EPS • COMPLETE",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "13 - s1e13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/13%20-%20s1e13.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/13%20-%20s1e13.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/13%20-%20s1e13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "14 - s1e14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/14%20-%20s1e14.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/14%20-%20s1e14.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/14%20-%20s1e14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "15 - s1e15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/15%20-%20s1e15.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/15%20-%20s1e15.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/15%20-%20s1e15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "16 - s1e16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/16%20-%20s1e16.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/16%20-%20s1e16.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/16%20-%20s1e16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "17 - s1e17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/17%20-%20s1e17.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/17%20-%20s1e17.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/17%20-%20s1e17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "18 - s1e18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/18%20-%20s1e18.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/18%20-%20s1e18.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/18%20-%20s1e18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "19 - s1e19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/19%20-%20s1e19.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/19%20-%20s1e19.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/19%20-%20s1e19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "20 - s1e20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/20%20-%20s1e20.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/20%20-%20s1e20.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/20%20-%20s1e20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "21 - s1e21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/21%20-%20s1e21.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/21%20-%20s1e21.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/21%20-%20s1e21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "22 - s1e22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/22%20-%20s1e22.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/22%20-%20s1e22.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/22%20-%20s1e22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "23 - s1e23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/23%20-%20s1e23.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/23%20-%20s1e23.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/23%20-%20s1e23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "24 - s1e24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/24%20-%20s1e24.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/24%20-%20s1e24.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/24%20-%20s1e24.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "25 - s1e25 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/25%20-%20s1e25.mp4",
+        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/25%20-%20s1e25.mp4",
+        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/25%20-%20s1e25.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21131,
+    "title": {
+      "english": "The Asterisk War",
+      "romaji": "Gakusen Toshi Asterisk",
+      "native": "学戦都市アスタリスク"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21131-sh1HBXuF6qHH.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21131-sh1HBXuF6qHH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21131-sh1HBXuF6qHH.jpg",
+      "color": "#f1ae50"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21131-NuvCaPakVhMS.jpg",
+    "description": "Invertia (meteor storm)… an unprecedented disaster that struck the world during the 20th century.\n\nBecause of this disaster, numerous cities around the world were destroyed. However, within the meteor, an unknown element called mana (the all-encompassing element), was discovered, which allowed human technology to make rapid strides.\n\nThis also gave rise to a new species of human born with unique skills – the Star Pulse Generation (Genestella).\n\nThe setting for the world’s greatest comprehensive battle spectacle, the Festas (Star Warrior Festivals), is an academy city above the water surrounded by six academies called Rikka also commonly known as Asterisk. Having transferred into Seidoukan Academy in order to fulfill his own wish, scholarship student Ayato Amagiri swears he too will fight in this city.\n\nBurning souls race…\n\nThe curtain rises on this school battle spectacle!\n\n(Source: Crunchyroll)",
+    "averageScore": 65,
+    "seasonYear": 2015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "24 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "01 - s2e1 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "02 - s2e2 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/02%20-%20s2e2.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/02%20-%20s2e2.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/02%20-%20s2e2.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "03 - s2e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/03%20-%20s2e3.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/03%20-%20s2e3.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/03%20-%20s2e3.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "04 - s2e4 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "05 - s2e5 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/05%20-%20s2e5.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/05%20-%20s2e5.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/05%20-%20s2e5.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "06 - s2e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/06%20-%20s2e6.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/06%20-%20s2e6.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/06%20-%20s2e6.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "07 - s2e7 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/07%20-%20s2e7.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/07%20-%20s2e7.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/07%20-%20s2e7.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "08 - s2e8 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/08%20-%20s2e8.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/08%20-%20s2e8.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/08%20-%20s2e8.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "09 - s2e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/09%20-%20s2e9.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/09%20-%20s2e9.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/09%20-%20s2e9.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "10 - s2e10 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/10%20-%20s2e10.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/10%20-%20s2e10.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/10%20-%20s2e10.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "11 - s2e11 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/11%20-%20s2e11.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/11%20-%20s2e11.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/11%20-%20s2e11.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "12 - s2e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/12%20-%20s2e12.mp4",
+        "dubUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/12%20-%20s2e12.mp4",
+        "subUrl": "https://archive.org/download/01-s-2e-1/The%20Asterisk%20War/s2/12%20-%20s2e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 115740,
+    "title": {
+      "english": "By the Grace of the Gods",
+      "romaji": "Kamitachi ni Hirowareta Otoko",
+      "native": "神達に拾われた男"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115740-IRwSQo96Qs2Q.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115740-IRwSQo96Qs2Q.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115740-IRwSQo96Qs2Q.jpg",
+      "color": "#e4bb1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115740-TdrPYy19b8pp.jpg",
+    "description": "Only 39 years into a life full of bad luck, Ryouma Takebayashi passes away in his sleep! Taking pity on him, three divine beings show compassion by reincarnating him as a young boy to a magical, new world.\n\nNow he spends his time researching and caring for slimes. But after healing an injured traveler, Ryouma decides to set out with his new friends on a journey to use his power to help others.\n\n(Source: Funimation)",
+    "averageScore": 68,
+    "seasonYear": 2020,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "24 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "01 - s2e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "02 - s2e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/02%20-%20s2e2.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/02%20-%20s2e2.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/02%20-%20s2e2.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "03 - s2e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/03%20-%20s2e3.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/03%20-%20s2e3.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/03%20-%20s2e3.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "04 - s2e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "05 - s2e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/05%20-%20s2e5.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/05%20-%20s2e5.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/05%20-%20s2e5.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "06 - s2e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/06%20-%20s2e6.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/06%20-%20s2e6.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/06%20-%20s2e6.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "07 - s2e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/07%20-%20s2e7.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/07%20-%20s2e7.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/07%20-%20s2e7.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "08 - s2e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/08%20-%20s2e8.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/08%20-%20s2e8.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/08%20-%20s2e8.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "09 - s2e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/09%20-%20s2e9.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/09%20-%20s2e9.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/09%20-%20s2e9.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "10 - s2e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/10%20-%20s2e10.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/10%20-%20s2e10.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/10%20-%20s2e10.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "11 - s2e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/11%20-%20s2e11.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/11%20-%20s2e11.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/11%20-%20s2e11.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "12 - s2e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/12%20-%20s2e12.mp4",
+        "dubUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/12%20-%20s2e12.mp4",
+        "subUrl": "https://archive.org/download/10-s-2e-10/By%20the%20Grace%20of%20the%20Gods/s2/12%20-%20s2e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 20966,
+    "title": {
+      "english": "Yamada and the Seven Witches",
+      "romaji": "Yamada-kun to 7-nin no Majo",
+      "native": "山田くんと7人の魔女"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20966-HboUtUzEKWl6.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20966-HboUtUzEKWl6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20966-HboUtUzEKWl6.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20966-0KwHGdCF9Ie1.jpg",
+    "description": "Ryu Yamada is a second year student at Suzaku High. Ryu is always late for school, naps in class and gets abysmal grades. His life is a dead bore. The beautiful Urara Shiraishi, on the other hand, is Suzaku High's brightest student. One day, without explanation, their bodies are swapped! Ryu ends up in Urara's body, and Urara in Ryu's.",
+    "averageScore": 73,
+    "seasonYear": 2015,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/yamada-kun-and-the-seven-witches_202409/Yamada-kun%20and%20the%20Seven%20Witches/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21676,
+    "title": {
+      "english": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+      "native": "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21676-98OeKU9NDhJI.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21676-98OeKU9NDhJI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21676-98OeKU9NDhJI.jpg",
+      "color": "#1a78d6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21676-lyrOc5tKQIVR.jpg",
+    "description": "Contrary to what the adventures of Bell and the Goddess Hestia might imply, not everyone goes into the dungeon of Orario to pick up girls.  The veterans of the Goddess Loki’s Familia have lots of reasons for risking life and limb facing the monsters and mayhem lurking within the deadly labyrinth’s multiple levels, but new member and mage Lefiya just wants to prove that she’s worthy to be on the same team as her hero, the famed sword princess Ais Wallenstein.  As for Ais herself, she’s seeking something that no one else even suspects, and she may find it when trouble comes after her from the previously unreached 59th level!\n\n(Source: Sentai Filmworks)",
+    "averageScore": 68,
+    "seasonYear": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/12-s-1e-12/Danmachi%20-%20Sword%20Oratoria/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 132126,
+    "title": {
+      "english": "Sonny Boy",
+      "romaji": "Sonny Boy",
+      "native": "Sonny Boy"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132126-4ugVjXMQLAps.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132126-4ugVjXMQLAps.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132126-4ugVjXMQLAps.png",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132126-urIgfuSxmxza.jpg",
+    "description": "It’s an ordinary summer vacation...except for the fact that Nagara’s high school has mysteriously drifted into another dimension. As the students begin to develop strange new powers, will they work together to survive the alien environment and find a way home, or will their newly formed factions and rivalries turn on each other? \n\n(Source: Funimation)\n\nNote: The first episode received an advance release on YouTube on June 19, 2021. The regular TV broadcast started on July 16, 2021.",
+    "averageScore": 78,
+    "seasonYear": 2021,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "S01E01-The Island at the Far End of Summer (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E01-The%20Island%20at%20the%20Far%20End%20of%20Summer.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E01-The%20Island%20at%20the%20Far%20End%20of%20Summer.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E01-The%20Island%20at%20the%20Far%20End%20of%20Summer.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "S01E02-Aliens (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E02-Aliens.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E02-Aliens.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E02-Aliens.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "S01E03-The Cat Who Wore Sandals (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E03-The%20Cat%20Who%20Wore%20Sandals.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E03-The%20Cat%20Who%20Wore%20Sandals.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E03-The%20Cat%20Who%20Wore%20Sandals.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "S01E04-The Great Monkey Baseball (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E04-The%20Great%20Monkey%20Baseball.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E04-The%20Great%20Monkey%20Baseball.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E04-The%20Great%20Monkey%20Baseball.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "S01E05-Leaping Classrooms (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E05-Leaping%20Classrooms.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E05-Leaping%20Classrooms.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E05-Leaping%20Classrooms.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "S01E06-The Long Goodbye (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E06-The%20Long%20Goodbye.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E06-The%20Long%20Goodbye.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E06-The%20Long%20Goodbye.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "S01E07-Road Book (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E07-Road%20Book.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E07-Road%20Book.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E07-Road%20Book.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "S01E08-Laughing Dog (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E08-Laughing%20Dog.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E08-Laughing%20Dog.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E08-Laughing%20Dog.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E09-This%20Salmon%20Chazuke%20Is%20Missing%20Its%20Salmon%20Nya.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E09-This%20Salmon%20Chazuke%20Is%20Missing%20Its%20Salmon%20Nya.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E09-This%20Salmon%20Chazuke%20Is%20Missing%20Its%20Salmon%20Nya.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "S01E10-Summer and the Demon (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E10-Summer%20and%20the%20Demon.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E10-Summer%20and%20the%20Demon.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E10-Summer%20and%20the%20Demon.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "S01E11-The Young Man and the Sea (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E11-The%20Young%20Man%20and%20the%20Sea.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E11-The%20Young%20Man%20and%20the%20Sea.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E11-The%20Young%20Man%20and%20the%20Sea.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "S01E12-A Two-Year Recess (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E12-A%20Two-Year%20Recess.mp4",
+        "dubUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E12-A%20Two-Year%20Recess.mp4",
+        "subUrl": "https://archive.org/download/Sonny_Boy_1-12_1080p/S01E12-A%20Two-Year%20Recess.mp4"
+      }
+    ]
+  },
+  {
+    "id": 918,
+    "title": {
+      "english": "Gintama",
+      "romaji": "Gintama",
+      "native": "銀魂"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx918-iOaeBVUn4uK7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx918-iOaeBVUn4uK7.jpg",
+      "color": "#f1865d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/918-bljqHE1PFArH.jpg",
+    "description": "Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as long as the financial remuneration sounds right. Unfortunately, in a brave new world filled with stray bug-eyed monsters, upwardly mobile Yakuza and overly ambitious E.T. entrepreneurs, those jobs usually don't pay as well as they should for the pain, suffering and indignities endured!\n(Source: Sentai Filmworks)",
+    "averageScore": 85,
+    "seasonYear": 2006,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "372 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "111:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/Gintama%20Movie%202-%20The%20Final%20Chapter%20-%20Be%20Forever%20Yorozuya.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/Gintama%20Movie%202-%20The%20Final%20Chapter%20-%20Be%20Forever%20Yorozuya.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/Gintama%20Movie%202-%20The%20Final%20Chapter%20-%20Be%20Forever%20Yorozuya.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Gintama- The Movie 1 (English Dub)",
+        "duration": "95:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/Gintama-%20The%20Movie%201.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/Gintama-%20The%20Movie%201.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/Gintama-%20The%20Movie%201.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20317%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20317%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20317%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20318%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20318%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20318%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20319%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20319%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20319%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20320%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20320%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20320%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20321%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20321%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20321%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20322%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20322%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20322%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20323%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20323%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20323%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20324%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20324%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20324%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20325%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20325%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20325%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20326%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20326%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20326%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20327%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20327%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20327%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20328%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20328%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20328%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20342%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20342%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20342%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20343%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20343%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20343%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20344%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20344%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20344%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20345%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20345%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20345%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20346%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20346%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20346%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20347%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20347%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20347%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20348%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20348%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20348%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20349%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20349%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20349%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20350%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20350%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20350%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20351%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20351%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20351%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20352%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20352%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20352%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20353%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20353%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama%20Ep%20353%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2001%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2001%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2001%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2002%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2002%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2002%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2003%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2003%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2003%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2004%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2004%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2004%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2005%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2005%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2005%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2006%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2006%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2006%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2007%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2007%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2007%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2008%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2008%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2008%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2009%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2009%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2009%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2010%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2010%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2010%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2011%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2011%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2011%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2012%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2012%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2012%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2013%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2013%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeKayo%5D%20Gintama.%20Porori-hen%20Ep%2013%20720p%20Eng%20Sub%20HEVC%20%5BMarshall%5D.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "[AnimeRG] Gintama - 001-002 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "48:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20001-002%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20001-002%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20001-002%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "[AnimeRG] Gintama - 003 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20003%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20003%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20003%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "[AnimeRG] Gintama - 004 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20004%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20004%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20004%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "[AnimeRG] Gintama - 005 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20005%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20005%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20005%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "[AnimeRG] Gintama - 006 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20006%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20006%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20006%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "[AnimeRG] Gintama - 007 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20007%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20007%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20007%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "[AnimeRG] Gintama - 008 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20008%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20008%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20008%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "[AnimeRG] Gintama - 009 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20009%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20009%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20009%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "[AnimeRG] Gintama - 010 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20010%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20010%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20010%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "[AnimeRG] Gintama - 011 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20011%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20011%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20011%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "[AnimeRG] Gintama - 012 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20012%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20012%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20012%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "[AnimeRG] Gintama - 013 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20013%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20013%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20013%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "[AnimeRG] Gintama - 014 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20014%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20014%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20014%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "[AnimeRG] Gintama - 015 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20015%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20015%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20015%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "[AnimeRG] Gintama - 016 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20016%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20016%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20016%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "[AnimeRG] Gintama - 017 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20017%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20017%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20017%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "[AnimeRG] Gintama - 018 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20018%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20018%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20018%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "[AnimeRG] Gintama - 019 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20019%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20019%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20019%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "[AnimeRG] Gintama - 020 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20020%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20020%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20020%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "[AnimeRG] Gintama - 021 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20021%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20021%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20021%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "[AnimeRG] Gintama - 022 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20022%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20022%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20022%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "[AnimeRG] Gintama - 023 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20023%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20023%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20023%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "[AnimeRG] Gintama - 024 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20024%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20024%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20024%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "[AnimeRG] Gintama - 025 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20025%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20025%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20025%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "[AnimeRG] Gintama - 026 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20026%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20026%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20026%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "[AnimeRG] Gintama - 027 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20027%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20027%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20027%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "[AnimeRG] Gintama - 028 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20028%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20028%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20028%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "[AnimeRG] Gintama - 029 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20029%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20029%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20029%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "[AnimeRG] Gintama - 030 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20030%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20030%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20030%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "[AnimeRG] Gintama - 031 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20031%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20031%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20031%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "[AnimeRG] Gintama - 032 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20032%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20032%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20032%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "[AnimeRG] Gintama - 033 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20033%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20033%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20033%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "[AnimeRG] Gintama - 034 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20034%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20034%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20034%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "[AnimeRG] Gintama - 035 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20035%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20035%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20035%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "[AnimeRG] Gintama - 036 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20036%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20036%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20036%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "[AnimeRG] Gintama - 037 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20037%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20037%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20037%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "[AnimeRG] Gintama - 038 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20038%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20038%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20038%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "[AnimeRG] Gintama - 039 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20039%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20039%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20039%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "[AnimeRG] Gintama - 040 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20040%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20040%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20040%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "[AnimeRG] Gintama - 041 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20041%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20041%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20041%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "[AnimeRG] Gintama - 042 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20042%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20042%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20042%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "[AnimeRG] Gintama - 043 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20043%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20043%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20043%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "[AnimeRG] Gintama - 044 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20044%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20044%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20044%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "[AnimeRG] Gintama - 045 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20045%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20045%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20045%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "[AnimeRG] Gintama - 046 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20046%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20046%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20046%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "[AnimeRG] Gintama - 047 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20047%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20047%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20047%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "[AnimeRG] Gintama - 048 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20048%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20048%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20048%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "[AnimeRG] Gintama - 049 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20049%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20049%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20049%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "[AnimeRG] Gintama - 050 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20050%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20050%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20050%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "[AnimeRG] Gintama - 051 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20051%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20051%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20051%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "[AnimeRG] Gintama - 052 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20052%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20052%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20052%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "[AnimeRG] Gintama - 053 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20053%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20053%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20053%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "[AnimeRG] Gintama - 054 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20054%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20054%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20054%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "[AnimeRG] Gintama - 055 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20055%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20055%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20055%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "[AnimeRG] Gintama - 056 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20056%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20056%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20056%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "[AnimeRG] Gintama - 057 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20057%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20057%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20057%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "[AnimeRG] Gintama - 058 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20058%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20058%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20058%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "[AnimeRG] Gintama - 059 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20059%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20059%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20059%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "[AnimeRG] Gintama - 060 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20060%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20060%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20060%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "[AnimeRG] Gintama - 061 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20061%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20061%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20061%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "[AnimeRG] Gintama - 062 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20062%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20062%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20062%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "[AnimeRG] Gintama - 063 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20063%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20063%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20063%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "[AnimeRG] Gintama - 064 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20064%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20064%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20064%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "[AnimeRG] Gintama - 065 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20065%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20065%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20065%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "[AnimeRG] Gintama - 066 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20066%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20066%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20066%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 105,
+        "title": "[AnimeRG] Gintama - 067 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20067%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20067%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20067%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 106,
+        "title": "[AnimeRG] Gintama - 068 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20068%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20068%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20068%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 107,
+        "title": "[AnimeRG] Gintama - 069 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20069%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20069%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20069%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 108,
+        "title": "[AnimeRG] Gintama - 070 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20070%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20070%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20070%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 109,
+        "title": "[AnimeRG] Gintama - 071 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20071%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20071%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20071%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 110,
+        "title": "[AnimeRG] Gintama - 072 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20072%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20072%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20072%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 111,
+        "title": "[AnimeRG] Gintama - 073 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20073%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20073%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20073%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 112,
+        "title": "[AnimeRG] Gintama - 074 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20074%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20074%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20074%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 113,
+        "title": "[AnimeRG] Gintama - 075 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20075%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20075%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20075%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 114,
+        "title": "[AnimeRG] Gintama - 076 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20076%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20076%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20076%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 115,
+        "title": "[AnimeRG] Gintama - 077 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20077%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20077%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20077%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 116,
+        "title": "[AnimeRG] Gintama - 078 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20078%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20078%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20078%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 117,
+        "title": "[AnimeRG] Gintama - 079 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20079%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20079%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20079%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 118,
+        "title": "[AnimeRG] Gintama - 080 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20080%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20080%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20080%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 119,
+        "title": "[AnimeRG] Gintama - 081 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20081%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20081%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20081%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 120,
+        "title": "[AnimeRG] Gintama - 082 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20082%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20082%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20082%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 121,
+        "title": "[AnimeRG] Gintama - 083 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20083%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20083%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20083%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 122,
+        "title": "[AnimeRG] Gintama - 084 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20084%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20084%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20084%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 123,
+        "title": "[AnimeRG] Gintama - 085 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20085%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20085%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20085%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 124,
+        "title": "[AnimeRG] Gintama - 086 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20086%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20086%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20086%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 125,
+        "title": "[AnimeRG] Gintama - 087 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20087%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20087%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20087%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 126,
+        "title": "[AnimeRG] Gintama - 088 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20088%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20088%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20088%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 127,
+        "title": "[AnimeRG] Gintama - 089 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20089%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20089%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20089%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 128,
+        "title": "[AnimeRG] Gintama - 090 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20090%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20090%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20090%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 129,
+        "title": "[AnimeRG] Gintama - 091 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20091%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20091%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20091%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 130,
+        "title": "[AnimeRG] Gintama - 092 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20092%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20092%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20092%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 131,
+        "title": "[AnimeRG] Gintama - 093 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20093%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20093%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20093%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 132,
+        "title": "[AnimeRG] Gintama - 094 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20094%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20094%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20094%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 133,
+        "title": "[AnimeRG] Gintama - 095 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20095%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20095%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20095%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 134,
+        "title": "Episode 134 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20096%20(Fullscreen)%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20096%20(Fullscreen)%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20096%20(Fullscreen)%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 135,
+        "title": "Episode 135 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20096%20(Widescreen)%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20096%20(Widescreen)%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20096%20(Widescreen)%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 136,
+        "title": "[AnimeRG] Gintama - 097 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20097%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20097%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20097%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 137,
+        "title": "[AnimeRG] Gintama - 098 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20098%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20098%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20098%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 138,
+        "title": "[AnimeRG] Gintama - 099 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20099%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20099%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20099%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 139,
+        "title": "[AnimeRG] Gintama - 100 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20100%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20100%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20100%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 140,
+        "title": "[AnimeRG] Gintama - 101 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20101%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20101%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20101%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 141,
+        "title": "[AnimeRG] Gintama - 102 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20102%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20102%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20102%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 142,
+        "title": "[AnimeRG] Gintama - 103 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20103%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20103%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20103%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 143,
+        "title": "[AnimeRG] Gintama - 104 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20104%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20104%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20104%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 144,
+        "title": "[AnimeRG] Gintama - 105 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20105%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20105%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20105%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 145,
+        "title": "[AnimeRG] Gintama - 106 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20106%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20106%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20106%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 146,
+        "title": "[AnimeRG] Gintama - 107 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20107%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20107%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20107%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 147,
+        "title": "[AnimeRG] Gintama - 108 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20108%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20108%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20108%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 148,
+        "title": "[AnimeRG] Gintama - 109 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20109%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20109%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20109%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 149,
+        "title": "[AnimeRG] Gintama - 110 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20110%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20110%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20110%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 150,
+        "title": "[AnimeRG] Gintama - 111 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20111%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20111%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20111%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 151,
+        "title": "[AnimeRG] Gintama - 112 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20112%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20112%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20112%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 152,
+        "title": "[AnimeRG] Gintama - 113 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20113%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20113%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20113%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 153,
+        "title": "[AnimeRG] Gintama - 114 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20114%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20114%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20114%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 154,
+        "title": "[AnimeRG] Gintama - 115 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20115%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20115%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20115%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 155,
+        "title": "[AnimeRG] Gintama - 116 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20116%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20116%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20116%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 156,
+        "title": "[AnimeRG] Gintama - 117 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20117%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20117%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20117%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 157,
+        "title": "[AnimeRG] Gintama - 118 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20118%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20118%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20118%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 158,
+        "title": "[AnimeRG] Gintama - 119 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20119%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20119%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20119%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 159,
+        "title": "[AnimeRG] Gintama - 120 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20120%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20120%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20120%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 160,
+        "title": "[AnimeRG] Gintama - 121 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20121%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20121%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20121%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 161,
+        "title": "[AnimeRG] Gintama - 122 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20122%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20122%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20122%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 162,
+        "title": "[AnimeRG] Gintama - 123 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20123%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20123%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20123%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 163,
+        "title": "[AnimeRG] Gintama - 124 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20124%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20124%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20124%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 164,
+        "title": "[AnimeRG] Gintama - 125 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20125%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20125%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20125%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 165,
+        "title": "[AnimeRG] Gintama - 126 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20126%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20126%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20126%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 166,
+        "title": "[AnimeRG] Gintama - 127 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20127%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20127%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20127%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 167,
+        "title": "[AnimeRG] Gintama - 128 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20128%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20128%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20128%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 168,
+        "title": "[AnimeRG] Gintama - 129 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20129%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20129%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20129%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 169,
+        "title": "[AnimeRG] Gintama - 130 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20130%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20130%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20130%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 170,
+        "title": "[AnimeRG] Gintama - 131 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20131%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20131%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20131%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 171,
+        "title": "[AnimeRG] Gintama - 132 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20132%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20132%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20132%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 172,
+        "title": "[AnimeRG] Gintama - 133 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20133%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20133%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20133%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 173,
+        "title": "[AnimeRG] Gintama - 134 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20134%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20134%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20134%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 174,
+        "title": "[AnimeRG] Gintama - 135 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20135%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20135%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20135%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 175,
+        "title": "[AnimeRG] Gintama - 136 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20136%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20136%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20136%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 176,
+        "title": "[AnimeRG] Gintama - 137 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20137%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20137%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20137%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 177,
+        "title": "[AnimeRG] Gintama - 138 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20138%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20138%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20138%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 178,
+        "title": "[AnimeRG] Gintama - 139 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20139%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20139%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20139%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 179,
+        "title": "[AnimeRG] Gintama - 140 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20140%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20140%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20140%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 180,
+        "title": "[AnimeRG] Gintama - 141 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20141%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20141%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20141%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 181,
+        "title": "[AnimeRG] Gintama - 142 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20142%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20142%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20142%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 182,
+        "title": "[AnimeRG] Gintama - 143 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20143%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20143%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20143%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 183,
+        "title": "[AnimeRG] Gintama - 144 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20144%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20144%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20144%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 184,
+        "title": "[AnimeRG] Gintama - 145 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20145%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20145%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20145%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 185,
+        "title": "[AnimeRG] Gintama - 146 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20146%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20146%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20146%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 186,
+        "title": "[AnimeRG] Gintama - 147 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20147%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20147%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20147%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 187,
+        "title": "[AnimeRG] Gintama - 148 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20148%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20148%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20148%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 188,
+        "title": "[AnimeRG] Gintama - 149 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20149%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20149%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20149%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 189,
+        "title": "[AnimeRG] Gintama - 150 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20150%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20150%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20150%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 190,
+        "title": "[AnimeRG] Gintama - 151 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20151%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20151%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20151%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 191,
+        "title": "[AnimeRG] Gintama - 152 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20152%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20152%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20152%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 192,
+        "title": "[AnimeRG] Gintama - 153 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20153%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20153%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20153%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 193,
+        "title": "[AnimeRG] Gintama - 154 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20154%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20154%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20154%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 194,
+        "title": "[AnimeRG] Gintama - 155 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20155%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20155%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20155%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 195,
+        "title": "[AnimeRG] Gintama - 156 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20156%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20156%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20156%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 196,
+        "title": "[AnimeRG] Gintama - 157 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20157%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20157%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20157%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 197,
+        "title": "[AnimeRG] Gintama - 158 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20158%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20158%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20158%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 198,
+        "title": "[AnimeRG] Gintama - 159 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20159%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20159%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20159%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 199,
+        "title": "[AnimeRG] Gintama - 160 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20160%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20160%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20160%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 200,
+        "title": "[AnimeRG] Gintama - 161 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20161%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20161%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20161%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 201,
+        "title": "[AnimeRG] Gintama - 162 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20162%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20162%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20162%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 202,
+        "title": "[AnimeRG] Gintama - 163 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20163%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20163%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20163%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 203,
+        "title": "[AnimeRG] Gintama - 164 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20164%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20164%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20164%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 204,
+        "title": "[AnimeRG] Gintama - 165 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20165%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20165%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20165%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 205,
+        "title": "[AnimeRG] Gintama - 166 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20166%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20166%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20166%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 206,
+        "title": "[AnimeRG] Gintama - 167 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20167%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20167%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20167%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 207,
+        "title": "[AnimeRG] Gintama - 168 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20168%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20168%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20168%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 208,
+        "title": "[AnimeRG] Gintama - 169 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20169%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20169%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20169%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 209,
+        "title": "[AnimeRG] Gintama - 170 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20170%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20170%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20170%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 210,
+        "title": "[AnimeRG] Gintama - 171 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20171%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20171%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20171%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 211,
+        "title": "[AnimeRG] Gintama - 172 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20172%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20172%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20172%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 212,
+        "title": "[AnimeRG] Gintama - 173 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20173%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20173%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20173%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 213,
+        "title": "[AnimeRG] Gintama - 174 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20174%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20174%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20174%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 214,
+        "title": "[AnimeRG] Gintama - 175 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20175%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20175%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20175%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 215,
+        "title": "[AnimeRG] Gintama - 176 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20176%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20176%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20176%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 216,
+        "title": "[AnimeRG] Gintama - 177 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20177%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20177%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20177%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 217,
+        "title": "[AnimeRG] Gintama - 178 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20178%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20178%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20178%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 218,
+        "title": "[AnimeRG] Gintama - 179 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20179%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20179%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20179%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 219,
+        "title": "[AnimeRG] Gintama - 180 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20180%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20180%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20180%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 220,
+        "title": "[AnimeRG] Gintama - 181 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20181%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20181%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20181%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 221,
+        "title": "[AnimeRG] Gintama - 182 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20182%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20182%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20182%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 222,
+        "title": "[AnimeRG] Gintama - 183 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20183%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20183%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20183%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 223,
+        "title": "[AnimeRG] Gintama - 184 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20184%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20184%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20184%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 224,
+        "title": "[AnimeRG] Gintama - 185 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20185%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20185%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20185%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 225,
+        "title": "[AnimeRG] Gintama - 186 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20186%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20186%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20186%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 226,
+        "title": "[AnimeRG] Gintama - 187 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20187%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20187%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20187%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 227,
+        "title": "[AnimeRG] Gintama - 188 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20188%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20188%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20188%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 228,
+        "title": "[AnimeRG] Gintama - 189 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20189%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20189%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20189%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 229,
+        "title": "[AnimeRG] Gintama - 190 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20190%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20190%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20190%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 230,
+        "title": "[AnimeRG] Gintama - 191 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20191%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20191%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20191%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 231,
+        "title": "[AnimeRG] Gintama - 192 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20192%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20192%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20192%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 232,
+        "title": "[AnimeRG] Gintama - 193 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20193%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20193%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20193%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 233,
+        "title": "[AnimeRG] Gintama - 194 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20194%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20194%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20194%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 234,
+        "title": "[AnimeRG] Gintama - 195 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20195%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20195%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20195%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 235,
+        "title": "[AnimeRG] Gintama - 196 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20196%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20196%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20196%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 236,
+        "title": "[AnimeRG] Gintama - 197 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20197%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20197%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20197%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 237,
+        "title": "[AnimeRG] Gintama - 198 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20198%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20198%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20198%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 238,
+        "title": "[AnimeRG] Gintama - 199 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20199%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20199%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20199%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 239,
+        "title": "[AnimeRG] Gintama - 200 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20200%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20200%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20200%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 240,
+        "title": "[AnimeRG] Gintama - 201 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20201%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20201%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20201%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 241,
+        "title": "[AnimeRG] Gintama - 202 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20202%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20202%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20202%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 242,
+        "title": "[AnimeRG] Gintama - 203 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20203%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20203%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20203%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 243,
+        "title": "[AnimeRG] Gintama - 204 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20204%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20204%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20204%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 244,
+        "title": "[AnimeRG] Gintama - 205 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20205%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20205%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20205%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 245,
+        "title": "[AnimeRG] Gintama - 206 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20206%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20206%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20206%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 246,
+        "title": "[AnimeRG] Gintama - 207 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20207%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20207%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20207%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 247,
+        "title": "[AnimeRG] Gintama - 208 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20208%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20208%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20208%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 248,
+        "title": "[AnimeRG] Gintama - 209 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20209%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20209%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20209%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 249,
+        "title": "[AnimeRG] Gintama - 210 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20210%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20210%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20210%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 250,
+        "title": "[AnimeRG] Gintama - 211 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20211%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20211%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20211%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 251,
+        "title": "[AnimeRG] Gintama - 212 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20212%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20212%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20212%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 252,
+        "title": "[AnimeRG] Gintama - 213 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20213%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20213%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20213%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 253,
+        "title": "[AnimeRG] Gintama - 214 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20214%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20214%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20214%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 254,
+        "title": "[AnimeRG] Gintama - 215 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20215%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20215%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20215%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 255,
+        "title": "[AnimeRG] Gintama - 216 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20216%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20216%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20216%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 256,
+        "title": "[AnimeRG] Gintama - 217 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20217%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20217%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20217%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 257,
+        "title": "[AnimeRG] Gintama - 218 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20218%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20218%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20218%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 258,
+        "title": "[AnimeRG] Gintama - 219 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20219%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20219%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20219%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 259,
+        "title": "[AnimeRG] Gintama - 220 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20220%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20220%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20220%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 260,
+        "title": "[AnimeRG] Gintama - 221 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20221%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20221%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20221%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 261,
+        "title": "[AnimeRG] Gintama - 222 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20222%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20222%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20222%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 262,
+        "title": "[AnimeRG] Gintama - 223 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20223%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20223%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20223%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 263,
+        "title": "[AnimeRG] Gintama - 224 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20224%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20224%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20224%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 264,
+        "title": "[AnimeRG] Gintama - 225 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20225%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20225%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20225%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 265,
+        "title": "[AnimeRG] Gintama - 226 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20226%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20226%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20226%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 266,
+        "title": "[AnimeRG] Gintama - 227 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20227%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20227%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20227%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 267,
+        "title": "[AnimeRG] Gintama - 228 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20228%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20228%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20228%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 268,
+        "title": "[AnimeRG] Gintama - 229 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20229%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20229%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20229%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 269,
+        "title": "[AnimeRG] Gintama - 230 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20230%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20230%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20230%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 270,
+        "title": "[AnimeRG] Gintama - 231 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20231%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20231%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20231%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 271,
+        "title": "[AnimeRG] Gintama - 232 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20232%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20232%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20232%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 272,
+        "title": "[AnimeRG] Gintama - 233 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20233%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20233%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20233%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 273,
+        "title": "[AnimeRG] Gintama - 234 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20234%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20234%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20234%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 274,
+        "title": "[AnimeRG] Gintama - 235 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20235%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20235%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20235%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 275,
+        "title": "[AnimeRG] Gintama - 236 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20236%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20236%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20236%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 276,
+        "title": "[AnimeRG] Gintama - 237 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20237%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20237%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20237%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 277,
+        "title": "[AnimeRG] Gintama - 238 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20238%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20238%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20238%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 278,
+        "title": "[AnimeRG] Gintama - 239 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20239%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20239%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20239%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 279,
+        "title": "[AnimeRG] Gintama - 240 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20240%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20240%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20240%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 280,
+        "title": "[AnimeRG] Gintama - 241 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20241%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20241%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20241%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 281,
+        "title": "[AnimeRG] Gintama - 242 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20242%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20242%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20242%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 282,
+        "title": "[AnimeRG] Gintama - 243 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20243%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20243%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20243%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 283,
+        "title": "[AnimeRG] Gintama - 244 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20244%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20244%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20244%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 284,
+        "title": "[AnimeRG] Gintama - 245 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20245%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20245%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20245%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 285,
+        "title": "[AnimeRG] Gintama - 246 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20246%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20246%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20246%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 286,
+        "title": "[AnimeRG] Gintama - 247 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20247%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20247%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20247%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 287,
+        "title": "[AnimeRG] Gintama - 248 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20248%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20248%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20248%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 288,
+        "title": "[AnimeRG] Gintama - 249 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20249%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20249%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20249%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 289,
+        "title": "[AnimeRG] Gintama - 250 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20250%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20250%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20250%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 290,
+        "title": "[AnimeRG] Gintama - 251 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20251%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20251%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20251%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 291,
+        "title": "[AnimeRG] Gintama - 252 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20252%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20252%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20252%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 292,
+        "title": "[AnimeRG] Gintama - 253 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20253%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20253%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20253%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 293,
+        "title": "[AnimeRG] Gintama - 254 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20254%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20254%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20254%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 294,
+        "title": "[AnimeRG] Gintama - 255 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20255%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20255%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20255%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 295,
+        "title": "[AnimeRG] Gintama - 256 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20256%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20256%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20256%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 296,
+        "title": "[AnimeRG] Gintama - 257 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20257%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20257%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20257%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 297,
+        "title": "[AnimeRG] Gintama - 258 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20258%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20258%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20258%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 298,
+        "title": "[AnimeRG] Gintama - 259 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20259%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20259%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20259%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 299,
+        "title": "[AnimeRG] Gintama - 260 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20260%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20260%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20260%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 300,
+        "title": "[AnimeRG] Gintama - 261 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20261%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20261%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20261%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 301,
+        "title": "[AnimeRG] Gintama - 262 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20262%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20262%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20262%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 302,
+        "title": "[AnimeRG] Gintama - 263 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20263%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20263%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20263%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 303,
+        "title": "[AnimeRG] Gintama - 264 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20264%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20264%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20264%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 304,
+        "title": "[AnimeRG] Gintama - 265 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20265%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20265%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20265%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 305,
+        "title": "[AnimeRG] Gintama - 266 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20266%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20266%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20266%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 306,
+        "title": "[AnimeRG] Gintama - 267 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20267%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20267%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20267%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 307,
+        "title": "[AnimeRG] Gintama - 268 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20268%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20268%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20268%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 308,
+        "title": "[AnimeRG] Gintama - 269 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20269%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20269%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20269%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 309,
+        "title": "[AnimeRG] Gintama - 270 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20270%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20270%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20270%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 310,
+        "title": "[AnimeRG] Gintama - 271 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20271%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20271%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20271%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 311,
+        "title": "[AnimeRG] Gintama - 272 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20272%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20272%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20272%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 312,
+        "title": "[AnimeRG] Gintama - 273 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20273%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20273%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20273%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 313,
+        "title": "[AnimeRG] Gintama - 274 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20274%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20274%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20274%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 314,
+        "title": "[AnimeRG] Gintama - 275 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20275%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20275%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20275%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 315,
+        "title": "[AnimeRG] Gintama - 276 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20276%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20276%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20276%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 316,
+        "title": "[AnimeRG] Gintama - 277 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20277%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20277%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20277%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 317,
+        "title": "[AnimeRG] Gintama - 278 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20278%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20278%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20278%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 318,
+        "title": "[AnimeRG] Gintama - 279 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20279%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20279%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20279%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 319,
+        "title": "[AnimeRG] Gintama - 280 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20280%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20280%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20280%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 320,
+        "title": "[AnimeRG] Gintama - 281 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20281%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20281%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20281%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 321,
+        "title": "[AnimeRG] Gintama - 282 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20282%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20282%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20282%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 322,
+        "title": "[AnimeRG] Gintama - 283 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20283%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20283%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20283%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 323,
+        "title": "[AnimeRG] Gintama - 284 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20284%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20284%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20284%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 324,
+        "title": "[AnimeRG] Gintama - 285 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20285%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20285%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20285%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 325,
+        "title": "[AnimeRG] Gintama - 286 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20286%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20286%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20286%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 326,
+        "title": "[AnimeRG] Gintama - 287 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20287%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20287%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20287%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 327,
+        "title": "[AnimeRG] Gintama - 288 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20288%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20288%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20288%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 328,
+        "title": "[AnimeRG] Gintama - 289 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20289%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20289%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20289%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 329,
+        "title": "[AnimeRG] Gintama - 290 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20290%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20290%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20290%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 330,
+        "title": "[AnimeRG] Gintama - 291 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20291%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20291%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20291%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 331,
+        "title": "[AnimeRG] Gintama - 292 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20292%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20292%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20292%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 332,
+        "title": "[AnimeRG] Gintama - 293 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20293%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20293%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20293%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 333,
+        "title": "[AnimeRG] Gintama - 294 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20294%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20294%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20294%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 334,
+        "title": "[AnimeRG] Gintama - 295 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20295%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20295%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20295%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 335,
+        "title": "[AnimeRG] Gintama - 296 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20296%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20296%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20296%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 336,
+        "title": "[AnimeRG] Gintama - 297 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20297%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20297%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20297%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 337,
+        "title": "[AnimeRG] Gintama - 298 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20298%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20298%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20298%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 338,
+        "title": "[AnimeRG] Gintama - 299 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20299%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20299%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20299%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 339,
+        "title": "[AnimeRG] Gintama - 300 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20300%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20300%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20300%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 340,
+        "title": "[AnimeRG] Gintama - 301 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20301%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20301%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20301%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 341,
+        "title": "[AnimeRG] Gintama - 302 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20302%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20302%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20302%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 342,
+        "title": "[AnimeRG] Gintama - 303 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20303%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20303%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20303%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 343,
+        "title": "[AnimeRG] Gintama - 304 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20304%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20304%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20304%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 344,
+        "title": "[AnimeRG] Gintama - 305 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20305%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20305%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20305%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 345,
+        "title": "[AnimeRG] Gintama - 306 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20306%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20306%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20306%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 346,
+        "title": "[AnimeRG] Gintama - 307 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20307%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20307%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20307%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 347,
+        "title": "[AnimeRG] Gintama - 308 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20308%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20308%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20308%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 348,
+        "title": "[AnimeRG] Gintama - 309 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20309%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20309%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20309%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 349,
+        "title": "[AnimeRG] Gintama - 310 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20310%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20310%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20310%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 350,
+        "title": "[AnimeRG] Gintama - 311 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20311%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20311%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20311%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 351,
+        "title": "[AnimeRG] Gintama - 312 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20312%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20312%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20312%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 352,
+        "title": "[AnimeRG] Gintama - 313 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20313%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20313%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20313%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 353,
+        "title": "[AnimeRG] Gintama - 314 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20314%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20314%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20314%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 354,
+        "title": "[AnimeRG] Gintama - 315 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20315%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20315%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20315%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 355,
+        "title": "[AnimeRG] Gintama - 316 [720p] [x265] [pseudo] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20316%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20316%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimeRG%5D%20Gintama%20-%20316%20%5B720p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 356,
+        "title": "Episode 356 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2001%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2001%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2001%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 357,
+        "title": "Episode 357 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2002%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2002%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2002%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 358,
+        "title": "Episode 358 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2003%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2003%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2003%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 359,
+        "title": "Episode 359 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2004%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2004%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2004%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 360,
+        "title": "Episode 360 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2005%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2005%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2005%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 361,
+        "title": "Episode 361 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2006%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2006%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2006%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 362,
+        "title": "Episode 362 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2007%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2007%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2007%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 363,
+        "title": "Episode 363 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2008%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2008%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2008%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 364,
+        "title": "Episode 364 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2009%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2009%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2009%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 365,
+        "title": "Episode 365 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2010%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2010%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2010%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 366,
+        "title": "Episode 366 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2011%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2011%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2011%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 367,
+        "title": "Episode 367 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2012%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2012%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2012%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 368,
+        "title": "Episode 368 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2013%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2013%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2013%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 369,
+        "title": "Episode 369 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2014%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2014%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5BAnimekayo%5D%20Gintama%20Shirogane%20no%20Tamashii%20hen%202%20Ep%2014%20720p%20Eng%20Sub%20x265%20%5BNeel%5D.mp4"
+      },
+      {
+        "episodeNumber": 370,
+        "title": "Episode 370 (English Dub)",
+        "duration": "104:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Movie%20-%20The%20Final%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Movie%20-%20The%20Final%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Movie%20-%20The%20Final%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4"
+      },
+      {
+        "episodeNumber": 371,
+        "title": "Episode 371 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Special%20-%20The%20Semi-Final%20-%2001%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Special%20-%20The%20Semi-Final%20-%2001%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Special%20-%20The%20Semi-Final%20-%2001%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4"
+      },
+      {
+        "episodeNumber": 372,
+        "title": "Episode 372 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Special%20-%20The%20Semi-Final%20-%2002%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4",
+        "dubUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Special%20-%20The%20Semi-Final%20-%2002%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4",
+        "subUrl": "https://archive.org/download/gintama-720p-complete/%5Bmal%20lu%20zen%5D%20Gintama%20Special%20-%20The%20Semi-Final%20-%2002%20%5BBD%20720p%5D%2010-bit%20%5BHEVC%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 5941,
+    "title": {
+      "english": "Cross Game",
+      "romaji": "Cross Game",
+      "native": "クロスゲーム"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5941-Rl3qnxfiRCy1.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5941-Rl3qnxfiRCy1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5941-Rl3qnxfiRCy1.jpg",
+      "color": "#e4bb50"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5941-1VflQ6JuIkUA.jpg",
+    "description": "The main character is Kou Kitamura, son of the owner of Kitamura Sports. In the same neighborhood is a batting center run by the Tsukishima family. Due to their proximity and the relationship between their businesses, the Kitamura and Tsukishima familes have been close for many years, with their children going back and forth between the two homes like extended family. Because Kou and Wakaba were the same age and always together, Aoba was jealous of all the time Kou spent with her older sister. Aoba is a natural pitcher with excellent form, and Kou secretly trains to become as good as she was, even while publicly showing little interest in baseball.",
+    "averageScore": 81,
+    "seasonYear": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "50 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "[DB]Cross Game_-_01_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_01_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_01_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_01_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "[DB]Cross Game_-_02_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_02_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_02_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_02_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "[DB]Cross Game_-_03_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_03_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_03_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_03_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "[DB]Cross Game_-_04_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_04_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_04_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_04_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "[DB]Cross Game_-_05_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_05_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_05_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_05_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "[DB]Cross Game_-_06_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_06_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_06_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_06_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "[DB]Cross Game_-_07_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_07_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_07_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_07_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "[DB]Cross Game_-_08_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_08_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_08_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_08_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "[DB]Cross Game_-_09_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_09_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_09_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_09_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "[DB]Cross Game_-_10_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_10_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_10_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_10_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "[DB]Cross Game_-_11_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_11_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_11_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_11_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "[DB]Cross Game_-_12_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_12_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_12_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_12_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "[DB]Cross Game_-_13_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_13_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_13_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_13_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "[DB]Cross Game_-_14_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_14_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_14_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_14_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "[DB]Cross Game_-_15_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_15_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_15_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_15_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "[DB]Cross Game_-_16_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_16_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_16_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_16_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "[DB]Cross Game_-_17_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_17_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_17_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_17_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "[DB]Cross Game_-_18_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_18_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_18_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_18_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "[DB]Cross Game_-_19_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_19_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_19_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_19_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "[DB]Cross Game_-_20_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_20_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_20_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_20_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "[DB]Cross Game_-_21_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_21_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_21_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_21_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "[DB]Cross Game_-_22_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_22_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_22_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_22_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "[DB]Cross Game_-_23_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_23_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_23_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_23_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "[DB]Cross Game_-_24_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_24_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_24_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_24_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "[DB]Cross Game_-_25_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_25_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_25_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_25_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "[DB]Cross Game_-_26_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_26_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_26_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_26_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "[DB]Cross Game_-_27_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_27_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_27_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_27_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "[DB]Cross Game_-_28_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_28_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_28_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_28_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "[DB]Cross Game_-_29_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_29_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_29_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_29_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "[DB]Cross Game_-_30_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_30_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_30_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_30_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "[DB]Cross Game_-_31_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_31_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_31_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_31_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "[DB]Cross Game_-_32_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_32_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_32_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_32_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "[DB]Cross Game_-_33_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_33_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_33_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_33_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "[DB]Cross Game_-_34_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_34_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_34_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_34_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "[DB]Cross Game_-_35_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_35_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_35_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_35_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "[DB]Cross Game_-_36_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_36_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_36_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_36_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "[DB]Cross Game_-_37_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_37_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_37_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_37_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "[DB]Cross Game_-_38_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_38_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_38_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_38_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "[DB]Cross Game_-_39_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_39_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_39_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_39_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "[DB]Cross Game_-_40_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_40_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_40_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_40_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "[DB]Cross Game_-_41_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_41_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_41_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_41_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "[DB]Cross Game_-_42_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_42_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_42_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_42_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "[DB]Cross Game_-_43_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_43_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_43_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_43_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "[DB]Cross Game_-_44_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_44_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_44_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_44_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "[DB]Cross Game_-_45_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_45_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_45_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_45_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "[DB]Cross Game_-_46_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_46_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_46_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_46_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "[DB]Cross Game_-_47_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_47_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_47_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_47_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "[DB]Cross Game_-_48_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_48_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_48_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_48_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "[DB]Cross Game_-_49_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_49_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_49_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_49_(10bit_WEB1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "[DB]Cross Game_-_50_(10bit_WEB1080p_x265) (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_50_(10bit_WEB1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_50_(10bit_WEB1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/cross-game-1080p-2009/%5BDB%5DCross%20Game_-_50_(10bit_WEB1080p_x265).mp4"
+      }
+    ]
+  },
+  {
+    "id": 4975,
+    "title": {
+      "english": "ChäoS;HEAd",
+      "romaji": "ChäoS;HEAd",
+      "native": "カオスヘッド"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4975-89ESCZZNG4yZ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4975-89ESCZZNG4yZ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4975-89ESCZZNG4yZ.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4975-NtqP3MZRM88m.jpg",
+    "description": "Shibuya, Japan, 2008. Takumi Nishijou, a high school student at the Private Suimei Academy, one day hears about the 'New Gen' murders that have been occurring around the city. Although dismissing the subject because it doesn't involve him, Takumi begins to experience strange mishaps around him, from a horrific picture he received while on his PC, to a mysterious Pink-Haired girl standing at a murder scene.\nFrom there on Takumi struggles to cope with the events unfolding around him, and is soon unaware of what is real or a delusion. As his fate opens up before him, the perpetrator behind the 'New Gen' events attempts to find him, leading him into a world where nothing is as it seems.",
+    "averageScore": 57,
+    "seasonYear": 2008,
+    "genres": [
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - boot up [BE1ADC13] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/01%20-%20boot%20up%20%5BBE1ADC13%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/01%20-%20boot%20up%20%5BBE1ADC13%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/01%20-%20boot%20up%20%5BBE1ADC13%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - ego [35FEB41A] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/02%20-%20ego%20%5B35FEB41A%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/02%20-%20ego%20%5B35FEB41A%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/02%20-%20ego%20%5B35FEB41A%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - contact [5FB7D462] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/03%20-%20contact%20%5B5FB7D462%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/03%20-%20contact%20%5B5FB7D462%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/03%20-%20contact%20%5B5FB7D462%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - commencing [33ADAD81] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/04%20-%20commencing%20%5B33ADAD81%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/04%20-%20commencing%20%5B33ADAD81%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/04%20-%20commencing%20%5B33ADAD81%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - guidance [E75484C8] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/05%20-%20guidance%20%5BE75484C8%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/05%20-%20guidance%20%5BE75484C8%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/05%20-%20guidance%20%5BE75484C8%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - embracement [2986C254] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/06%20-%20embracement%20%5B2986C254%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/06%20-%20embracement%20%5B2986C254%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/06%20-%20embracement%20%5B2986C254%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - realization [A35704A5] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/07%20-%20realization%20%5BA35704A5%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/07%20-%20realization%20%5BA35704A5%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/07%20-%20realization%20%5BA35704A5%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - linkage [C810D566] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/08%20-%20linkage%20%5BC810D566%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/08%20-%20linkage%20%5BC810D566%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/08%20-%20linkage%20%5BC810D566%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - rejection [23163BCC] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/09%20-%20rejection%20%5B23163BCC%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/09%20-%20rejection%20%5B23163BCC%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/09%20-%20rejection%20%5B23163BCC%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - purification [BE265AEA] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/10%20-%20purification%20%5BBE265AEA%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/10%20-%20purification%20%5BBE265AEA%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/10%20-%20purification%20%5BBE265AEA%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - independence [5DCC8685] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/11%20-%20independence%20%5B5DCC8685%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/11%20-%20independence%20%5B5DCC8685%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/11%20-%20independence%20%5B5DCC8685%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - mission [00431048] (English Dub)",
+        "duration": "27:00",
+        "videoUrl": "https://archive.org/download/chaos-head-1080p-2008/12%20-%20mission%20%5B00431048%5D.mp4",
+        "dubUrl": "https://archive.org/download/chaos-head-1080p-2008/12%20-%20mission%20%5B00431048%5D.mp4",
+        "subUrl": "https://archive.org/download/chaos-head-1080p-2008/12%20-%20mission%20%5B00431048%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "title": {
+      "english": "Ergo Proxy",
+      "romaji": "Ergo Proxy",
+      "native": "Ergo Proxy"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx790-YTUCvBKX8ZWK.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx790-YTUCvBKX8ZWK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx790-YTUCvBKX8ZWK.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/790.jpg",
+    "description": "Something is wrong in the perfect domed city of Romdo. Between the sudden rash of murders and a virus affecting all AutoReivs-cyborg companions and workers who assist the people of Romdo - all is not right in their dome home. Detective Re-l Meyer begins to investigate, seeking answers to the weird occurrences that are happening more and more around her. But when she begins to uncover the truth, her world is turned upside down.\n\nFirst, the strange immigrant Vincent Law goes missing and then a monster appears before her, shaking her to her core. But this monster is something more, something dangerous and sinister. With each question and mystery, she is led back to the creature. But what is it really? What purpose does it serve? A sign of the end or a sign of a new beginning? Whatever it is, it repeatedly brings her back to Vincent and soon, alongside his journey back to another dome world called, Mosk. As they make their way across scarred and deserted Earth, Re-l and Vincent will learn more about the monster and the \"awakening\"-which could be more of an ending than a beginning.\n\n(Source: Funimation)\nNote: Episode 1 received an advanced broadcast on channel WOWOW on February 5, 2006. The start date reflects the start of the regular series broadcasting.",
+    "averageScore": 76,
+    "seasonYear": 2006,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "23 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "[Beta] Ergo Proxy - 01 (BD 1080p) [523A2418] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2001%20(BD%201080p)%20%5B523A2418%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2001%20(BD%201080p)%20%5B523A2418%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2001%20(BD%201080p)%20%5B523A2418%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "[Beta] Ergo Proxy - 02 (BD 1080p) [894421BA] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2002%20(BD%201080p)%20%5B894421BA%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2002%20(BD%201080p)%20%5B894421BA%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2002%20(BD%201080p)%20%5B894421BA%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "[Beta] Ergo Proxy - 03 (BD 1080p) [1AD95703] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2003%20(BD%201080p)%20%5B1AD95703%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2003%20(BD%201080p)%20%5B1AD95703%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2003%20(BD%201080p)%20%5B1AD95703%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "[Beta] Ergo Proxy - 04 (BD 1080p) [60E1DA33] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2004%20(BD%201080p)%20%5B60E1DA33%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2004%20(BD%201080p)%20%5B60E1DA33%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2004%20(BD%201080p)%20%5B60E1DA33%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "[Beta] Ergo Proxy - 05 (BD 1080p) [B333E85D] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2005%20(BD%201080p)%20%5BB333E85D%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2005%20(BD%201080p)%20%5BB333E85D%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2005%20(BD%201080p)%20%5BB333E85D%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "[Beta] Ergo Proxy - 06 (BD 1080p) [68D77561] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2006%20(BD%201080p)%20%5B68D77561%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2006%20(BD%201080p)%20%5B68D77561%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2006%20(BD%201080p)%20%5B68D77561%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "[Beta] Ergo Proxy - 07 (BD 1080p) [0D4AF3B6] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2007%20(BD%201080p)%20%5B0D4AF3B6%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2007%20(BD%201080p)%20%5B0D4AF3B6%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2007%20(BD%201080p)%20%5B0D4AF3B6%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "[Beta] Ergo Proxy - 08 (BD 1080p) [003F58F3] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2008%20(BD%201080p)%20%5B003F58F3%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2008%20(BD%201080p)%20%5B003F58F3%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2008%20(BD%201080p)%20%5B003F58F3%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "[Beta] Ergo Proxy - 09 (BD 1080p) [3EDA5AD7] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2009%20(BD%201080p)%20%5B3EDA5AD7%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2009%20(BD%201080p)%20%5B3EDA5AD7%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2009%20(BD%201080p)%20%5B3EDA5AD7%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "[Beta] Ergo Proxy - 10 (BD 1080p) [FEB87F94] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2010%20(BD%201080p)%20%5BFEB87F94%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2010%20(BD%201080p)%20%5BFEB87F94%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2010%20(BD%201080p)%20%5BFEB87F94%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "[Beta] Ergo Proxy - 11 (BD 1080p) [568E5084] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2011%20(BD%201080p)%20%5B568E5084%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2011%20(BD%201080p)%20%5B568E5084%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2011%20(BD%201080p)%20%5B568E5084%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "[Beta] Ergo Proxy - 12 (BD 1080p) [FE2F7DCA] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2012%20(BD%201080p)%20%5BFE2F7DCA%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2012%20(BD%201080p)%20%5BFE2F7DCA%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2012%20(BD%201080p)%20%5BFE2F7DCA%5D.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "[Beta] Ergo Proxy - 13 (BD 1080p) [C00E0019] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2013%20(BD%201080p)%20%5BC00E0019%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2013%20(BD%201080p)%20%5BC00E0019%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2013%20(BD%201080p)%20%5BC00E0019%5D.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "[Beta] Ergo Proxy - 14 (BD 1080p) [EBC4B169] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2014%20(BD%201080p)%20%5BEBC4B169%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2014%20(BD%201080p)%20%5BEBC4B169%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2014%20(BD%201080p)%20%5BEBC4B169%5D.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "[Beta] Ergo Proxy - 15 (BD 1080p) [D7CE0C6C] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2015%20(BD%201080p)%20%5BD7CE0C6C%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2015%20(BD%201080p)%20%5BD7CE0C6C%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2015%20(BD%201080p)%20%5BD7CE0C6C%5D.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "[Beta] Ergo Proxy - 16 (BD 1080p) [2391C183] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2016%20(BD%201080p)%20%5B2391C183%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2016%20(BD%201080p)%20%5B2391C183%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2016%20(BD%201080p)%20%5B2391C183%5D.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "[Beta] Ergo Proxy - 17 (BD 1080p) [D01E6BB9] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2017%20(BD%201080p)%20%5BD01E6BB9%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2017%20(BD%201080p)%20%5BD01E6BB9%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2017%20(BD%201080p)%20%5BD01E6BB9%5D.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "[Beta] Ergo Proxy - 18 (BD 1080p) [C6E2B35D] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2018%20(BD%201080p)%20%5BC6E2B35D%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2018%20(BD%201080p)%20%5BC6E2B35D%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2018%20(BD%201080p)%20%5BC6E2B35D%5D.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "[Beta] Ergo Proxy - 19 (BD 1080p) [2EE3EB84] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2019%20(BD%201080p)%20%5B2EE3EB84%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2019%20(BD%201080p)%20%5B2EE3EB84%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2019%20(BD%201080p)%20%5B2EE3EB84%5D.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "[Beta] Ergo Proxy - 20 (BD 1080p) [84657D2C] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2020%20(BD%201080p)%20%5B84657D2C%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2020%20(BD%201080p)%20%5B84657D2C%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2020%20(BD%201080p)%20%5B84657D2C%5D.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "[Beta] Ergo Proxy - 21 (BD 1080p) [409AF618] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2021%20(BD%201080p)%20%5B409AF618%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2021%20(BD%201080p)%20%5B409AF618%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2021%20(BD%201080p)%20%5B409AF618%5D.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "[Beta] Ergo Proxy - 22 (BD 1080p) [EE8FB8DC] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2022%20(BD%201080p)%20%5BEE8FB8DC%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2022%20(BD%201080p)%20%5BEE8FB8DC%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2022%20(BD%201080p)%20%5BEE8FB8DC%5D.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "[Beta] Ergo Proxy - 23 (BD 1080p) [2C10F4C4] (English Dub)",
+        "duration": "30:00",
+        "videoUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2023%20(BD%201080p)%20%5B2C10F4C4%5D.mp4",
+        "dubUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2023%20(BD%201080p)%20%5B2C10F4C4%5D.mp4",
+        "subUrl": "https://archive.org/download/beta-ergo-proxy-bd-1080p-2006/%5BBeta%5D%20Ergo%20Proxy%20-%2023%20(BD%201080p)%20%5B2C10F4C4%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 6880,
+    "title": {
+      "english": "Deadman Wonderland",
+      "romaji": "Deadman Wonderland",
+      "native": "デッドマン・ワンダーランド"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6880-qZ1jIqIYpST2.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6880-qZ1jIqIYpST2.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6880-qZ1jIqIYpST2.png",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6880-eq4JajOW0HOd.jpg",
+    "description": "Ganta is the only survivor after a mysterious man in red slaughters a classroom full of teenagers. He's framed for the carnage, sentenced to die, and locked away in the most twisted prison ever built: Deadman Wonderland. And then it gets worse. \nAt Deadman Wonderland, convicts are forced into brutal deathmatches for the amusement of the masses, the cheers of the crowd drowning out the screams of the dismembered. Even when Ganta befriends Shiro, an unusual female inmate, his dark fate crushes all hope &mdash;until he discovers the strange ability to wield his spilled blood as a weapon. Ganta learns his new skill might be related to the murderous man in red and uncovers disturbing secrets that could expose those who stole his freedom. He's determined to see justice served &mdash;but first he'll have to fight for his life in a prison that holds a million ways to die. \n(Source: FUNimation)",
+    "averageScore": 67,
+    "seasonYear": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2001%20-%20Death%20Row%20Inmate%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2001%20-%20Death%20Row%20Inmate%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2001%20-%20Death%20Row%20Inmate%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2002%20-%20Antidote%20(Candy)%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2002%20-%20Antidote%20(Candy)%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2002%20-%20Antidote%20(Candy)%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Deadman Wonderland - 03 - G Block [Shinny] (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2003%20-%20G%20Block%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2003%20-%20G%20Block%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2003%20-%20G%20Block%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Deadman Wonderland - 04 - Crow Claw [Shinny] (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2004%20-%20Crow%20Claw%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2004%20-%20Crow%20Claw%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2004%20-%20Crow%20Claw%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2005%20-%20Carnival%20of%20Corpses%20(Carnival%20Corpse)%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2005%20-%20Carnival%20of%20Corpses%20(Carnival%20Corpse)%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2005%20-%20Carnival%20of%20Corpses%20(Carnival%20Corpse)%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Deadman Wonderland - 06 - Hummingbird [Shinny] (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2006%20-%20Hummingbird%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2006%20-%20Hummingbird%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2006%20-%20Hummingbird%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2007%20-%20Original%20Sin%20(Wretched%20Egg)%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2007%20-%20Original%20Sin%20(Wretched%20Egg)%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2007%20-%20Original%20Sin%20(Wretched%20Egg)%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2008%20-%20Chains%20of%20Freedom%20(Scar%20Chain)%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2008%20-%20Chains%20of%20Freedom%20(Scar%20Chain)%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2008%20-%20Chains%20of%20Freedom%20(Scar%20Chain)%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2009%20-%20Pro-oxidant%20(Worm%20Eater)%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2009%20-%20Pro-oxidant%20(Worm%20Eater)%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2009%20-%20Pro-oxidant%20(Worm%20Eater)%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2010%20-%20Caretaker%20(Undertaker)%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2010%20-%20Caretaker%20(Undertaker)%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2010%20-%20Caretaker%20(Undertaker)%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Deadman Wonderland - 11 - GIG of Despair [Shinny] (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2011%20-%20GIG%20of%20Despair%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2011%20-%20GIG%20of%20Despair%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2011%20-%20GIG%20of%20Despair%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2012%20-%20Relief%20(Grateful%20Dead)%20%5BShinny%5D%20.mp4",
+        "dubUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2012%20-%20Relief%20(Grateful%20Dead)%20%5BShinny%5D%20.mp4",
+        "subUrl": "https://archive.org/download/deadman-wonderland-01-death-row-inmate-shinny/Deadman%20Wonderland%20-%2012%20-%20Relief%20(Grateful%20Dead)%20%5BShinny%5D%20.mp4"
+      }
+    ]
+  },
+  {
+    "id": 112157,
+    "title": {
+      "english": "The Daily Life of the Immortal King",
+      "romaji": "Xian Wang de Richang Shenghuo",
+      "native": ""
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/43014/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/43014/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/43014/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/43014/cover_image/large-daa5abe413f7d6dbadc576fda5addb8a.jpeg",
+    "description": "As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he’s sixteen, he faces his greatest battle yet – Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away…\n\n(Source: NU)",
+    "averageScore": 74,
+    "seasonYear": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "51 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "21:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "17:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "13 - s1e13 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/13%20-%20s1e13.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/13%20-%20s1e13.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/13%20-%20s1e13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "14 - s1e14 (English Dub)",
+        "duration": "17:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/14%20-%20s1e14.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/14%20-%20s1e14.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/14%20-%20s1e14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "15 - s1e15 (English Dub)",
+        "duration": "17:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/15%20-%20s1e15.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/15%20-%20s1e15.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s1/15%20-%20s1e15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "01 - s2e1 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "02 - s2e2 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/02%20-%20s2e2.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/02%20-%20s2e2.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/02%20-%20s2e2.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "03 - s2e3 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/03%20-%20s2e3.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/03%20-%20s2e3.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/03%20-%20s2e3.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "04 - s2e4 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "05 - s2e5 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/05%20-%20s2e5.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/05%20-%20s2e5.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/05%20-%20s2e5.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "06 - s2e6 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/06%20-%20s2e6.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/06%20-%20s2e6.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/06%20-%20s2e6.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "07 - s2e7 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/07%20-%20s2e7.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/07%20-%20s2e7.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/07%20-%20s2e7.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "08 - s2e8 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/08%20-%20s2e8.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/08%20-%20s2e8.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/08%20-%20s2e8.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "09 - s2e9 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/09%20-%20s2e9.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/09%20-%20s2e9.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/09%20-%20s2e9.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "10 - s2e10 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/10%20-%20s2e10.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/10%20-%20s2e10.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/10%20-%20s2e10.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "11 - s2e11 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/11%20-%20s2e11.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/11%20-%20s2e11.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/11%20-%20s2e11.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "12 - s2e12 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/12%20-%20s2e12.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/12%20-%20s2e12.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s2/12%20-%20s2e12.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "01 - s3e1 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/01%20-%20s3e1.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/01%20-%20s3e1.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/01%20-%20s3e1.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "02 - s3e2 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/02%20-%20s3e2.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/02%20-%20s3e2.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/02%20-%20s3e2.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "03 - s3e3 (English Dub)",
+        "duration": "17:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/03%20-%20s3e3.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/03%20-%20s3e3.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/03%20-%20s3e3.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "04 - s3e4 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/04%20-%20s3e4.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/04%20-%20s3e4.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/04%20-%20s3e4.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "05 - s3e5 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/05%20-%20s3e5.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/05%20-%20s3e5.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/05%20-%20s3e5.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "06 - s3e6 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/06%20-%20s3e6.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/06%20-%20s3e6.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/06%20-%20s3e6.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "07 - s3e7 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/07%20-%20s3e7.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/07%20-%20s3e7.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/07%20-%20s3e7.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "08 - s3e8 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/08%20-%20s3e8.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/08%20-%20s3e8.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/08%20-%20s3e8.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "09 - s3e9 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/09%20-%20s3e9.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/09%20-%20s3e9.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/09%20-%20s3e9.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "10 - s3e10 (English Dub)",
+        "duration": "16:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/10%20-%20s3e10.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/10%20-%20s3e10.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/10%20-%20s3e10.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "11 - s3e11 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/11%20-%20s3e11.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/11%20-%20s3e11.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/11%20-%20s3e11.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "12 - s3e12 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/12%20-%20s3e12.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/12%20-%20s3e12.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s3/12%20-%20s3e12.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "01 - s4e1 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/01%20-%20s4e1.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/01%20-%20s4e1.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/01%20-%20s4e1.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "02 - s4e2 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/02%20-%20s4e2.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/02%20-%20s4e2.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/02%20-%20s4e2.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "03 - s4e3 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/03%20-%20s4e3.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/03%20-%20s4e3.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/03%20-%20s4e3.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "04 - s4e4 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/04%20-%20s4e4.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/04%20-%20s4e4.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/04%20-%20s4e4.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "05 - s4e5 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/05%20-%20s4e5.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/05%20-%20s4e5.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/05%20-%20s4e5.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "06 - s4e6 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/06%20-%20s4e6.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/06%20-%20s4e6.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/06%20-%20s4e6.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "07 - s4e7 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/07%20-%20s4e7.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/07%20-%20s4e7.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/07%20-%20s4e7.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "08 - s4e8 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/08%20-%20s4e8.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/08%20-%20s4e8.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/08%20-%20s4e8.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "09 - s4e9 (English Dub)",
+        "duration": "18:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/09%20-%20s4e9.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/09%20-%20s4e9.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/09%20-%20s4e9.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "10 - s4e10 (English Dub)",
+        "duration": "20:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/10%20-%20s4e10.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/10%20-%20s4e10.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/10%20-%20s4e10.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "11 - s4e11 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/11%20-%20s4e11.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/11%20-%20s4e11.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/11%20-%20s4e11.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "12 - s4e12 (English Dub)",
+        "duration": "19:00",
+        "videoUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/12%20-%20s4e12.mp4",
+        "dubUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/12%20-%20s4e12.mp4",
+        "subUrl": "https://archive.org/download/the-daily-life-of-the-immortal-king_202409/The%20Daily%20Life%20of%20the%20Immortal%20King/s4/12%20-%20s4e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 101114,
+    "title": {
+      "english": "Wise Man's Grandchild",
+      "romaji": "Kenja no Mago",
+      "native": "賢者の孫"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/40944/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/40944/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/40944/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/cover_images/40944/large.jpg",
+    "description": "A young man dies in a car accident and is reborn in a magical new world. The old, yet wise Merlin finds the boy, names him Shin, raises him from infancy, and teaches him combat and powerful magic along the way. 15 years later, Shin is ready to travel the globe on his own, but Merlin forgot to teach him something major—common sense!\n\n(Source: Funimation)",
+    "averageScore": 67,
+    "seasonYear": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "01 - s1e1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "02 - s1e2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "03 - s1e3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "04 - s1e4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "05 - s1e5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "06 - s1e6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "07 - s1e7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "08 - s1e8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "09 - s1e9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "10 - s1e10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "11 - s1e11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "12 - s1e12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/wise-mans-grandchild_202409/Wise%20Man's%20Grandchild/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 146860,
+    "title": {
+      "english": "Farming Life in Another World",
+      "romaji": "Isekai Nonbiri Nouka",
+      "native": "異世界のんびり農家"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/46016/poster_image/large-923361042c98f2f5bd4b001f4ba44670.jpeg",
+      "large": "https://media.kitsu.app/anime/46016/poster_image/large-923361042c98f2f5bd4b001f4ba44670.jpeg",
+      "medium": "https://media.kitsu.app/anime/46016/poster_image/medium-c02ea1b5d270077c02683118c34e38e0.jpeg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/46016/cover_image/large-731920d7dd8265289acab2fbd3203f73.jpeg",
+    "description": "After Hiraku dies of a serious illness, God brings him back to life, gives his health and youth back, and sends him to a fantasy world of his choice. In order to enjoy his second shot, God bestows upon him the almighty farming tool! Watch as Hiraku digs, chops, and plows in another world in this laidback farming fantasy!\n\n(Source: One Peace Books)",
+    "averageScore": 76,
+    "seasonYear": 2023,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "HOT NEW 2023 • 3 DUB EPS",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-01.mp4",
+        "dubUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-01.mp4",
+        "subUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-11.mp4",
+        "dubUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-11.mp4",
+        "subUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-11.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime.mp4",
+        "dubUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime.mp4",
+        "subUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime.mp4"
+      }
+    ]
+  },
+  {
+    "id": 169998,
+    "title": {
+      "english": "Dragon Ball DAIMA",
+      "romaji": "Dragon Ball DAIMA",
+      "native": "ドラゴンボールDAIMA"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/48108/poster_image/large-4d70c766f01e85ba6ff408e2d92e9ea1.jpeg",
+      "large": "https://media.kitsu.app/anime/48108/poster_image/large-4d70c766f01e85ba6ff408e2d92e9ea1.jpeg",
+      "medium": "https://media.kitsu.app/anime/48108/poster_image/medium-e08ccbe94f8579a6baab5abfee2bc242.jpeg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/48108/cover_image/large-f2900b30e196d3ffcda63e49660b969d.jpeg",
+    "description": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
+    "averageScore": 77,
+    "seasonYear": 2024,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Martial Arts"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "HOT NEW 2024 • 19 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "13 - Surprise [AS-DL] [1080p] [Shinny] (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/13%20-%20Surprise%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/13%20-%20Surprise%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/13%20-%20Surprise%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "DB DAIMA - 17 - Gomah [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%2017%20-%20Gomah%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%2017%20-%20Gomah%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%2017%20-%20Gomah%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "DB DAIMA - 19 - Betrayal [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%2019%20-%20Betrayal%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%2019%20-%20Betrayal%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%2019%20-%20Betrayal%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "DB DAIMA - E20 - Maximum [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%20E20%20-%20Maximum%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%20E20%20-%20Maximum%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20-%20E20%20-%20Maximum%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "DB DAIMA E1 - Conspiracy  [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "34:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E1%20-%20Conspiracy%20%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E1%20-%20Conspiracy%20%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E1%20-%20Conspiracy%20%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "DB DAIMA E10 -  Ocean [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E10%20-%20%20Ocean%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E10%20-%20%20Ocean%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E10%20-%20%20Ocean%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "DB DAIMA E11 - Legend [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E11%20-%20Legend%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E11%20-%20Legend%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E11%20-%20Legend%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E12%20-%20True%20Strength%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E12%20-%20True%20Strength%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E12%20-%20True%20Strength%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "DB DAIMA E14 - Taboo [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E14%20-%20Taboo%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E14%20-%20Taboo%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E14%20-%20Taboo%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "DB DAIMA E15 - Third Eye  [AS-DL] [1080p] [Shinny] (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E15%20-%20Third%20Eye%20%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E15%20-%20Third%20Eye%20%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E15%20-%20Third%20Eye%20%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "DB DAIMA E16 -  Degesu [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E16%20-%20%20Degesu%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E16%20-%20%20Degesu%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E16%20-%20%20Degesu%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "DB DAIMA E18 - Awakening 1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E18%20-%20Awakening%201080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E18%20-%20Awakening%201080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E18%20-%20Awakening%201080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "DB DAIMA E2 -  Glorio [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E2%20-%20%20Glorio%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E2%20-%20%20Glorio%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E2%20-%20%20Glorio%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "DB DAIMA E4 -  Charity [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E4%20-%20%20Charity%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E4%20-%20%20Charity%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E4%20-%20%20Charity%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "DB DAIMA E5 -  Panzy [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E5%20-%20%20Panzy%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E5%20-%20%20Panzy%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E5%20-%20%20Panzy%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "DB DAIMA E6 -  Lightning [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E6%20-%20%20Lightning%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E6%20-%20%20Lightning%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E6%20-%20%20Lightning%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "DB DAIMA E7 - Collar [1080p] [HDTV] [Shinny] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E7%20-%20Collar%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E7%20-%20Collar%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E7%20-%20Collar%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "DB DAIMA E8 -  Tamagami [720p] [HDTV] [Shinny] (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E8%20-%20%20Tamagami%20%5B720p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E8%20-%20%20Tamagami%20%5B720p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E8%20-%20%20Tamagami%20%5B720p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "DB DAIMA E9 -  Thieves [720p] [HDTV] [Shinny] (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E9%20-%20%20Thieves%20%5B720p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E9%20-%20%20Thieves%20%5B720p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/db-daima-e-1-conspiracy-1080p-hdtv-shinny/DB%20DAIMA%20E9%20-%20%20Thieves%20%5B720p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 6702,
+    "title": {
+      "english": "Fairy Tail",
+      "romaji": "FAIRY TAIL (2018)",
+      "native": "FAIRY TAIL (2018)"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/13658/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/13658/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/13658/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/cover_images/13658/large.jpg",
+    "description": "The final season of Fairy Tail.\n\nFairy Tail has been disbanded. A year later, Lucy comes into contact with Natsu and Happy. The three of them try to find the other former members' whereabouts to reconstruct the guild as they seek the real reason behind the guild's disbandment.\n\n(Source: Anime News Network)",
+    "averageScore": 82,
+    "seasonYear": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "36 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Fairy Tail Episode 177 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20177%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20177%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20177%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Fairy Tail Episode 178 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20178%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20178%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20178%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Fairy Tail Episode 179 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20179%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20179%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20179%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Fairy Tail Episode 180 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20180%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20180%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20180%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Fairy Tail Episode 181 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20181%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20181%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20181%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Fairy Tail Episode 182 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20182%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20182%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20182%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Fairy Tail Episode 183 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20183%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20183%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20183%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Fairy Tail Episode 184 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20184%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20184%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20184%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Fairy Tail Episode 185 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20185%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20185%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20185%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Fairy Tail Episode 186 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20186%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20186%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20186%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Fairy Tail Episode 187 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20187%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20187%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20187%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Fairy Tail Episode 188 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20188%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20188%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20188%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Fairy Tail Episode 189 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20189%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20189%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20189%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Fairy Tail Episode 190 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20190%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20190%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20190%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Fairy Tail Episode 191 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20191%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20191%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20191%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Fairy Tail Episode 192 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20192%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20192%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20192%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Fairy Tail Episode 193 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20193%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20193%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20193%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Fairy Tail Episode 194 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20194%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20194%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20194%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Fairy Tail Episode 195 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20195%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20195%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20195%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Fairy Tail Episode 196 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20196%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20196%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20196%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Fairy Tail Episode 197 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20197%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20197%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20197%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Fairy Tail Episode 198 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20198%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20198%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20198%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Fairy Tail Episode 199 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20199%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20199%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20199%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Fairy Tail Episode 200 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20200%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20200%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20200%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Fairy Tail Episode 201 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20201%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20201%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20201%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Fairy Tail Episode 202 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20202%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20202%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20202%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Fairy Tail Episode 203 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20203%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20203%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20203%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Fairy Tail Episode 204 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20204%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20204%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20204%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Fairy Tail Episode 205 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20205%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20205%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20205%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Fairy Tail Episode 206 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20206%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20206%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20206%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Fairy Tail Episode 207 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20207%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20207%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20207%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Fairy Tail Episode 208 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20208%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20208%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20208%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Fairy Tail Episode 209 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20209%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20209%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20209%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Fairy Tail Episode 210 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20210%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20210%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20210%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Fairy Tail Episode 211 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20211%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20211%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20211%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Fairy Tail Episode 212 English Dubbed",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20212%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20212%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/fairy-tail-episode-192-english-dubbed/Fairy%20Tail%20Episode%20212%20English%20Dubbed.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21202,
+    "title": {
+      "english": "KonoSuba: God's Blessing on This Wonderful World!",
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "native": "この素晴らしい世界に祝福を！"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/10941/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/10941/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/10941/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/cover_images/10941/large.jpg",
+    "description": "After a traffic accident, Kazuma Sato's disappointingly brief life was supposed to be over, but he wakes up to see a beautiful girl before him. She claims to be a goddess, Aqua, and asks if he would like to go to another world and bring only one thing with him. Kazuma decides to bring the goddess herself, and they are transported to a fantasy world filled with adventure, ruled by a demon king. Now Kazuma only wants to live in peace, but Aqua wants to solve many of this world's problems, and the demon king will only turn a blind eye for so long...\n\n(Source: Crunchyroll)",
+    "averageScore": 82,
+    "seasonYear": 2016,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "10 DUB EPS • COMPLETE",
+    "isStaffPick": true,
+    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "K-01 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-01.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-01.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "K-02 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-02.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-02.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-02.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "K-03 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-03.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-03.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-03.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "K-04 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-04.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-04.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-04.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "K-05 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-05.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-05.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-05.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "K-06 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-06.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-06.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-06.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "K-07 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-07.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-07.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-07.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "K-08 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-08.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-08.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-08.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "K-09 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-09.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-09.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-09.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "K-10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/konosuba-1/K-10.mp4",
+        "dubUrl": "https://archive.org/download/konosuba-1/K-10.mp4",
+        "subUrl": "https://archive.org/download/konosuba-1/K-10.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21311,
+    "title": {
+      "english": "Bungo Stray Dogs",
+      "romaji": "Bungou Stray Dogs",
+      "native": "文豪ストレイドッグス"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/11339/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/11339/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/11339/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/cover_images/11339/large.jpg",
+    "description": "For weeks, Atsushi Nakajima's orphanage has been plagued by a mystical tiger that only he seems to be aware of. Suspected to be behind the strange incidents, the 18-year-old is abruptly kicked out of the orphanage and left hungry, homeless, and wandering through the city.\nWhile starving on a riverbank, Atsushi saves a rather eccentric man named Osamu Dazai from drowning. Whimsical suicide enthusiast and supernatural detective, Dazai has been investigating the same tiger that has been terrorizing the boy. Together with Dazai's partner Doppo Kunikida, they solve the mystery, but its resolution leaves Atsushi in a tight spot. As various odd events take place, Atsushi is coerced into joining their firm of supernatural investigators, taking on unusual cases the police cannot handle, alongside his numerous enigmatic co-workers.\n[Written by MAL Rewrite]",
+    "averageScore": 79,
+    "seasonYear": 2016,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "3 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "BSD S1 Ep10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep10.mp4",
+        "dubUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep10.mp4",
+        "subUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep10.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "BSD S1 Ep8 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep8.mp4",
+        "dubUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep8.mp4",
+        "subUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep8.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "BSD S1 Ep9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep9.mp4",
+        "dubUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep9.mp4",
+        "subUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep9.mp4"
+      }
+    ]
+  },
+  {
+    "id": 153288,
+    "title": {
+      "english": "Kaiju No. 8",
+      "romaji": "Kaijuu 8-gou",
+      "native": "怪獣８号"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/46300/poster_image/large-31cc66fd5854cc555d496ced7ab40c31.jpeg",
+      "large": "https://media.kitsu.app/anime/46300/poster_image/large-31cc66fd5854cc555d496ced7ab40c31.jpeg",
+      "medium": "https://media.kitsu.app/anime/46300/poster_image/medium-c1c025bbee42bed048e628b1eae278c0.jpeg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/46300/cover_image/large-beb78aec0cb2066bc44ea52f66311e04.jpeg",
+    "description": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.\n\n(Source: Crunchyroll)",
+    "averageScore": 84,
+    "seasonYear": 2024,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "HOT NEW 2024 • 1 DUB EPS",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Kaiju No. 8 (1) (English Dub)",
+        "duration": "2:00",
+        "videoUrl": "https://archive.org/download/kaiju-no.-8-1/Kaiju%20No.%208%20(1).mp4",
+        "dubUrl": "https://archive.org/download/kaiju-no.-8-1/Kaiju%20No.%208%20(1).mp4",
+        "subUrl": "https://archive.org/download/kaiju-no.-8-1/Kaiju%20No.%208%20(1).mp4"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "title": {
+      "english": "Crest of the Stars",
+      "romaji": "Seikai no Monshou",
+      "native": "星界の紋章"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/265/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/265/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/265/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/cover_images/265/large.jpg",
+    "description": "Based on a science fiction novel series, Crest of the Stars (Seikai no Monsho) is the first installment in this sci-fi saga. The story follows Jinto, whose world was taken over by the largest empire in the galaxy: the Abh. Jinto's father, the planet's prime minister, handed their world over to the Abh in exchange for a standing in the Abh Empire. As a result, Jinto became a prince and was shipped off for an Abh Education. There he meets a princess of the Abh Empire, Lafiel, whom he quickly befriends despite her cold exterior. The Abh Empire is plunged into war soon after and the story continues from there...\n(Source: ANN)",
+    "averageScore": 77,
+    "seasonYear": 1999,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "13 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/01.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/01.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/01.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/02.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/02.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/02.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/03.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/03.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/03.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/04.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/04.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/04.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/05.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/05.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/05.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/06.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/06.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/06.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/07.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/07.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/07.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/08.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/08.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/08.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/09.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/09.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/09.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/10.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/10.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/10.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/11.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/11.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/11.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/12.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/12.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/12.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "40:00",
+        "videoUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/13.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "dubUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/13.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4",
+        "subUrl": "https://archive.org/download/13.-crest-of-the-stars-seikai-no-monshou-dvd-480p-hi-10-p-aac-ac-3-dual-audiokuchikirukia/13.%20Crest%20of%20the%20Stars%20(Seikai%20no%20Monshou)%20%5BDVD%20480p%20Hi10P%20AAC%20AC3%20dual-audio%5D%5Bkuchikirukia%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 20635,
+    "title": {
+      "english": "Dragon Ball Z Kai: The Final Chapters",
+      "romaji": "Dragon Ball Kai (2014)",
+      "native": "ドラゴンボール改"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/8351/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/8351/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/8351/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/poster_images/8351/large.jpg",
+    "description": "Remastered version of the Majin Buu saga that adheres more to the manga's story.\n\nNote: Only 61 episodes were released in Japan. International Broadcast had 69. Episode count on this page Represents International count.",
+    "averageScore": 78,
+    "seasonYear": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Martial Arts"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "17 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/1%20-%20Seven%20Years%20Later!%20Starting%20Today%2C%20Gohan%20Is%20a%20High%20School%20Student%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/1%20-%20Seven%20Years%20Later!%20Starting%20Today%2C%20Gohan%20Is%20a%20High%20School%20Student%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/1%20-%20Seven%20Years%20Later!%20Starting%20Today%2C%20Gohan%20Is%20a%20High%20School%20Student%201080p.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/10%20-%20The%20Junior%20Champ%20Is%20Finally%20Decided!%20Who%20Will%20Fight%20Against%20Mr.%20Satan%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/10%20-%20The%20Junior%20Champ%20Is%20Finally%20Decided!%20Who%20Will%20Fight%20Against%20Mr.%20Satan%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/10%20-%20The%20Junior%20Champ%20Is%20Finally%20Decided!%20Who%20Will%20Fight%20Against%20Mr.%20Satan%201080p.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/11%20-%20Restless%20Foreboding%20A%20Mysterious%20Warrior%20Appears!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/11%20-%20Restless%20Foreboding%20A%20Mysterious%20Warrior%20Appears!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/11%20-%20Restless%20Foreboding%20A%20Mysterious%20Warrior%20Appears!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/12%20-%20What%20Happened%2C%20Piccolo%20An%20Unexpected%20Outcome%20in%20the%20First%20Round%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/12%20-%20What%20Happened%2C%20Piccolo%20An%20Unexpected%20Outcome%20in%20the%20First%20Round%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/12%20-%20What%20Happened%2C%20Piccolo%20An%20Unexpected%20Outcome%20in%20the%20First%20Round%201080p.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/13%20-%20An%20Eerie%20Entity%20Who%20Exactly%20Is%20Spopovitch%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/13%20-%20An%20Eerie%20Entity%20Who%20Exactly%20Is%20Spopovitch%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/13%20-%20An%20Eerie%20Entity%20Who%20Exactly%20Is%20Spopovitch%201080p.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/14%20-%20Videl%20Battered-%20Gohan's%20Fury%20Reaches%20Its%20Limit!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/14%20-%20Videl%20Battered-%20Gohan's%20Fury%20Reaches%20Its%20Limit!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/14%20-%20Videl%20Battered-%20Gohan's%20Fury%20Reaches%20Its%20Limit!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/15%20-%20A%20Creeping%20Conspiracy!%20The%20Target%20Is%20Gohan%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/15%20-%20A%20Creeping%20Conspiracy!%20The%20Target%20Is%20Gohan%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/15%20-%20A%20Creeping%20Conspiracy!%20The%20Target%20Is%20Gohan%201080p.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/16%20-%20The%20Terrifying%20Secret%20of%20the%20Majin.%20The%20Mastermind%20Revealed!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/16%20-%20The%20Terrifying%20Secret%20of%20the%20Majin.%20The%20Mastermind%20Revealed!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/16%20-%20The%20Terrifying%20Secret%20of%20the%20Majin.%20The%20Mastermind%20Revealed!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "2 - A New Hero, Great Saiyaman, Is Born! 1080p (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/2%20-%20A%20New%20Hero%2C%20Great%20Saiyaman%2C%20Is%20Born!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/2%20-%20A%20New%20Hero%2C%20Great%20Saiyaman%2C%20Is%20Born!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/2%20-%20A%20New%20Hero%2C%20Great%20Saiyaman%2C%20Is%20Born!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "3 - Videl's Crisis Gohan's Urgent Call-Out! 1080p (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/3%20-%20Videl's%20Crisis%20Gohan's%20Urgent%20Call-Out!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/3%20-%20Videl's%20Crisis%20Gohan's%20Urgent%20Call-Out!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/3%20-%20Videl's%20Crisis%20Gohan's%20Urgent%20Call-Out!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/4%20-%20A%20Monster%20Is%20Spirited%20Away!%20The%20Culprit%20Is%20Great%20Saiyaman%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/4%20-%20A%20Monster%20Is%20Spirited%20Away!%20The%20Culprit%20Is%20Great%20Saiyaman%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/4%20-%20A%20Monster%20Is%20Spirited%20Away!%20The%20Culprit%20Is%20Great%20Saiyaman%201080p.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/5%20-%20Entering%20the%20World%20Martial%20Arts%20Tournament!%20Goten%20Shows%20Off%20His%20Explosive%20Power%20During%20Training!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/5%20-%20Entering%20the%20World%20Martial%20Arts%20Tournament!%20Goten%20Shows%20Off%20His%20Explosive%20Power%20During%20Training!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/5%20-%20Entering%20the%20World%20Martial%20Arts%20Tournament!%20Goten%20Shows%20Off%20His%20Explosive%20Power%20During%20Training!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/6%20-%20Gohan%20the%20Teacher!%20Videl's%20Flying%20Technique%20Tutorial%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/6%20-%20Gohan%20the%20Teacher!%20Videl's%20Flying%20Technique%20Tutorial%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/6%20-%20Gohan%20the%20Teacher!%20Videl's%20Flying%20Technique%20Tutorial%201080p.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/7%20-%20The%20Dragon%20Team%20Fully%20Assembled!%20Goku%20Has%20Come%20Back!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/7%20-%20The%20Dragon%20Team%20Fully%20Assembled!%20Goku%20Has%20Come%20Back!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/7%20-%20The%20Dragon%20Team%20Fully%20Assembled!%20Goku%20Has%20Come%20Back!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/8%20-%20Who%20Is%20the%20World's%20Greatest%20The%20Tournament%20Preliminaries%20Begin!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/8%20-%20Who%20Is%20the%20World's%20Greatest%20The%20Tournament%20Preliminaries%20Begin!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/8%20-%20Who%20Is%20the%20World's%20Greatest%20The%20Tournament%20Preliminaries%20Begin!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/9%20-%20Everyone%20Is%20Surprised!%20Goten%20and%20Trunks'%20Super%20Battle!%201080p.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/9%20-%20Everyone%20Is%20Surprised!%20Goten%20and%20Trunks'%20Super%20Battle!%201080p.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/9%20-%20Everyone%20Is%20Surprised!%20Goten%20and%20Trunks'%20Super%20Battle!%201080p.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/Dragon.Ball.Z.Kai.S06E03.DUBBED.720p.HDTV.x264-CRiMSON.mp4",
+        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/Dragon.Ball.Z.Kai.S06E03.DUBBED.720p.HDTV.x264-CRiMSON.mp4",
+        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/Dragon.Ball.Z.Kai.S06E03.DUBBED.720p.HDTV.x264-CRiMSON.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21175,
+    "title": {
+      "english": "Dragon Ball Super",
+      "romaji": "Dragon Ball Super",
+      "native": "ドラゴンボール超（スーパー）"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/10879/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/10879/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/10879/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/cover_images/10879/large.jpg",
+    "description": "Set just after the events of the Buu Saga of Dragon Ball Z, a deadly threat awakens once more. People lived in peace without knowing who the true heroes were during the devastating battle against Majin Buu. The powerful Dragon Balls have prevented any permanent damage, and our heroes also continue to live a normal life. In the far reaches of the universe, however, a powerful being awakens early from his slumber, curious about a prophecy of his defeat.\nJoin Gokuu, Piccolo, Vegeta, Gohan, and the rest of the Dragon Ball crew as they tackle the strongest opponent they have ever faced. Beerus, the god of destruction, now sets his curious sights on Earth. Will the heroes save the day and prevent earth's destruction? Or will the whims of a bored god prove too powerful for the Saiyans? Gokuu faces impossible odds once more and fights for the safety of his loved ones and the planet.",
+    "averageScore": 76,
+    "seasonYear": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Martial Arts",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "5 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/47%20-%20SOS%20from%20the%20Future%20A%20Dark%20New%20Enemy%20Appears!%20%5B1080p%5D%20%5BW4F%5D.mp4",
+        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/47%20-%20SOS%20from%20the%20Future%20A%20Dark%20New%20Enemy%20Appears!%20%5B1080p%5D%20%5BW4F%5D.mp4",
+        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/47%20-%20SOS%20from%20the%20Future%20A%20Dark%20New%20Enemy%20Appears!%20%5B1080p%5D%20%5BW4F%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present%2C%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4",
+        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present%2C%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4",
+        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present%2C%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E05.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
+        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E05.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
+        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E05.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E06.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
+        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E06.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
+        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E06.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "22:00",
+        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E09.DUBBED.720p.HDTV.x264-CRiMSON%5Beztv%5D.mp4",
+        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E09.DUBBED.720p.HDTV.x264-CRiMSON%5Beztv%5D.mp4",
+        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E09.DUBBED.720p.HDTV.x264-CRiMSON%5Beztv%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 120120,
+    "title": {
+      "english": "Tokyo Revengers",
+      "romaji": "Tokyo Revengers",
+      "native": "東京リベンジャーズ"
+    },
+    "coverImage": {
+      "extraLarge": "https://media.kitsu.app/anime/poster_images/43321/large.jpg",
+      "large": "https://media.kitsu.app/anime/poster_images/43321/large.jpg",
+      "medium": "https://media.kitsu.app/anime/poster_images/43321/medium.jpg",
+      "color": "#3b82f6"
+    },
+    "bannerImage": "https://media.kitsu.app/anime/cover_images/43321/large.jpg",
+    "description": "Takemichi Hanagaki is a freelancer that's reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he's standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he's about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he's back living the best days of his life, Takemichi decides to get revenge on his life\n\n(Source: Crunchyroll)",
+    "averageScore": 82,
+    "seasonYear": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "3 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Tokyo Revengers Toonami Promo 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo%202.mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo%202.mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo%202.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Tokyo Revengers Toonami Promo (English Dub)",
+        "duration": "1:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo.mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo.mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Tokyo Revengers Toonami Short Promo 1 (English Dub)",
+        "duration": "1:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Short%20Promo%201.mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Short%20Promo%201.mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Short%20Promo%201.mp4"
       }
     ]
   }

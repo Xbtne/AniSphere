@@ -174,14 +174,14 @@ export function WatchlistProvider({ children }) {
       const saved = localStorage.getItem('anisphere_announcement');
       if (saved) {
         const parsed = JSON.parse(saved);
-        if (parsed?.message && parsed.message.includes('Login as Xron')) {
-          parsed.message = '✨ Welcome to AniSphere! 66 Legendary Series • 2,645+ 100% English Dub Episodes with Direct HD Streaming.';
+        if (parsed?.message && (parsed.message.includes('Login as Xron') || parsed.message.includes('66 Legendary Series'))) {
+          parsed.message = '✨ Welcome to AniSphere! 100 Legendary Series • 3,580+ 100% English Dub Episodes with Direct HD Streaming.';
         }
         return parsed;
       }
-      return { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Series • 2,645+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
+      return { active: true, message: '✨ Welcome to AniSphere! 100 Legendary Series • 3,580+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
     } catch {
-      return { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Series • 2,645+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
+      return { active: true, message: '✨ Welcome to AniSphere! 100 Legendary Series • 3,580+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
     }
   });
 
