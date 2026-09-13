@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — With verified Mature (TV-MA / 18+) content ratings
-// Total: 56 verified English Dub streams!
+// Total: 57 verified English Dub streams!
 // Updated with fresh cover images from AniList API
 
 export const OUR_ANIME_CATALOG = [
@@ -19614,297 +19614,297 @@ export const OUR_ANIME_CATALOG = [
         "episodeNumber": 1,
         "title": "Episode 1: Operation Strix",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.ia.mp4"
       },
       {
         "episodeNumber": 2,
         "title": "Episode 2: Secure a Wife",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.ia.mp4"
       },
       {
         "episodeNumber": 3,
         "title": "Episode 3: Prepare for the Entrance Exam",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.ia.mp4"
       },
       {
         "episodeNumber": 4,
         "title": "Episode 4: An Interview at a Prestigious School",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.ia.mp4"
       },
       {
         "episodeNumber": 5,
         "title": "Episode 5: Pass or Fail",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.ia.mp4"
       },
       {
         "episodeNumber": 6,
         "title": "Episode 6: The Friendship Scheme",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.ia.mp4"
       },
       {
         "episodeNumber": 7,
         "title": "Episode 7: Target  The Second Son",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.ia.mp4"
       },
       {
         "episodeNumber": 8,
         "title": "Episode 8: The Counter-Secret Police Cover Operation",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.ia.mp4"
       },
       {
         "episodeNumber": 9,
         "title": "Episode 9: Show Off How in Love You Are",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.ia.mp4"
       },
       {
         "episodeNumber": 10,
         "title": "Episode 10: The Great Dodgeball Plan",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.ia.mp4"
       },
       {
         "episodeNumber": 11,
         "title": "Episode 11: Stella",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.ia.mp4"
       },
       {
         "episodeNumber": 12,
         "title": "Episode 12: Penguin Park",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.ia.mp4"
       },
       {
         "episodeNumber": 13,
         "title": "Episode 13: Project Apple",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.ia.mp4"
       },
       {
         "episodeNumber": 14,
         "title": "Episode 14: Disarm the Time Bomb",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.ia.mp4"
       },
       {
         "episodeNumber": 15,
         "title": "Episode 15: A New Family Member",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.ia.mp4"
       },
       {
         "episodeNumber": 16,
         "title": "Episode 16: Yor's Kitchen The Great Romance Scheme for the Informant",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.ia.mp4"
       },
       {
         "episodeNumber": 17,
         "title": "Episode 17: Commence Operation Griffon Fullmetal Lady Omelette Rice♡",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.ia.mp4"
       },
       {
         "episodeNumber": 18,
         "title": "Episode 18: The Home Tutor Uncle Daybreak",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.ia.mp4"
       },
       {
         "episodeNumber": 19,
         "title": "Episode 19: The Revenge Plot Against Desmond The Mother Becomes the Wind",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.ia.mp4"
       },
       {
         "episodeNumber": 20,
         "title": "Episode 20: Investigate the General Hospital Decipher the Arcane Ciphers",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.ia.mp4"
       },
       {
         "episodeNumber": 21,
         "title": "Episode 21: Nightfall Jealousy for the First Time",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.ia.mp4"
       },
       {
         "episodeNumber": 22,
         "title": "Episode 22: Underground Tennis Tournament Campbelldon",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.ia.mp4"
       },
       {
         "episodeNumber": 23,
         "title": "Episode 23: The Unshaken Path",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.ia.mp4"
       },
       {
         "episodeNumber": 24,
         "title": "Episode 24: Mother and Wife Friends and Groceries",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.ia.mp4"
       },
       {
         "episodeNumber": 25,
         "title": "Episode 25: First Contact",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.ia.mp4"
       },
       {
         "episodeNumber": 26,
         "title": "Episode 26: Follow Mama and Papa",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.ia.mp4"
       },
       {
         "episodeNumber": 27,
         "title": "Episode 27: Bond's Strategy to Stay Alive   Damian's Field Research Trip",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.ia.mp4"
       },
       {
         "episodeNumber": 28,
         "title": "Episode 28: Mission and Family   The Elegant Bondman   The Heart of a Child   Waking Up",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.ia.mp4"
       },
       {
         "episodeNumber": 29,
         "title": "Episode 29: The Pastry of Knowledge   The Informant's Great Romance Plan II",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.ia.mp4"
       },
       {
         "episodeNumber": 30,
         "title": "Episode 30: Plan to Cross the Border",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.ia.mp4"
       },
       {
         "episodeNumber": 31,
         "title": "Episode 31: The Fearsome Luxury Cruise Ship",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.ia.mp4"
       },
       {
         "episodeNumber": 32,
         "title": "Episode 32: Who Is This Mission For",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.ia.mp4"
       },
       {
         "episodeNumber": 33,
         "title": "Episode 33: The Symphony Upon the Ship   Sis's Herb Tea",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.ia.mp4"
       },
       {
         "episodeNumber": 34,
         "title": "Episode 34: The Hand That Connects to the Future",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.ia.mp4"
       },
       {
         "episodeNumber": 35,
         "title": "Episode 35: Enjoy the Resort to the Fullest   Bragging About Vacation",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.ia.mp4"
       },
       {
         "episodeNumber": 36,
         "title": "Episode 36: Berlint in Love   Nightfall's Daily Life",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.ia.mp4"
       },
       {
         "episodeNumber": 37,
         "title": "Episode 37: Part of the Family",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.mp4",
-        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.mp4",
-        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.mp4"
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.ia.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.ia.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.ia.mp4"
       }
     ]
   },
@@ -21554,6 +21554,158 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2026%20-%20Visit!.mp4",
         "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2026%20-%20Visit!.mp4",
         "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2026%20-%20Visit!.mp4"
+      }
+    ]
+  },
+  {
+    "id": 163134,
+    "title": {
+      "english": "Re:ZERO -Starting Life in Another World- Season 3",
+      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+      "native": "Re:ゼロから始める異世界生活 3rd season"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-yieRFbvUOH9a.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-yieRFbvUOH9a.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163134-yieRFbvUOH9a.jpg",
+      "color": "#bbd6f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163134-CqaXjXVivwJ5.jpg",
+    "description": "A year has passed since Subaru’s victory at the Sanctuary. He savors a life of fulfillment while Emilia’s camp stands united for the royal selection—until a fateful letter arrives. Anastasia, a royal selection candidate, invites them to a city where the threads of fate begin to tighten once more.",
+    "averageScore": 84,
+    "seasonYear": 2024,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 3 • 15 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20001.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20001.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20002.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20002.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20003.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20003.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20004.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20004.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20005.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20005.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20005.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20007.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20007.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20008.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20008.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20009.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20009.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20010.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20010.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20011.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20011.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20012.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20012.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20012.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20013.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20013.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20013.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20014.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20014.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20014.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20015.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20015.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20015.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20016.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20016.mp4",
+        "subUrl": "https://archive.org/download/re-zero-kara-hajimeru-isekai-seikatsu-3nd-season-english-dub/Re%20Zero%20Kara%20Hajimeru%20Isekai%20Seikatsu%203nd%20Season%20(%20English%20Dub)%20016.mp4"
       }
     ]
   }
