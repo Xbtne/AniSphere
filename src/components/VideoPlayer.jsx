@@ -56,6 +56,8 @@ export default function VideoPlayer({
 
   const videoRef = useRef(null);
   const containerRef = useRef(null);
+  const viewportRef = useRef(null);
+  const hlsRef = useRef(null);
   const controlsTimeoutRef = useRef(null);
   const previousSeekRef = useRef(0);
   const previousEpRef = useRef(episode);
@@ -106,8 +108,23 @@ export default function VideoPlayer({
         : 'sub';
 
   const videoSrc = effectiveAudioLang === 'dub'
-    ? (currentEpObj?.dubUrl || currentEpObj?.videoUrl)
-    : (currentEpObj?.subUrl || currentEpObj?.videoUrl);
+    ? (currentEpObj?.dubUrl || currentEpObj?.hdUrl || currentEpObj?.videoUrl)
+    : (currentEpObj?.subUrl || currentEpObj?.hdUrl || currentEpObj?.videoUrl);
+
+  // Dynamic stream quality + source labels (no more fake hardcoded 1080p)
+  const streamQuality = (() => {
+    if (currentEpObj?.quality) return currentEpObj.quality;
+    if (currentEpObj?.videoUrl?.includes('archive.org')) return 'HD';
+    return 'HD';
+  })();
+  const streamSource = currentEpObj?.source || 'AniSphere Direct';
+
+  // Keep isFullscreen in sync with the browser fullscreen API
+  useEffect(() => {
+    const onFsChange = () => setIsFullscreen(Boolean(document.fullscreenElement));
+    document.addEventListener('fullscreenchange', onFsChange);
+    return () => document.removeEventListener('fullscreenchange', onFsChange);
+  }, []);
 
   // Auto load and play video when episode or videoSrc changes
   useEffect(() => {
@@ -128,8 +145,9 @@ export default function VideoPlayer({
     previousEpRef.current = episode;
 
     let isSubscribed = true;
+    let hls = null;
 
-    const handleReady = () => {
+    const playAfterReady = () => {
       if (!isSubscribed || !video) return;
       if (targetTime > 0) {
         try {
@@ -149,10 +167,68 @@ export default function VideoPlayer({
       }
     };
 
-    // Try to play immediately on loadedmetadata (faster than canplay)
-    video.addEventListener('loadedmetadata', handleReady, { once: true });
-    video.addEventListener('canplay', handleReady, { once: true });
-    video.addEventListener('loadeddata', handleReady, { once: true });
+    // Destroy any previous HLS engine
+    if (hlsRef.current) {
+      try { hlsRef.current.destroy(); } catch (err) {}
+      hlsRef.current = null;
+    }
+
+    const isHlsSource = /\.m3u8(\?|$)/i.test(videoSrc);
+
+    if (isHlsSource) {
+      // HLS / adaptive streams (non-archive sources, e.g. HLS CDNs)
+      // hls.js is lazy-loaded only when a stream actually needs it
+      let hls = null;
+      let cancelled = false;
+      import('hls.js').then(({ default: Hls }) => {
+        if (cancelled || !Hls.isSupported()) return;
+
+        hls = new Hls({ maxBufferLength: 30, enableWorker: true });
+        hlsRef.current = hls;
+
+        hls.on(Hls.Events.MANIFEST_PARSED, () => {
+          const levels = hls.levels;
+          if (levels && levels.length > 1) {
+            hls.autoLevelCapping = -1; // always pick the best quality for the bandwidth
+            hls.currentLevel = hls.levels.length - 1; // start at the highest variant
+          }
+          playAfterReady();
+        });
+
+        hls.on(Hls.Events.ERROR, (_event, data) => {
+          if (data && data.fatal) {
+            if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
+              hls.startLoad();
+            } else if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
+              hls.recoverMediaError();
+            } else {
+              try { hls.destroy(); } catch (err) {}
+              hlsRef.current = null;
+              if (isSubscribed) setIsLoadingVideo(false);
+            }
+          }
+        });
+
+        hls.loadSource(videoSrc);
+        hls.attachMedia(video);
+      });
+
+      return () => {
+        cancelled = true;
+        isSubscribed = false;
+        if (hls) {
+          try { hls.destroy(); } catch (err) {}
+          if (hlsRef.current === hls) hlsRef.current = null;
+        }
+        video.removeAttribute('src');
+        if (bufferingTimerRef.current) clearTimeout(bufferingTimerRef.current);
+      };
+    }
+
+    // Native MP4 / direct media
+    video.addEventListener('loadedmetadata', playAfterReady, { once: true });
+    video.addEventListener('canplay', playAfterReady, { once: true });
+    video.addEventListener('loadeddata', playAfterReady, { once: true });
 
     // Reduced safety timeout: clear buffer spinner after 1s for instant feel
     const bufferTimer = setTimeout(() => {
@@ -165,15 +241,17 @@ export default function VideoPlayer({
       }
     }, 1000);
 
+    video.src = videoSrc;
     video.load();
 
     return () => {
       isSubscribed = false;
       clearTimeout(bufferTimer);
+      video.removeAttribute('src');
       if (bufferingTimerRef.current) clearTimeout(bufferingTimerRef.current);
-      video.removeEventListener('loadedmetadata', handleReady);
-      video.removeEventListener('canplay', handleReady);
-      video.removeEventListener('loadeddata', handleReady);
+      video.removeEventListener('loadedmetadata', playAfterReady);
+      video.removeEventListener('canplay', playAfterReady);
+      video.removeEventListener('loadeddata', playAfterReady);
     };
   }, [episode, videoSrc, anime?.id]);
 
@@ -353,9 +431,9 @@ export default function VideoPlayer({
   };
 
   const toggleFullscreen = () => {
-    if (!containerRef.current) return;
+    if (!viewportRef.current) return;
     if (!document.fullscreenElement) {
-      containerRef.current.requestFullscreen?.().then(() => setIsFullscreen(true)).catch(() => {});
+      viewportRef.current.requestFullscreen?.({ navigationUI: 'hide' }).then(() => setIsFullscreen(true)).catch(() => {});
     } else {
       document.exitFullscreen?.().then(() => setIsFullscreen(false)).catch(() => {});
     }
@@ -446,7 +524,12 @@ export default function VideoPlayer({
       </div>
 
       {/* Main Video Viewport (100% Native HTML5 Video) */}
-      <div className="relative w-full aspect-video bg-black flex items-center justify-center overflow-hidden">
+      <div
+        ref={viewportRef}
+        className={`relative bg-black flex items-center justify-center overflow-hidden ${
+          isFullscreen ? 'w-screen h-screen' : 'w-full aspect-video'
+        }`}
+      >
         {videoSrc ? (
           <>
             <video
@@ -547,7 +630,7 @@ export default function VideoPlayer({
 
               <div className="flex items-center gap-2">
                 <span className="px-2.5 py-1 rounded-lg bg-emerald-500/20 text-emerald-300 text-[11px] font-bold border border-emerald-500/40 backdrop-blur-md">
-                  ● 1080p Ultra HD • Our Server
+                  ● {streamQuality.toUpperCase()} • {streamSource}
                 </span>
               </div>
             </div>
@@ -694,7 +777,7 @@ export default function VideoPlayer({
 
         <div className="flex items-center gap-3">
           <span className="text-amber-300 font-semibold">
-            AniSphere Direct Stream • 1080p Ultra HD
+            AniSphere Direct Stream • {streamQuality.toUpperCase()}
           </span>
         </div>
       </div>
