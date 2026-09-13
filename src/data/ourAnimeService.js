@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — With verified Mature (TV-MA / 18+) content ratings
-// Total: 52 verified English Dub streams!
+// Total: 56 verified English Dub streams!
 // Updated with fresh cover images from AniList API
 
 export const OUR_ANIME_CATALOG = [
@@ -20751,6 +20751,809 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20Special.mp4",
         "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20Special.mp4",
         "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20Special.mp4"
+      }
+    ]
+  },
+  {
+    "id": 99147,
+    "title": {
+      "english": "Attack on Titan Season 3",
+      "romaji": "Shingeki no Kyojin Season 3",
+      "native": "進撃の巨人 Season３"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-AiPDD8cwlCfi.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99147-AiPDD8cwlCfi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99147-AiPDD8cwlCfi.jpg",
+      "color": "#4386e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99147-HACsFVrynFf5.jpg",
+    "description": "Eren and his companions in the 104th are assigned to the newly-formed Levi Squad, whose assignment is to keep Eren and Historia safe given Eren's newly-discovered power and Historia's knowledge and pedigree. Levi and Erwin must decide how to use Eren and Historia as the politics of the royal family threaten to tear the walls down from within.",
+    "averageScore": 86,
+    "seasonYear": 2018,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 3 • 22 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E1-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E1-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E1-1080p.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E2-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E2-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E2-1080p.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E3-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E3-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E3-1080p.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E4-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E4-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E4-1080p.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E5-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E5-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E5-1080p.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E6-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E6-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E6-1080p.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E7-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E7-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E7-1080p.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E8-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E8-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E8-1080p.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E9-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E9-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E9-1080p.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E10-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E10-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E10-1080p.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E11-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E11-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E11-1080p.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E12-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E12-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E12-1080p.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E13-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E13-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E13-1080p.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E14-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E14-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E14-1080p.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E15-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E15-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E15-1080p.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E16-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E16-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E16-1080p.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E17-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E17-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E17-1080p.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E18-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E18-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E18-1080p.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E19-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E19-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E19-1080p.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E20-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E20-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E20-1080p.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E21-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E21-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E21-1080p.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E22-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E22-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-3_DUB-1080p/Attack_on_Titan_Season_3-E22-1080p.mp4"
+      }
+    ]
+  },
+  {
+    "id": 110277,
+    "title": {
+      "english": "Attack on Titan Final Season",
+      "romaji": "Shingeki no Kyojin: The Final Season",
+      "native": "進撃の巨人 The Final Season"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-sKUNXAsWMNFw.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx110277-sKUNXAsWMNFw.jpg",
+      "color": "#ae6b35"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
+    "description": "It's been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren has gone down a different path than his friends expect.",
+    "averageScore": 87,
+    "seasonYear": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "FINAL SEASON PART 1 • 16 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E1-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E1-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E1-1080p.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E2-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E2-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E2-1080p.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E3-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E3-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E3-1080p.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E4-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E4-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E4-1080p.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E5-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E5-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E5-1080p.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E6-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E6-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E6-1080p.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E7-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E7-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E7-1080p.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E8-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E8-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E8-1080p.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E9-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E9-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E9-1080p.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E10-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E10-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E10-1080p.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E11-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E11-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E11-1080p.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E12-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E12-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E12-1080p.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E13-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E13-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E13-1080p.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E14-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E14-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E14-1080p.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E15-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E15-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E15-1080p.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E16-1080p.mp4",
+        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E16-1080p.mp4",
+        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E16-1080p.mp4"
+      }
+    ]
+  },
+  {
+    "id": 20755,
+    "title": {
+      "english": "Assassination Classroom",
+      "romaji": "Ansatsu Kyoushitsu",
+      "native": "暗殺教室"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-dWrhs569YGUO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20755-dWrhs569YGUO.jpg",
+      "color": "#f1e45d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20755-D4ipww9U8YkC.jpg",
+    "description": "The students of class 3-E have a mission: kill their teacher before graduation. He has already destroyed the moon, and has promised to destroy the Earth if he cannot be killed within a year. But how can this class of misfits possibly kill a teacher who can move 20 times faster than the speed of sound?",
+    "averageScore": 79,
+    "seasonYear": 2015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 1 • 22 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/1AssassinationTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/1AssassinationTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/1AssassinationTime1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/2BaseballTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/2BaseballTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/2BaseballTime1.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/3KarmaTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/3KarmaTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/3KarmaTime1.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/4GrownUpTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/4GrownUpTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/4GrownUpTime1.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/5AssemblyTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/5AssemblyTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/5AssemblyTime1.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/6TestTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/6TestTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/6TestTime1.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/7SchoolTripTime1stPeriod1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/7SchoolTripTime1stPeriod1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/7SchoolTripTime1stPeriod1.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/8SchoolTripTime2ndPeriod1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/8SchoolTripTime2ndPeriod1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/8SchoolTripTime2ndPeriod1.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/9TransferStudentTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/9TransferStudentTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/9TransferStudentTime1.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/10LRTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/10LRTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/10LRTime1.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/11TransferStudentTime2ndPeriod1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/11TransferStudentTime2ndPeriod1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/11TransferStudentTime2ndPeriod1.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/12BallGameTournamentTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/12BallGameTournamentTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/12BallGameTournamentTime1.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/13TalentTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/13TalentTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/13TalentTime1.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/14VisionTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/14VisionTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/14VisionTime1.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/15EndofTermTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/15EndofTermTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/15EndofTermTime1.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/16SchoolsOut1stTerm1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/16SchoolsOut1stTerm1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/16SchoolsOut1stTerm1.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/17IslandTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/17IslandTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/17IslandTime1.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/18ActionTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/18ActionTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/18ActionTime1.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/19PandemoniumTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/19PandemoniumTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/19PandemoniumTime1.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/20KarmaTime2ndPeriod1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/20KarmaTime2ndPeriod1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/20KarmaTime2ndPeriod1.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/21TakaokaTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/21TakaokaTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/21TakaokaTime1.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "23:00",
+        "videoUrl": "https://archive.org/download/assassinationclassroomseason1/22NagisaTime1.mp4",
+        "dubUrl": "https://archive.org/download/assassinationclassroomseason1/22NagisaTime1.mp4",
+        "subUrl": "https://archive.org/download/assassinationclassroomseason1/22NagisaTime1.mp4"
+      }
+    ]
+  },
+  {
+    "id": 7791,
+    "title": {
+      "english": "K-ON! Season 2",
+      "romaji": "K-ON!!",
+      "native": "けいおん!!"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7791-HKAVywZjY6EL.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7791-HKAVywZjY6EL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7791-HKAVywZjY6EL.jpg",
+      "color": "#e45d5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7791-uWQzKEJzCWNE.jpg",
+    "description": "After the success of the Light Music Club's first performance, Yui, Mio, Ritsu, Tsumugi and Azusa are back as seniors. Their goal remains the same as always, but with the school festival approaching and graduation looming on the horizon, the girls are determined to make their final year—and their days in the club—last as long as possible.",
+    "averageScore": 79,
+    "seasonYear": 2010,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 2 • 26 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2001%20-%20Seniors!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2001%20-%20Seniors!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2001%20-%20Seniors!.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%202%20-%20Clean-up!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%202%20-%20Clean-up!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%202%20-%20Clean-up!.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2003%20-%20Drummer!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2003%20-%20Drummer!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2003%20-%20Drummer!.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2004%20-%20Field%20Trip!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2004%20-%20Field%20Trip!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2004%20-%20Field%20Trip!.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%205%20-%20Staying%20Behind!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%205%20-%20Staying%20Behind!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%205%20-%20Staying%20Behind!.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2006%20-%20Rainy%20Season!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2006%20-%20Rainy%20Season!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2006%20-%20Rainy%20Season!.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2007%20-%20Tea%20Party!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2007%20-%20Tea%20Party!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2007%20-%20Tea%20Party!.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%208%20-%20The%20Future!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%208%20-%20The%20Future!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%208%20-%20The%20Future!.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2009%20-%20Finals!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2009%20-%20Finals!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2009%20-%20Finals!.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2010%20-%20Teacher!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2010%20-%20Teacher!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2010%20-%20Teacher!.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2011%20-%20Hot!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2011%20-%20Hot!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2011%20-%20Hot!.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2012%20-%20Summer%20Festival!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2012%20-%20Summer%20Festival!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2012%20-%20Summer%20Festival!.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2013%20-%20Post-Summer%20Greeting%20Card!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2013%20-%20Post-Summer%20Greeting%20Card!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2013%20-%20Post-Summer%20Greeting%20Card!.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2014%20-%20Summer%20Classes!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2014%20-%20Summer%20Classes!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2014%20-%20Summer%20Classes!.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2015%20-%20Marathon!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2015%20-%20Marathon!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2015%20-%20Marathon!.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2016%20-%20Upperclassmen!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2016%20-%20Upperclassmen!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2016%20-%20Upperclassmen!.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2017%20-%20No%20Music%20Room!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2017%20-%20No%20Music%20Room!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2017%20-%20No%20Music%20Room!.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2018%20-%20Leading%20Role!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2018%20-%20Leading%20Role!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2018%20-%20Leading%20Role!.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2019%20-%20Romeo%20%26%20Juliet!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2019%20-%20Romeo%20%26%20Juliet!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2019%20-%20Romeo%20%26%20Juliet!.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2020%20-%20Once%20Again%2C%20School%20Festival!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2020%20-%20Once%20Again%2C%20School%20Festival!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2020%20-%20Once%20Again%2C%20School%20Festival!.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2021%20-%20Yearbook!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2021%20-%20Yearbook!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2021%20-%20Yearbook!.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2022%20-%20Exams!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2022%20-%20Exams!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2022%20-%20Exams!.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2023%20-%20After%20School!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2023%20-%20After%20School!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2023%20-%20After%20School!.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2024%20(Finale)%20-%20Graduation!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2024%20(Finale)%20-%20Graduation!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2024%20(Finale)%20-%20Graduation!.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2025%20-%20Planning%20Discussion!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2025%20-%20Planning%20Discussion!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2025%20-%20Planning%20Discussion!.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2026%20-%20Visit!.mp4",
+        "dubUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2026%20-%20Visit!.mp4",
+        "subUrl": "https://archive.org/download/k-on-s2-animax-dub/K-ON!!%20Ep%2026%20-%20Visit!.mp4"
       }
     ]
   }
