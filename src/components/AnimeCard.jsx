@@ -1,5 +1,5 @@
 import React from 'react';
-import { Play, Plus, Check, Star, Clock, Heart, Radio, Volume2 } from 'lucide-react';
+import { Play, Plus, Check, Star, Clock, Heart, Radio, Volume2, Award } from 'lucide-react';
 import { useWatchlist, WATCH_STATUSES } from '../context/WatchlistContext';
 import { hasEnglishDub } from '../api/anilist';
 
@@ -33,7 +33,16 @@ const FALLBACK_POSTER = "data:image/svg+xml;charset=UTF-8," + encodeURIComponent
 `);
 
 export default function AnimeCard({ anime, onSelect, compact = false }) {
-  const { watchlist, setAnimeStatus, toggleFavorite, isFavorite, isMatureAnime, getAnimeRating, getAnimeWarnings } = useWatchlist();
+  const {
+    watchlist,
+    setAnimeStatus,
+    toggleFavorite,
+    isFavorite,
+    isMatureAnime,
+    getAnimeRating,
+    getAnimeWarnings,
+    isStaffPick
+  } = useWatchlist();
 
   if (!anime) return null;
 
@@ -85,6 +94,13 @@ export default function AnimeCard({ anime, onSelect, compact = false }) {
           <div className="absolute left-3 top-3 z-10 rounded-lg bg-[#151a17]/95 px-2.5 py-1 text-[10px] font-black uppercase tracking-[0.12em] text-white border border-white/10 shadow-lg backdrop-blur-sm">
             HD
           </div>
+
+          {isStaffPick(anime.id) && (
+            <div className="absolute right-3 top-3 z-10 rounded-lg bg-gradient-to-r from-amber-500 to-yellow-600 px-2 py-1 text-[9px] font-black uppercase tracking-wider text-[#0a0f0c] shadow-lg shadow-amber-500/40 flex items-center gap-1 border border-amber-300/40">
+              <Award className="w-3 h-3" />
+              <span>STAFF PICK</span>
+            </div>
+          )}
 
           <div className="absolute inset-x-0 bottom-0 z-10 flex items-end justify-between gap-2 p-3">
             <div className="rounded-lg bg-black/75 px-2.5 py-1.5 text-[11px] font-bold text-white ring-1 ring-white/10 backdrop-blur-sm shadow-lg">

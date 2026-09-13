@@ -131,6 +131,37 @@ export function WatchlistProvider({ children }) {
     }
   });
 
+  // Staff Picks curation state (persisted)
+  const [staffPicks, setStaffPicks] = useState(() => {
+    try {
+      const saved = localStorage.getItem('anisphere_staff_picks');
+      if (saved) return JSON.parse(saved);
+      return {
+        171018: { isStaffPick: true, staffNotes: 'Supernatural alien chaos with mind-blowing animation and comedy!' },
+        130298: { isStaffPick: true, staffNotes: 'Masterpiece of unintentional chuunibyou genius and overpowered action.' },
+        120377: { isStaffPick: true, staffNotes: 'Studio Trigger masterpiece with pure emotional devastation.' },
+        127230: { isStaffPick: true, staffNotes: 'Cinematic perfection and visceral action from MAPPA.' },
+        392: { isStaffPick: true, staffNotes: 'The gold standard of 90s supernatural shonen tournament arcs.' },
+        101302: { isStaffPick: true, staffNotes: 'Peak Dragon Ball animation and god-tier fight choreography.' },
+        16498: { isStaffPick: true, staffNotes: 'The ultimate psychological battle of wits that redefined anime.' },
+        1535: { isStaffPick: true, staffNotes: 'L vs Light — the most gripping battle of intellect ever animated.' },
+        98659: { isStaffPick: true, staffNotes: 'Calculated psychological mind games in elite high school society.' },
+      };
+    } catch {
+      return {};
+    }
+  });
+
+  // Sitewide Broadcast Announcement
+  const [announcement, setAnnouncement] = useState(() => {
+    try {
+      const saved = localStorage.getItem('anisphere_announcement');
+      return saved ? JSON.parse(saved) : { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Anime • 2,645+ 100% English Dub Episodes! Login as Xron for Admin Panel.', type: 'info' };
+    } catch {
+      return { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Anime • 2,645+ 100% English Dub Episodes! Login as Xron for Admin Panel.', type: 'info' };
+    }
+  });
+
   useEffect(() => {
     try {
       localStorage.setItem(`anisphere_watchlist_${username}`, JSON.stringify(watchlist));
@@ -194,6 +225,55 @@ export function WatchlistProvider({ children }) {
       console.error(e);
     }
   }, [contentReports]);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem('anisphere_staff_picks', JSON.stringify(staffPicks));
+    } catch (e) {
+      console.error(e);
+    }
+  }, [staffPicks]);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem('anisphere_announcement', JSON.stringify(announcement));
+    } catch (e) {
+      console.error(e);
+    }
+  }, [announcement]);
+
+  // Staff Picks helpers
+  const isStaffPick = (animeId) => {
+    if (!animeId) return false;
+    return Boolean(staffPicks[animeId]?.isStaffPick);
+  };
+
+  const getStaffNotes = (animeId) => {
+    return staffPicks[animeId]?.staffNotes || 'Handpicked recommendation from AniSphere Staff.';
+  };
+
+  const toggleStaffPick = (animeId, staffNotes = 'Handpicked by AniSphere Staff') => {
+    setStaffPicks(prev => {
+      const current = prev[animeId]?.isStaffPick;
+      if (current) {
+        const next = { ...prev };
+        delete next[animeId];
+        return next;
+      }
+      return {
+        ...prev,
+        [animeId]: {
+          isStaffPick: true,
+          staffNotes,
+          updatedAt: Date.now()
+        }
+      };
+    });
+  };
+
+  const setBroadcastAnnouncement = (newAnnouncement) => {
+    setAnnouncement(newAnnouncement);
+  };
 
   // Age confirmation methods
   const confirmAge = () => setIsAgeConfirmed(true);
@@ -370,7 +450,15 @@ export function WatchlistProvider({ children }) {
         contentReports,
         reportContent,
         resolveReport,
-        deleteReport
+        deleteReport,
+        // Staff Picks
+        staffPicks,
+        isStaffPick,
+        getStaffNotes,
+        toggleStaffPick,
+        // Announcement
+        announcement,
+        setBroadcastAnnouncement
       }}
     >
       {children}

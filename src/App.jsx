@@ -7,6 +7,8 @@ import MatureSection from './components/MatureSection';
 import WatchModal from './components/WatchModal';
 import WatchlistDrawer from './components/WatchlistDrawer';
 import AuthModal from './components/AuthModal';
+import AdminPanel from './components/AdminPanel';
+import ProfileModal from './components/ProfileModal';
 import { OUR_ANIME_CATALOG } from './data/ourAnimeService';
 import {
   Sparkles,
@@ -19,7 +21,9 @@ import {
   ArrowUp,
   ShieldAlert,
   CheckCircle2,
-  X
+  X,
+  Award,
+  Megaphone
 } from 'lucide-react';
 import { useWatchlist } from './context/WatchlistContext';
 import { useAuth } from './context/AuthContext';
@@ -31,9 +35,20 @@ export default function App() {
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [isMatureGateOpen, setIsMatureGateOpen] = useState(false);
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+  const [isAdminPanelOpen, setIsAdminPanelOpen] = useState(false);
+  const [isProfileOpen, setIsProfileOpen] = useState(false);
 
-  const { history, isAgeConfirmed, confirmAge, revokeAgeConfirmation, isMatureAnime } = useWatchlist();
-  const { isAuthenticated } = useAuth();
+  const {
+    history,
+    isAgeConfirmed,
+    confirmAge,
+    revokeAgeConfirmation,
+    isMatureAnime,
+    staffPicks,
+    isStaffPick,
+    announcement
+  } = useWatchlist();
+  const { isAuthenticated, user, isAdmin } = useAuth();
 
   const regularCatalog = React.useMemo(
     () => OUR_ANIME_CATALOG.filter((anime) => !isMatureAnime(anime)),
@@ -47,6 +62,10 @@ export default function App() {
 
   // Curated categories strictly from OUR_ANIME_CATALOG (100% playable direct streams)
   const heroSpotlight = React.useMemo(() => regularCatalog.slice(0, 8), [regularCatalog]);
+  const staffPicksList = React.useMemo(
+    () => regularCatalog.filter((a) => isStaffPick(a.id)),
+    [regularCatalog, isStaffPick, staffPicks]
+  );
   const featured = React.useMemo(() => regularCatalog, [regularCatalog]);
   const actionHits = React.useMemo(() => regularCatalog.filter(a => a.genres.includes('Action')), [regularCatalog]);
   const topRated = React.useMemo(() => [...regularCatalog].sort((a, b) => b.averageScore - a.averageScore), [regularCatalog]);
@@ -118,10 +137,21 @@ export default function App() {
         onRollRandom={handleRollRandom}
         activeSection={activeSection}
         onNavigateSection={handleNavigateSection}
+        onOpenAdmin={() => setIsAdminPanelOpen(true)}
+        onOpenProfile={() => setIsProfileOpen(true)}
+        onOpenAuth={() => setIsAuthModalOpen(true)}
       />
 
+      {/* Sitewide Announcement Banner */}
+      {announcement?.active && announcement?.message && (
+        <div className="fixed top-16 left-0 right-0 z-30 px-4 py-2 bg-gradient-to-r from-amber-600/90 via-yellow-600/90 to-amber-700/90 text-[#0a0f0c] backdrop-blur-md border-b border-amber-300/40 shadow-lg text-center text-xs font-bold flex items-center justify-center gap-2">
+          <Megaphone className="w-3.5 h-3.5 shrink-0 text-[#0a0f0c]" />
+          <span>{announcement.message}</span>
+        </div>
+      )}
+
       {/* Hero Spotlight Billboard */}
-      <div id="hero">
+      <div id="hero" className={announcement?.active && announcement?.message ? 'pt-6' : ''}>
         <HeroBanner
           animeList={heroSpotlight}
           onSelectAnime={handleSelectAnime}
@@ -140,6 +170,20 @@ export default function App() {
             badgeText="Recent"
             badgeColor="cyan"
             animeList={history.map((h) => h.anime).filter((anime) => !isMatureAnime(anime))}
+            onSelectAnime={handleSelectAnime}
+          />
+        )}
+
+        {/* STAFF PICKS: CURATED COMMUNITY ESSENTIALS */}
+        {staffPicksList.length > 0 && (
+          <AnimeRow
+            id="staff-picks"
+            title="Staff Picks: Curated Masterpieces"
+            subtitle="Handpicked essentials chosen by AniSphere staff with custom recommendations"
+            icon={Award}
+            badgeText="Staff Curated"
+            badgeColor="amber"
+            animeList={staffPicksList}
             onSelectAnime={handleSelectAnime}
           />
         )}
@@ -292,6 +336,16 @@ export default function App() {
 
       {/* Auth Modal */}
       <AuthModal isOpen={isAuthModalOpen} onClose={() => setIsAuthModalOpen(false)} />
+
+      {/* Admin Panel for Xron / Admins */}
+      <AdminPanel isOpen={isAdminPanelOpen} onClose={() => setIsAdminPanelOpen(false)} />
+
+      {/* Profile Modal */}
+      <ProfileModal
+        isOpen={isProfileOpen}
+        onClose={() => setIsProfileOpen(false)}
+        onOpenAdmin={() => setIsAdminPanelOpen(true)}
+      />
 
       {/* Watchlist & History Drawer */}
       <WatchlistDrawer

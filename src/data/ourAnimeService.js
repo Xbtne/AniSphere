@@ -1,9 +1,567 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 2589 verified English Dub streams!
+// Total: 2645 verified English Dub streams!
 
 export const OUR_ANIME_CATALOG = [
+  {
+    "id": 171018,
+    "title": {
+      "english": "DAN DA DAN",
+      "romaji": "Dandadan",
+      "native": "ダンダダン"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171018-60q1B6GK2Ghb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171018-60q1B6GK2Ghb.jpg",
+      "color": "#e47850"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXl.jpg",
+    "description": "This is a story about Momo, a high school girl who comes from a family of spirit mediums, and her classmate Okarun, an occult fanatic. After Momo rescues Okarun from being bullied, they begin talking. However, an argument ensues between them since Momo believes in ghosts but denies aliens exist, and Okarun believes in aliens but denies ghosts exist.\n\nTo prove to each other what they believe in is real, Momo goes to an abandoned hospital where a UFO has been spotted and Okarun goes to a tunnel rumored to be haunted. To their surprise, they each encounter overwhelming paranormal activities that transcend comprehension. Amid these predicaments, Momo awakens her hidden power and Okarun gains the power of a curse to overcome these new dangers! Their fateful love begins as well!?\n\nThe story of the occult battle and adolescence starts!\n(Source: Crunchyroll) \n\nNotes: \n- Worldwide premiere of Episode 1 before the Japanese television premiere occurred at Anime Expo July 6, 2024. \n- Episodes 1-3 titled as DAN DA DAN: FIRST ENCOUNTER was pre-screened in advance in theaters on August 31, 2024 in Asia, September 7, 2024 in Europe and September 13, 2024 in North America. The regular TV broadcast began October 4, 2024.",
+    "averageScore": 83,
+    "seasonYear": 2024,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "HOT NEW 2024 • 12 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Supernatural alien chaos with mind-blowing animation and comedy!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/1-%20That's%20How%20Love%20Starts,%20Ya%20Know!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/1-%20That's%20How%20Love%20Starts,%20Ya%20Know!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/1-%20That's%20How%20Love%20Starts,%20Ya%20Know!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/2%20-%20That's%20a%20Space%20Alien,%20Ain't%20It!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/2%20-%20That's%20a%20Space%20Alien,%20Ain't%20It!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/2%20-%20That's%20a%20Space%20Alien,%20Ain't%20It!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/3%20-%20It's%20a%20Granny%20vs.%20Granny%20Clash!%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/3%20-%20It's%20a%20Granny%20vs.%20Granny%20Clash!%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/3%20-%20It's%20a%20Granny%20vs.%20Granny%20Clash!%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/4%20-%20%20Kicking%20Turbo%20Granny's%20Ass%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/4%20-%20%20Kicking%20Turbo%20Granny's%20Ass%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/4%20-%20%20Kicking%20Turbo%20Granny's%20Ass%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/5%20-%20Like,%20Where%20Are%20Your%20Balls!%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/5%20-%20Like,%20Where%20Are%20Your%20Balls!%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/5%20-%20Like,%20Where%20Are%20Your%20Balls!%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/6%20-%20A%20Dangerous%20Woman%20Arrives%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/6%20-%20A%20Dangerous%20Woman%20Arrives%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/6%20-%20A%20Dangerous%20Woman%20Arrives%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/9%20-%20Merge!%20Serpo%20Dover%20Demon%20Nessie!%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/9%20-%20Merge!%20Serpo%20Dover%20Demon%20Nessie!%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/9%20-%20Merge!%20Serpo%20Dover%20Demon%20Nessie!%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/10%20-%20Have%20You%20Ever%20Seen%20a%20Cattle%20Mutilation%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/10%20-%20Have%20You%20Ever%20Seen%20a%20Cattle%20Mutilation%20%5B1080p%5D%20%5BShinny%5D.mp4",
+        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/10%20-%20Have%20You%20Ever%20Seen%20a%20Cattle%20Mutilation%20%5B1080p%5D%20%5BShinny%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 130298,
+    "title": {
+      "english": "The Eminence in Shadow",
+      "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+      "native": "陰の実力者になりたくて！"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-YMdcKHytpWNH.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-YMdcKHytpWNH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130298-YMdcKHytpWNH.jpg",
+      "color": "#d61a1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130298-9yxFlFvKMwRk.jpg",
+    "description": "Some people just aren’t suited to playing the part of the flashy, in-your-face hero or the dastardly, mustache-twirling villain with larger-than-life panache. Instead, they operate in the shadows and pull the strings of society through wit and cleverness. That’s the role Cid wants to play when he’s transported to another world. Cid spins a yarn or three and becomes the unlikely leader of the underground Shadow Garden organization that fights against a menacing cult (which he totally made up). However, there’s a catch even his wild imagination didn’t see coming: the cult he concocted actually exists, and they’re beyond displeased that his power fantasy just got in the way of their evil plans!\n\n(Source: HIDIVE)",
+    "averageScore": 81,
+    "seasonYear": 2022,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "ISEKAI HIT • 20 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Masterpiece of unintentional chuunibyou genius and overpowered action.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/13%20-%20s1e13.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/13%20-%20s1e13.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/13%20-%20s1e13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/14%20-%20s1e14.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/14%20-%20s1e14.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/14%20-%20s1e14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/15%20-%20s1e15.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/15%20-%20s1e15.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/15%20-%20s1e15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/16%20-%20s1e16.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/16%20-%20s1e16.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/16%20-%20s1e16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/17%20-%20s1e17.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/17%20-%20s1e17.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/17%20-%20s1e17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/18%20-%20s1e18.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/18%20-%20s1e18.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/18%20-%20s1e18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/19%20-%20s1e19.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/19%20-%20s1e19.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/19%20-%20s1e19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/20%20-%20s1e20.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/20%20-%20s1e20.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s1/20%20-%20s1e20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/02%20-%20s2e2.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/02%20-%20s2e2.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/02%20-%20s2e2.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/03%20-%20s2e3.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/03%20-%20s2e3.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/03%20-%20s2e3.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/05%20-%20s2e5.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/05%20-%20s2e5.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/05%20-%20s2e5.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/06%20-%20s2e6.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/06%20-%20s2e6.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/06%20-%20s2e6.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/07%20-%20s2e7.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/07%20-%20s2e7.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/07%20-%20s2e7.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/08%20-%20s2e8.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/08%20-%20s2e8.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/08%20-%20s2e8.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/09%20-%20s2e9.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/09%20-%20s2e9.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/09%20-%20s2e9.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/10%20-%20s2e10.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/10%20-%20s2e10.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/10%20-%20s2e10.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/11%20-%20s2e11.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/11%20-%20s2e11.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/11%20-%20s2e11.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/12%20-%20s2e12.mp4",
+        "dubUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/12%20-%20s2e12.mp4",
+        "subUrl": "https://archive.org/download/07-s-1e-7/The%20Eminence%20in%20Shadow/s2/12%20-%20s2e12.mp4"
+      }
+    ]
+  },
+  {
+    "id": 98659,
+    "title": {
+      "english": "Classroom of the Elite",
+      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "native": "ようこそ実力至上主義の教室へ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98659-WNyPLIZDpGGY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98659-WNyPLIZDpGGY.jpg",
+      "color": "#bbf1a1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98659-u46B5RCNl9il.jpg",
+    "description": "Koudo Ikusei Senior High School is a leading school with state-of-the-art facilities. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is like a utopia, but the truth is that only the most superior students receive favorable treatment.\n\nKiyotaka Ayanokouji is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Suzune Horikita and Kikyou Kushida, two other students in his class, Kiyotaka's situation begins to change. \n(Source: Anime News Network, edited)",
+    "averageScore": 76,
+    "seasonYear": 2017,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "PSYCHOLOGICAL • 12 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Calculated psychological battles where everyone has a hidden agenda.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/01%20-%20s1e1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/02%20-%20s1e2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4"
+      }
+    ]
+  },
   {
     "id": 392,
     "title": {

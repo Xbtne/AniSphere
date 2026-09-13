@@ -1,5 +1,23 @@
 import React, { useState, useEffect } from 'react';
-import { Sparkles, Film, Bookmark, Search, Flame, Calendar, Star, Database, Dices, Zap, ShieldAlert, LogOut, User, Menu, X } from 'lucide-react';
+import {
+  Sparkles,
+  Film,
+  Bookmark,
+  Search,
+  Flame,
+  Calendar,
+  Star,
+  Database,
+  Dices,
+  Zap,
+  ShieldAlert,
+  LogOut,
+  User,
+  Menu,
+  X,
+  Award,
+  Shield
+} from 'lucide-react';
 import { useWatchlist } from '../context/WatchlistContext';
 import { useAuth } from '../context/AuthContext';
 import AuthModal from './AuthModal';
@@ -10,12 +28,15 @@ export default function Navbar({
   onRollRandom,
   activeSection,
   onNavigateSection,
+  onOpenAdmin,
+  onOpenProfile,
+  onOpenAuth,
 }) {
   const [scrolled, setScrolled] = useState(false);
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const { watchlist } = useWatchlist();
-  const { user, logout, isAuthenticated } = useAuth();
+  const { user, logout, isAuthenticated, isAdmin } = useAuth();
 
   const totalSaved = Object.keys(watchlist).length;
 
@@ -29,6 +50,7 @@ export default function Navbar({
 
   const navItems = [
     { id: 'featured', label: 'Featured', icon: Sparkles },
+    { id: 'staff-picks', label: 'Staff Picks', icon: Award, badge: 'HOT' },
     { id: 'action', label: 'Action & Shonen', icon: Flame },
     { id: 'top-rated', label: 'Top Rated', icon: Star },
     { id: 'scifi', label: 'Sci-Fi & Thriller', icon: Zap },
@@ -120,18 +142,40 @@ export default function Navbar({
             <span className="hidden md:inline text-gray-300">Search 628+ Dub Episodes...</span>
           </button>
 
+          {/* Xron Admin Panel Launcher */}
+          {isAdmin && (
+            <button
+              onClick={onOpenAdmin}
+              className="flex items-center gap-1.5 px-3 py-2 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-400 hover:to-yellow-500 border border-amber-300/40 text-[#0a0f0c] text-xs font-black transition-all duration-300 hover:scale-105 shadow-xl shadow-amber-500/30"
+              title="Open Admin Control Center"
+            >
+              <Shield className="w-4 h-4" />
+              <span className="hidden sm:inline">Admin Panel</span>
+            </button>
+          )}
+
+          {/* User Profile Button / Sign In */}
           {isAuthenticated ? (
             <button
-              onClick={logout}
-              className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-teal-500/40 text-xs font-semibold text-teal-200 transition-all duration-300 hover:scale-105 shadow-lg"
-              title="Sign out"
+              onClick={onOpenProfile}
+              className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-semibold text-amber-200 transition-all duration-300 hover:scale-105 shadow-lg group"
+              title="Open Profile Settings"
             >
-              <LogOut className="w-4 h-4 text-teal-300" />
-              <span className="hidden sm:inline">{user?.username}</span>
+              <img
+                src={user?.avatar || 'https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-50mB868V8K2m.jpg'}
+                alt=""
+                className="w-6 h-6 rounded-full object-cover ring-1 ring-amber-400/50"
+              />
+              <span className="hidden sm:inline font-bold">{user?.displayName || user?.username}</span>
+              {isAdmin && (
+                <span className="text-[9px] font-black uppercase px-1.5 py-0.2 rounded bg-amber-500 text-[#0a0f0c] shadow">
+                  ADMIN
+                </span>
+              )}
             </button>
           ) : (
             <button
-              onClick={() => setIsAuthModalOpen(true)}
+              onClick={() => (onOpenAuth ? onOpenAuth() : setIsAuthModalOpen(true))}
               className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-400 hover:to-yellow-500 border border-amber-300/40 text-xs font-semibold text-[#0a0f0c] transition-all duration-300 hover:scale-105 shadow-xl shadow-amber-600/40"
               title="Sign in"
             >
