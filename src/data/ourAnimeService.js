@@ -4905,19 +4905,19 @@ export const OUR_ANIME_CATALOG = [
     ]
   },
   {
-    "id": 20605,
+    "id": 20958,
     "title": {
       "english": "Attack on Titan Season 2",
       "romaji": "Shingeki no Kyojin Season 2",
-      "native": "進撃の巨人 Season2"
+      "native": "進撃の巨人 Season２"
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b20605-k665mVkSug8D.jpg",
-      "color": "#ff6b35"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20958-HuFJyr54Mmir.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20958-HuFJyr54Mmir.jpg",
+      "color": "#e47850"
     },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20605-RCJ7M71zLmrh.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20958-Y7eQdz9VENBD.jpg",
     "description": "The Scouts have returned with a new mission, a darker truth, and a stronger enemy force. Season 2 deepens the war, the politics, and the horrors behind the walls.",
     "averageScore": 87,
     "seasonYear": 2017,
