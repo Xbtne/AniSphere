@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — With verified Mature (TV-MA / 18+) content ratings
-// Total: 49 verified English Dub streams!
+// Total: 51 verified English Dub streams!
 // Updated with fresh cover images from AniList API
 
 export const OUR_ANIME_CATALOG = [
@@ -20157,6 +20157,466 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E28.mp4",
         "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E28.mp4",
         "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E28.mp4"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": {
+      "english": "Trigun",
+      "romaji": "TRIGUN",
+      "native": "TRIGUN"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6-wd4saT1JzStH.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6-wd4saT1JzStH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6-wd4saT1JzStH.jpg",
+      "color": "#5086c9"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6-4pIR2RY8AHZ0.jpg",
+    "description": "Vash the Stampede is a wanted man with a habit of turning entire towns into rubble. The price on his head is a fortune, and his path of destruction reaches across the arid wastelands of a desert planet. Unfortunately, most encounters with the spiky-haired gunslinger don't end well for the bounty hun",
+    "averageScore": 80,
+    "seasonYear": 1998,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 26 EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP1.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP1.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP2.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP2.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP3.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP3.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP4.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP4.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP5.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP5.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP6.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP6.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP7.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP7.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP8.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP8.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP9.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP9.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP10.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP10.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP11.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP11.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP12.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP12.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP13.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP13.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP14.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP14.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP15.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP15.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP16.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP16.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP17.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP17.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP18.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP18.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP19.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP19.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP20.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP20.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP21.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP21.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP22.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP22.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP23.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP23.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP24.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP24.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP24.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP25.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP25.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP25.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP26.mp4",
+        "dubUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP26.mp4",
+        "subUrl": "https://archive.org/download/anime-time-trigun-576p-1998/%5BAnime%20Time%5D%20Trigun%20S01EP26.mp4"
+}
+    ]
+  },
+  {
+    "id": 20623,
+    "title": {
+      "english": "Parasyte -the maxim-",
+      "romaji": "Kiseijuu: Sei no Kakuritsu",
+      "native": "寄生獣 セイの格率"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-dUARfggnNDOe.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20623-dUARfggnNDOe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20623-dUARfggnNDOe.jpg",
+      "color": "#285086"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20623-xb9PPf8rGOsG.jpg",
+    "description": "They arrive in silence and darkness. They descend from the skies. They have a hunger for human flesh. They are everywhere. They are parasites, alien creatures who must invade–and take control of–a human host to survive. And once they have infected their victims, they can assume any deadly form they ",
+    "averageScore": 81,
+    "seasonYear": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 24 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2001%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2001%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2001%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2002%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2002%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2002%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2003%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2003%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2003%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2004%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2004%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2004%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2005%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2005%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2005%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2006%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2006%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2006%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2007%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2007%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2007%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2008%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2008%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2008%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2009%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2009%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2009%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2010%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2010%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2010%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2011%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2011%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2011%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2012%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2012%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2012%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2013%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2013%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2013%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2014%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2014%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2014%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2015%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2015%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2015%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2016%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2016%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2016%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2017%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2017%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2017%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2018%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2018%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2018%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2019%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2019%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2019%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2020%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2020%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2020%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2021%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2021%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2021%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2022%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2022%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2022%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2023%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2023%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2023%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:30",
+        "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2024%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2024%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
+        "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2024%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
       }
     ]
   }
