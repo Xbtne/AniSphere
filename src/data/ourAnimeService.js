@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — With verified Mature (TV-MA / 18+) content ratings
-// Total: 51 verified English Dub streams!
+// Total: 52 verified English Dub streams!
 // Updated with fresh cover images from AniList API
 
 export const OUR_ANIME_CATALOG = [
@@ -20617,6 +20617,140 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2024%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
         "dubUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2024%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4",
         "subUrl": "https://archive.org/download/anime-rg_parasyte-the-maxim_1080p_2015/%5BAnimeRG%5D%20Parasyte%20-the%20maxim-%2024%20%5B1080p%5D%20%5Bx265%5D%20%5Bpseudo%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 20931,
+    "title": {
+      "english": "Death Parade",
+      "romaji": "Death Parade",
+      "native": "デス・パレード"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20931-bktYqOcxPERi.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20931-bktYqOcxPERi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx20931-bktYqOcxPERi.jpg",
+      "color": "#35a1f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20931-xDhiTPZmtS3u.jpg",
+    "description": "When two people die at the same time, they’re sent to a place that’s neither heaven nor hell—a lavish bar between worlds where the stakes are high and the rules are simple: if you win you live again, if you die… you’re gone for good. Decim is the bartender charged with serving the souls who enter Qu",
+    "averageScore": 80,
+    "seasonYear": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 13 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2001.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2001.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2002.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2002.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2003.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2003.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2004.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2004.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2005.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2005.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2005.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2006.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2006.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2006.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2007.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2007.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2008.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2008.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2009.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2009.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2010.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2010.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2011.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2011.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2012.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2012.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20-%2012.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Special (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20Special.mp4",
+        "dubUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20Special.mp4",
+        "subUrl": "https://archive.org/download/death-parade_1080p_2015/Death%20Parade%20Special.mp4"
       }
     ]
   }
