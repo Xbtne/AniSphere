@@ -53,11 +53,11 @@ export default function Navbar({
   const navItems = [
     { id: 'featured', label: 'Featured', icon: Sparkles },
     { id: 'staff-picks', label: 'Staff Picks', icon: Award, badge: 'HOT' },
-    { id: 'action', label: 'Action & Shonen', icon: Flame },
+    { id: 'action', label: 'Action', icon: Flame },
     { id: 'top-rated', label: 'Top Rated', icon: Star },
-    { id: 'scifi', label: 'Sci-Fi & Thriller', icon: Zap },
+    { id: 'scifi', label: 'Sci-Fi', icon: Zap },
     { id: 'mature', label: 'Mature', icon: ShieldAlert, badge: '18+' },
-    { id: 'explore', label: 'Catalog Search', icon: Database, badge: 'STREAM' },
+    { id: 'explore', label: 'Catalog', icon: Database, badge: 'DUB' },
   ];
 
   const handleNavigate = (id) => {
@@ -75,47 +75,49 @@ export default function Navbar({
     >
       {/* Sitewide Broadcast Announcement Bar */}
       {announcement?.active && announcement?.message && !announcementDismissed && (
-        <div className="w-full bg-gradient-to-r from-amber-500 via-yellow-400 to-amber-500 text-[#0a0f0c] px-4 py-2 text-xs font-black flex items-center justify-between gap-3 shadow-lg border-b border-amber-400/60 mb-2.5 animate-fade-in">
-          <div className="flex-1 flex items-center justify-center gap-2 text-center overflow-hidden">
-            <Megaphone className="w-4 h-4 shrink-0 text-[#0a0f0c] animate-bounce" />
-            <span className="truncate">{announcement.message}</span>
+        <div className="w-full bg-gradient-to-r from-amber-500 via-yellow-400 to-amber-500 text-[#0a0f0c] px-3 sm:px-4 py-1.5 sm:py-2 text-xs font-black shadow-lg border-b border-amber-400/60 mb-2 animate-fade-in">
+          <div className="w-full max-w-[1880px] mx-auto flex items-center justify-between gap-3">
+            <div className="flex-1 flex items-center justify-center gap-2 text-center overflow-hidden">
+              <Megaphone className="w-4 h-4 shrink-0 text-[#0a0f0c] animate-bounce" />
+              <span className="truncate">{announcement.message}</span>
+            </div>
+            <button
+              onClick={() => setAnnouncementDismissed(true)}
+              className="p-1 rounded-lg hover:bg-black/20 text-[#0a0f0c] transition-colors shrink-0"
+              title="Dismiss announcement"
+            >
+              <X className="w-3.5 h-3.5" />
+            </button>
           </div>
-          <button
-            onClick={() => setAnnouncementDismissed(true)}
-            className="p-1 rounded-lg hover:bg-black/20 text-[#0a0f0c] transition-colors shrink-0"
-            title="Dismiss announcement"
-          >
-            <X className="w-3.5 h-3.5" />
-          </button>
         </div>
       )}
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between gap-4">
+      <div className="w-full max-w-[1880px] mx-auto px-2 sm:px-4 lg:px-6 flex items-center justify-between gap-2 xl:gap-3">
         {/* Brand Logo */}
         <div
           onClick={() => handleNavigate('hero')}
-          className="flex items-center gap-2.5 cursor-pointer group"
+          className="flex items-center gap-2 cursor-pointer group flex-shrink-0"
         >
-          <div className="w-10 h-10 rounded-xl overflow-hidden ring-2 ring-amber-400/60 bg-black/30 shadow-[0_0_30px_rgba(240,180,41,0.45)] group-hover:scale-110 group-hover:shadow-[0_0_40px_rgba(240,180,41,0.6)] transition-all duration-300">
+          <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-xl overflow-hidden ring-2 ring-amber-400/60 bg-black/30 shadow-[0_0_30px_rgba(240,180,41,0.45)] group-hover:scale-105 transition-all duration-300">
             <img src="/anisphere-icon.svg" alt="AniSphere icon" className="h-full w-full object-cover" />
           </div>
           <div>
             <div className="flex items-center gap-1.5">
-              <span className="text-xl sm:text-2xl font-black tracking-tight text-white font-serif italic group-hover:text-amber-200 transition-colors">
+              <span className="text-lg sm:text-2xl font-black tracking-tight text-white font-serif italic group-hover:text-amber-200 transition-colors">
                 Ani<span className="text-gradient">Sphere</span>
               </span>
-              <span className="hidden sm:inline-block text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 rounded bg-gradient-to-r from-emerald-500/30 to-teal-600/30 text-emerald-400 border border-emerald-500/40 shadow-lg shadow-emerald-500/20">
+              <span className="hidden sm:inline-block text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.2 rounded bg-gradient-to-r from-emerald-500/30 to-teal-600/30 text-emerald-400 border border-emerald-500/40">
                 100% DIRECT
               </span>
             </div>
-            <p className="text-[11px] text-gray-400 font-medium hidden sm:block group-hover:text-gray-300 transition-colors">
+            <p className="text-[10px] text-gray-400 font-medium hidden sm:block">
               Our Own Streaming Service • Native HD Playback
             </p>
           </div>
         </div>
 
         {/* Navigation links (Desktop) */}
-        <nav className="hidden md:flex items-center gap-1 bg-white/5 border border-white/10 p-1.5 rounded-full backdrop-blur-xl shadow-lg">
+        <nav className="hidden lg:flex items-center gap-0.5 bg-white/5 border border-white/10 p-1 rounded-full backdrop-blur-xl shadow-lg flex-shrink-0">
           {navItems.map((item) => {
             const Icon = item.icon;
             const isActive = activeSection === item.id;
@@ -123,16 +125,16 @@ export default function Navbar({
               <button
                 key={item.id}
                 onClick={() => onNavigateSection(item.id)}
-                className={`flex items-center gap-1.5 px-3.5 py-2 rounded-full text-xs font-semibold transition-all duration-300 ${
+                className={`flex items-center gap-1 px-2.5 py-1.5 rounded-full text-xs font-semibold transition-all duration-200 ${
                   isActive
-                    ? 'bg-gradient-to-r from-amber-500 to-yellow-600 text-[#0a0f0c] shadow-lg shadow-amber-500/40 scale-105'
+                    ? 'bg-gradient-to-r from-amber-500 to-yellow-600 text-[#0a0f0c] shadow-lg shadow-amber-500/40 font-bold'
                     : 'text-gray-300 hover:text-white hover:bg-white/10'
                 }`}
               >
                 <Icon className={`w-3.5 h-3.5 ${isActive ? 'text-[#0a0f0c]' : 'text-teal-400'}`} />
                 <span>{item.label}</span>
                 {item.badge && (
-                  <span className="text-[9px] font-black px-1.5 py-0.2 rounded bg-gradient-to-r from-amber-500 to-orange-500 text-[#0a0f0c] shadow-md">
+                  <span className="text-[9px] font-black px-1.5 py-0.2 rounded bg-gradient-to-r from-amber-500 to-orange-500 text-[#0a0f0c] shadow-sm">
                     {item.badge}
                   </span>
                 )}
@@ -142,34 +144,36 @@ export default function Navbar({
         </nav>
 
         {/* Action Controls */}
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-1.5 sm:gap-2 flex-shrink-0">
           <button
             onClick={onRollRandom}
-            className="hidden sm:flex items-center gap-1.5 px-3 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-bold text-amber-200 transition-all duration-300 hover:scale-105 shadow-lg shadow-amber-900/30"
+            className="hidden sm:flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-bold text-amber-200 transition-all hover:scale-105 shadow-sm"
             title="Roll a random anime"
           >
-            <Dices className="w-4 h-4 text-amber-300" />
-            <span>Surprise Me</span>
+            <Dices className="w-3.5 h-3.5 text-amber-300" />
+            <span className="hidden 2xl:inline">Surprise Me</span>
+            <span className="hidden xl:inline 2xl:hidden">Random</span>
           </button>
 
           <button
             onClick={onOpenSearch}
-            className="flex items-center gap-2 px-3 py-2 rounded-xl bg-white/10 hover:bg-white/15 border border-white/10 text-xs text-gray-200 transition-all duration-300 hover:scale-105 group shadow-lg"
+            className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/10 hover:bg-white/15 border border-white/10 text-xs text-gray-200 transition-all hover:scale-105 group shadow-sm"
             title="Search Catalog"
           >
-            <Search className="w-4 h-4 text-teal-400 group-hover:scale-110 group-hover:text-teal-300 transition-all" />
-            <span className="hidden md:inline text-gray-300">Search 2,600+ Dub Episodes...</span>
+            <Search className="w-3.5 h-3.5 text-teal-400 group-hover:scale-110" />
+            <span className="hidden 2xl:inline text-gray-300">Search 2,600+ Dubs...</span>
+            <span className="hidden xl:inline 2xl:hidden text-gray-300">Search</span>
           </button>
 
           {/* Xron Admin Panel Launcher */}
           {isAdmin && (
             <button
               onClick={onOpenAdmin}
-              className="flex items-center gap-1.5 px-3 py-2 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-400 hover:to-yellow-500 border border-amber-300/40 text-[#0a0f0c] text-xs font-black transition-all duration-300 hover:scale-105 shadow-xl shadow-amber-500/30"
+              className="flex items-center gap-1 px-2.5 py-1.5 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-400 hover:to-yellow-500 border border-amber-300/40 text-[#0a0f0c] text-xs font-black transition-all hover:scale-105 shadow-md"
               title="Open Admin Control Center"
             >
-              <Shield className="w-4 h-4" />
-              <span className="hidden sm:inline">Admin Panel</span>
+              <Shield className="w-3.5 h-3.5" />
+              <span>Admin</span>
             </button>
           )}
 
@@ -177,28 +181,28 @@ export default function Navbar({
           {isAuthenticated ? (
             <button
               onClick={onOpenProfile}
-              className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-semibold text-amber-200 transition-all duration-300 hover:scale-105 shadow-lg group"
+              className="flex items-center gap-1.5 px-2.5 py-1 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-semibold text-amber-200 transition-all hover:scale-105 shadow-sm"
               title="Open Profile Settings"
             >
               <img
                 src={user?.avatar || 'https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-50mB868V8K2m.jpg'}
                 alt=""
-                className="w-6 h-6 rounded-full object-cover ring-1 ring-amber-400/50"
+                className="w-5 h-5 rounded-full object-cover ring-1 ring-amber-400/50"
               />
               <span className="hidden sm:inline font-bold">{user?.displayName || user?.username}</span>
               {isAdmin && (
-                <span className="text-[9px] font-black uppercase px-1.5 py-0.2 rounded bg-amber-500 text-[#0a0f0c] shadow">
-                  ADMIN
+                <span className="text-[9px] font-black uppercase px-1 py-0.2 rounded bg-amber-500 text-[#0a0f0c]">
+                  ADM
                 </span>
               )}
             </button>
           ) : (
             <button
               onClick={() => (onOpenAuth ? onOpenAuth() : setIsAuthModalOpen(true))}
-              className="flex items-center gap-2 px-3.5 py-2 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-400 hover:to-yellow-500 border border-amber-300/40 text-xs font-semibold text-[#0a0f0c] transition-all duration-300 hover:scale-105 shadow-xl shadow-amber-600/40"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 hover:from-amber-400 hover:to-yellow-500 border border-amber-300/40 text-xs font-semibold text-[#0a0f0c] transition-all hover:scale-105 shadow-md"
               title="Sign in"
             >
-              <User className="w-4 h-4" />
+              <User className="w-3.5 h-3.5" />
               <span className="hidden sm:inline">Sign In</span>
             </button>
           )}
@@ -207,7 +211,7 @@ export default function Navbar({
           {isAuthenticated && (
             <button
               onClick={logout}
-              className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-rose-500/15 hover:bg-rose-500/25 border border-rose-500/30 text-xs font-bold text-rose-300 hover:text-rose-200 transition-all duration-300 hover:scale-105 shadow-sm"
+              className="flex items-center gap-1 px-2.5 py-1.5 rounded-xl bg-rose-500/15 hover:bg-rose-500/25 border border-rose-500/30 text-xs font-bold text-rose-300 hover:text-rose-200 transition-all hover:scale-105 shadow-sm"
               title="Sign Out of AniSphere"
             >
               <LogOut className="w-3.5 h-3.5" />
@@ -217,12 +221,12 @@ export default function Navbar({
 
           <button
             onClick={onOpenWatchlist}
-            className="relative flex items-center gap-2 px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-semibold text-amber-200 transition-all duration-300 hover:scale-105 shadow-lg"
+            className="relative flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-semibold text-amber-200 transition-all hover:scale-105 shadow-sm"
           >
-            <Bookmark className="w-4 h-4 text-amber-300" />
+            <Bookmark className="w-3.5 h-3.5 text-amber-300" />
             <span className="hidden sm:inline">My List</span>
             {totalSaved > 0 && (
-              <span className="w-5 h-5 flex items-center justify-center rounded-full bg-gradient-to-r from-amber-500 to-yellow-600 text-[#0a0f0c] text-[11px] font-bold shadow-lg">
+              <span className="w-4 h-4 flex items-center justify-center rounded-full bg-gradient-to-r from-amber-500 to-yellow-600 text-[#0a0f0c] text-[10px] font-black shadow-sm">
                 {totalSaved}
               </span>
             )}
