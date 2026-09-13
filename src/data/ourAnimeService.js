@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — With verified Mature (TV-MA / 18+) content ratings
-// Total: 44 verified English Dub streams!
+// Total: 49 verified English Dub streams!
 // Updated with fresh cover images from AniList API
 
 export const OUR_ANIME_CATALOG = [
@@ -5063,7 +5063,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "COMPLETE SEASON 1 • 13 DUB EPS",
+    "badgeText": "SEASONS 1-2 • 38 DUB EPS",
     "episodes": [
       {
         "episodeNumber": 1,
@@ -8309,8 +8309,7 @@ export const OUR_ANIME_CATALOG = [
         "subUrl": "https://archive.org/download/inuyasha-animax_202405/IFA1MavrikBlitz-Inysha-054.mp4"
       }
     ]
-  }
-,
+  },
   {
     "id": 532,
     "title": {
@@ -8685,8 +8684,7 @@ export const OUR_ANIME_CATALOG = [
         "subUrl": "https://archive.org/download/sailor-moon-s-s03_202609/Sailor%20Moon%20S%20127%20%20-%20Self-Awareness%20as%20a%20Senshi!%20Strength%20Lies%20in%20the%20Pure%20Heart.mp4"
       }
     ]
-  }
-,
+  },
   {
     "id": 1239,
     "title": {
@@ -9070,8 +9068,7 @@ export const OUR_ANIME_CATALOG = [
         "subUrl": "https://archive.org/download/sailor-moon-super-s-s04/Sailor%20Moon%20SuperS%20166%20-%20Dreams%20Forever!%20Light%20Throughout%20the%20Sky.mp4"
       }
     ]
-  }
-,
+  },
   {
     "id": 523,
     "title": {
@@ -9111,8 +9108,7 @@ export const OUR_ANIME_CATALOG = [
         "subUrl": "https://archive.org/download/my-neighbor-totoro_202603/My%20Neighbor%20Totoro.mp4"
       }
     ]
-  }
-,
+  },
   {
     "id": 43,
     "title": {
@@ -14413,6 +14409,5754 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version/Digimon%20Digital%20Monsters%20-%202x50%20-%20A%20Million%20Points%20of%20Light%20(3).mp4",
         "dubUrl": "https://archive.org/download/digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version/Digimon%20Digital%20Monsters%20-%202x50%20-%20A%20Million%20Points%20of%20Light%20(3).mp4",
         "subUrl": "https://archive.org/download/digimon-digital-monsters-the-complete-collection-saban-entertainment-edited-version/Digimon%20Digital%20Monsters%20-%202x50%20-%20A%20Million%20Points%20of%20Light%20(3).mp4"
+}
+    ]
+  },
+  {
+    "id": 1735,
+    "title": {
+      "english": "Naruto: Shippuden",
+      "romaji": "NARUTO: Shippuuden",
+      "native": "NARUTO -ナルト- 疾風伝"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-kGfVm0YqCPcu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1735-kGfVm0YqCPcu.png",
+      "color": "#e4865d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1735.jpg",
+    "description": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally r",
+    "averageScore": 82,
+    "seasonYear": 2007,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 500 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1: Homecoming",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20001%20Homecoming.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20001%20Homecoming.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20001%20Homecoming.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2: The Akatsuki Makes Its Move",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20002%20The%20Akatsuki%20Makes%20Its%20Move.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20002%20The%20Akatsuki%20Makes%20Its%20Move.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20002%20The%20Akatsuki%20Makes%20Its%20Move.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3: The Results of Training",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20003%20The%20Results%20of%20Training.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20003%20The%20Results%20of%20Training.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20003%20The%20Results%20of%20Training.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4: The Jinchuriki of the Sand",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20004%20The%20Jinchuriki%20of%20the%20Sand.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20004%20The%20Jinchuriki%20of%20the%20Sand.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20004%20The%20Jinchuriki%20of%20the%20Sand.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5: The Kazekage Stands Tall",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20005%20The%20Kazekage%20Stands%20Tall.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20005%20The%20Kazekage%20Stands%20Tall.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20005%20The%20Kazekage%20Stands%20Tall.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6: Mission Cleared",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20006%20Mission%20Cleared.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20006%20Mission%20Cleared.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20006%20Mission%20Cleared.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7: Run, Kankuro",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20007%20Run%2C%20Kankuro.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20007%20Run%2C%20Kankuro.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20007%20Run%2C%20Kankuro.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8: Team Kakashi, Deployed",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20008%20Team%20Kakashi%2C%20Deployed.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20008%20Team%20Kakashi%2C%20Deployed.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20008%20Team%20Kakashi%2C%20Deployed.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9: The Jinchuriki's Tears",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20009%20The%20Jinchuriki's%20Tears.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20009%20The%20Jinchuriki's%20Tears.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20009%20The%20Jinchuriki's%20Tears.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10: Sealing Technique Phantom Dragons Nine Consuming Seals",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20010%20Sealing%20Technique%20Phantom%20Dragons%20Nine%20Consuming%20Seals.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20010%20Sealing%20Technique%20Phantom%20Dragons%20Nine%20Consuming%20Seals.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20010%20Sealing%20Technique%20Phantom%20Dragons%20Nine%20Consuming%20Seals.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11: The Medical Ninja's Student",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20011%20The%20Medical%20Ninja's%20Student.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20011%20The%20Medical%20Ninja's%20Student.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20011%20The%20Medical%20Ninja's%20Student.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12: The Retired Granny's Determination",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20012%20The%20Retired%20Granny's%20Determination.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20012%20The%20Retired%20Granny's%20Determination.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20012%20The%20Retired%20Granny's%20Determination.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13: A Meeting With Destiny",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20013%20A%20Meeting%20With%20Destiny.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20013%20A%20Meeting%20With%20Destiny.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20013%20A%20Meeting%20With%20Destiny.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14: Naruto's Growth",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20014%20Naruto's%20Growth.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20014%20Naruto's%20Growth.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20014%20Naruto's%20Growth.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15: The Secret Weapon is Called....",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20015%20The%20Secret%20Weapon%20is%20Called.....mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20015%20The%20Secret%20Weapon%20is%20Called.....mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20015%20The%20Secret%20Weapon%20is%20Called.....mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16: The Secret of Jinchuriki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20016%20The%20Secret%20of%20Jinchuriki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20016%20The%20Secret%20of%20Jinchuriki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20016%20The%20Secret%20of%20Jinchuriki.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17: The Death of Gaara!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20017%20The%20Death%20of%20Gaara!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20017%20The%20Death%20of%20Gaara!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20017%20The%20Death%20of%20Gaara!.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18: Charge Tactic! Button Hook Entry!!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20018%20Charge%20Tactic!%20Button%20Hook%20Entry!!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20018%20Charge%20Tactic!%20Button%20Hook%20Entry!!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20018%20Charge%20Tactic!%20Button%20Hook%20Entry!!.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19: Traps Activate! Team Guy's Enemy",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20019%20Traps%20Activate!%20Team%20Guy's%20Enemy.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20019%20Traps%20Activate!%20Team%20Guy's%20Enemy.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20019%20Traps%20Activate!%20Team%20Guy's%20Enemy.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20: Hiruko vs. Two Kunoichi!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20020%20Hiruko%20vs.%20Two%20Kunoichi!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20020%20Hiruko%20vs.%20Two%20Kunoichi!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20020%20Hiruko%20vs.%20Two%20Kunoichi!.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21: Sasori's Real Face",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20021%20Sasori's%20Real%20Face.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20021%20Sasori's%20Real%20Face.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20021%20Sasori's%20Real%20Face.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22: Chiyo's Secret Skills",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20022%20Chiyo's%20Secret%20Skills.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20022%20Chiyo's%20Secret%20Skills.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20022%20Chiyo's%20Secret%20Skills.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23: Father and Mother",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20023%20Father%20and%20Mother.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20023%20Father%20and%20Mother.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20023%20Father%20and%20Mother.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24: The Third Kazekage",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20024%20The%20Third%20Kazekage.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20024%20The%20Third%20Kazekage.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20024%20The%20Third%20Kazekage.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25: Three Minutes Between Life and Death",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20025%20Three%20Minutes%20Between%20Life%20and%20Death.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20025%20Three%20Minutes%20Between%20Life%20and%20Death.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20025%20Three%20Minutes%20Between%20Life%20and%20Death.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26: Puppet Fight 10 vs. 100!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20026%20Puppet%20Fight%2010%20vs.%20100!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20026%20Puppet%20Fight%2010%20vs.%20100!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20026%20Puppet%20Fight%2010%20vs.%20100!.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27: Impossible Dream",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20027%20Impossible%20Dream.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20027%20Impossible%20Dream.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20027%20Impossible%20Dream.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28: Beasts Alive Again!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20028%20Beasts%20Alive%20Again!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20028%20Beasts%20Alive%20Again!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20028%20Beasts%20Alive%20Again!.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29: Kakashi Enlightened!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20029%20Kakashi%20Enlightened!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20029%20Kakashi%20Enlightened!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20029%20Kakashi%20Enlightened!.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30: Aesthetics of an Instant",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20030%20Aesthetics%20of%20an%20Instant.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20030%20Aesthetics%20of%20an%20Instant.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20030%20Aesthetics%20of%20an%20Instant.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31: The Legacy",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20031%20The%20Legacy.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20031%20The%20Legacy.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20031%20The%20Legacy.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32: Return of the Kazekage",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20032%20Return%20of%20the%20Kazekage.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20032%20Return%20of%20the%20Kazekage.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S01/Naruto%20Shippuden%20Episode%20032%20Return%20of%20the%20Kazekage.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33: The New Target",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20033%20The%20New%20Target.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20033%20The%20New%20Target.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20033%20The%20New%20Target.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34: Formation! New Team Kakashi!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20034%20Formation!%20New%20Team%20Kakashi!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20034%20Formation!%20New%20Team%20Kakashi!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20034%20Formation!%20New%20Team%20Kakashi!.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35: An Unnecessary Addition",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20035%20An%20Unnecessary%20Addition.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20035%20An%20Unnecessary%20Addition.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20035%20An%20Unnecessary%20Addition.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36: The Fake Smile",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20036%20The%20Fake%20Smile.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20036%20The%20Fake%20Smile.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20036%20The%20Fake%20Smile.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37: Untitled",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20037%20Untitled.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20037%20Untitled.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20037%20Untitled.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38: Simulation",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20038%20Simulation.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20038%20Simulation.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20038%20Simulation.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39: The Tenchi Bridge",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20039%20The%20Tenchi%20Bridge.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20039%20The%20Tenchi%20Bridge.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20039%20The%20Tenchi%20Bridge.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40: The Nine-Tails Unleashed",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20040%20The%20Nine-Tails%20Unleashed.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20040%20The%20Nine-Tails%20Unleashed.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20040%20The%20Nine-Tails%20Unleashed.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41: The Top-Secret Mission Begins",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20041%20The%20Top-Secret%20Mission%20Begins.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20041%20The%20Top-Secret%20Mission%20Begins.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20041%20The%20Top-Secret%20Mission%20Begins.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42: Orochimaru vs. Jinchuriki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20042%20Orochimaru%20vs.%20Jinchuriki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20042%20Orochimaru%20vs.%20Jinchuriki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20042%20Orochimaru%20vs.%20Jinchuriki.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43: Sakura's Tears",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20043%20Sakura's%20Tears.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20043%20Sakura's%20Tears.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20043%20Sakura's%20Tears.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44: The Secret of the Battle!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20044%20The%20Secret%20of%20the%20Battle!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20044%20The%20Secret%20of%20the%20Battle!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20044%20The%20Secret%20of%20the%20Battle!.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45: The Consequences of Betrayal",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20045%20The%20Consequences%20of%20Betrayal.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20045%20The%20Consequences%20of%20Betrayal.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20045%20The%20Consequences%20of%20Betrayal.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46: The Unfinished Page",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20046%20The%20Unfinished%20Page.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20046%20The%20Unfinished%20Page.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20046%20The%20Unfinished%20Page.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47: Infiltration The Den of the Snake!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20047%20Infiltration%20The%20Den%20of%20the%20Snake!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20047%20Infiltration%20The%20Den%20of%20the%20Snake!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20047%20Infiltration%20The%20Den%20of%20the%20Snake!.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48: Bonds",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20048%20Bonds.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20048%20Bonds.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20048%20Bonds.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49: Something Important...",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20049%20Something%20Important....mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20049%20Something%20Important....mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20049%20Something%20Important....mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50: The Picture Book's Story",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20050%20The%20Picture%20Book's%20Story.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20050%20The%20Picture%20Book's%20Story.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20050%20The%20Picture%20Book's%20Story.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51: Reunion",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20051%20Reunion.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20051%20Reunion.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20051%20Reunion.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52: The Power of Uchiha",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20052%20The%20Power%20of%20Uchiha.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20052%20The%20Power%20of%20Uchiha.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20052%20The%20Power%20of%20Uchiha.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53: Title",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20053%20Title.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20053%20Title.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S03/Naruto%20Shippuden%20Episode%20053%20Title.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54: Nightmare",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20054%20Nightmare.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20054%20Nightmare.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20054%20Nightmare.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55: Wind",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20055%20Wind.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20055%20Wind.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20055%20Wind.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56: Writhe",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20056%20Writhe.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20056%20Writhe.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20056%20Writhe.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57: Deprived of Eternal Sleep",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20057%20Deprived%20of%20Eternal%20Sleep.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20057%20Deprived%20of%20Eternal%20Sleep.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20057%20Deprived%20of%20Eternal%20Sleep.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58: Loneliness",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20058%20Loneliness.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20058%20Loneliness.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20058%20Loneliness.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59: A New Enemy",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20059%20A%20New%20Enemy.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20059%20A%20New%20Enemy.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20059%20A%20New%20Enemy.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60: Impermanence",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20060%20Impermanence.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20060%20Impermanence.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20060%20Impermanence.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61: Contact",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20061%20Contact.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20061%20Contact.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20061%20Contact.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62: Teammate",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20062%20Teammate.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20062%20Teammate.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20062%20Teammate.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63: The Two Kings",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20063%20The%20Two%20Kings.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20063%20The%20Two%20Kings.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20063%20The%20Two%20Kings.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64: Jet Black Signal Fire",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20064%20Jet%20Black%20Signal%20Fire.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20064%20Jet%20Black%20Signal%20Fire.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20064%20Jet%20Black%20Signal%20Fire.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65: Lockdown of Darkness",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20065%20Lockdown%20of%20Darkness.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20065%20Lockdown%20of%20Darkness.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20065%20Lockdown%20of%20Darkness.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66: Revived Souls",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20066%20Revived%20Souls.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20066%20Revived%20Souls.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20066%20Revived%20Souls.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67: Everyone's Struggle to the Death",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20067%20Everyone's%20Struggle%20to%20the%20Death.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20067%20Everyone's%20Struggle%20to%20the%20Death.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20067%20Everyone's%20Struggle%20to%20the%20Death.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68: Moment of Awakening",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20068%20Moment%20of%20Awakening.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20068%20Moment%20of%20Awakening.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20068%20Moment%20of%20Awakening.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69: Despair",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20069%20Despair.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20069%20Despair.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20069%20Despair.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70: Resonance",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20070%20Resonance.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20070%20Resonance.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20070%20Resonance.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71: My Friend",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20071%20My%20Friend.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20071%20My%20Friend.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S02/Naruto%20Shippuden%20Episode%20071%20My%20Friend.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72: The Quietly Approaching Threat",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20072%20The%20Quietly%20Approaching%20Threat.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20072%20The%20Quietly%20Approaching%20Threat.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20072%20The%20Quietly%20Approaching%20Threat.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73: Akatsuki's Invasion",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20073%20Akatsuki's%20Invasion.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20073%20Akatsuki's%20Invasion.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20073%20Akatsuki's%20Invasion.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74: Under the Starry Sky",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20074%20Under%20the%20Starry%20Sky.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20074%20Under%20the%20Starry%20Sky.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20074%20Under%20the%20Starry%20Sky.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75: The Old Monk's Prayer",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20075%20The%20Old%20Monk's%20Prayer.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20075%20The%20Old%20Monk's%20Prayer.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20075%20The%20Old%20Monk's%20Prayer.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76: The Next Step",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20076%20The%20Next%20Step.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20076%20The%20Next%20Step.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20076%20The%20Next%20Step.mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77: Climbing Silver",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20077%20Climbing%20Silver.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20077%20Climbing%20Silver.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20077%20Climbing%20Silver.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78: The Judgment",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20078%20The%20Judgment.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20078%20The%20Judgment.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20078%20The%20Judgment.mp4"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79: Unfulfilled Scream",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20079%20Unfulfilled%20Scream.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20079%20Unfulfilled%20Scream.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20079%20Unfulfilled%20Scream.mp4"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80: Last Words",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20080%20Last%20Words.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20080%20Last%20Words.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20080%20Last%20Words.mp4"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81: Sad News",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20081%20Sad%20News.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20081%20Sad%20News.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20081%20Sad%20News.mp4"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82: Team Ten",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20082%20Team%20Ten.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20082%20Team%20Ten.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20082%20Team%20Ten.mp4"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83: Target Locked On",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20083%20Target%20Locked%20On.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20083%20Target%20Locked%20On.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20083%20Target%20Locked%20On.mp4"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84: Kakuzu's Abilities",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20084%20Kakuzu's%20Abilities.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20084%20Kakuzu's%20Abilities.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20084%20Kakuzu's%20Abilities.mp4"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85: The Terrifying Secret",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20085%20The%20Terrifying%20Secret.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20085%20The%20Terrifying%20Secret.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20085%20The%20Terrifying%20Secret.mp4"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "Episode 86: Shikamaru's Genius",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20086%20Shikamaru's%20Genius.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20086%20Shikamaru's%20Genius.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20086%20Shikamaru's%20Genius.mp4"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Episode 87: When You Curse Someone, You Dig Your Own Grave",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20087%20When%20You%20Curse%20Someone%2C%20You%20Dig%20Your%20Own%20Grave.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20087%20When%20You%20Curse%20Someone%2C%20You%20Dig%20Your%20Own%20Grave.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20087%20When%20You%20Curse%20Someone%2C%20You%20Dig%20Your%20Own%20Grave.mp4"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Episode 88: Wind Style Rasen Shuriken!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20088%20Wind%20Style%20Rasen%20Shuriken!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20088%20Wind%20Style%20Rasen%20Shuriken!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S04/Naruto%20Shippuden%20Episode%20088%20Wind%20Style%20Rasen%20Shuriken!.mp4"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "Episode 89: The Price of Power",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20089%20The%20Price%20of%20Power.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20089%20The%20Price%20of%20Power.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20089%20The%20Price%20of%20Power.mp4"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Episode 90: A Shinobi's Determination",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20090%20A%20Shinobi's%20Determination.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20090%20A%20Shinobi's%20Determination.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20090%20A%20Shinobi's%20Determination.mp4"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Episode 91: Orochimaru's Hideout Discovered",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20091%20Orochimaru's%20Hideout%20Discovered.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20091%20Orochimaru's%20Hideout%20Discovered.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20091%20Orochimaru's%20Hideout%20Discovered.mp4"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Episode 92: Encounter",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20092%20Encounter.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20092%20Encounter.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20092%20Encounter.mp4"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Episode 93: Connecting Hearts",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20093%20Connecting%20Hearts.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20093%20Connecting%20Hearts.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20093%20Connecting%20Hearts.mp4"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Episode 94: A Night of Rain",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20094%20A%20Night%20of%20Rain.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20094%20A%20Night%20of%20Rain.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20094%20A%20Night%20of%20Rain.mp4"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "Episode 95: The Two Charms",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20095%20The%20Two%20Charms.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20095%20The%20Two%20Charms.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20095%20The%20Two%20Charms.mp4"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "Episode 96: The Unseeing Enemy",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20096%20The%20Unseeing%20Enemy.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20096%20The%20Unseeing%20Enemy.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20096%20The%20Unseeing%20Enemy.mp4"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "Episode 97: The Labyrinth of Distorted Reflection",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20097%20The%20Labyrinth%20of%20Distorted%20Reflection.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20097%20The%20Labyrinth%20of%20Distorted%20Reflection.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20097%20The%20Labyrinth%20of%20Distorted%20Reflection.mp4"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "Episode 98: The Target Appears",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20098%20The%20Target%20Appears.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20098%20The%20Target%20Appears.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20098%20The%20Target%20Appears.mp4"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "Episode 99: The Rampaging Tailed Beast",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20099%20The%20Rampaging%20Tailed%20Beast.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20099%20The%20Rampaging%20Tailed%20Beast.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20099%20The%20Rampaging%20Tailed%20Beast.mp4"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "Episode 100: Inside the Mist",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20100%20Inside%20the%20Mist.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20100%20Inside%20the%20Mist.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20100%20Inside%20the%20Mist.mp4"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "Episode 101: Everyone's Feelings",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20101%20Everyone's%20Feelings.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20101%20Everyone's%20Feelings.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20101%20Everyone's%20Feelings.mp4"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "Episode 102: Regroup!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20102%20Regroup!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20102%20Regroup!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20102%20Regroup!.mp4"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "Episode 103: The Four-Corner Sealing Barrier",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20103%20The%20Four-Corner%20Sealing%20Barrier.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20103%20The%20Four-Corner%20Sealing%20Barrier.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20103%20The%20Four-Corner%20Sealing%20Barrier.mp4"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "Episode 104: Breaking the Crystal Style",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20104%20Breaking%20the%20Crystal%20Style.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20104%20Breaking%20the%20Crystal%20Style.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20104%20Breaking%20the%20Crystal%20Style.mp4"
+      },
+      {
+        "episodeNumber": 105,
+        "title": "Episode 105: The Battle Over the Barrier",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20105%20The%20Battle%20Over%20the%20Barrier.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20105%20The%20Battle%20Over%20the%20Barrier.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20105%20The%20Battle%20Over%20the%20Barrier.mp4"
+      },
+      {
+        "episodeNumber": 106,
+        "title": "Episode 106: Red Camellia",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20106%20Red%20Camellia.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20106%20Red%20Camellia.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20106%20Red%20Camellia.mp4"
+      },
+      {
+        "episodeNumber": 107,
+        "title": "Episode 107: Strange Bedfellows",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20107%20Strange%20Bedfellows.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20107%20Strange%20Bedfellows.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20107%20Strange%20Bedfellows.mp4"
+      },
+      {
+        "episodeNumber": 108,
+        "title": "Episode 108: Guidepost of the Camellia",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20108%20Guidepost%20of%20the%20Camellia.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20108%20Guidepost%20of%20the%20Camellia.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20108%20Guidepost%20of%20the%20Camellia.mp4"
+      },
+      {
+        "episodeNumber": 109,
+        "title": "Episode 109: Counterattack of the Curse Mark",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20109%20Counterattack%20of%20the%20Curse%20Mark.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20109%20Counterattack%20of%20the%20Curse%20Mark.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20109%20Counterattack%20of%20the%20Curse%20Mark.mp4"
+      },
+      {
+        "episodeNumber": 110,
+        "title": "Episode 110: Memory of Guilt",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20110%20Memory%20of%20Guilt.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20110%20Memory%20of%20Guilt.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20110%20Memory%20of%20Guilt.mp4"
+      },
+      {
+        "episodeNumber": 111,
+        "title": "Episode 111: Shattered Promise",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20111%20Shattered%20Promise.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20111%20Shattered%20Promise.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20111%20Shattered%20Promise.mp4"
+      },
+      {
+        "episodeNumber": 112,
+        "title": "Episode 112: A Place to Return To",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20112%20A%20Place%20to%20Return%20To.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20112%20A%20Place%20to%20Return%20To.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S05/Naruto%20Shippuden%20Episode%20112%20A%20Place%20to%20Return%20To.mp4"
+      },
+      {
+        "episodeNumber": 113,
+        "title": "Episode 113: The Serpent's Pupil",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20113%20The%20Serpent's%20Pupil.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20113%20The%20Serpent's%20Pupil.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20113%20The%20Serpent's%20Pupil.mp4"
+      },
+      {
+        "episodeNumber": 114,
+        "title": "Episode 114: Eye of the Hawk",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20114%20Eye%20of%20the%20Hawk.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20114%20Eye%20of%20the%20Hawk.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20114%20Eye%20of%20the%20Hawk.mp4"
+      },
+      {
+        "episodeNumber": 115,
+        "title": "Episode 115: Zabuza's Blade",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20115%20Zabuza's%20Blade.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20115%20Zabuza's%20Blade.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20115%20Zabuza's%20Blade.mp4"
+      },
+      {
+        "episodeNumber": 116,
+        "title": "Episode 116: Guardian of the Iron Wall",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20116%20Guardian%20of%20the%20Iron%20Wall.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20116%20Guardian%20of%20the%20Iron%20Wall.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20116%20Guardian%20of%20the%20Iron%20Wall.mp4"
+      },
+      {
+        "episodeNumber": 117,
+        "title": "Episode 117: Jugo of the North Hideout",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20117%20Jugo%20of%20the%20North%20Hideout.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20117%20Jugo%20of%20the%20North%20Hideout.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20117%20Jugo%20of%20the%20North%20Hideout.mp4"
+      },
+      {
+        "episodeNumber": 118,
+        "title": "Episode 118: Formation!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20118%20Formation!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20118%20Formation!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20118%20Formation!.mp4"
+      },
+      {
+        "episodeNumber": 119,
+        "title": "Episode 119: Kakashi Chronicles ~ Boys' Life on the Battlefield ~ Part 1",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20119%20Kakashi%20Chronicles%20~%20Boys'%20Life%20on%20the%20Battlefield%20~%20Part%201.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20119%20Kakashi%20Chronicles%20~%20Boys'%20Life%20on%20the%20Battlefield%20~%20Part%201.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20119%20Kakashi%20Chronicles%20~%20Boys'%20Life%20on%20the%20Battlefield%20~%20Part%201.mp4"
+      },
+      {
+        "episodeNumber": 120,
+        "title": "Episode 120: Kakashi Chronicles ~ Boys' Life on the Battlefield ~ Part 2",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20120%20Kakashi%20Chronicles%20~%20Boys'%20Life%20on%20the%20Battlefield%20~%20Part%202.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20120%20Kakashi%20Chronicles%20~%20Boys'%20Life%20on%20the%20Battlefield%20~%20Part%202.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20120%20Kakashi%20Chronicles%20~%20Boys'%20Life%20on%20the%20Battlefield%20~%20Part%202.mp4"
+      },
+      {
+        "episodeNumber": 121,
+        "title": "Episode 121: Assemble",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20121%20Assemble.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20121%20Assemble.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20121%20Assemble.mp4"
+      },
+      {
+        "episodeNumber": 122,
+        "title": "Episode 122: The Hunt",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20122%20The%20Hunt.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20122%20The%20Hunt.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20122%20The%20Hunt.mp4"
+      },
+      {
+        "episodeNumber": 123,
+        "title": "Episode 123: Clash!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20123%20Clash!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20123%20Clash!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20123%20Clash!.mp4"
+      },
+      {
+        "episodeNumber": 124,
+        "title": "Episode 124: Art",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20124%20Art.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20124%20Art.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20124%20Art.mp4"
+      },
+      {
+        "episodeNumber": 125,
+        "title": "Episode 125: Disappearance",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20125%20Disappearance.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20125%20Disappearance.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20125%20Disappearance.mp4"
+      },
+      {
+        "episodeNumber": 126,
+        "title": "Episode 126: Twilight",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20126%20Twilight.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20126%20Twilight.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20126%20Twilight.mp4"
+      },
+      {
+        "episodeNumber": 127,
+        "title": "Episode 127: Tales of a Gutsy Ninja ~Jiraiya Ninja Scroll~ Part 1",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20127%20Tales%20of%20a%20Gutsy%20Ninja%20~Jiraiya%20Ninja%20Scroll~%20Part%201.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20127%20Tales%20of%20a%20Gutsy%20Ninja%20~Jiraiya%20Ninja%20Scroll~%20Part%201.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20127%20Tales%20of%20a%20Gutsy%20Ninja%20~Jiraiya%20Ninja%20Scroll~%20Part%201.mp4"
+      },
+      {
+        "episodeNumber": 128,
+        "title": "Episode 128: Tales of a Gutsy Ninja ~Jiraiya Ninja Scroll~ Part 2",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20128%20Tales%20of%20a%20Gutsy%20Ninja%20~Jiraiya%20Ninja%20Scroll~%20Part%202.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20128%20Tales%20of%20a%20Gutsy%20Ninja%20~Jiraiya%20Ninja%20Scroll~%20Part%202.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20128%20Tales%20of%20a%20Gutsy%20Ninja%20~Jiraiya%20Ninja%20Scroll~%20Part%202.mp4"
+      },
+      {
+        "episodeNumber": 129,
+        "title": "Episode 129: Infiltrate! The Village Hidden in the Rain",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20129%20Infiltrate!%20The%20Village%20Hidden%20in%20the%20Rain.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20129%20Infiltrate!%20The%20Village%20Hidden%20in%20the%20Rain.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20129%20Infiltrate!%20The%20Village%20Hidden%20in%20the%20Rain.mp4"
+      },
+      {
+        "episodeNumber": 130,
+        "title": "Episode 130: The Man Who Became God",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20130%20The%20Man%20Who%20Became%20God.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20130%20The%20Man%20Who%20Became%20God.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20130%20The%20Man%20Who%20Became%20God.mp4"
+      },
+      {
+        "episodeNumber": 131,
+        "title": "Episode 131: Honored Sage Mode!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20131%20Honored%20Sage%20Mode!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20131%20Honored%20Sage%20Mode!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20131%20Honored%20Sage%20Mode!.mp4"
+      },
+      {
+        "episodeNumber": 132,
+        "title": "Episode 132: In Attendance, the Six Paths of Pain",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20132%20In%20Attendance%2C%20the%20Six%20Paths%20of%20Pain.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20132%20In%20Attendance%2C%20the%20Six%20Paths%20of%20Pain.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20132%20In%20Attendance%2C%20the%20Six%20Paths%20of%20Pain.mp4"
+      },
+      {
+        "episodeNumber": 133,
+        "title": "Episode 133: The Tale of Jiraiya the Gallant",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20133%20The%20Tale%20of%20Jiraiya%20the%20Gallant.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20133%20The%20Tale%20of%20Jiraiya%20the%20Gallant.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20133%20The%20Tale%20of%20Jiraiya%20the%20Gallant.mp4"
+      },
+      {
+        "episodeNumber": 134,
+        "title": "Episode 134: Banquet Invitation",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20134%20Banquet%20Invitation.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20134%20Banquet%20Invitation.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20134%20Banquet%20Invitation.mp4"
+      },
+      {
+        "episodeNumber": 135,
+        "title": "Episode 135: The Longest Moment",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20135%20The%20Longest%20Moment.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20135%20The%20Longest%20Moment.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20135%20The%20Longest%20Moment.mp4"
+      },
+      {
+        "episodeNumber": 136,
+        "title": "Episode 136: The Light & Dark of the Mangekyo Sharingan",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20136%20The%20Light%20%26%20Dark%20of%20the%20Mangekyo%20Sharingan.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20136%20The%20Light%20%26%20Dark%20of%20the%20Mangekyo%20Sharingan.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20136%20The%20Light%20%26%20Dark%20of%20the%20Mangekyo%20Sharingan.mp4"
+      },
+      {
+        "episodeNumber": 137,
+        "title": "Episode 137: Amaterasu!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20137%20Amaterasu!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20137%20Amaterasu!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20137%20Amaterasu!.mp4"
+      },
+      {
+        "episodeNumber": 138,
+        "title": "Episode 138: The End",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20138%20The%20End.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20138%20The%20End.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20138%20The%20End.mp4"
+      },
+      {
+        "episodeNumber": 139,
+        "title": "Episode 139: The Mystery of Tobi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20139%20The%20Mystery%20of%20Tobi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20139%20The%20Mystery%20of%20Tobi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20139%20The%20Mystery%20of%20Tobi.mp4"
+      },
+      {
+        "episodeNumber": 140,
+        "title": "Episode 140: Fate",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20140%20Fate.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20140%20Fate.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20140%20Fate.mp4"
+      },
+      {
+        "episodeNumber": 141,
+        "title": "Episode 141: Truth",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20141%20Truth.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20141%20Truth.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20141%20Truth.mp4"
+      },
+      {
+        "episodeNumber": 142,
+        "title": "Episode 142: Battle of Unraikyo",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20142%20Battle%20of%20Unraikyo.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20142%20Battle%20of%20Unraikyo.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20142%20Battle%20of%20Unraikyo.mp4"
+      },
+      {
+        "episodeNumber": 143,
+        "title": "Episode 143: The Eight-Tails vs. Sasuke",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20143%20The%20Eight-Tails%20vs.%20Sasuke.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20143%20The%20Eight-Tails%20vs.%20Sasuke.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S06/Naruto%20Shippuden%20Episode%20143%20The%20Eight-Tails%20vs.%20Sasuke.mp4"
+      },
+      {
+        "episodeNumber": 144,
+        "title": "Episode 144: Wanderer",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20144%20Wanderer.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20144%20Wanderer.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20144%20Wanderer.mp4"
+      },
+      {
+        "episodeNumber": 145,
+        "title": "Episode 145: Successor of the Forbidden Jutsu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20145%20Successor%20of%20the%20Forbidden%20Jutsu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20145%20Successor%20of%20the%20Forbidden%20Jutsu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20145%20Successor%20of%20the%20Forbidden%20Jutsu.mp4"
+      },
+      {
+        "episodeNumber": 146,
+        "title": "Episode 146: The Successor's Wish",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20146%20The%20Successor's%20Wish.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20146%20The%20Successor's%20Wish.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20146%20The%20Successor's%20Wish.mp4"
+      },
+      {
+        "episodeNumber": 147,
+        "title": "Episode 147: Rogue Ninja's Past",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20147%20Rogue%20Ninja's%20Past.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20147%20Rogue%20Ninja's%20Past.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20147%20Rogue%20Ninja's%20Past.mp4"
+      },
+      {
+        "episodeNumber": 148,
+        "title": "Episode 148: Heir to Darkness",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20148%20Heir%20to%20Darkness.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20148%20Heir%20to%20Darkness.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20148%20Heir%20to%20Darkness.mp4"
+      },
+      {
+        "episodeNumber": 149,
+        "title": "Episode 149: Parting",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20149%20Parting.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20149%20Parting.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20149%20Parting.mp4"
+      },
+      {
+        "episodeNumber": 150,
+        "title": "Episode 150: The Forbidden Jutsu Released",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20150%20The%20Forbidden%20Jutsu%20Released.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20150%20The%20Forbidden%20Jutsu%20Released.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20150%20The%20Forbidden%20Jutsu%20Released.mp4"
+      },
+      {
+        "episodeNumber": 151,
+        "title": "Episode 151: Master and Student",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20151%20Master%20and%20Student.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20151%20Master%20and%20Student.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S07/Naruto%20Shippuden%20Episode%20151%20Master%20and%20Student.mp4"
+      },
+      {
+        "episodeNumber": 152,
+        "title": "Episode 152: Somber News",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20152%20Somber%20News.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20152%20Somber%20News.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20152%20Somber%20News.mp4"
+      },
+      {
+        "episodeNumber": 153,
+        "title": "Episode 153: Following the Master's Shadow",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20153%20Following%20the%20Master's%20Shadow.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20153%20Following%20the%20Master's%20Shadow.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20153%20Following%20the%20Master's%20Shadow.mp4"
+      },
+      {
+        "episodeNumber": 154,
+        "title": "Episode 154: Decryption",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20154%20Decryption.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20154%20Decryption.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20154%20Decryption.mp4"
+      },
+      {
+        "episodeNumber": 155,
+        "title": "Episode 155: The First Challenge",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20155%20The%20First%20Challenge.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20155%20The%20First%20Challenge.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20155%20The%20First%20Challenge.mp4"
+      },
+      {
+        "episodeNumber": 156,
+        "title": "Episode 156: Surpassing the Master",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20156%20Surpassing%20the%20Master.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20156%20Surpassing%20the%20Master.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20156%20Surpassing%20the%20Master.mp4"
+      },
+      {
+        "episodeNumber": 157,
+        "title": "Episode 157: Assault on the Leaf Village!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20157%20Assault%20on%20the%20Leaf%20Village!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20157%20Assault%20on%20the%20Leaf%20Village!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20157%20Assault%20on%20the%20Leaf%20Village!.mp4"
+      },
+      {
+        "episodeNumber": 158,
+        "title": "Episode 158: Power to Believe",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20158%20Power%20to%20Believe.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20158%20Power%20to%20Believe.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20158%20Power%20to%20Believe.mp4"
+      },
+      {
+        "episodeNumber": 159,
+        "title": "Episode 159: Pain vs. Kakashi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20159%20Pain%20vs.%20Kakashi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20159%20Pain%20vs.%20Kakashi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20159%20Pain%20vs.%20Kakashi.mp4"
+      },
+      {
+        "episodeNumber": 160,
+        "title": "Episode 160: Mystery of Pain",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20160%20Mystery%20of%20Pain.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20160%20Mystery%20of%20Pain.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20160%20Mystery%20of%20Pain.mp4"
+      },
+      {
+        "episodeNumber": 161,
+        "title": "Episode 161: Surname Is Sarutobi. Given Name, Konohamaru!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20161%20Surname%20Is%20Sarutobi.%20Given%20Name%2C%20Konohamaru!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20161%20Surname%20Is%20Sarutobi.%20Given%20Name%2C%20Konohamaru!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20161%20Surname%20Is%20Sarutobi.%20Given%20Name%2C%20Konohamaru!.mp4"
+      },
+      {
+        "episodeNumber": 162,
+        "title": "Episode 162: Pain to the World",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20162%20Pain%20to%20the%20World.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20162%20Pain%20to%20the%20World.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20162%20Pain%20to%20the%20World.mp4"
+      },
+      {
+        "episodeNumber": 163,
+        "title": "Episode 163: Explode! Sage Mode",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20163%20Explode!%20Sage%20Mode.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20163%20Explode!%20Sage%20Mode.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20163%20Explode!%20Sage%20Mode.mp4"
+      },
+      {
+        "episodeNumber": 164,
+        "title": "Episode 164: Danger! Sage Mode Limit Reached",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20164%20Danger!%20Sage%20Mode%20Limit%20Reached.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20164%20Danger!%20Sage%20Mode%20Limit%20Reached.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20164%20Danger!%20Sage%20Mode%20Limit%20Reached.mp4"
+      },
+      {
+        "episodeNumber": 165,
+        "title": "Episode 165: Nine-Tails, Captured!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20165%20Nine-Tails%2C%20Captured!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20165%20Nine-Tails%2C%20Captured!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20165%20Nine-Tails%2C%20Captured!.mp4"
+      },
+      {
+        "episodeNumber": 166,
+        "title": "Episode 166: Confessions",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20166%20Confessions.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20166%20Confessions.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20166%20Confessions.mp4"
+      },
+      {
+        "episodeNumber": 167,
+        "title": "Episode 167: Planetary Devastation",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20167%20Planetary%20Devastation.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20167%20Planetary%20Devastation.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20167%20Planetary%20Devastation.mp4"
+      },
+      {
+        "episodeNumber": 168,
+        "title": "Episode 168: The Fourth Hokage",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20168%20The%20Fourth%20Hokage.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20168%20The%20Fourth%20Hokage.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20168%20The%20Fourth%20Hokage.mp4"
+      },
+      {
+        "episodeNumber": 169,
+        "title": "Episode 169: The Two Students",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20169%20The%20Two%20Students.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20169%20The%20Two%20Students.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20169%20The%20Two%20Students.mp4"
+      },
+      {
+        "episodeNumber": 170,
+        "title": "Episode 170: Big Adventure! The Quest for the Fourth Hokage's Legacy - Part 1",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20170%20Big%20Adventure!%20The%20Quest%20for%20the%20Fourth%20Hokage's%20Legacy%20-%20Part%201.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20170%20Big%20Adventure!%20The%20Quest%20for%20the%20Fourth%20Hokage's%20Legacy%20-%20Part%201.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20170%20Big%20Adventure!%20The%20Quest%20for%20the%20Fourth%20Hokage's%20Legacy%20-%20Part%201.mp4"
+      },
+      {
+        "episodeNumber": 171,
+        "title": "Episode 171: Big Adventure! The Quest for the Fourth Hokage's Legacy - Part 2",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20171%20Big%20Adventure!%20The%20Quest%20for%20the%20Fourth%20Hokage's%20Legacy%20-%20Part%202.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20171%20Big%20Adventure!%20The%20Quest%20for%20the%20Fourth%20Hokage's%20Legacy%20-%20Part%202.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20171%20Big%20Adventure!%20The%20Quest%20for%20the%20Fourth%20Hokage's%20Legacy%20-%20Part%202.mp4"
+      },
+      {
+        "episodeNumber": 172,
+        "title": "Episode 172: Meeting",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20172%20Meeting.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20172%20Meeting.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20172%20Meeting.mp4"
+      },
+      {
+        "episodeNumber": 173,
+        "title": "Episode 173: Origin of Pain",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20173%20Origin%20of%20Pain.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20173%20Origin%20of%20Pain.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20173%20Origin%20of%20Pain.mp4"
+      },
+      {
+        "episodeNumber": 174,
+        "title": "Episode 174: Tale of Naruto Uzumaki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20174%20Tale%20of%20Naruto%20Uzumaki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20174%20Tale%20of%20Naruto%20Uzumaki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20174%20Tale%20of%20Naruto%20Uzumaki.mp4"
+      },
+      {
+        "episodeNumber": 175,
+        "title": "Episode 175: Hero of the Leaf",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20175%20Hero%20of%20the%20Leaf.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20175%20Hero%20of%20the%20Leaf.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S08/Naruto%20Shippuden%20Episode%20175%20Hero%20of%20the%20Leaf.mp4"
+      },
+      {
+        "episodeNumber": 176,
+        "title": "Episode 176: Rookie Instructor Iruka",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20176%20Rookie%20Instructor%20Iruka.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20176%20Rookie%20Instructor%20Iruka.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20176%20Rookie%20Instructor%20Iruka.mp4"
+      },
+      {
+        "episodeNumber": 177,
+        "title": "Episode 177: Iruka's Ordeal",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20177%20Iruka's%20Ordeal.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20177%20Iruka's%20Ordeal.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20177%20Iruka's%20Ordeal.mp4"
+      },
+      {
+        "episodeNumber": 178,
+        "title": "Episode 178: Iruka's Decision",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20178%20Iruka's%20Decision.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20178%20Iruka's%20Decision.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20178%20Iruka's%20Decision.mp4"
+      },
+      {
+        "episodeNumber": 179,
+        "title": "Episode 179: Kakashi Hatake, The Jonin in Charge",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20179%20Kakashi%20Hatake%2C%20The%20Jonin%20in%20Charge.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20179%20Kakashi%20Hatake%2C%20The%20Jonin%20in%20Charge.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20179%20Kakashi%20Hatake%2C%20The%20Jonin%20in%20Charge.mp4"
+      },
+      {
+        "episodeNumber": 180,
+        "title": "Episode 180: Inari's Courage Put to the Test",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20180%20Inari's%20Courage%20Put%20to%20the%20Test.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20180%20Inari's%20Courage%20Put%20to%20the%20Test.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20180%20Inari's%20Courage%20Put%20to%20the%20Test.mp4"
+      },
+      {
+        "episodeNumber": 181,
+        "title": "Episode 181: Naruto's School of Revenge",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20181%20Naruto's%20School%20of%20Revenge.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20181%20Naruto's%20School%20of%20Revenge.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20181%20Naruto's%20School%20of%20Revenge.mp4"
+      },
+      {
+        "episodeNumber": 182,
+        "title": "Episode 182: Gaara's Bond",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20182%20Gaara's%20Bond.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20182%20Gaara's%20Bond.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20182%20Gaara's%20Bond.mp4"
+      },
+      {
+        "episodeNumber": 183,
+        "title": "Episode 183: Naruto Outbreak",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20183%20Naruto%20Outbreak.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20183%20Naruto%20Outbreak.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20183%20Naruto%20Outbreak.mp4"
+      },
+      {
+        "episodeNumber": 184,
+        "title": "Episode 184: Deploy! Team Tenten",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20184%20Deploy!%20Team%20Tenten.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20184%20Deploy!%20Team%20Tenten.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20184%20Deploy!%20Team%20Tenten.mp4"
+      },
+      {
+        "episodeNumber": 185,
+        "title": "Episode 185: Animal District",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20185%20Animal%20District.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20185%20Animal%20District.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20185%20Animal%20District.mp4"
+      },
+      {
+        "episodeNumber": 186,
+        "title": "Episode 186: Ah, the Medicine of Youth",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20186%20Ah%2C%20the%20Medicine%20of%20Youth.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20186%20Ah%2C%20the%20Medicine%20of%20Youth.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20186%20Ah%2C%20the%20Medicine%20of%20Youth.mp4"
+      },
+      {
+        "episodeNumber": 187,
+        "title": "Episode 187: Gutsy Master and Student The Training",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20187%20Gutsy%20Master%20and%20Student%20The%20Training.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20187%20Gutsy%20Master%20and%20Student%20The%20Training.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20187%20Gutsy%20Master%20and%20Student%20The%20Training.mp4"
+      },
+      {
+        "episodeNumber": 188,
+        "title": "Episode 188: Record of the Ninja Gutsy Master and Student",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20188%20Record%20of%20the%20Ninja%20Gutsy%20Master%20and%20Student.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20188%20Record%20of%20the%20Ninja%20Gutsy%20Master%20and%20Student.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20188%20Record%20of%20the%20Ninja%20Gutsy%20Master%20and%20Student.mp4"
+      },
+      {
+        "episodeNumber": 189,
+        "title": "Episode 189: Sasuke's Paw Encyclopedia",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20189%20Sasuke's%20Paw%20Encyclopedia.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20189%20Sasuke's%20Paw%20Encyclopedia.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20189%20Sasuke's%20Paw%20Encyclopedia.mp4"
+      },
+      {
+        "episodeNumber": 190,
+        "title": "Episode 190: Naruto and the Old Soldier",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20190%20Naruto%20and%20the%20Old%20Soldier.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20190%20Naruto%20and%20the%20Old%20Soldier.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20190%20Naruto%20and%20the%20Old%20Soldier.mp4"
+      },
+      {
+        "episodeNumber": 191,
+        "title": "Episode 191: Kakashi Love Song",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20191%20Kakashi%20Love%20Song.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20191%20Kakashi%20Love%20Song.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20191%20Kakashi%20Love%20Song.mp4"
+      },
+      {
+        "episodeNumber": 192,
+        "title": "Episode 192: Neji Chronicles",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20192%20Neji%20Chronicles.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20192%20Neji%20Chronicles.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20192%20Neji%20Chronicles.mp4"
+      },
+      {
+        "episodeNumber": 193,
+        "title": "Episode 193: The Man Who Died Twice",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20193%20The%20Man%20Who%20Died%20Twice.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20193%20The%20Man%20Who%20Died%20Twice.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20193%20The%20Man%20Who%20Died%20Twice.mp4"
+      },
+      {
+        "episodeNumber": 194,
+        "title": "Episode 194: The Worst Three-Legged Race",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20194%20The%20Worst%20Three-Legged%20Race.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20194%20The%20Worst%20Three-Legged%20Race.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20194%20The%20Worst%20Three-Legged%20Race.mp4"
+      },
+      {
+        "episodeNumber": 195,
+        "title": "Episode 195: Team 10's Teamwork",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20195%20Team%2010's%20Teamwork.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20195%20Team%2010's%20Teamwork.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20195%20Team%2010's%20Teamwork.mp4"
+      },
+      {
+        "episodeNumber": 196,
+        "title": "Episode 196: Drive Towards Darkness",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20196%20Drive%20Towards%20Darkness.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20196%20Drive%20Towards%20Darkness.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S09/Naruto%20Shippuden%20Episode%20196%20Drive%20Towards%20Darkness.mp4"
+      },
+      {
+        "episodeNumber": 197,
+        "title": "Episode 197: The Sixth Hokage Danzo",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20197%20The%20Sixth%20Hokage%20Danzo.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20197%20The%20Sixth%20Hokage%20Danzo.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20197%20The%20Sixth%20Hokage%20Danzo.mp4"
+      },
+      {
+        "episodeNumber": 198,
+        "title": "Episode 198: Five Kage Summit's Eve",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20198%20Five%20Kage%20Summit's%20Eve.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20198%20Five%20Kage%20Summit's%20Eve.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20198%20Five%20Kage%20Summit's%20Eve.mp4"
+      },
+      {
+        "episodeNumber": 199,
+        "title": "Episode 199: Enter the Five Kage!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20199%20Enter%20the%20Five%20Kage!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20199%20Enter%20the%20Five%20Kage!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20199%20Enter%20the%20Five%20Kage!.mp4"
+      },
+      {
+        "episodeNumber": 200,
+        "title": "Episode 200: Naruto's Plea",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20200%20Naruto's%20Plea.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20200%20Naruto's%20Plea.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20200%20Naruto's%20Plea.mp4"
+      },
+      {
+        "episodeNumber": 201,
+        "title": "Episode 201: Painful Decision",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20201%20Painful%20Decision.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20201%20Painful%20Decision.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20201%20Painful%20Decision.mp4"
+      },
+      {
+        "episodeNumber": 202,
+        "title": "Episode 202: Racing Lightning",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20202%20Racing%20Lightning.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20202%20Racing%20Lightning.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20202%20Racing%20Lightning.mp4"
+      },
+      {
+        "episodeNumber": 203,
+        "title": "Episode 203: Sasuke's Ninja Way",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20203%20Sasuke's%20Ninja%20Way.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20203%20Sasuke's%20Ninja%20Way.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20203%20Sasuke's%20Ninja%20Way.mp4"
+      },
+      {
+        "episodeNumber": 204,
+        "title": "Episode 204: Power of the Five Kage",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20204%20Power%20of%20the%20Five%20Kage.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20204%20Power%20of%20the%20Five%20Kage.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20204%20Power%20of%20the%20Five%20Kage.mp4"
+      },
+      {
+        "episodeNumber": 205,
+        "title": "Episode 205: Declaration of War",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20205%20Declaration%20of%20War.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20205%20Declaration%20of%20War.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20205%20Declaration%20of%20War.mp4"
+      },
+      {
+        "episodeNumber": 206,
+        "title": "Episode 206: Sakura's Feelings",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20206%20Sakura's%20Feelings.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20206%20Sakura's%20Feelings.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20206%20Sakura's%20Feelings.mp4"
+      },
+      {
+        "episodeNumber": 207,
+        "title": "Episode 207: The Tailed Beast vs. The Tailless Tailed Beast",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20207%20The%20Tailed%20Beast%20vs.%20The%20Tailless%20Tailed%20Beast.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20207%20The%20Tailed%20Beast%20vs.%20The%20Tailless%20Tailed%20Beast.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20207%20The%20Tailed%20Beast%20vs.%20The%20Tailless%20Tailed%20Beast.mp4"
+      },
+      {
+        "episodeNumber": 208,
+        "title": "Episode 208: As One's Friend",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20208%20As%20One's%20Friend.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20208%20As%20One's%20Friend.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20208%20As%20One's%20Friend.mp4"
+      },
+      {
+        "episodeNumber": 209,
+        "title": "Episode 209: Danzo's Right Arm",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20209%20Danzo's%20Right%20Arm.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20209%20Danzo's%20Right%20Arm.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20209%20Danzo's%20Right%20Arm.mp4"
+      },
+      {
+        "episodeNumber": 210,
+        "title": "Episode 210: The Forbidden Visual Jutsu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20210%20The%20Forbidden%20Visual%20Jutsu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20210%20The%20Forbidden%20Visual%20Jutsu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20210%20The%20Forbidden%20Visual%20Jutsu.mp4"
+      },
+      {
+        "episodeNumber": 211,
+        "title": "Episode 211: Danzo Shimura",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20211%20Danzo%20Shimura.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20211%20Danzo%20Shimura.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20211%20Danzo%20Shimura.mp4"
+      },
+      {
+        "episodeNumber": 212,
+        "title": "Episode 212: Sakura's Resolve",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20212%20Sakura's%20Resolve.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20212%20Sakura's%20Resolve.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20212%20Sakura's%20Resolve.mp4"
+      },
+      {
+        "episodeNumber": 213,
+        "title": "Episode 213: Lost Bonds",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20213%20Lost%20Bonds.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20213%20Lost%20Bonds.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20213%20Lost%20Bonds.mp4"
+      },
+      {
+        "episodeNumber": 214,
+        "title": "Episode 214: The Burden",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20214%20The%20Burden.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20214%20The%20Burden.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20214%20The%20Burden.mp4"
+      },
+      {
+        "episodeNumber": 215,
+        "title": "Episode 215: Two Fates",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20215%20Two%20Fates.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20215%20Two%20Fates.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20215%20Two%20Fates.mp4"
+      },
+      {
+        "episodeNumber": 216,
+        "title": "Episode 216: High-Level Shinobi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20216%20High-Level%20Shinobi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20216%20High-Level%20Shinobi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20216%20High-Level%20Shinobi.mp4"
+      },
+      {
+        "episodeNumber": 217,
+        "title": "Episode 217: The Infiltrator",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20217%20The%20Infiltrator.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20217%20The%20Infiltrator.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20217%20The%20Infiltrator.mp4"
+      },
+      {
+        "episodeNumber": 218,
+        "title": "Episode 218: The Five Great Nations Mobilize",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20218%20The%20Five%20Great%20Nations%20Mobilize.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20218%20The%20Five%20Great%20Nations%20Mobilize.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20218%20The%20Five%20Great%20Nations%20Mobilize.mp4"
+      },
+      {
+        "episodeNumber": 219,
+        "title": "Episode 219: Kakashi Hatake, the Hokage",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20219%20Kakashi%20Hatake%2C%20the%20Hokage.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20219%20Kakashi%20Hatake%2C%20the%20Hokage.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20219%20Kakashi%20Hatake%2C%20the%20Hokage.mp4"
+      },
+      {
+        "episodeNumber": 220,
+        "title": "Episode 220: Prophecy of the Great Lord Elder",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20220%20Prophecy%20of%20the%20Great%20Lord%20Elder.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20220%20Prophecy%20of%20the%20Great%20Lord%20Elder.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20220%20Prophecy%20of%20the%20Great%20Lord%20Elder.mp4"
+      },
+      {
+        "episodeNumber": 221,
+        "title": "Episode 221: Storage",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20221%20Storage.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20221%20Storage.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S10/Naruto%20Shippuden%20Episode%20221%20Storage.mp4"
+      },
+      {
+        "episodeNumber": 222,
+        "title": "Episode 222: The Five Kage's Decision",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20222%20The%20Five%20Kage's%20Decision.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20222%20The%20Five%20Kage's%20Decision.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20222%20The%20Five%20Kage's%20Decision.mp4"
+      },
+      {
+        "episodeNumber": 223,
+        "title": "Episode 223: The Young Man and the Sea",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20223%20The%20Young%20Man%20and%20the%20Sea.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20223%20The%20Young%20Man%20and%20the%20Sea.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20223%20The%20Young%20Man%20and%20the%20Sea.mp4"
+      },
+      {
+        "episodeNumber": 224,
+        "title": "Episode 224: The Ninja of Benisu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20224%20The%20Ninja%20of%20Benisu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20224%20The%20Ninja%20of%20Benisu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20224%20The%20Ninja%20of%20Benisu.mp4"
+      },
+      {
+        "episodeNumber": 225,
+        "title": "Episode 225: The Cursed Ghost Ship",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20225%20The%20Cursed%20Ghost%20Ship.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20225%20The%20Cursed%20Ghost%20Ship.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20225%20The%20Cursed%20Ghost%20Ship.mp4"
+      },
+      {
+        "episodeNumber": 226,
+        "title": "Episode 226: Battleship Island",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20226%20Battleship%20Island.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20226%20Battleship%20Island.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20226%20Battleship%20Island.mp4"
+      },
+      {
+        "episodeNumber": 227,
+        "title": "Episode 227: The Forgotten Island",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20227%20The%20Forgotten%20Island.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20227%20The%20Forgotten%20Island.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20227%20The%20Forgotten%20Island.mp4"
+      },
+      {
+        "episodeNumber": 228,
+        "title": "Episode 228: Fight! Rock Lee!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20228%20Fight!%20Rock%20Lee!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20228%20Fight!%20Rock%20Lee!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20228%20Fight!%20Rock%20Lee!.mp4"
+      },
+      {
+        "episodeNumber": 229,
+        "title": "Episode 229: Eat or Die! Mushrooms from Hell!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20229%20Eat%20or%20Die!%20Mushrooms%20from%20Hell!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20229%20Eat%20or%20Die!%20Mushrooms%20from%20Hell!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20229%20Eat%20or%20Die!%20Mushrooms%20from%20Hell!.mp4"
+      },
+      {
+        "episodeNumber": 230,
+        "title": "Episode 230: Revenge of the Shadow Clones",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20230%20Revenge%20of%20the%20Shadow%20Clones.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20230%20Revenge%20of%20the%20Shadow%20Clones.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20230%20Revenge%20of%20the%20Shadow%20Clones.mp4"
+      },
+      {
+        "episodeNumber": 231,
+        "title": "Episode 231: The Closed Route",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20231%20The%20Closed%20Route.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20231%20The%20Closed%20Route.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20231%20The%20Closed%20Route.mp4"
+      },
+      {
+        "episodeNumber": 232,
+        "title": "Episode 232: The Girls' Get-Together",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20232%20The%20Girls'%20Get-Together.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20232%20The%20Girls'%20Get-Together.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20232%20The%20Girls'%20Get-Together.mp4"
+      },
+      {
+        "episodeNumber": 233,
+        "title": "Episode 233: Naruto's Imposter",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20233%20Naruto's%20Imposter.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20233%20Naruto's%20Imposter.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20233%20Naruto's%20Imposter.mp4"
+      },
+      {
+        "episodeNumber": 234,
+        "title": "Episode 234: Naruto's Favorite Pupil",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20234%20Naruto's%20Favorite%20Pupil.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20234%20Naruto's%20Favorite%20Pupil.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20234%20Naruto's%20Favorite%20Pupil.mp4"
+      },
+      {
+        "episodeNumber": 235,
+        "title": "Episode 235: The Kunoichi of Nadeshiko Village",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20235%20The%20Kunoichi%20of%20Nadeshiko%20Village.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20235%20The%20Kunoichi%20of%20Nadeshiko%20Village.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20235%20The%20Kunoichi%20of%20Nadeshiko%20Village.mp4"
+      },
+      {
+        "episodeNumber": 236,
+        "title": "Episode 236: Friends You Can Count On",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20236%20Friends%20You%20Can%20Count%20On.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20236%20Friends%20You%20Can%20Count%20On.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20236%20Friends%20You%20Can%20Count%20On.mp4"
+      },
+      {
+        "episodeNumber": 237,
+        "title": "Episode 237: Ah, My Hero Lady Tsunade!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20237%20Ah%2C%20My%20Hero%20Lady%20Tsunade!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20237%20Ah%2C%20My%20Hero%20Lady%20Tsunade!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20237%20Ah%2C%20My%20Hero%20Lady%20Tsunade!.mp4"
+      },
+      {
+        "episodeNumber": 238,
+        "title": "Episode 238: Sai's Day Off",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20238%20Sai's%20Day%20Off.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20238%20Sai's%20Day%20Off.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20238%20Sai's%20Day%20Off.mp4"
+      },
+      {
+        "episodeNumber": 239,
+        "title": "Episode 239: The Legendary Ino-Shika-Cho",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20239%20The%20Legendary%20Ino-Shika-Cho.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20239%20The%20Legendary%20Ino-Shika-Cho.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20239%20The%20Legendary%20Ino-Shika-Cho.mp4"
+      },
+      {
+        "episodeNumber": 240,
+        "title": "Episode 240: Kiba's Determination",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20240%20Kiba's%20Determination.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20240%20Kiba's%20Determination.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20240%20Kiba's%20Determination.mp4"
+      },
+      {
+        "episodeNumber": 241,
+        "title": "Episode 241: Kakashi, My Eternal Rival!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20241%20Kakashi%2C%20My%20Eternal%20Rival!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20241%20Kakashi%2C%20My%20Eternal%20Rival!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20241%20Kakashi%2C%20My%20Eternal%20Rival!.mp4"
+      },
+      {
+        "episodeNumber": 242,
+        "title": "Episode 242: Naruto's Vow",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20242%20Naruto's%20Vow.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20242%20Naruto's%20Vow.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S11/Naruto%20Shippuden%20Episode%20242%20Naruto's%20Vow.mp4"
+      },
+      {
+        "episodeNumber": 243,
+        "title": "Episode 243: Land Ahoy! Is this the Paradise Island",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20243%20Land%20Ahoy!%20Is%20this%20the%20Paradise%20Island.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20243%20Land%20Ahoy!%20Is%20this%20the%20Paradise%20Island.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20243%20Land%20Ahoy!%20Is%20this%20the%20Paradise%20Island.mp4"
+      },
+      {
+        "episodeNumber": 244,
+        "title": "Episode 244: Killer Bee and Motoi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20244%20Killer%20Bee%20and%20Motoi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20244%20Killer%20Bee%20and%20Motoi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20244%20Killer%20Bee%20and%20Motoi.mp4"
+      },
+      {
+        "episodeNumber": 245,
+        "title": "Episode 245: The Next Challenge! Naruto vs. The Nine Tails",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20245%20The%20Next%20Challenge!%20Naruto%20vs.%20The%20Nine%20Tails.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20245%20The%20Next%20Challenge!%20Naruto%20vs.%20The%20Nine%20Tails.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20245%20The%20Next%20Challenge!%20Naruto%20vs.%20The%20Nine%20Tails.mp4"
+      },
+      {
+        "episodeNumber": 246,
+        "title": "Episode 246: The Orange Spark",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20246%20The%20Orange%20Spark.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20246%20The%20Orange%20Spark.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20246%20The%20Orange%20Spark.mp4"
+      },
+      {
+        "episodeNumber": 247,
+        "title": "Episode 247: Target Nine Tails",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20247%20Target%20Nine%20Tails.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20247%20Target%20Nine%20Tails.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20247%20Target%20Nine%20Tails.mp4"
+      },
+      {
+        "episodeNumber": 248,
+        "title": "Episode 248: The Fourth Hokage's Death Match!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20248%20The%20Fourth%20Hokage's%20Death%20Match!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20248%20The%20Fourth%20Hokage's%20Death%20Match!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20248%20The%20Fourth%20Hokage's%20Death%20Match!.mp4"
+      },
+      {
+        "episodeNumber": 249,
+        "title": "Episode 249: Thank You",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20249%20Thank%20You.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20249%20Thank%20You.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20249%20Thank%20You.mp4"
+      },
+      {
+        "episodeNumber": 250,
+        "title": "Episode 250: Battle in Paradise! Odd Beast vs. The Monster!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20250%20Battle%20in%20Paradise!%20Odd%20Beast%20vs.%20The%20Monster!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20250%20Battle%20in%20Paradise!%20Odd%20Beast%20vs.%20The%20Monster!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20250%20Battle%20in%20Paradise!%20Odd%20Beast%20vs.%20The%20Monster!.mp4"
+      },
+      {
+        "episodeNumber": 251,
+        "title": "Episode 251: The Man Named Kisame",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20251%20The%20Man%20Named%20Kisame.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20251%20The%20Man%20Named%20Kisame.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20251%20The%20Man%20Named%20Kisame.mp4"
+      },
+      {
+        "episodeNumber": 252,
+        "title": "Episode 252: The Angelic Herald of Death",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20252%20The%20Angelic%20Herald%20of%20Death.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20252%20The%20Angelic%20Herald%20of%20Death.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20252%20The%20Angelic%20Herald%20of%20Death.mp4"
+      },
+      {
+        "episodeNumber": 253,
+        "title": "Episode 253: The Bridge to Peace",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20253%20The%20Bridge%20to%20Peace.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20253%20The%20Bridge%20to%20Peace.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20253%20The%20Bridge%20to%20Peace.mp4"
+      },
+      {
+        "episodeNumber": 254,
+        "title": "Episode 254: The Super Secret S-Rank Mission",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20254%20The%20Super%20Secret%20S-Rank%20Mission.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20254%20The%20Super%20Secret%20S-Rank%20Mission.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20254%20The%20Super%20Secret%20S-Rank%20Mission.mp4"
+      },
+      {
+        "episodeNumber": 255,
+        "title": "Episode 255: The Artist Returns",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20255%20The%20Artist%20Returns.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20255%20The%20Artist%20Returns.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20255%20The%20Artist%20Returns.mp4"
+      },
+      {
+        "episodeNumber": 256,
+        "title": "Episode 256: Assemble! Allied Shinobi Forces!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20256%20Assemble!%20Allied%20Shinobi%20Forces!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20256%20Assemble!%20Allied%20Shinobi%20Forces!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20256%20Assemble!%20Allied%20Shinobi%20Forces!.mp4"
+      },
+      {
+        "episodeNumber": 257,
+        "title": "Episode 257: Meeting",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20257%20Meeting.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20257%20Meeting.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20257%20Meeting.mp4"
+      },
+      {
+        "episodeNumber": 258,
+        "title": "Episode 258: Rivals",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20258%20Rivals.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20258%20Rivals.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20258%20Rivals.mp4"
+      },
+      {
+        "episodeNumber": 259,
+        "title": "Episode 259: Rift",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20259%20Rift.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20259%20Rift.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20259%20Rift.mp4"
+      },
+      {
+        "episodeNumber": 260,
+        "title": "Episode 260: Parting",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20260%20Parting.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20260%20Parting.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20260%20Parting.mp4"
+      },
+      {
+        "episodeNumber": 261,
+        "title": "Episode 261: For My Friend",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20261%20For%20My%20Friend.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20261%20For%20My%20Friend.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20261%20For%20My%20Friend.mp4"
+      },
+      {
+        "episodeNumber": 262,
+        "title": "Episode 262: War Begins",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20262%20War%20Begins.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20262%20War%20Begins.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20262%20War%20Begins.mp4"
+      },
+      {
+        "episodeNumber": 263,
+        "title": "Episode 263: Sai and Shin",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20263%20Sai%20and%20Shin.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20263%20Sai%20and%20Shin.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20263%20Sai%20and%20Shin.mp4"
+      },
+      {
+        "episodeNumber": 264,
+        "title": "Episode 264: Secrets of the Reanimation Jutsu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20264%20Secrets%20of%20the%20Reanimation%20Jutsu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20264%20Secrets%20of%20the%20Reanimation%20Jutsu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20264%20Secrets%20of%20the%20Reanimation%20Jutsu.mp4"
+      },
+      {
+        "episodeNumber": 265,
+        "title": "Episode 265: An Old Nemesis Returns",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20265%20An%20Old%20Nemesis%20Returns.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20265%20An%20Old%20Nemesis%20Returns.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20265%20An%20Old%20Nemesis%20Returns.mp4"
+      },
+      {
+        "episodeNumber": 266,
+        "title": "Episode 266: The First and Last Opponent",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20266%20The%20First%20and%20Last%20Opponent.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20266%20The%20First%20and%20Last%20Opponent.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20266%20The%20First%20and%20Last%20Opponent.mp4"
+      },
+      {
+        "episodeNumber": 267,
+        "title": "Episode 267: The Brilliant Military Advisor of the Hidden Leaf",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20267%20The%20Brilliant%20Military%20Advisor%20of%20the%20Hidden%20Leaf.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20267%20The%20Brilliant%20Military%20Advisor%20of%20the%20Hidden%20Leaf.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20267%20The%20Brilliant%20Military%20Advisor%20of%20the%20Hidden%20Leaf.mp4"
+      },
+      {
+        "episodeNumber": 268,
+        "title": "Episode 268: Battleground!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20268%20Battleground!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20268%20Battleground!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20268%20Battleground!.mp4"
+      },
+      {
+        "episodeNumber": 269,
+        "title": "Episode 269: Forbidden Words",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20269%20Forbidden%20Words.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20269%20Forbidden%20Words.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20269%20Forbidden%20Words.mp4"
+      },
+      {
+        "episodeNumber": 270,
+        "title": "Episode 270: Golden Bonds",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20270%20Golden%20Bonds.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20270%20Golden%20Bonds.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20270%20Golden%20Bonds.mp4"
+      },
+      {
+        "episodeNumber": 271,
+        "title": "Episode 271: Road to Sakura",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20271%20Road%20to%20Sakura.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20271%20Road%20to%20Sakura.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20271%20Road%20to%20Sakura.mp4"
+      },
+      {
+        "episodeNumber": 272,
+        "title": "Episode 272: Mifune vs. Hanzō",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20272%20Mifune%20vs.%20Hanz%C5%8D.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20272%20Mifune%20vs.%20Hanz%C5%8D.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20272%20Mifune%20vs.%20Hanz%C5%8D.mp4"
+      },
+      {
+        "episodeNumber": 273,
+        "title": "Episode 273: True Kindness",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20273%20True%20Kindness.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20273%20True%20Kindness.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20273%20True%20Kindness.mp4"
+      },
+      {
+        "episodeNumber": 274,
+        "title": "Episode 274: The Complete Ino-Shika-Cho Formation!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20274%20The%20Complete%20Ino-Shika-Cho%20Formation!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20274%20The%20Complete%20Ino-Shika-Cho%20Formation!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20274%20The%20Complete%20Ino-Shika-Cho%20Formation!.mp4"
+      },
+      {
+        "episodeNumber": 275,
+        "title": "Episode 275: A Message from the Heart",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20275%20A%20Message%20from%20the%20Heart.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20275%20A%20Message%20from%20the%20Heart.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S12/Naruto%20Shippuden%20Episode%20275%20A%20Message%20from%20the%20Heart.mp4"
+      },
+      {
+        "episodeNumber": 276,
+        "title": "Episode 276: Attack of the Gedo Statue",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20276%20Attack%20of%20the%20Gedo%20Statue.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20276%20Attack%20of%20the%20Gedo%20Statue.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20276%20Attack%20of%20the%20Gedo%20Statue.mp4"
+      },
+      {
+        "episodeNumber": 277,
+        "title": "Episode 277: Unison Sign",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20277%20Unison%20Sign.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20277%20Unison%20Sign.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20277%20Unison%20Sign.mp4"
+      },
+      {
+        "episodeNumber": 278,
+        "title": "Episode 278: Medic Ninja in Danger",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20278%20Medic%20Ninja%20in%20Danger.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20278%20Medic%20Ninja%20in%20Danger.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20278%20Medic%20Ninja%20in%20Danger.mp4"
+      },
+      {
+        "episodeNumber": 279,
+        "title": "Episode 279: White Zetsu's Trap",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20279%20White%20Zetsu's%20Trap.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20279%20White%20Zetsu's%20Trap.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20279%20White%20Zetsu's%20Trap.mp4"
+      },
+      {
+        "episodeNumber": 280,
+        "title": "Episode 280: Aesthetics of an Artist",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20280%20Aesthetics%20of%20an%20Artist.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20280%20Aesthetics%20of%20an%20Artist.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20280%20Aesthetics%20of%20an%20Artist.mp4"
+      },
+      {
+        "episodeNumber": 281,
+        "title": "Episode 281: The Allied Mom Force!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20281%20The%20Allied%20Mom%20Force!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20281%20The%20Allied%20Mom%20Force!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20281%20The%20Allied%20Mom%20Force!.mp4"
+      },
+      {
+        "episodeNumber": 282,
+        "title": "Episode 282: The Secret Origin of the Ultimate Tag Team!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20282%20The%20Secret%20Origin%20of%20the%20Ultimate%20Tag%20Team!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20282%20The%20Secret%20Origin%20of%20the%20Ultimate%20Tag%20Team!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20282%20The%20Secret%20Origin%20of%20the%20Ultimate%20Tag%20Team!.mp4"
+      },
+      {
+        "episodeNumber": 283,
+        "title": "Episode 283: Two Suns",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20283%20Two%20Suns.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20283%20Two%20Suns.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20283%20Two%20Suns.mp4"
+      },
+      {
+        "episodeNumber": 284,
+        "title": "Episode 284: The Helmet Splitter Jinin Akebino!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20284%20The%20Helmet%20Splitter%20Jinin%20Akebino!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20284%20The%20Helmet%20Splitter%20Jinin%20Akebino!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20284%20The%20Helmet%20Splitter%20Jinin%20Akebino!.mp4"
+      },
+      {
+        "episodeNumber": 285,
+        "title": "Episode 285: User of the Scorch Style Pakura of the Sand!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20285%20User%20of%20the%20Scorch%20Style%20Pakura%20of%20the%20Sand!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20285%20User%20of%20the%20Scorch%20Style%20Pakura%20of%20the%20Sand!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20285%20User%20of%20the%20Scorch%20Style%20Pakura%20of%20the%20Sand!.mp4"
+      },
+      {
+        "episodeNumber": 286,
+        "title": "Episode 286: Things You Can't Get Back",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20286%20Things%20You%20Can't%20Get%20Back.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20286%20Things%20You%20Can't%20Get%20Back.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20286%20Things%20You%20Can't%20Get%20Back.mp4"
+      },
+      {
+        "episodeNumber": 287,
+        "title": "Episode 287: One Worth Betting On",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20287%20One%20Worth%20Betting%20On.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20287%20One%20Worth%20Betting%20On.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20287%20One%20Worth%20Betting%20On.mp4"
+      },
+      {
+        "episodeNumber": 288,
+        "title": "Episode 288: Danger Jinpachi and Kushimaru!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20288%20Danger%20Jinpachi%20and%20Kushimaru!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20288%20Danger%20Jinpachi%20and%20Kushimaru!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20288%20Danger%20Jinpachi%20and%20Kushimaru!.mp4"
+      },
+      {
+        "episodeNumber": 289,
+        "title": "Episode 289: The Lightning Blade Ameyuri Ringo!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20289%20The%20Lightning%20Blade%20Ameyuri%20Ringo!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20289%20The%20Lightning%20Blade%20Ameyuri%20Ringo!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20289%20The%20Lightning%20Blade%20Ameyuri%20Ringo!.mp4"
+      },
+      {
+        "episodeNumber": 290,
+        "title": "Episode 290: Power - Episode 1",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20290%20Power%20-%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20290%20Power%20-%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20290%20Power%20-%20Episode%201.mp4"
+      },
+      {
+        "episodeNumber": 291,
+        "title": "Episode 291: Power - Episode 2",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20291%20Power%20-%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20291%20Power%20-%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20291%20Power%20-%20Episode%202.mp4"
+      },
+      {
+        "episodeNumber": 292,
+        "title": "Episode 292: Power - Episode 3",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20292%20Power%20-%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20292%20Power%20-%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20292%20Power%20-%20Episode%203.mp4"
+      },
+      {
+        "episodeNumber": 293,
+        "title": "Episode 293: Power - Episode 4",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20293%20Power%20-%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20293%20Power%20-%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20293%20Power%20-%20Episode%204.mp4"
+      },
+      {
+        "episodeNumber": 294,
+        "title": "Episode 294: Power - Episode 5",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20294%20Power%20-%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20294%20Power%20-%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20294%20Power%20-%20Episode%205.mp4"
+      },
+      {
+        "episodeNumber": 295,
+        "title": "Episode 295: Power - Final Episode",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20295%20Power%20-%20Final%20Episode.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20295%20Power%20-%20Final%20Episode.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S13/Naruto%20Shippuden%20Episode%20295%20Power%20-%20Final%20Episode.mp4"
+      },
+      {
+        "episodeNumber": 296,
+        "title": "Episode 296: Naruto Enters the Battle!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20296%20Naruto%20Enters%20the%20Battle!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20296%20Naruto%20Enters%20the%20Battle!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20296%20Naruto%20Enters%20the%20Battle!.mp4"
+      },
+      {
+        "episodeNumber": 297,
+        "title": "Episode 297: A Father's Hope, A Mother's Love",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20297%20A%20Father's%20Hope%2C%20A%20Mother's%20Love.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20297%20A%20Father's%20Hope%2C%20A%20Mother's%20Love.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20297%20A%20Father's%20Hope%2C%20A%20Mother's%20Love.mp4"
+      },
+      {
+        "episodeNumber": 298,
+        "title": "Episode 298: Contact! Naruto vs. Itachi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20298%20Contact!%20Naruto%20vs.%20Itachi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20298%20Contact!%20Naruto%20vs.%20Itachi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20298%20Contact!%20Naruto%20vs.%20Itachi.mp4"
+      },
+      {
+        "episodeNumber": 299,
+        "title": "Episode 299: The Acknowledged One",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20299%20The%20Acknowledged%20One.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20299%20The%20Acknowledged%20One.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20299%20The%20Acknowledged%20One.mp4"
+      },
+      {
+        "episodeNumber": 300,
+        "title": "Episode 300: The Mizukage, the Giant Clam, and the Mirage",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20300%20The%20Mizukage%2C%20the%20Giant%20Clam%2C%20and%20the%20Mirage.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20300%20The%20Mizukage%2C%20the%20Giant%20Clam%2C%20and%20the%20Mirage.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20300%20The%20Mizukage%2C%20the%20Giant%20Clam%2C%20and%20the%20Mirage.mp4"
+      },
+      {
+        "episodeNumber": 301,
+        "title": "Episode 301: Paradox",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20301%20Paradox.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20301%20Paradox.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20301%20Paradox.mp4"
+      },
+      {
+        "episodeNumber": 302,
+        "title": "Episode 302: Terror The Steam Imp",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20302%20Terror%20The%20Steam%20Imp.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20302%20Terror%20The%20Steam%20Imp.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20302%20Terror%20The%20Steam%20Imp.mp4"
+      },
+      {
+        "episodeNumber": 303,
+        "title": "Episode 303: Ghosts from the Past",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20303%20Ghosts%20from%20the%20Past.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20303%20Ghosts%20from%20the%20Past.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20303%20Ghosts%20from%20the%20Past.mp4"
+      },
+      {
+        "episodeNumber": 304,
+        "title": "Episode 304: The Underworld Transfer Jutsu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20304%20The%20Underworld%20Transfer%20Jutsu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20304%20The%20Underworld%20Transfer%20Jutsu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20304%20The%20Underworld%20Transfer%20Jutsu.mp4"
+      },
+      {
+        "episodeNumber": 305,
+        "title": "Episode 305: The Vengeful",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20305%20The%20Vengeful.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20305%20The%20Vengeful.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20305%20The%20Vengeful.mp4"
+      },
+      {
+        "episodeNumber": 306,
+        "title": "Episode 306: The Heart's Eye",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20306%20The%20Heart's%20Eye.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20306%20The%20Heart's%20Eye.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20306%20The%20Heart's%20Eye.mp4"
+      },
+      {
+        "episodeNumber": 307,
+        "title": "Episode 307: Fade into the Moonlight",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20307%20Fade%20into%20the%20Moonlight.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20307%20Fade%20into%20the%20Moonlight.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20307%20Fade%20into%20the%20Moonlight.mp4"
+      },
+      {
+        "episodeNumber": 308,
+        "title": "Episode 308: Crescent Moonlight",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20308%20Crescent%20Moonlight.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20308%20Crescent%20Moonlight.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20308%20Crescent%20Moonlight.mp4"
+      },
+      {
+        "episodeNumber": 309,
+        "title": "Episode 309: The A-Rank Mission Food Fight",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20309%20The%20A-Rank%20Mission%20Food%20Fight.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20309%20The%20A-Rank%20Mission%20Food%20Fight.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20309%20The%20A-Rank%20Mission%20Food%20Fight.mp4"
+      },
+      {
+        "episodeNumber": 310,
+        "title": "Episode 310: The Fallen Castle",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20310%20The%20Fallen%20Castle.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20310%20The%20Fallen%20Castle.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20310%20The%20Fallen%20Castle.mp4"
+      },
+      {
+        "episodeNumber": 311,
+        "title": "Episode 311: Prologue of Road to Ninja",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20311%20Prologue%20of%20Road%20to%20Ninja.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20311%20Prologue%20of%20Road%20to%20Ninja.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20311%20Prologue%20of%20Road%20to%20Ninja.mp4"
+      },
+      {
+        "episodeNumber": 312,
+        "title": "Episode 312: The Old Master and the Dragon's Eye",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20312%20The%20Old%20Master%20and%20the%20Dragon's%20Eye.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20312%20The%20Old%20Master%20and%20the%20Dragon's%20Eye.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20312%20The%20Old%20Master%20and%20the%20Dragon's%20Eye.mp4"
+      },
+      {
+        "episodeNumber": 313,
+        "title": "Episode 313: Rain Followed by Snow, with Some Lightning",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20313%20Rain%20Followed%20by%20Snow%2C%20with%20Some%20Lightning.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20313%20Rain%20Followed%20by%20Snow%2C%20with%20Some%20Lightning.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20313%20Rain%20Followed%20by%20Snow%2C%20with%20Some%20Lightning.mp4"
+      },
+      {
+        "episodeNumber": 314,
+        "title": "Episode 314: The Sad Sun Shower",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20314%20The%20Sad%20Sun%20Shower.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20314%20The%20Sad%20Sun%20Shower.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20314%20The%20Sad%20Sun%20Shower.mp4"
+      },
+      {
+        "episodeNumber": 315,
+        "title": "Episode 315: Lingering Snow",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20315%20Lingering%20Snow.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20315%20Lingering%20Snow.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20315%20Lingering%20Snow.mp4"
+      },
+      {
+        "episodeNumber": 316,
+        "title": "Episode 316: The Reanimated Allied Forces",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20316%20The%20Reanimated%20Allied%20Forces.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20316%20The%20Reanimated%20Allied%20Forces.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20316%20The%20Reanimated%20Allied%20Forces.mp4"
+      },
+      {
+        "episodeNumber": 317,
+        "title": "Episode 317: Shino vs. Torune!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20317%20Shino%20vs.%20Torune!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20317%20Shino%20vs.%20Torune!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20317%20Shino%20vs.%20Torune!.mp4"
+      },
+      {
+        "episodeNumber": 318,
+        "title": "Episode 318: A Hole in the Heart The Other Jinchuriki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20318%20A%20Hole%20in%20the%20Heart%20The%20Other%20Jinchuriki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20318%20A%20Hole%20in%20the%20Heart%20The%20Other%20Jinchuriki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20318%20A%20Hole%20in%20the%20Heart%20The%20Other%20Jinchuriki.mp4"
+      },
+      {
+        "episodeNumber": 319,
+        "title": "Episode 319: The Soul Living Inside the Puppet",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20319%20The%20Soul%20Living%20Inside%20the%20Puppet.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20319%20The%20Soul%20Living%20Inside%20the%20Puppet.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20319%20The%20Soul%20Living%20Inside%20the%20Puppet.mp4"
+      },
+      {
+        "episodeNumber": 320,
+        "title": "Episode 320: Run, Omoi!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20320%20Run%2C%20Omoi!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20320%20Run%2C%20Omoi!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S14/Naruto%20Shippuden%20Episode%20320%20Run%2C%20Omoi!.mp4"
+      },
+      {
+        "episodeNumber": 321,
+        "title": "Episode 321: Reinforcements Arrive",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20321%20Reinforcements%20Arrive.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20321%20Reinforcements%20Arrive.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20321%20Reinforcements%20Arrive.mp4"
+      },
+      {
+        "episodeNumber": 322,
+        "title": "Episode 322: Madara Uchiha",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20322%20Madara%20Uchiha.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20322%20Madara%20Uchiha.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20322%20Madara%20Uchiha.mp4"
+      },
+      {
+        "episodeNumber": 323,
+        "title": "Episode 323: The Five Kage Assemble",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20323%20The%20Five%20Kage%20Assemble.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20323%20The%20Five%20Kage%20Assemble.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20323%20The%20Five%20Kage%20Assemble.mp4"
+      },
+      {
+        "episodeNumber": 324,
+        "title": "Episode 324: The Unbreakable Mask and the Shattered Bubble",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20324%20The%20Unbreakable%20Mask%20and%20the%20Shattered%20Bubble.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20324%20The%20Unbreakable%20Mask%20and%20the%20Shattered%20Bubble.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20324%20The%20Unbreakable%20Mask%20and%20the%20Shattered%20Bubble.mp4"
+      },
+      {
+        "episodeNumber": 325,
+        "title": "Episode 325: Jinchūriki vs. Jinchūriki!!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20325%20Jinch%C5%ABriki%20vs.%20Jinch%C5%ABriki!!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20325%20Jinch%C5%ABriki%20vs.%20Jinch%C5%ABriki!!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20325%20Jinch%C5%ABriki%20vs.%20Jinch%C5%ABriki!!.mp4"
+      },
+      {
+        "episodeNumber": 326,
+        "title": "Episode 326: Four Tails, the King of Sage Monkeys",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20326%20Four%20Tails%2C%20the%20King%20of%20Sage%20Monkeys.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20326%20Four%20Tails%2C%20the%20King%20of%20Sage%20Monkeys.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20326%20Four%20Tails%2C%20the%20King%20of%20Sage%20Monkeys.mp4"
+      },
+      {
+        "episodeNumber": 327,
+        "title": "Episode 327: Nine Tails",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20327%20Nine%20Tails.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20327%20Nine%20Tails.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20327%20Nine%20Tails.mp4"
+      },
+      {
+        "episodeNumber": 328,
+        "title": "Episode 328: Kurama",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20328%20Kurama.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20328%20Kurama.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20328%20Kurama.mp4"
+      },
+      {
+        "episodeNumber": 329,
+        "title": "Episode 329: Two-Man Team",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20329%20Two-Man%20Team.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20329%20Two-Man%20Team.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20329%20Two-Man%20Team.mp4"
+      },
+      {
+        "episodeNumber": 330,
+        "title": "Episode 330: The Promise of Victory",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20330%20The%20Promise%20of%20Victory.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20330%20The%20Promise%20of%20Victory.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20330%20The%20Promise%20of%20Victory.mp4"
+      },
+      {
+        "episodeNumber": 331,
+        "title": "Episode 331: Eyes That See in the Dark",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20331%20Eyes%20That%20See%20in%20the%20Dark.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20331%20Eyes%20That%20See%20in%20the%20Dark.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20331%20Eyes%20That%20See%20in%20the%20Dark.mp4"
+      },
+      {
+        "episodeNumber": 332,
+        "title": "Episode 332: A Will of Stone",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20332%20A%20Will%20of%20Stone.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20332%20A%20Will%20of%20Stone.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20332%20A%20Will%20of%20Stone.mp4"
+      },
+      {
+        "episodeNumber": 333,
+        "title": "Episode 333: The Risks of the Reanimation Jutsu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20333%20The%20Risks%20of%20the%20Reanimation%20Jutsu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20333%20The%20Risks%20of%20the%20Reanimation%20Jutsu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20333%20The%20Risks%20of%20the%20Reanimation%20Jutsu.mp4"
+      },
+      {
+        "episodeNumber": 334,
+        "title": "Episode 334: Sibling Tag Team",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20334%20Sibling%20Tag%20Team.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20334%20Sibling%20Tag%20Team.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20334%20Sibling%20Tag%20Team.mp4"
+      },
+      {
+        "episodeNumber": 335,
+        "title": "Episode 335: To Each Their Own Leaf",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20335%20To%20Each%20Their%20Own%20Leaf.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20335%20To%20Each%20Their%20Own%20Leaf.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20335%20To%20Each%20Their%20Own%20Leaf.mp4"
+      },
+      {
+        "episodeNumber": 336,
+        "title": "Episode 336: Kabuto Yakushi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20336%20Kabuto%20Yakushi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20336%20Kabuto%20Yakushi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20336%20Kabuto%20Yakushi.mp4"
+      },
+      {
+        "episodeNumber": 337,
+        "title": "Episode 337: The Izanami Activated",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20337%20The%20Izanami%20Activated.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20337%20The%20Izanami%20Activated.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20337%20The%20Izanami%20Activated.mp4"
+      },
+      {
+        "episodeNumber": 338,
+        "title": "Episode 338: Izanagi and Izanami",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20338%20Izanagi%20and%20Izanami.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20338%20Izanagi%20and%20Izanami.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20338%20Izanagi%20and%20Izanami.mp4"
+      },
+      {
+        "episodeNumber": 339,
+        "title": "Episode 339: I Will Love You Always",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20339%20I%20Will%20Love%20You%20Always.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20339%20I%20Will%20Love%20You%20Always.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20339%20I%20Will%20Love%20You%20Always.mp4"
+      },
+      {
+        "episodeNumber": 340,
+        "title": "Episode 340: Reanimation Jutsu Release!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20340%20Reanimation%20Jutsu%20Release!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20340%20Reanimation%20Jutsu%20Release!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20340%20Reanimation%20Jutsu%20Release!.mp4"
+      },
+      {
+        "episodeNumber": 341,
+        "title": "Episode 341: Orochimaru's Return",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20341%20Orochimaru's%20Return.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20341%20Orochimaru's%20Return.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20341%20Orochimaru's%20Return.mp4"
+      },
+      {
+        "episodeNumber": 342,
+        "title": "Episode 342: The Secret of the Transportation Technique",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20342%20The%20Secret%20of%20the%20Transportation%20Technique.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20342%20The%20Secret%20of%20the%20Transportation%20Technique.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20342%20The%20Secret%20of%20the%20Transportation%20Technique.mp4"
+      },
+      {
+        "episodeNumber": 343,
+        "title": "Episode 343: Who Are You",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20343%20Who%20Are%20You.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20343%20Who%20Are%20You.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20343%20Who%20Are%20You.mp4"
+      },
+      {
+        "episodeNumber": 344,
+        "title": "Episode 344: Obito and Madara",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20344%20Obito%20and%20Madara.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20344%20Obito%20and%20Madara.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20344%20Obito%20and%20Madara.mp4"
+      },
+      {
+        "episodeNumber": 345,
+        "title": "Episode 345: I'm in Hell",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20345%20I'm%20in%20Hell.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20345%20I'm%20in%20Hell.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20345%20I'm%20in%20Hell.mp4"
+      },
+      {
+        "episodeNumber": 346,
+        "title": "Episode 346: World of Dreams",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20346%20World%20of%20Dreams.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20346%20World%20of%20Dreams.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20346%20World%20of%20Dreams.mp4"
+      },
+      {
+        "episodeNumber": 347,
+        "title": "Episode 347: Creeping Shadow",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20347%20Creeping%20Shadow.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20347%20Creeping%20Shadow.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20347%20Creeping%20Shadow.mp4"
+      },
+      {
+        "episodeNumber": 348,
+        "title": "Episode 348: The New Akatsuki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20348%20The%20New%20Akatsuki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20348%20The%20New%20Akatsuki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S15/Naruto%20Shippuden%20Episode%20348%20The%20New%20Akatsuki.mp4"
+      },
+      {
+        "episodeNumber": 349,
+        "title": "Episode 349: A Mask That Hides The Heart",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20349%20A%20Mask%20That%20Hides%20The%20Heart.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20349%20A%20Mask%20That%20Hides%20The%20Heart.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20349%20A%20Mask%20That%20Hides%20The%20Heart.mp4"
+      },
+      {
+        "episodeNumber": 350,
+        "title": "Episode 350: Minato's Death",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20350%20Minato's%20Death.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20350%20Minato's%20Death.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20350%20Minato's%20Death.mp4"
+      },
+      {
+        "episodeNumber": 351,
+        "title": "Episode 351: Hashirama's Cells",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20351%20Hashirama's%20Cells.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20351%20Hashirama's%20Cells.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20351%20Hashirama's%20Cells.mp4"
+      },
+      {
+        "episodeNumber": 352,
+        "title": "Episode 352: The Rogue Ninja Orochimaru",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20352%20The%20Rogue%20Ninja%20Orochimaru.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20352%20The%20Rogue%20Ninja%20Orochimaru.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20352%20The%20Rogue%20Ninja%20Orochimaru.mp4"
+      },
+      {
+        "episodeNumber": 353,
+        "title": "Episode 353: Orochimaru's Test Subject",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20353%20Orochimaru's%20Test%20Subject.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20353%20Orochimaru's%20Test%20Subject.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20353%20Orochimaru's%20Test%20Subject.mp4"
+      },
+      {
+        "episodeNumber": 354,
+        "title": "Episode 354: Their Own Paths",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20354%20Their%20Own%20Paths.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20354%20Their%20Own%20Paths.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20354%20Their%20Own%20Paths.mp4"
+      },
+      {
+        "episodeNumber": 355,
+        "title": "Episode 355: The Targeted Sharingan",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20355%20The%20Targeted%20Sharingan.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20355%20The%20Targeted%20Sharingan.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20355%20The%20Targeted%20Sharingan.mp4"
+      },
+      {
+        "episodeNumber": 356,
+        "title": "Episode 356: A Shinobi of the Leaf",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20356%20A%20Shinobi%20of%20the%20Leaf.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20356%20A%20Shinobi%20of%20the%20Leaf.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20356%20A%20Shinobi%20of%20the%20Leaf.mp4"
+      },
+      {
+        "episodeNumber": 357,
+        "title": "Episode 357: An Uchiha ANBU",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20357%20An%20Uchiha%20ANBU.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20357%20An%20Uchiha%20ANBU.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20357%20An%20Uchiha%20ANBU.mp4"
+      },
+      {
+        "episodeNumber": 358,
+        "title": "Episode 358: Coup d'État",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20358%20Coup%20d'%C3%89tat.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20358%20Coup%20d'%C3%89tat.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20358%20Coup%20d'%C3%89tat.mp4"
+      },
+      {
+        "episodeNumber": 359,
+        "title": "Episode 359: The Night of the Tragedy",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20359%20The%20Night%20of%20the%20Tragedy.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20359%20The%20Night%20of%20the%20Tragedy.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20359%20The%20Night%20of%20the%20Tragedy.mp4"
+      },
+      {
+        "episodeNumber": 360,
+        "title": "Episode 360: Jōnin Leader",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20360%20J%C5%8Dnin%20Leader.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20360%20J%C5%8Dnin%20Leader.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20360%20J%C5%8Dnin%20Leader.mp4"
+      },
+      {
+        "episodeNumber": 361,
+        "title": "Episode 361: Team 7",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20361%20Team%207.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20361%20Team%207.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S16/Naruto%20Shippuden%20Episode%20361%20Team%207.mp4"
+      },
+      {
+        "episodeNumber": 362,
+        "title": "Episode 362: Kakashi's Resolve",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20362%20Kakashi's%20Resolve.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20362%20Kakashi's%20Resolve.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20362%20Kakashi's%20Resolve.mp4"
+      },
+      {
+        "episodeNumber": 363,
+        "title": "Episode 363: The Allied Shinobi Forces Jutsu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20363%20The%20Allied%20Shinobi%20Forces%20Jutsu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20363%20The%20Allied%20Shinobi%20Forces%20Jutsu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20363%20The%20Allied%20Shinobi%20Forces%20Jutsu.mp4"
+      },
+      {
+        "episodeNumber": 364,
+        "title": "Episode 364: The Ties That Bind",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20364%20The%20Ties%20That%20Bind.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20364%20The%20Ties%20That%20Bind.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20364%20The%20Ties%20That%20Bind.mp4"
+      },
+      {
+        "episodeNumber": 365,
+        "title": "Episode 365: Those Who Dance in the Shadows",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20365%20Those%20Who%20Dance%20in%20the%20Shadows.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20365%20Those%20Who%20Dance%20in%20the%20Shadows.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20365%20Those%20Who%20Dance%20in%20the%20Shadows.mp4"
+      },
+      {
+        "episodeNumber": 366,
+        "title": "Episode 366: The All-Knowing",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20366%20The%20All-Knowing.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20366%20The%20All-Knowing.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20366%20The%20All-Knowing.mp4"
+      },
+      {
+        "episodeNumber": 367,
+        "title": "Episode 367: Hashirama and Madara",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20367%20Hashirama%20and%20Madara.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20367%20Hashirama%20and%20Madara.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20367%20Hashirama%20and%20Madara.mp4"
+      },
+      {
+        "episodeNumber": 368,
+        "title": "Episode 368: The Era of Warring States",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20368%20The%20Era%20of%20Warring%20States.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20368%20The%20Era%20of%20Warring%20States.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20368%20The%20Era%20of%20Warring%20States.mp4"
+      },
+      {
+        "episodeNumber": 369,
+        "title": "Episode 369: My True Dream",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20369%20My%20True%20Dream.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20369%20My%20True%20Dream.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20369%20My%20True%20Dream.mp4"
+      },
+      {
+        "episodeNumber": 370,
+        "title": "Episode 370: Sasuke's Answer",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20370%20Sasuke's%20Answer.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20370%20Sasuke's%20Answer.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20370%20Sasuke's%20Answer.mp4"
+      },
+      {
+        "episodeNumber": 371,
+        "title": "Episode 371: Hole",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20371%20Hole.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20371%20Hole.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20371%20Hole.mp4"
+      },
+      {
+        "episodeNumber": 372,
+        "title": "Episode 372: Something to Fill the Hole",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20372%20Something%20to%20Fill%20the%20Hole.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20372%20Something%20to%20Fill%20the%20Hole.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S17/Naruto%20Shippuden%20Episode%20372%20Something%20to%20Fill%20the%20Hole.mp4"
+      },
+      {
+        "episodeNumber": 373,
+        "title": "Episode 373: Team 7 Assemble!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20373%20Team%207%20Assemble!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20373%20Team%207%20Assemble!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20373%20Team%207%20Assemble!.mp4"
+      },
+      {
+        "episodeNumber": 374,
+        "title": "Episode 374: The New Three-Way Deadlock",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20374%20The%20New%20Three-Way%20Deadlock.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20374%20The%20New%20Three-Way%20Deadlock.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20374%20The%20New%20Three-Way%20Deadlock.mp4"
+      },
+      {
+        "episodeNumber": 375,
+        "title": "Episode 375: Kakashi vs. Obito",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20375%20Kakashi%20vs.%20Obito.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20375%20Kakashi%20vs.%20Obito.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20375%20Kakashi%20vs.%20Obito.mp4"
+      },
+      {
+        "episodeNumber": 376,
+        "title": "Episode 376: The Directive to Take the Nine-Tails!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20376%20The%20Directive%20to%20Take%20the%20Nine-Tails!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20376%20The%20Directive%20to%20Take%20the%20Nine-Tails!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20376%20The%20Directive%20to%20Take%20the%20Nine-Tails!.mp4"
+      },
+      {
+        "episodeNumber": 377,
+        "title": "Episode 377: Naruto vs. Mecha Naruto",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20377%20Naruto%20vs.%20Mecha%20Naruto.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20377%20Naruto%20vs.%20Mecha%20Naruto.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20377%20Naruto%20vs.%20Mecha%20Naruto.mp4"
+      },
+      {
+        "episodeNumber": 378,
+        "title": "Episode 378: The Ten Tails' Jinchuriki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20378%20The%20Ten%20Tails'%20Jinchuriki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20378%20The%20Ten%20Tails'%20Jinchuriki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20378%20The%20Ten%20Tails'%20Jinchuriki.mp4"
+      },
+      {
+        "episodeNumber": 379,
+        "title": "Episode 379: An Opening",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20379%20An%20Opening.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20379%20An%20Opening.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20379%20An%20Opening.mp4"
+      },
+      {
+        "episodeNumber": 380,
+        "title": "Episode 380: The Day Naruto Was Born",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20380%20The%20Day%20Naruto%20Was%20Born.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20380%20The%20Day%20Naruto%20Was%20Born.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20380%20The%20Day%20Naruto%20Was%20Born.mp4"
+      },
+      {
+        "episodeNumber": 381,
+        "title": "Episode 381: The Divine Tree",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20381%20The%20Divine%20Tree.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20381%20The%20Divine%20Tree.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20381%20The%20Divine%20Tree.mp4"
+      },
+      {
+        "episodeNumber": 382,
+        "title": "Episode 382: A Shinobi's Dream",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20382%20A%20Shinobi's%20Dream.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20382%20A%20Shinobi's%20Dream.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20382%20A%20Shinobi's%20Dream.mp4"
+      },
+      {
+        "episodeNumber": 383,
+        "title": "Episode 383: Pursuing Hope",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20383%20Pursuing%20Hope.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20383%20Pursuing%20Hope.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20383%20Pursuing%20Hope.mp4"
+      },
+      {
+        "episodeNumber": 384,
+        "title": "Episode 384: A Heart Filled With Comrades",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20384%20A%20Heart%20Filled%20With%20Comrades.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20384%20A%20Heart%20Filled%20With%20Comrades.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20384%20A%20Heart%20Filled%20With%20Comrades.mp4"
+      },
+      {
+        "episodeNumber": 385,
+        "title": "Episode 385: Obito Uchiha",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20385%20Obito%20Uchiha.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20385%20Obito%20Uchiha.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20385%20Obito%20Uchiha.mp4"
+      },
+      {
+        "episodeNumber": 386,
+        "title": "Episode 386: I'm Always Watching",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20386%20I'm%20Always%20Watching.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20386%20I'm%20Always%20Watching.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20386%20I'm%20Always%20Watching.mp4"
+      },
+      {
+        "episodeNumber": 387,
+        "title": "Episode 387: The Promise That Was Kept",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20387%20The%20Promise%20That%20Was%20Kept.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20387%20The%20Promise%20That%20Was%20Kept.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20387%20The%20Promise%20That%20Was%20Kept.mp4"
+      },
+      {
+        "episodeNumber": 388,
+        "title": "Episode 388: My First Friend",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20388%20My%20First%20Friend.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20388%20My%20First%20Friend.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20388%20My%20First%20Friend.mp4"
+      },
+      {
+        "episodeNumber": 389,
+        "title": "Episode 389: The Adored Elder Sister",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20389%20The%20Adored%20Elder%20Sister.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20389%20The%20Adored%20Elder%20Sister.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20389%20The%20Adored%20Elder%20Sister.mp4"
+      },
+      {
+        "episodeNumber": 390,
+        "title": "Episode 390: Hanabi's Decision",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20390%20Hanabi's%20Decision.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20390%20Hanabi's%20Decision.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20390%20Hanabi's%20Decision.mp4"
+      },
+      {
+        "episodeNumber": 391,
+        "title": "Episode 391: Madara Uchiha Arises",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20391%20Madara%20Uchiha%20Arises.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20391%20Madara%20Uchiha%20Arises.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20391%20Madara%20Uchiha%20Arises.mp4"
+      },
+      {
+        "episodeNumber": 392,
+        "title": "Episode 392: The Hidden Heart",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20392%20The%20Hidden%20Heart.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20392%20The%20Hidden%20Heart.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20392%20The%20Hidden%20Heart.mp4"
+      },
+      {
+        "episodeNumber": 393,
+        "title": "Episode 393: A True Ending",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20393%20A%20True%20Ending.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20393%20A%20True%20Ending.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S18/Naruto%20Shippuden%20Episode%20393%20A%20True%20Ending.mp4"
+      },
+      {
+        "episodeNumber": 394,
+        "title": "Episode 394: The New Chunin Exams",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20394%20The%20New%20Chunin%20Exams.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20394%20The%20New%20Chunin%20Exams.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20394%20The%20New%20Chunin%20Exams.mp4"
+      },
+      {
+        "episodeNumber": 395,
+        "title": "Episode 395: The Chunin Exams Begin",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20395%20The%20Chunin%20Exams%20Begin.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20395%20The%20Chunin%20Exams%20Begin.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20395%20The%20Chunin%20Exams%20Begin.mp4"
+      },
+      {
+        "episodeNumber": 396,
+        "title": "Episode 396: The Three Questions",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20396%20The%20Three%20Questions.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20396%20The%20Three%20Questions.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20396%20The%20Three%20Questions.mp4"
+      },
+      {
+        "episodeNumber": 397,
+        "title": "Episode 397: One Worthy As A Leader",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20397%20One%20Worthy%20As%20A%20Leader.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20397%20One%20Worthy%20As%20A%20Leader.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20397%20One%20Worthy%20As%20A%20Leader.mp4"
+      },
+      {
+        "episodeNumber": 398,
+        "title": "Episode 398: The Night Before the Second Exam",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20398%20The%20Night%20Before%20the%20Second%20Exam.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20398%20The%20Night%20Before%20the%20Second%20Exam.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20398%20The%20Night%20Before%20the%20Second%20Exam.mp4"
+      },
+      {
+        "episodeNumber": 399,
+        "title": "Episode 399: Demon Desert Survival",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20399%20Demon%20Desert%20Survival.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20399%20Demon%20Desert%20Survival.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20399%20Demon%20Desert%20Survival.mp4"
+      },
+      {
+        "episodeNumber": 400,
+        "title": "Episode 400: As a Taijutsu User",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20400%20As%20a%20Taijutsu%20User.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20400%20As%20a%20Taijutsu%20User.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20400%20As%20a%20Taijutsu%20User.mp4"
+      },
+      {
+        "episodeNumber": 401,
+        "title": "Episode 401: The Ultimate",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20401%20The%20Ultimate.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20401%20The%20Ultimate.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20401%20The%20Ultimate.mp4"
+      },
+      {
+        "episodeNumber": 402,
+        "title": "Episode 402: Escape vs. Pursuit",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20402%20Escape%20vs.%20Pursuit.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20402%20Escape%20vs.%20Pursuit.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20402%20Escape%20vs.%20Pursuit.mp4"
+      },
+      {
+        "episodeNumber": 403,
+        "title": "Episode 403: Unwavering Gutsiness",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20403%20Unwavering%20Gutsiness.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20403%20Unwavering%20Gutsiness.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20403%20Unwavering%20Gutsiness.mp4"
+      },
+      {
+        "episodeNumber": 404,
+        "title": "Episode 404: Tenten's Troubles",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20404%20Tenten's%20Troubles.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20404%20Tenten's%20Troubles.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20404%20Tenten's%20Troubles.mp4"
+      },
+      {
+        "episodeNumber": 405,
+        "title": "Episode 405: The Imprisoned Pair",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20405%20The%20Imprisoned%20Pair.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20405%20The%20Imprisoned%20Pair.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20405%20The%20Imprisoned%20Pair.mp4"
+      },
+      {
+        "episodeNumber": 406,
+        "title": "Episode 406: The Place Where I Belong",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20406%20The%20Place%20Where%20I%20Belong.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20406%20The%20Place%20Where%20I%20Belong.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20406%20The%20Place%20Where%20I%20Belong.mp4"
+      },
+      {
+        "episodeNumber": 407,
+        "title": "Episode 407: The Yamanaka Clan Secret Ninjutsu",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20407%20The%20Yamanaka%20Clan%20Secret%20Ninjutsu.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20407%20The%20Yamanaka%20Clan%20Secret%20Ninjutsu.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20407%20The%20Yamanaka%20Clan%20Secret%20Ninjutsu.mp4"
+      },
+      {
+        "episodeNumber": 408,
+        "title": "Episode 408: The Cursed Puppet",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20408%20The%20Cursed%20Puppet.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20408%20The%20Cursed%20Puppet.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20408%20The%20Cursed%20Puppet.mp4"
+      },
+      {
+        "episodeNumber": 409,
+        "title": "Episode 409: Their Backs",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20409%20Their%20Backs.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20409%20Their%20Backs.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20409%20Their%20Backs.mp4"
+      },
+      {
+        "episodeNumber": 410,
+        "title": "Episode 410: The Hidden Plot Set Into Motion",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20410%20The%20Hidden%20Plot%20Set%20Into%20Motion.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20410%20The%20Hidden%20Plot%20Set%20Into%20Motion.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20410%20The%20Hidden%20Plot%20Set%20Into%20Motion.mp4"
+      },
+      {
+        "episodeNumber": 411,
+        "title": "Episode 411: The Targeted Tailed Beast",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20411%20The%20Targeted%20Tailed%20Beast.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20411%20The%20Targeted%20Tailed%20Beast.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20411%20The%20Targeted%20Tailed%20Beast.mp4"
+      },
+      {
+        "episodeNumber": 412,
+        "title": "Episode 412: Neji's Judgment",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20412%20Neji's%20Judgment.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20412%20Neji's%20Judgment.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20412%20Neji's%20Judgment.mp4"
+      },
+      {
+        "episodeNumber": 413,
+        "title": "Episode 413: Hopes Entrusted to the Future",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20413%20Hopes%20Entrusted%20to%20the%20Future.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20413%20Hopes%20Entrusted%20to%20the%20Future.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S19/Naruto%20Shippuden%20Episode%20413%20Hopes%20Entrusted%20to%20the%20Future.mp4"
+      },
+      {
+        "episodeNumber": 414,
+        "title": "Episode 414: On the Brink of Death",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20414%20On%20the%20Brink%20of%20Death.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20414%20On%20the%20Brink%20of%20Death.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20414%20On%20the%20Brink%20of%20Death.mp4"
+      },
+      {
+        "episodeNumber": 415,
+        "title": "Episode 415: The Two Mangekyo",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20415%20The%20Two%20Mangekyo.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20415%20The%20Two%20Mangekyo.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20415%20The%20Two%20Mangekyo.mp4"
+      },
+      {
+        "episodeNumber": 416,
+        "title": "Episode 416: The Formation of Team Minato",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20416%20The%20Formation%20of%20Team%20Minato.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20416%20The%20Formation%20of%20Team%20Minato.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20416%20The%20Formation%20of%20Team%20Minato.mp4"
+      },
+      {
+        "episodeNumber": 417,
+        "title": "Episode 417: You'll Be My Backup",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20417%20You'll%20Be%20My%20Backup.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20417%20You'll%20Be%20My%20Backup.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20417%20You'll%20Be%20My%20Backup.mp4"
+      },
+      {
+        "episodeNumber": 418,
+        "title": "Episode 418: The Blue Beast vs. Six Paths Madara",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20418%20The%20Blue%20Beast%20vs.%20Six%20Paths%20Madara.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20418%20The%20Blue%20Beast%20vs.%20Six%20Paths%20Madara.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20418%20The%20Blue%20Beast%20vs.%20Six%20Paths%20Madara.mp4"
+      },
+      {
+        "episodeNumber": 419,
+        "title": "Episode 419: Papa's Youth",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20419%20Papa's%20Youth.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20419%20Papa's%20Youth.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20419%20Papa's%20Youth.mp4"
+      },
+      {
+        "episodeNumber": 420,
+        "title": "Episode 420: The Eight Inner Gates Formation",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20420%20The%20Eight%20Inner%20Gates%20Formation.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20420%20The%20Eight%20Inner%20Gates%20Formation.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20420%20The%20Eight%20Inner%20Gates%20Formation.mp4"
+      },
+      {
+        "episodeNumber": 421,
+        "title": "Episode 421: The Sage of the Six Paths",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20421%20The%20Sage%20of%20the%20Six%20Paths.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20421%20The%20Sage%20of%20the%20Six%20Paths.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20421%20The%20Sage%20of%20the%20Six%20Paths.mp4"
+      },
+      {
+        "episodeNumber": 422,
+        "title": "Episode 422: The Ones Who Will Inherit",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20422%20The%20Ones%20Who%20Will%20Inherit.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20422%20The%20Ones%20Who%20Will%20Inherit.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20422%20The%20Ones%20Who%20Will%20Inherit.mp4"
+      },
+      {
+        "episodeNumber": 423,
+        "title": "Episode 423: Naruto's Rival",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20423%20Naruto's%20Rival.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20423%20Naruto's%20Rival.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20423%20Naruto's%20Rival.mp4"
+      },
+      {
+        "episodeNumber": 424,
+        "title": "Episode 424: To Rise Up",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20424%20To%20Rise%20Up.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20424%20To%20Rise%20Up.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20424%20To%20Rise%20Up.mp4"
+      },
+      {
+        "episodeNumber": 425,
+        "title": "Episode 425: The Infinite Dream",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20425%20The%20Infinite%20Dream.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20425%20The%20Infinite%20Dream.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20425%20The%20Infinite%20Dream.mp4"
+      },
+      {
+        "episodeNumber": 426,
+        "title": "Episode 426: The Infinite Tsukuyomi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20426%20The%20Infinite%20Tsukuyomi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20426%20The%20Infinite%20Tsukuyomi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20426%20The%20Infinite%20Tsukuyomi.mp4"
+      },
+      {
+        "episodeNumber": 427,
+        "title": "Episode 427: To the Dream World",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20427%20To%20the%20Dream%20World.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20427%20To%20the%20Dream%20World.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20427%20To%20the%20Dream%20World.mp4"
+      },
+      {
+        "episodeNumber": 428,
+        "title": "Episode 428: Where Tenten Belongs",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20428%20Where%20Tenten%20Belongs.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20428%20Where%20Tenten%20Belongs.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20428%20Where%20Tenten%20Belongs.mp4"
+      },
+      {
+        "episodeNumber": 429,
+        "title": "Episode 429: Killer Bee Rappuden - Part 1",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20429%20Killer%20Bee%20Rappuden%20-%20Part%201.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20429%20Killer%20Bee%20Rappuden%20-%20Part%201.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20429%20Killer%20Bee%20Rappuden%20-%20Part%201.mp4"
+      },
+      {
+        "episodeNumber": 430,
+        "title": "Episode 430: Killer Bee Rappuden - Part 2",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20430%20Killer%20Bee%20Rappuden%20-%20Part%202.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20430%20Killer%20Bee%20Rappuden%20-%20Part%202.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20430%20Killer%20Bee%20Rappuden%20-%20Part%202.mp4"
+      },
+      {
+        "episodeNumber": 431,
+        "title": "Episode 431: To See That Smile, Just One More Time",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20431%20To%20See%20That%20Smile%2C%20Just%20One%20More%20Time.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20431%20To%20See%20That%20Smile%2C%20Just%20One%20More%20Time.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20431%20To%20See%20That%20Smile%2C%20Just%20One%20More%20Time.mp4"
+      },
+      {
+        "episodeNumber": 432,
+        "title": "Episode 432: The Loser Ninja",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20432%20The%20Loser%20Ninja.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20432%20The%20Loser%20Ninja.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20432%20The%20Loser%20Ninja.mp4"
+      },
+      {
+        "episodeNumber": 433,
+        "title": "Episode 433: The Search Mission",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20433%20The%20Search%20Mission.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20433%20The%20Search%20Mission.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20433%20The%20Search%20Mission.mp4"
+      },
+      {
+        "episodeNumber": 434,
+        "title": "Episode 434: Team Jiraiya",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20434%20Team%20Jiraiya.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20434%20Team%20Jiraiya.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20434%20Team%20Jiraiya.mp4"
+      },
+      {
+        "episodeNumber": 435,
+        "title": "Episode 435: Order of Priority",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20435%20Order%20of%20Priority.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20435%20Order%20of%20Priority.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20435%20Order%20of%20Priority.mp4"
+      },
+      {
+        "episodeNumber": 436,
+        "title": "Episode 436: The Masked Man",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20436%20The%20Masked%20Man.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20436%20The%20Masked%20Man.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20436%20The%20Masked%20Man.mp4"
+      },
+      {
+        "episodeNumber": 437,
+        "title": "Episode 437: The Sealed Power",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20437%20The%20Sealed%20Power.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20437%20The%20Sealed%20Power.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20437%20The%20Sealed%20Power.mp4"
+      },
+      {
+        "episodeNumber": 438,
+        "title": "Episode 438: The Rules or a Comrade",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20438%20The%20Rules%20or%20a%20Comrade.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20438%20The%20Rules%20or%20a%20Comrade.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20438%20The%20Rules%20or%20a%20Comrade.mp4"
+      },
+      {
+        "episodeNumber": 439,
+        "title": "Episode 439: The Child of Prophecy",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20439%20The%20Child%20of%20Prophecy.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20439%20The%20Child%20of%20Prophecy.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20439%20The%20Child%20of%20Prophecy.mp4"
+      },
+      {
+        "episodeNumber": 440,
+        "title": "Episode 440: The Caged Bird",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20440%20The%20Caged%20Bird.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20440%20The%20Caged%20Bird.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20440%20The%20Caged%20Bird.mp4"
+      },
+      {
+        "episodeNumber": 441,
+        "title": "Episode 441: Returning Home",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20441%20Returning%20Home.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20441%20Returning%20Home.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20441%20Returning%20Home.mp4"
+      },
+      {
+        "episodeNumber": 442,
+        "title": "Episode 442: The Mutual Path",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20442%20The%20Mutual%20Path.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20442%20The%20Mutual%20Path.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20442%20The%20Mutual%20Path.mp4"
+      },
+      {
+        "episodeNumber": 443,
+        "title": "Episode 443: The Difference in Power",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20443%20The%20Difference%20in%20Power.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20443%20The%20Difference%20in%20Power.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20443%20The%20Difference%20in%20Power.mp4"
+      },
+      {
+        "episodeNumber": 444,
+        "title": "Episode 444: Leaving the Village",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20444%20Leaving%20the%20Village.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20444%20Leaving%20the%20Village.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20444%20Leaving%20the%20Village.mp4"
+      },
+      {
+        "episodeNumber": 445,
+        "title": "Episode 445: Pursuers",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20445%20Pursuers.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20445%20Pursuers.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20445%20Pursuers.mp4"
+      },
+      {
+        "episodeNumber": 446,
+        "title": "Episode 446: Collision",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20446%20Collision.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20446%20Collision.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20446%20Collision.mp4"
+      },
+      {
+        "episodeNumber": 447,
+        "title": "Episode 447: Another Moon",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20447%20Another%20Moon.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20447%20Another%20Moon.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20447%20Another%20Moon.mp4"
+      },
+      {
+        "episodeNumber": 448,
+        "title": "Episode 448: Comrade",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20448%20Comrade.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20448%20Comrade.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20448%20Comrade.mp4"
+      },
+      {
+        "episodeNumber": 449,
+        "title": "Episode 449: The Shinobi Unite",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20449%20The%20Shinobi%20Unite.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20449%20The%20Shinobi%20Unite.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20449%20The%20Shinobi%20Unite.mp4"
+      },
+      {
+        "episodeNumber": 450,
+        "title": "Episode 450: Rival",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20450%20Rival.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20450%20Rival.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20450%20Rival.mp4"
+      },
+      {
+        "episodeNumber": 451,
+        "title": "Episode 451: Birth and Death",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20451%20Birth%20and%20Death.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20451%20Birth%20and%20Death.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20451%20Birth%20and%20Death.mp4"
+      },
+      {
+        "episodeNumber": 452,
+        "title": "Episode 452: The Genius",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20452%20The%20Genius.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20452%20The%20Genius.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20452%20The%20Genius.mp4"
+      },
+      {
+        "episodeNumber": 453,
+        "title": "Episode 453: The Pain of Living",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20453%20The%20Pain%20of%20Living.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20453%20The%20Pain%20of%20Living.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20453%20The%20Pain%20of%20Living.mp4"
+      },
+      {
+        "episodeNumber": 454,
+        "title": "Episode 454: Shisui's Request",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20454%20Shisui's%20Request.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20454%20Shisui's%20Request.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20454%20Shisui's%20Request.mp4"
+      },
+      {
+        "episodeNumber": 455,
+        "title": "Episode 455: Moonlit Night",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20455%20Moonlit%20Night.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20455%20Moonlit%20Night.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20455%20Moonlit%20Night.mp4"
+      },
+      {
+        "episodeNumber": 456,
+        "title": "Episode 456: The Darkness of the Akatsuki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20456%20The%20Darkness%20of%20the%20Akatsuki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20456%20The%20Darkness%20of%20the%20Akatsuki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20456%20The%20Darkness%20of%20the%20Akatsuki.mp4"
+      },
+      {
+        "episodeNumber": 457,
+        "title": "Episode 457: Partner",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20457%20Partner.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20457%20Partner.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20457%20Partner.mp4"
+      },
+      {
+        "episodeNumber": 458,
+        "title": "Episode 458: Truth",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20458%20Truth.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20458%20Truth.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20458%20Truth.mp4"
+      },
+      {
+        "episodeNumber": 459,
+        "title": "Episode 459: She of the Beginning",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20459%20She%20of%20the%20Beginning.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20459%20She%20of%20the%20Beginning.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20459%20She%20of%20the%20Beginning.mp4"
+      },
+      {
+        "episodeNumber": 460,
+        "title": "Episode 460: Kaguya Ōtsutsuki",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20460%20Kaguya%20%C5%8Ctsutsuki.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20460%20Kaguya%20%C5%8Ctsutsuki.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20460%20Kaguya%20%C5%8Ctsutsuki.mp4"
+      },
+      {
+        "episodeNumber": 461,
+        "title": "Episode 461: Hagoromo and Hamura",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20461%20Hagoromo%20and%20Hamura.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20461%20Hagoromo%20and%20Hamura.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20461%20Hagoromo%20and%20Hamura.mp4"
+      },
+      {
+        "episodeNumber": 462,
+        "title": "Episode 462: A Fabricated Past",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20462%20A%20Fabricated%20Past.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20462%20A%20Fabricated%20Past.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20462%20A%20Fabricated%20Past.mp4"
+      },
+      {
+        "episodeNumber": 463,
+        "title": "Episode 463: The No. 1 Most Unpredictable Ninja",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20463%20The%20No.%201%20Most%20Unpredictable%20Ninja.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20463%20The%20No.%201%20Most%20Unpredictable%20Ninja.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20463%20The%20No.%201%20Most%20Unpredictable%20Ninja.mp4"
+      },
+      {
+        "episodeNumber": 464,
+        "title": "Episode 464: Ninshu The Ninja Creed",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20464%20Ninshu%20The%20Ninja%20Creed.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20464%20Ninshu%20The%20Ninja%20Creed.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20464%20Ninshu%20The%20Ninja%20Creed.mp4"
+      },
+      {
+        "episodeNumber": 465,
+        "title": "Episode 465: Ashura and Indra",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20465%20Ashura%20and%20Indra.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20465%20Ashura%20and%20Indra.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20465%20Ashura%20and%20Indra.mp4"
+      },
+      {
+        "episodeNumber": 466,
+        "title": "Episode 466: The Tumultuous Journey",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20466%20The%20Tumultuous%20Journey.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20466%20The%20Tumultuous%20Journey.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20466%20The%20Tumultuous%20Journey.mp4"
+      },
+      {
+        "episodeNumber": 467,
+        "title": "Episode 467: Ashura's Decision",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20467%20Ashura's%20Decision.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20467%20Ashura's%20Decision.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20467%20Ashura's%20Decision.mp4"
+      },
+      {
+        "episodeNumber": 468,
+        "title": "Episode 468: The Successor",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20468%20The%20Successor.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20468%20The%20Successor.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20468%20The%20Successor.mp4"
+      },
+      {
+        "episodeNumber": 469,
+        "title": "Episode 469: A Special Mission",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20469%20A%20Special%20Mission.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20469%20A%20Special%20Mission.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20469%20A%20Special%20Mission.mp4"
+      },
+      {
+        "episodeNumber": 470,
+        "title": "Episode 470: Connecting Thoughts",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20470%20Connecting%20Thoughts.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20470%20Connecting%20Thoughts.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20470%20Connecting%20Thoughts.mp4"
+      },
+      {
+        "episodeNumber": 471,
+        "title": "Episode 471: The Two of Them... Always",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20471%20The%20Two%20of%20Them...%20Always.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20471%20The%20Two%20of%20Them...%20Always.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20471%20The%20Two%20of%20Them...%20Always.mp4"
+      },
+      {
+        "episodeNumber": 472,
+        "title": "Episode 472: You Better...",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20472%20You%20Better....mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20472%20You%20Better....mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20472%20You%20Better....mp4"
+      },
+      {
+        "episodeNumber": 473,
+        "title": "Episode 473: Sharingan Again",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20473%20Sharingan%20Again.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20473%20Sharingan%20Again.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20473%20Sharingan%20Again.mp4"
+      },
+      {
+        "episodeNumber": 474,
+        "title": "Episode 474: Congratulations",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20474%20Congratulations.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20474%20Congratulations.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20474%20Congratulations.mp4"
+      },
+      {
+        "episodeNumber": 475,
+        "title": "Episode 475: The Final Valley",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20475%20The%20Final%20Valley.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20475%20The%20Final%20Valley.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20475%20The%20Final%20Valley.mp4"
+      },
+      {
+        "episodeNumber": 476,
+        "title": "Episode 476: The Final Battle",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20476%20The%20Final%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20476%20The%20Final%20Battle.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20476%20The%20Final%20Battle.mp4"
+      },
+      {
+        "episodeNumber": 477,
+        "title": "Episode 477: Naruto and Sasuke",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20477%20Naruto%20and%20Sasuke.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20477%20Naruto%20and%20Sasuke.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20477%20Naruto%20and%20Sasuke.mp4"
+      },
+      {
+        "episodeNumber": 478,
+        "title": "Episode 478: The Unison Sign",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20478%20The%20Unison%20Sign.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20478%20The%20Unison%20Sign.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20478%20The%20Unison%20Sign.mp4"
+      },
+      {
+        "episodeNumber": 479,
+        "title": "Episode 479: Naruto Uzumaki!",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20479%20Naruto%20Uzumaki!.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20479%20Naruto%20Uzumaki!.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S20/Naruto%20Shippuden%20Episode%20479%20Naruto%20Uzumaki!.mp4"
+      },
+      {
+        "episodeNumber": 480,
+        "title": "Episode 480: Naruto and Hinata",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20480%20Naruto%20and%20Hinata.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20480%20Naruto%20and%20Hinata.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20480%20Naruto%20and%20Hinata.mp4"
+      },
+      {
+        "episodeNumber": 481,
+        "title": "Episode 481: Sasuke and Sakura",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20481%20Sasuke%20and%20Sakura.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20481%20Sasuke%20and%20Sakura.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20481%20Sasuke%20and%20Sakura.mp4"
+      },
+      {
+        "episodeNumber": 482,
+        "title": "Episode 482: Gaara and Shikamaru",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20482%20Gaara%20and%20Shikamaru.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20482%20Gaara%20and%20Shikamaru.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20482%20Gaara%20and%20Shikamaru.mp4"
+      },
+      {
+        "episodeNumber": 483,
+        "title": "Episode 483: Jiraiya and Kakashi",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20483%20Jiraiya%20and%20Kakashi.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20483%20Jiraiya%20and%20Kakashi.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20483%20Jiraiya%20and%20Kakashi.mp4"
+      },
+      {
+        "episodeNumber": 484,
+        "title": "Episode 484: The Exploding Human",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20484%20The%20Exploding%20Human.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20484%20The%20Exploding%20Human.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20484%20The%20Exploding%20Human.mp4"
+      },
+      {
+        "episodeNumber": 485,
+        "title": "Episode 485: Coliseum",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20485%20Coliseum.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20485%20Coliseum.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20485%20Coliseum.mp4"
+      },
+      {
+        "episodeNumber": 486,
+        "title": "Episode 486: Fūshin",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20486%20F%C5%ABshin.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20486%20F%C5%ABshin.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20486%20F%C5%ABshin.mp4"
+      },
+      {
+        "episodeNumber": 487,
+        "title": "Episode 487: The Ketsuryūgan",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20487%20The%20Ketsury%C5%ABgan.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20487%20The%20Ketsury%C5%ABgan.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20487%20The%20Ketsury%C5%ABgan.mp4"
+      },
+      {
+        "episodeNumber": 488,
+        "title": "Episode 488: The Last One",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20488%20The%20Last%20One.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20488%20The%20Last%20One.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20488%20The%20Last%20One.mp4"
+      },
+      {
+        "episodeNumber": 489,
+        "title": "Episode 489: The State of Affairs",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20489%20The%20State%20of%20Affairs.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20489%20The%20State%20of%20Affairs.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20489%20The%20State%20of%20Affairs.mp4"
+      },
+      {
+        "episodeNumber": 490,
+        "title": "Episode 490: Dark Clouds",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20490%20Dark%20Clouds.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20490%20Dark%20Clouds.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20490%20Dark%20Clouds.mp4"
+      },
+      {
+        "episodeNumber": 491,
+        "title": "Episode 491: Recklessness",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20491%20Recklessness.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20491%20Recklessness.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20491%20Recklessness.mp4"
+      },
+      {
+        "episodeNumber": 492,
+        "title": "Episode 492: Cloud of Suspicion",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20492%20Cloud%20of%20Suspicion.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20492%20Cloud%20of%20Suspicion.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20492%20Cloud%20of%20Suspicion.mp4"
+      },
+      {
+        "episodeNumber": 493,
+        "title": "Episode 493: Dawn",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20493%20Dawn.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20493%20Dawn.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20493%20Dawn.mp4"
+      },
+      {
+        "episodeNumber": 494,
+        "title": "Episode 494: Naruto's Wedding",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20494%20Naruto's%20Wedding.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20494%20Naruto's%20Wedding.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20494%20Naruto's%20Wedding.mp4"
+      },
+      {
+        "episodeNumber": 495,
+        "title": "Episode 495: A Full-Powered Wedding Gift",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20495%20A%20Full-Powered%20Wedding%20Gift.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20495%20A%20Full-Powered%20Wedding%20Gift.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20495%20A%20Full-Powered%20Wedding%20Gift.mp4"
+      },
+      {
+        "episodeNumber": 496,
+        "title": "Episode 496: Steam and Food Pills",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20496%20Steam%20and%20Food%20Pills.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20496%20Steam%20and%20Food%20Pills.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20496%20Steam%20and%20Food%20Pills.mp4"
+      },
+      {
+        "episodeNumber": 497,
+        "title": "Episode 497: The Kazekage's Wedding Gift",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20497%20The%20Kazekage's%20Wedding%20Gift.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20497%20The%20Kazekage's%20Wedding%20Gift.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20497%20The%20Kazekage's%20Wedding%20Gift.mp4"
+      },
+      {
+        "episodeNumber": 498,
+        "title": "Episode 498: The Last Mission",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20498%20The%20Last%20Mission.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20498%20The%20Last%20Mission.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20498%20The%20Last%20Mission.mp4"
+      },
+      {
+        "episodeNumber": 499,
+        "title": "Episode 499: The Outcome of the Secret Mission",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20499%20The%20Outcome%20of%20the%20Secret%20Mission.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20499%20The%20Outcome%20of%20the%20Secret%20Mission.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20499%20The%20Outcome%20of%20the%20Secret%20Mission.mp4"
+      },
+      {
+        "episodeNumber": 500,
+        "title": "Episode 500: The Message",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20500%20The%20Message.mp4",
+        "dubUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20500%20The%20Message.mp4",
+        "subUrl": "https://archive.org/download/naruto-shippuden-complete-series/Naruto%20Shipputen%20(Complete%20Series)%20%5BEnglish%20Dub%5D/S21/Naruto%20Shippuden%20Episode%20500%20The%20Message.mp4"
+      }
+    ]
+  },
+  {
+    "id": 20464,
+    "title": {
+      "english": "HAIKYU!!",
+      "romaji": "Haikyuu!!",
+      "native": "ハイキュー!!"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-ooZUyBe4ptp9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20464-ooZUyBe4ptp9.png",
+      "color": "#e48635"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+    "description": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by t",
+    "averageScore": 84,
+    "seasonYear": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASONS 1-4 • 85 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%201.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%202.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%203.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%204.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%205.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%206.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%207.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%208.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%209.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2011.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2011.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2012.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2012.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2012.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2013.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2013.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2013.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2014.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2014.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2014.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2015.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2015.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2015.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2016.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2016.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2016.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2017.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2017.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2017.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2018.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2018.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2018.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2019.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2019.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2019.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2020.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2020.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2020.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2021.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2021.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2021.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2022.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2022.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2022.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2023.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2023.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2023.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2024.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2024.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2024.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2025.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2025.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-dub-episode-23_20250823/Season%201/Haikyuu!!%20(Dub)%20Episode%2025.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%201.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%202.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%203.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%204.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%205.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%206.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%207.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%208.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%209.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2010.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2011.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2011.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2011.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2012.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2012.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2012.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2013.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2013.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2013.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2014.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2014.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2014.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2015.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2015.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2015.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2016.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2016.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2016.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2017.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2017.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2017.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2018.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2018.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2018.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2019.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2019.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2019.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2020.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2020.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2020.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2021.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2021.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2021.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2022.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2022.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2022.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2023.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2023.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2023.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2024.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2024.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2024.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2025.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2025.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-second-season-dub-episode-21/Season%202/Haikyuu!!%20Second%20Season%20(Dub)%20Episode%2025.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%201.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%202.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%203.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%204.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%205.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%206.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%207.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%208.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%209.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%2010.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%201.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%202.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%203.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%204.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%205.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%206.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%207.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%208.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%209.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2010.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2011.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2011.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2011.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2012.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2012.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2012.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2013.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2013.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-dub-episode-11/Season%204%20-%20Part%201/Haikyuu!!%20To%20the%20Top%20(Dub)%20Episode%2013.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%201.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%202.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%203.mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%204.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%205.mp4"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%206.mp4"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%207.mp4"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%208.mp4"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%209.mp4"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2010.mp4"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2011.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2011.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2011.mp4"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2012.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2012.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-to-the-top-2nd-season-dub-episode-11/Season%204%20-%20Part%202/Haikyuu!!%20To%20the%20Top%202nd%20Season%20(Dub)%20Episode%2012.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21355,
+    "title": {
+      "english": "Re:ZERO -Starting Life in Another World-",
+      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "native": "Re:ゼロから始める異世界生活"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21355-wRVUrGxpvIQQ.jpg",
+      "color": "#f150ae"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21355-f9SjOfEJMk5P.jpg",
+    "description": "In the story, Subaru Natsuki is an ordinary high school student who is lost in an alternate world, where he is rescued by a beautiful, silver-haired girl. He stays near her to return the favor, but the destiny she is burdened with is more than Subaru can imagine. Enemies attack one by one, and both ",
+    "averageScore": 81,
+    "seasonYear": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE S1 + S2 • 50 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode1.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode1.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode2.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode2.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode3.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode3.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode4.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode4.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode5.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode5.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode6.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode6.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode7.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode7.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode8.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode8.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode9.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode9.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode10.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode10.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode11.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode11.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode12.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode12.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode13.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode13.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode14.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode14.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode15.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode15.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode16.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode16.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode17.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode17.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode18.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode18.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode19.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode19.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode20.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode20.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode21.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode21.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode22.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode22.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode23.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode23.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode24.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode24.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode24.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode25.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode25.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-1-all-episodes/ReZeroEnglishDubSeason1Episode25.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode1.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode1.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode1.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode2.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode2.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode2.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode3.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode3.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode3.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode4.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode4.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode4.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode5.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode5.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode5.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode6.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode6.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode6.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode7.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode7.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode7.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode8.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode8.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode8.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode9.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode9.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode9.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode10.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode10.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode10.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode11.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode11.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode11.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode12.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode12.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode12.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode13.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode13.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode13.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode14.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode14.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode14.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode15.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode15.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode15.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode16.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode16.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode16.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode17.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode17.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode17.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode18.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode18.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode18.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode19.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode19.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode19.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode20.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode20.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode20.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode21.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode21.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode21.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode22.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode22.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode22.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode23.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode23.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode23.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode24.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode24.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode24.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode25.mp4",
+        "dubUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode25.mp4",
+        "subUrl": "https://archive.org/download/re-zero-english-dub-season-2-all-episodes/ReZeroEnglishDubSeason2Episode25.mp4"
+      }
+    ]
+  },
+  {
+    "id": 140960,
+    "title": {
+      "english": "SPY x FAMILY",
+      "romaji": "SPY×FAMILY",
+      "native": "SPY×FAMILY"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-Kb6R5nYQfjmP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140960-Kb6R5nYQfjmP.jpg",
+      "color": "#c9f1f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140960-Z7xSvkRxHKfj.jpg",
+    "description": "Everyone has a part of themselves they cannot show to anyone else. At a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades. The Westalis Intelligence Servi",
+    "averageScore": 83,
+    "seasonYear": 2022,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 37 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1: Operation Strix",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E01_Operation%20Strix.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2: Secure a Wife",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E02_Secure%20a%20Wife.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3: Prepare for the Entrance Exam",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E03_Prepare%20for%20the%20Entrance%20Exam.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4: An Interview at a Prestigious School",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E04_An%20Interview%20at%20a%20Prestigious%20School.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5: Pass or Fail",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E05_Pass%20or%20Fail_.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6: The Friendship Scheme",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E06_The%20Friendship%20Scheme.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7: Target  The Second Son",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E07_Target_%20The%20Second%20Son.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8: The Counter-Secret Police Cover Operation",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E08_The%20Counter-Secret%20Police%20Cover%20Operation.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9: Show Off How in Love You Are",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E09_Show%20Off%20How%20in%20Love%20You%20Are.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10: The Great Dodgeball Plan",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E10_The%20Great%20Dodgeball%20Plan.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11: Stella",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E11_Stella.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12: Penguin Park",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E12_Penguin%20Park.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13: Project Apple",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E13_Project%20Apple.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14: Disarm the Time Bomb",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E14_Disarm%20the%20Time%20Bomb.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15: A New Family Member",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E15_A%20New%20Family%20Member.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16: Yor's Kitchen The Great Romance Scheme for the Informant",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E16_Yor's%20Kitchen_The%20Great%20Romance%20Scheme%20for%20the%20Informant.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17: Commence Operation Griffon Fullmetal Lady Omelette Rice♡",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E17_Commence%20Operation%20Griffon_Fullmetal%20Lady_Omelette%20Rice%E2%99%A1.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18: The Home Tutor Uncle Daybreak",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E18_The%20Home%20Tutor%20Uncle_Daybreak.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19: The Revenge Plot Against Desmond The Mother Becomes the Wind",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E19_The%20Revenge%20Plot%20Against%20Desmond_The%20Mother%20Becomes%20the%20Wind.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20: Investigate the General Hospital Decipher the Arcane Ciphers",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E20_Investigate%20the%20General%20Hospital_Decipher%20the%20Arcane%20Ciphers.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21: Nightfall Jealousy for the First Time",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E21_Nightfall_Jealousy%20for%20the%20First%20Time.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22: Underground Tennis Tournament Campbelldon",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E22_Underground%20Tennis%20Tournament%20Campbelldon.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23: The Unshaken Path",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E23_The%20Unshaken%20Path.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24: Mother and Wife Friends and Groceries",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E24_Mother%20and%20Wife_Friends%20and%20Groceries.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25: First Contact",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S01E25_First%20Contact.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26: Follow Mama and Papa",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E26_Follow%20Mama%20and%20Papa.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27: Bond's Strategy to Stay Alive   Damian's Field Research Trip",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E27_Bond's%20Strategy%20to%20Stay%20Alive%20_%20Damian's%20Field%20Research%20Trip.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28: Mission and Family   The Elegant Bondman   The Heart of a Child   Waking Up",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E28_Mission%20and%20Family%20_%20The%20Elegant%20Bondman%20_%20The%20Heart%20of%20a%20Child%20_%20Waking%20Up.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29: The Pastry of Knowledge   The Informant's Great Romance Plan II",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E29_The%20Pastry%20of%20Knowledge%20_%20The%20Informant's%20Great%20Romance%20Plan%20II.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30: Plan to Cross the Border",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E30_Plan%20to%20Cross%20the%20Border.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31: The Fearsome Luxury Cruise Ship",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E31_The%20Fearsome%20Luxury%20Cruise%20Ship.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32: Who Is This Mission For",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E32_Who%20Is%20This%20Mission%20For_.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33: The Symphony Upon the Ship   Sis's Herb Tea",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E33_The%20Symphony%20Upon%20the%20Ship%20_%20Sis's%20Herb%20Tea.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34: The Hand That Connects to the Future",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E34_The%20Hand%20That%20Connects%20to%20the%20Future.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35: Enjoy the Resort to the Fullest   Bragging About Vacation",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E35_Enjoy%20the%20Resort%20to%20the%20Fullest%20_%20Bragging%20About%20Vacation.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36: Berlint in Love   Nightfall's Daily Life",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E36_Berlint%20in%20Love%20_%20Nightfall's%20Daily%20Life.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37: Part of the Family",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.mp4",
+        "dubUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.mp4",
+        "subUrl": "https://archive.org/download/spy-x-family-engdub/SPY%20x%20FAMILY_S02E37_Part%20of%20the%20Family.mp4"
+      }
+    ]
+  },
+  {
+    "id": 154587,
+    "title": {
+      "english": "Frieren: Beyond Journey’s End",
+      "romaji": "Sousou no Frieren",
+      "native": "葬送のフリーレン"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154587-qQTzQnEJJ3oB.jpg",
+      "color": "#bbf1a1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154587-ivXNJ23SM1xB.jpg",
+    "description": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to",
+    "averageScore": 91,
+    "seasonYear": 2023,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 1 • 28 DUB EPS",
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E01.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E01.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E02.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E02.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E02.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E03.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E03.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E03.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E04.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E04.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E04.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E05.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E05.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E05.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E06.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E06.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E06.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E07.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E07.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E07.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E08.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E08.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E08.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E09.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E09.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E09.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E10.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E10.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E11.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E11.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E12.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E12.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E13.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E13.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E14.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E14.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E15.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E15.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E16.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E16.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E17.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E17.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E18.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E18.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E19.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E19.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E20.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E20.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E21.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E21.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E22.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E22.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E23.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E23.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E24.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E24.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E24.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E25.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E25.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E25.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E26.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E26.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E26.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E27.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E27.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E27.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "23:30",
+        "videoUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E28.mp4",
+        "dubUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E28.mp4",
+        "subUrl": "https://archive.org/download/frieren-beyond-journeys-end_1080p_2024/Frieren-Beyond-Journey's-End_S01E28.mp4"
       }
     ]
   }
