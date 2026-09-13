@@ -6045,422 +6045,422 @@ export const OUR_ANIME_CATALOG = [
       "color": "#e4ae5d"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136-uHALFo2vGOGd.jpg",
-    "episodes": [
+        "episodes": [
       {
         "episodeNumber": 1,
         "title": "Episode 1 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 1 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 1 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 1 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%201%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%201%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%201%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 2,
         "title": "Episode 2 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 1 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 1 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 1 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%202%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%202%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%202%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 3,
         "title": "Episode 3 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 10 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 10 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 10 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%203%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%203%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%203%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 4,
         "title": "Episode 4 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 10 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 10 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 10 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%204%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%204%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%204%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 5,
         "title": "Episode 5 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 11 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 11 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 11 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%205%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%205%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%205%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 6,
         "title": "Episode 6 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 11 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 11 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 11 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%206%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%206%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%206%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 7,
         "title": "Episode 7 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 12 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 12 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 12 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%207%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%207%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%207%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 8,
         "title": "Episode 8 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 12 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 12 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 12 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%208%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%208%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%208%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 9,
         "title": "Episode 9 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 13 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 13 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 13 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%209%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%209%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%209%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 10,
         "title": "Episode 10 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 13 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 13 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 13 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2010%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2010%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2010%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 11,
         "title": "Episode 11 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 14 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 14 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 14 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2011%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2011%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2011%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 12,
         "title": "Episode 12 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 14 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 14 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 14 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2012%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2012%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2012%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 13,
         "title": "Episode 13 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 15 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 15 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 15 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2013%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2013%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2013%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 14,
         "title": "Episode 14 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 15 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 15 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 15 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2014%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2014%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2014%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 15,
         "title": "Episode 15 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 16 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 16 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 16 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2015%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2015%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2015%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 16,
         "title": "Episode 16 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 16 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 16 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 16 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2016%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2016%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2016%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 17,
         "title": "Episode 17 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 17 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 17 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 17 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2017%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2017%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2017%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 18,
         "title": "Episode 18 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 17 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 17 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 17 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2018%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2018%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2018%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 19,
         "title": "Episode 19 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 18 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 18 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 18 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2019%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2019%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2019%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 20,
         "title": "Episode 20 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 18 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 18 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 18 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2020%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2020%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2020%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 21,
         "title": "Episode 21 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 19 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 19 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 19 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2021%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2021%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2021%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 22,
         "title": "Episode 22 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 19 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 19 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 19 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2022%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2022%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2022%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 23,
         "title": "Episode 23 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 2 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 2 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 2 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2023%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2023%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2023%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 24,
         "title": "Episode 24 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 2 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 2 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 2 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2024%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2024%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2024%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 25,
         "title": "Episode 25 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 20 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 20 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 20 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2025%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2025%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2025%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 26,
         "title": "Episode 26 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 20 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 20 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 20 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2026%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2026%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2026%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 27,
         "title": "Episode 27 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 21 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 21 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 21 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2027%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2027%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2027%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 28,
         "title": "Episode 28 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 21 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 21 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 21 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2028%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2028%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2028%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 29,
         "title": "Episode 29 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 22 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 22 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 22 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2029%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2029%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2029%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 30,
         "title": "Episode 30 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 22 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 22 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 22 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2030%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2030%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2030%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 31,
         "title": "Episode 31 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 23 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 23 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 23 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2031%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2031%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2031%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 32,
         "title": "Episode 32 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 23 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 23 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 23 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2032%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2032%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2032%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 33,
         "title": "Episode 33 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 24 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 24 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 24 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2033%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2033%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2033%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 34,
         "title": "Episode 34 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 24 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 24 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 24 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2034%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2034%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2034%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 35,
         "title": "Episode 35 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 25 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 25 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 25 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2035%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2035%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2035%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 36,
         "title": "Episode 36 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 25 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 25 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 25 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2036%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2036%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2036%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 37,
         "title": "Episode 37 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 26 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 26 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 26 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2037%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2037%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2037%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 38,
         "title": "Episode 38 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 26 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 26 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 26 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2038%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2038%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2038%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 39,
         "title": "Episode 39 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 27 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 27 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 27 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2039%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2039%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2039%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 40,
         "title": "Episode 40 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 27 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 27 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 27 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2040%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2040%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2040%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 41,
         "title": "Episode 41 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 28 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 28 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 28 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2041%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2041%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2041%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 42,
         "title": "Episode 42 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 28 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 28 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 28 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2042%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2042%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2042%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 43,
         "title": "Episode 43 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 29 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 29 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 29 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2043%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2043%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2043%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 44,
         "title": "Episode 44 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 29 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 29 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 29 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2044%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2044%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2044%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 45,
         "title": "Episode 45 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 3 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 3 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 3 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2045%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2045%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2045%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 46,
         "title": "Episode 46 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 3 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 3 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 3 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2046%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2046%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2046%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 47,
         "title": "Episode 47 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 30 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 30 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 30 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2047%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2047%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2047%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 48,
         "title": "Episode 48 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 30 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 30 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 30 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2048%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2048%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2048%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 49,
         "title": "Episode 49 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 31 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 31 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 31 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2049%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2049%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2049%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 50,
         "title": "Episode 50 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 31 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 31 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 31 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2050%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2050%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2050%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 51,
         "title": "Episode 51 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 32 Eng DUB.ia.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 32 Eng DUB.ia.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 32 Eng DUB.ia.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2051%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2051%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2051%20Eng%20DUB.ia.mp4"
       },
       {
         "episodeNumber": 52,
         "title": "Episode 52 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 32 Eng DUB.mp4",
-        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 32 Eng DUB.mp4",
-        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi Yuugi Ep 32 Eng DUB.mp4"
+        "videoUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2052%20Eng%20DUB.ia.mp4",
+        "dubUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2052%20Eng%20DUB.ia.mp4",
+        "subUrl": "https://archive.org/download/fushigi-yuugi-1995-full-series-english-dub/Fushigi%20Yuugi%20Ep%2052%20Eng%20DUB.ia.mp4"
       }
     ]
   },
@@ -6496,414 +6496,414 @@ export const OUR_ANIME_CATALOG = [
       "color": "#f1c950"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/874-BiWJF3CMte3m.jpg",
-    "episodes": [
+        "episodes": [
       {
         "episodeNumber": 1,
         "title": "Episode 1 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01 - Guilmon Comes Alive.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01 - Guilmon Comes Alive.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01 - Guilmon Comes Alive.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01%20-%20Guilmon%20Comes%20Alive.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01%20-%20Guilmon%20Comes%20Alive.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01%20-%20Guilmon%20Comes%20Alive.mp4"
       },
       {
         "episodeNumber": 2,
         "title": "Episode 2 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01 - Guilmon Comes Alive.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01 - Guilmon Comes Alive.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/01 - Guilmon Comes Alive.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02%20-%20Digimon%2C%20Digimon%20Everywhere.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02%20-%20Digimon%2C%20Digimon%20Everywhere.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02%20-%20Digimon%2C%20Digimon%20Everywhere.mp4"
       },
       {
         "episodeNumber": 3,
         "title": "Episode 3 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02 - Digimon, Digimon Everywhere.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02 - Digimon, Digimon Everywhere.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02 - Digimon, Digimon Everywhere.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03%20-%20To%20Fight%20Or%20Not%20To%20Fight.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03%20-%20To%20Fight%20Or%20Not%20To%20Fight.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03%20-%20To%20Fight%20Or%20Not%20To%20Fight.mp4"
       },
       {
         "episodeNumber": 4,
         "title": "Episode 4 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02 - Digimon, Digimon Everywhere.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02 - Digimon, Digimon Everywhere.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/02 - Digimon, Digimon Everywhere.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04%20-%20It%20Came%20From%20The%20Other%20Side.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04%20-%20It%20Came%20From%20The%20Other%20Side.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04%20-%20It%20Came%20From%20The%20Other%20Side.mp4"
       },
       {
         "episodeNumber": 5,
         "title": "Episode 5 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03 - To Fight Or Not To Fight.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03 - To Fight Or Not To Fight.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03 - To Fight Or Not To Fight.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05%20-%20Dream%20A%20Little%20Dream.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05%20-%20Dream%20A%20Little%20Dream.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05%20-%20Dream%20A%20Little%20Dream.mp4"
       },
       {
         "episodeNumber": 6,
         "title": "Episode 6 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03 - To Fight Or Not To Fight.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03 - To Fight Or Not To Fight.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/03 - To Fight Or Not To Fight.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06%20-%20O%20Partner%2C%20Where%20Art%20Thou.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06%20-%20O%20Partner%2C%20Where%20Art%20Thou.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06%20-%20O%20Partner%2C%20Where%20Art%20Thou.mp4"
       },
       {
         "episodeNumber": 7,
         "title": "Episode 7 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04 - It Came From The Other Side.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04 - It Came From The Other Side.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04 - It Came From The Other Side.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07%20-%20Now%20You%20See%20It%2C%20Now%20You%20Don't.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07%20-%20Now%20You%20See%20It%2C%20Now%20You%20Don't.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07%20-%20Now%20You%20See%20It%2C%20Now%20You%20Don't.mp4"
       },
       {
         "episodeNumber": 8,
         "title": "Episode 8 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04 - It Came From The Other Side.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04 - It Came From The Other Side.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/04 - It Came From The Other Side.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08%20-%20A%20Question%20Of%20Trust.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08%20-%20A%20Question%20Of%20Trust.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08%20-%20A%20Question%20Of%20Trust.mp4"
       },
       {
         "episodeNumber": 9,
         "title": "Episode 9 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05 - Dream A Little Dream.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05 - Dream A Little Dream.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05 - Dream A Little Dream.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09%20-%20Not%20As%20Seen%20On%20TV.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09%20-%20Not%20As%20Seen%20On%20TV.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09%20-%20Not%20As%20Seen%20On%20TV.mp4"
       },
       {
         "episodeNumber": 10,
         "title": "Episode 10 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05 - Dream A Little Dream.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05 - Dream A Little Dream.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/05 - Dream A Little Dream.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10%20-%20The%20Icemon%20Cometh.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10%20-%20The%20Icemon%20Cometh.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10%20-%20The%20Icemon%20Cometh.mp4"
       },
       {
         "episodeNumber": 11,
         "title": "Episode 11 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06 - O Partner, Where Art Thou.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06 - O Partner, Where Art Thou.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06 - O Partner, Where Art Thou.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11%20-%20Much%20Ado%20About%20Musyamon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11%20-%20Much%20Ado%20About%20Musyamon.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11%20-%20Much%20Ado%20About%20Musyamon.mp4"
       },
       {
         "episodeNumber": 12,
         "title": "Episode 12 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06 - O Partner, Where Art Thou.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06 - O Partner, Where Art Thou.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/06 - O Partner, Where Art Thou.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12%20-%20Divided%20They%20Stand.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12%20-%20Divided%20They%20Stand.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12%20-%20Divided%20They%20Stand.mp4"
       },
       {
         "episodeNumber": 13,
         "title": "Episode 13 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07 - Now You See It, Now You Don't.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07 - Now You See It, Now You Don't.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07 - Now You See It, Now You Don't.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13%20-%20Juggernaut.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13%20-%20Juggernaut.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13%20-%20Juggernaut.mp4"
       },
       {
         "episodeNumber": 14,
         "title": "Episode 14 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07 - Now You See It, Now You Don't.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07 - Now You See It, Now You Don't.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/07 - Now You See It, Now You Don't.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14%20-%20Grow%20Mon%20Grow.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14%20-%20Grow%20Mon%20Grow.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14%20-%20Grow%20Mon%20Grow.mp4"
       },
       {
         "episodeNumber": 15,
         "title": "Episode 15 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08 - A Question Of Trust.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08 - A Question Of Trust.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08 - A Question Of Trust.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15%20-%20Snakes%2C%20Trains%2C%20And%20Digimon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15%20-%20Snakes%2C%20Trains%2C%20And%20Digimon.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15%20-%20Snakes%2C%20Trains%2C%20And%20Digimon.mp4"
       },
       {
         "episodeNumber": 16,
         "title": "Episode 16 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08 - A Question Of Trust.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08 - A Question Of Trust.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/08 - A Question Of Trust.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16%20-%20Back%20To%20Nature%2C%20Back%20To%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16%20-%20Back%20To%20Nature%2C%20Back%20To%20Battle.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16%20-%20Back%20To%20Nature%2C%20Back%20To%20Battle.mp4"
       },
       {
         "episodeNumber": 17,
         "title": "Episode 17 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09 - Not As Seen On TV.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09 - Not As Seen On TV.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09 - Not As Seen On TV.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17%20-%20Duel%20With%20The%20Deva.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17%20-%20Duel%20With%20The%20Deva.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17%20-%20Duel%20With%20The%20Deva.mp4"
       },
       {
         "episodeNumber": 18,
         "title": "Episode 18 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09 - Not As Seen On TV.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09 - Not As Seen On TV.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/09 - Not As Seen On TV.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18%20-%20Digital%20Beauty.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18%20-%20Digital%20Beauty.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18%20-%20Digital%20Beauty.mp4"
       },
       {
         "episodeNumber": 19,
         "title": "Episode 19 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10 - The Icemon Cometh.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10 - The Icemon Cometh.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10 - The Icemon Cometh.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19%20-%20Impmon's%20Last%20Stand.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19%20-%20Impmon's%20Last%20Stand.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19%20-%20Impmon's%20Last%20Stand.mp4"
       },
       {
         "episodeNumber": 20,
         "title": "Episode 20 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10 - The Icemon Cometh.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10 - The Icemon Cometh.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/10 - The Icemon Cometh.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20%20-%20Out%20Of%20The%20Blue.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20%20-%20Out%20Of%20The%20Blue.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20%20-%20Out%20Of%20The%20Blue.mp4"
       },
       {
         "episodeNumber": 21,
         "title": "Episode 21 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11 - Much Ado About Musyamon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11 - Much Ado About Musyamon.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11 - Much Ado About Musyamon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21%20-%20Jeri's%20Quest.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21%20-%20Jeri's%20Quest.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21%20-%20Jeri's%20Quest.mp4"
       },
       {
         "episodeNumber": 22,
         "title": "Episode 22 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11 - Much Ado About Musyamon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11 - Much Ado About Musyamon.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/11 - Much Ado About Musyamon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22%20-%20The%20Boar%20Wars.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22%20-%20The%20Boar%20Wars.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22%20-%20The%20Boar%20Wars.mp4"
       },
       {
         "episodeNumber": 23,
         "title": "Episode 23 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12 - Divided They Stand.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12 - Divided They Stand.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12 - Divided They Stand.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23-%20A%20World%20Apart.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23-%20A%20World%20Apart.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23-%20A%20World%20Apart.mp4"
       },
       {
         "episodeNumber": 24,
         "title": "Episode 24 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12 - Divided They Stand.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12 - Divided They Stand.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/12 - Divided They Stand.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24%20-%20The%20Journey%20Begins.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24%20-%20The%20Journey%20Begins.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24%20-%20The%20Journey%20Begins.mp4"
       },
       {
         "episodeNumber": 25,
         "title": "Episode 25 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13 - Juggernaut.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13 - Juggernaut.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13 - Juggernaut.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25%20-%20Brave%20New%20Digital%20World.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25%20-%20Brave%20New%20Digital%20World.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25%20-%20Brave%20New%20Digital%20World.mp4"
       },
       {
         "episodeNumber": 26,
         "title": "Episode 26 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13 - Juggernaut.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13 - Juggernaut.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/13 - Juggernaut.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/26%20-%20Kazu%20And%20Kenta's%20Excellent%20Adventure.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/26%20-%20Kazu%20And%20Kenta's%20Excellent%20Adventure.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/26%20-%20Kazu%20And%20Kenta's%20Excellent%20Adventure.mp4"
       },
       {
         "episodeNumber": 27,
         "title": "Episode 27 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14 - Grow Mon Grow.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14 - Grow Mon Grow.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14 - Grow Mon Grow.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/27%20-%20Motorcycle%20Madness.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/27%20-%20Motorcycle%20Madness.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/27%20-%20Motorcycle%20Madness.mp4"
       },
       {
         "episodeNumber": 28,
         "title": "Episode 28 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14 - Grow Mon Grow.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14 - Grow Mon Grow.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/14 - Grow Mon Grow.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/28%20-%20Blame%20It%20On%20Ryo.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/28%20-%20Blame%20It%20On%20Ryo.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/28%20-%20Blame%20It%20On%20Ryo.mp4"
       },
       {
         "episodeNumber": 29,
         "title": "Episode 29 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15 - Snakes, Trains, And Digimon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15 - Snakes, Trains, And Digimon.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15 - Snakes, Trains, And Digimon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/29%20-%20Goliath.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/29%20-%20Goliath.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/29%20-%20Goliath.mp4"
       },
       {
         "episodeNumber": 30,
         "title": "Episode 30 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15 - Snakes, Trains, And Digimon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15 - Snakes, Trains, And Digimon.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/15 - Snakes, Trains, And Digimon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/30%20-%20The%20Imperfect%20Storm.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/30%20-%20The%20Imperfect%20Storm.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/30%20-%20The%20Imperfect%20Storm.mp4"
       },
       {
         "episodeNumber": 31,
         "title": "Episode 31 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16 - Back To Nature, Back To Battle.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16 - Back To Nature, Back To Battle.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16 - Back To Nature, Back To Battle.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/31%20-%20Kazu's%20Upgrade.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/31%20-%20Kazu's%20Upgrade.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/31%20-%20Kazu's%20Upgrade.mp4"
       },
       {
         "episodeNumber": 32,
         "title": "Episode 32 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16 - Back To Nature, Back To Battle.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16 - Back To Nature, Back To Battle.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/16 - Back To Nature, Back To Battle.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/32%20-%20Shibumi%20Speaks.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/32%20-%20Shibumi%20Speaks.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/32%20-%20Shibumi%20Speaks.mp4"
       },
       {
         "episodeNumber": 33,
         "title": "Episode 33 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17 - Duel With The Deva.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17 - Duel With The Deva.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17 - Duel With The Deva.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/33%20-%20Rabbit%20Transit.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/33%20-%20Rabbit%20Transit.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/33%20-%20Rabbit%20Transit.mp4"
       },
       {
         "episodeNumber": 34,
         "title": "Episode 34 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17 - Duel With The Deva.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17 - Duel With The Deva.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/17 - Duel With The Deva.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/34%20-%20Lionheart.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/34%20-%20Lionheart.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/34%20-%20Lionheart.mp4"
       },
       {
         "episodeNumber": 35,
         "title": "Episode 35 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18 - Digital Beauty.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18 - Digital Beauty.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18 - Digital Beauty.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/35%20-%20Give%20A%20Little%20Bit.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/35%20-%20Give%20A%20Little%20Bit.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/35%20-%20Give%20A%20Little%20Bit.mp4"
       },
       {
         "episodeNumber": 36,
         "title": "Episode 36 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18 - Digital Beauty.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18 - Digital Beauty.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/18 - Digital Beauty.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/36%20-%20The%20Battle%20Within.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/36%20-%20The%20Battle%20Within.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/36%20-%20The%20Battle%20Within.mp4"
       },
       {
         "episodeNumber": 37,
         "title": "Episode 37 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19 - Impmon's Last Stand.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19 - Impmon's Last Stand.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19 - Impmon's Last Stand.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/37%20-%20No%20Mon%20Is%20An%20Island.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/37%20-%20No%20Mon%20Is%20An%20Island.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/37%20-%20No%20Mon%20Is%20An%20Island.mp4"
       },
       {
         "episodeNumber": 38,
         "title": "Episode 38 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19 - Impmon's Last Stand.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19 - Impmon's Last Stand.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/19 - Impmon's Last Stand.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/38%20-%20Azulongmon%20Explains%20It%20All.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/38%20-%20Azulongmon%20Explains%20It%20All.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/38%20-%20Azulongmon%20Explains%20It%20All.mp4"
       },
       {
         "episodeNumber": 39,
         "title": "Episode 39 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20 - Out Of The Blue.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20 - Out Of The Blue.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20 - Out Of The Blue.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/39%20-%20Song%20Of%20Sakuyamon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/39%20-%20Song%20Of%20Sakuyamon.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/39%20-%20Song%20Of%20Sakuyamon.mp4"
       },
       {
         "episodeNumber": 40,
         "title": "Episode 40 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20 - Out Of The Blue.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20 - Out Of The Blue.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/20 - Out Of The Blue.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/40%20-%20Janyu's%20Ark.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/40%20-%20Janyu's%20Ark.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/40%20-%20Janyu's%20Ark.mp4"
       },
       {
         "episodeNumber": 41,
         "title": "Episode 41 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21 - Jeri's Quest.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21 - Jeri's Quest.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21 - Jeri's Quest.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/41%20-%20Homeward%20Bound.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/41%20-%20Homeward%20Bound.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/41%20-%20Homeward%20Bound.mp4"
       },
       {
         "episodeNumber": 42,
         "title": "Episode 42 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21 - Jeri's Quest.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21 - Jeri's Quest.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/21 - Jeri's Quest.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/42%20-%20Reunion.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/42%20-%20Reunion.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/42%20-%20Reunion.mp4"
       },
       {
         "episodeNumber": 43,
         "title": "Episode 43 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22 - The Boar Wars.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22 - The Boar Wars.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22 - The Boar Wars.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/43%20-%20Beelzemon's%20Big%20Day.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/43%20-%20Beelzemon's%20Big%20Day.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/43%20-%20Beelzemon's%20Big%20Day.mp4"
       },
       {
         "episodeNumber": 44,
         "title": "Episode 44 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22 - The Boar Wars.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22 - The Boar Wars.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22 - The Boar Wars.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/44%20-%20The%20Messenger.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/44%20-%20The%20Messenger.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/44%20-%20The%20Messenger.mp4"
       },
       {
         "episodeNumber": 45,
         "title": "Episode 45 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22- A World Apart.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22- A World Apart.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/22- A World Apart.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/45%20-%20The%20D-Reaper's%20Disguise.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/45%20-%20The%20D-Reaper's%20Disguise.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/45%20-%20The%20D-Reaper's%20Disguise.mp4"
       },
       {
         "episodeNumber": 46,
         "title": "Episode 46 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23- A World Apart.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23- A World Apart.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23- A World Apart.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/46%20-%20When%20Is%20A%20Mon%20Justimon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/46%20-%20When%20Is%20A%20Mon%20Justimon.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/46%20-%20When%20Is%20A%20Mon%20Justimon.mp4"
       },
       {
         "episodeNumber": 47,
         "title": "Episode 47 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23- A World Apart.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23- A World Apart.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/23- A World Apart.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/47%20-%20His%20Kingdom%20For%20A%20Horse.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/47%20-%20His%20Kingdom%20For%20A%20Horse.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/47%20-%20His%20Kingdom%20For%20A%20Horse.mp4"
       },
       {
         "episodeNumber": 48,
         "title": "Episode 48 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24 - The Journey Begins.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24 - The Journey Begins.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24 - The Journey Begins.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/48%20-%20Shadow%20Of%20The%20Beast%20King.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/48%20-%20Shadow%20Of%20The%20Beast%20King.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/48%20-%20Shadow%20Of%20The%20Beast%20King.mp4"
       },
       {
         "episodeNumber": 49,
         "title": "Episode 49 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24 - The Journey Begins.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24 - The Journey Begins.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/24 - The Journey Begins.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/49%20-%20D-Reaper's%20Feast.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/49%20-%20D-Reaper's%20Feast.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/49%20-%20D-Reaper's%20Feast.mp4"
       },
       {
         "episodeNumber": 50,
         "title": "Episode 50 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25 - Brave New Digital World.mkv",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25 - Brave New Digital World.mkv",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25 - Brave New Digital World.mkv"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/50%20-%20Jeri%20Fights%20Back.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/50%20-%20Jeri%20Fights%20Back.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/50%20-%20Jeri%20Fights%20Back.mp4"
       },
       {
         "episodeNumber": 51,
         "title": "Episode 51 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25 - Brave New Digital World.mp4",
-        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25 - Brave New Digital World.mp4",
-        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/25 - Brave New Digital World.mp4"
+        "videoUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/51%20-%20Such%20Sweet%20Sorrow.mp4",
+        "dubUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/51%20-%20Such%20Sweet%20Sorrow.mp4",
+        "subUrl": "https://archive.org/download/digimon-tamers-the-complete-collection-saban-entertainment-edited-version/51%20-%20Such%20Sweet%20Sorrow.mp4"
       }
     ]
   },
@@ -6939,406 +6939,406 @@ export const OUR_ANIME_CATALOG = [
       "color": "#0d93fe"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1132-5rqnjRaRnPxx.jpg",
-    "episodes": [
+        "episodes": [
       {
         "episodeNumber": 1,
         "title": "Episode 1 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01 - All Aboard.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01 - All Aboard.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01 - All Aboard.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01%20-%20All%20Aboard.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01%20-%20All%20Aboard.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01%20-%20All%20Aboard.mp4"
       },
       {
         "episodeNumber": 2,
         "title": "Episode 2 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01 - All Aboard.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01 - All Aboard.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/01 - All Aboard.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02%20-%20Lobomon%2C%20Warrior%20of%20Light.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02%20-%20Lobomon%2C%20Warrior%20of%20Light.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02%20-%20Lobomon%2C%20Warrior%20of%20Light.mp4"
       },
       {
         "episodeNumber": 3,
         "title": "Episode 3 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02 - Lobomon, Warrior of Light.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02 - Lobomon, Warrior of Light.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02 - Lobomon, Warrior of Light.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03%20-%20Kumamon%20Baby%2C%20Light%20My%20Fire.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03%20-%20Kumamon%20Baby%2C%20Light%20My%20Fire.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03%20-%20Kumamon%20Baby%2C%20Light%20My%20Fire.mp4"
       },
       {
         "episodeNumber": 4,
         "title": "Episode 4 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02 - Lobomon, Warrior of Light.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02 - Lobomon, Warrior of Light.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/02 - Lobomon, Warrior of Light.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04%20-%20Kazemon%20Kicks%20It.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04%20-%20Kazemon%20Kicks%20It.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04%20-%20Kazemon%20Kicks%20It.mp4"
       },
       {
         "episodeNumber": 5,
         "title": "Episode 5 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03 - Kumamon Baby, Light My Fire.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03 - Kumamon Baby, Light My Fire.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03 - Kumamon Baby, Light My Fire.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05%20-%20Lady%20And%20Gentlemen%2C%20The%20Bettlemon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05%20-%20Lady%20And%20Gentlemen%2C%20The%20Bettlemon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05%20-%20Lady%20And%20Gentlemen%2C%20The%20Bettlemon.mp4"
       },
       {
         "episodeNumber": 6,
         "title": "Episode 6 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03 - Kumamon Baby, Light My Fire.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03 - Kumamon Baby, Light My Fire.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/03 - Kumamon Baby, Light My Fire.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06%20-%20A%20Molehill%20Out%20Of%20A%20Mountain.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06%20-%20A%20Molehill%20Out%20Of%20A%20Mountain.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06%20-%20A%20Molehill%20Out%20Of%20A%20Mountain.mp4"
       },
       {
         "episodeNumber": 7,
         "title": "Episode 7 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04 - Kazemon Kicks It.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04 - Kazemon Kicks It.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04 - Kazemon Kicks It.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07%20-%20Island%20Of%20Misfit%20Boys.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07%20-%20Island%20Of%20Misfit%20Boys.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07%20-%20Island%20Of%20Misfit%20Boys.mp4"
       },
       {
         "episodeNumber": 8,
         "title": "Episode 8 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04 - Kazemon Kicks It.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04 - Kazemon Kicks It.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/04 - Kazemon Kicks It.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08%20-%20The%20Odd%20One%20Out.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08%20-%20The%20Odd%20One%20Out.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08%20-%20The%20Odd%20One%20Out.mp4"
       },
       {
         "episodeNumber": 9,
         "title": "Episode 9 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05 - Lady And Gentlemen, The Bettlemon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05 - Lady And Gentlemen, The Bettlemon.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05 - Lady And Gentlemen, The Bettlemon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09%20-%20Welcome%20To%20My%20Nightmare.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09%20-%20Welcome%20To%20My%20Nightmare.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09%20-%20Welcome%20To%20My%20Nightmare.mp4"
       },
       {
         "episodeNumber": 10,
         "title": "Episode 10 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05 - Lady And Gentlemen, The Bettlemon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05 - Lady And Gentlemen, The Bettlemon.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/05 - Lady And Gentlemen, The Bettlemon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10%20-%20Can't%20Keep%20A%20Grumblemon%20Down.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10%20-%20Can't%20Keep%20A%20Grumblemon%20Down.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10%20-%20Can't%20Keep%20A%20Grumblemon%20Down.mp4"
       },
       {
         "episodeNumber": 11,
         "title": "Episode 11 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06 - A Molehill Out Of A Mountain.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06 - A Molehill Out Of A Mountain.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06 - A Molehill Out Of A Mountain.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11%20-%20A%20Hunka%20Hunka%20BurningGreymon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11%20-%20A%20Hunka%20Hunka%20BurningGreymon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11%20-%20A%20Hunka%20Hunka%20BurningGreymon.mp4"
       },
       {
         "episodeNumber": 12,
         "title": "Episode 12 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06 - A Molehill Out Of A Mountain.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06 - A Molehill Out Of A Mountain.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/06 - A Molehill Out Of A Mountain.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12%20-%20Fear%20And%20Loathing%20In%20Los%20Aerobes.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12%20-%20Fear%20And%20Loathing%20In%20Los%20Aerobes.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12%20-%20Fear%20And%20Loathing%20In%20Los%20Aerobes.mp4"
       },
       {
         "episodeNumber": 13,
         "title": "Episode 13 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07 - Island Of Misfit Boys.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07 - Island Of Misfit Boys.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07 - Island Of Misfit Boys.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13%20-%20Better%20An%20Egg%20Than%20An%20Eggshell.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13%20-%20Better%20An%20Egg%20Than%20An%20Eggshell.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13%20-%20Better%20An%20Egg%20Than%20An%20Eggshell.mp4"
       },
       {
         "episodeNumber": 14,
         "title": "Episode 14 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07 - Island Of Misfit Boys.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07 - Island Of Misfit Boys.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/07 - Island Of Misfit Boys.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14%20-%20No%20Whamon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14%20-%20No%20Whamon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14%20-%20No%20Whamon.mp4"
       },
       {
         "episodeNumber": 15,
         "title": "Episode 15 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08 - The Odd One Out.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08 - The Odd One Out.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08 - The Odd One Out.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15%20-%20Beastie%20Girl.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15%20-%20Beastie%20Girl.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15%20-%20Beastie%20Girl.mp4"
       },
       {
         "episodeNumber": 16,
         "title": "Episode 16 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08 - The Odd One Out.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08 - The Odd One Out.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/08 - The Odd One Out.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16%20-%20The%20Swiss%20Family%20Digimon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16%20-%20The%20Swiss%20Family%20Digimon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16%20-%20The%20Swiss%20Family%20Digimon.mp4"
       },
       {
         "episodeNumber": 17,
         "title": "Episode 17 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09 - Welcome To My Nightmare.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09 - Welcome To My Nightmare.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09 - Welcome To My Nightmare.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17%20-%20Bizarre%20Bazaar.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17%20-%20Bizarre%20Bazaar.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17%20-%20Bizarre%20Bazaar.mp4"
       },
       {
         "episodeNumber": 18,
         "title": "Episode 18 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09 - Welcome To My Nightmare.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09 - Welcome To My Nightmare.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/09 - Welcome To My Nightmare.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18%20-%20Trailmon%20Vs%20Trailmon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18%20-%20Trailmon%20Vs%20Trailmon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18%20-%20Trailmon%20Vs%20Trailmon.mp4"
       },
       {
         "episodeNumber": 19,
         "title": "Episode 19 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10 - Can't Keep A Grumblemon Down.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10 - Can't Keep A Grumblemon Down.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10 - Can't Keep A Grumblemon Down.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19%20-%20You%20Want%20Fries%20With%20That.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19%20-%20You%20Want%20Fries%20With%20That.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19%20-%20You%20Want%20Fries%20With%20That.mp4"
       },
       {
         "episodeNumber": 20,
         "title": "Episode 20 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10 - Can't Keep A Grumblemon Down.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10 - Can't Keep A Grumblemon Down.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/10 - Can't Keep A Grumblemon Down.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20%20-%20From%20Dawn%20To%20Duskmon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20%20-%20From%20Dawn%20To%20Duskmon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20%20-%20From%20Dawn%20To%20Duskmon.mp4"
       },
       {
         "episodeNumber": 21,
         "title": "Episode 21 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11 - A Hunka Hunka BurningGreymon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11 - A Hunka Hunka BurningGreymon.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11 - A Hunka Hunka BurningGreymon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21%20-%20Darkest%20Before%20Duskmon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21%20-%20Darkest%20Before%20Duskmon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21%20-%20Darkest%20Before%20Duskmon.mp4"
       },
       {
         "episodeNumber": 22,
         "title": "Episode 22 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11 - A Hunka Hunka BurningGreymon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11 - A Hunka Hunka BurningGreymon.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/11 - A Hunka Hunka BurningGreymon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22%20-%20Home%20Again%2C%20Takuya%20Returns.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22%20-%20Home%20Again%2C%20Takuya%20Returns.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22%20-%20Home%20Again%2C%20Takuya%20Returns.mp4"
       },
       {
         "episodeNumber": 23,
         "title": "Episode 23 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12 - Fear And Loathing In Los Aerobes.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12 - Fear And Loathing In Los Aerobes.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12 - Fear And Loathing In Los Aerobes.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23%20-%20Sockit%20Takuya.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23%20-%20Sockit%20Takuya.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23%20-%20Sockit%20Takuya.mp4"
       },
       {
         "episodeNumber": 24,
         "title": "Episode 24 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12 - Fear And Loathing In Los Aerobes.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12 - Fear And Loathing In Los Aerobes.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/12 - Fear And Loathing In Los Aerobes.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24%20-%20Alone%20But%20Never%20Alone.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24%20-%20Alone%20But%20Never%20Alone.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24%20-%20Alone%20But%20Never%20Alone.mp4"
       },
       {
         "episodeNumber": 25,
         "title": "Episode 25 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13 - Better An Egg Than An Eggshell.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13 - Better An Egg Than An Eggshell.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13 - Better An Egg Than An Eggshell.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25%20-%20The%20Dark%20Heart%20Of%20Friendship.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25%20-%20The%20Dark%20Heart%20Of%20Friendship.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25%20-%20The%20Dark%20Heart%20Of%20Friendship.mp4"
       },
       {
         "episodeNumber": 26,
         "title": "Episode 26 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13 - Better An Egg Than An Eggshell.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13 - Better An Egg Than An Eggshell.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/13 - Better An Egg Than An Eggshell.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/26%20-%20Zoe's%20Unbeelievable%20Adventure.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/26%20-%20Zoe's%20Unbeelievable%20Adventure.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/26%20-%20Zoe's%20Unbeelievable%20Adventure.mp4"
       },
       {
         "episodeNumber": 27,
         "title": "Episode 27 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14 - No Whamon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14 - No Whamon.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14 - No Whamon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/27%20-%20Stuck%20In%20Sakkakumon%20With%20You.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/27%20-%20Stuck%20In%20Sakkakumon%20With%20You.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/27%20-%20Stuck%20In%20Sakkakumon%20With%20You.mp4"
       },
       {
         "episodeNumber": 28,
         "title": "Episode 28 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14 - No Whamon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14 - No Whamon.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/14 - No Whamon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/28%20-%20Darkness%20Before%20The%20Dawn.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/28%20-%20Darkness%20Before%20The%20Dawn.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/28%20-%20Darkness%20Before%20The%20Dawn.mp4"
       },
       {
         "episodeNumber": 29,
         "title": "Episode 29 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15 - Beastie Girl.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15 - Beastie Girl.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15 - Beastie Girl.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/29%20-%20Phantasmagoric%20Sakkakumon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/29%20-%20Phantasmagoric%20Sakkakumon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/29%20-%20Phantasmagoric%20Sakkakumon.mp4"
       },
       {
         "episodeNumber": 30,
         "title": "Episode 30 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15 - Beastie Girl.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15 - Beastie Girl.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/15 - Beastie Girl.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/30%20-%20O%2C%20Brother%2C%20Who%20Art%20Thou.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/30%20-%20O%2C%20Brother%2C%20Who%20Art%20Thou.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/30%20-%20O%2C%20Brother%2C%20Who%20Art%20Thou.mp4"
       },
       {
         "episodeNumber": 31,
         "title": "Episode 31 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16 - The Swiss Family Digimon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16 - The Swiss Family Digimon.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16 - The Swiss Family Digimon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/31%20-%20Workin'%20On%20The%20Train%20Gang.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/31%20-%20Workin'%20On%20The%20Train%20Gang.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/31%20-%20Workin'%20On%20The%20Train%20Gang.mp4"
       },
       {
         "episodeNumber": 32,
         "title": "Episode 32 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16 - The Swiss Family Digimon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16 - The Swiss Family Digimon.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/16 - The Swiss Family Digimon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/32%20-%20My%20Brother%20In%20Spirit.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/32%20-%20My%20Brother%20In%20Spirit.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/32%20-%20My%20Brother%20In%20Spirit.mp4"
       },
       {
         "episodeNumber": 33,
         "title": "Episode 33 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17 - Bizarre Bazaar.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17 - Bizarre Bazaar.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17 - Bizarre Bazaar.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/33%20-%20Ne'er%20The%20Twins%20Shall%20Meet.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/33%20-%20Ne'er%20The%20Twins%20Shall%20Meet.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/33%20-%20Ne'er%20The%20Twins%20Shall%20Meet.mp4"
       },
       {
         "episodeNumber": 34,
         "title": "Episode 34 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17 - Bizarre Bazaar.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17 - Bizarre Bazaar.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/17 - Bizarre Bazaar.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/34%20-%20Operation%20Free%20Ophanimon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/34%20-%20Operation%20Free%20Ophanimon.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/34%20-%20Operation%20Free%20Ophanimon.mp4"
       },
       {
         "episodeNumber": 35,
         "title": "Episode 35 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18 - Trailmon Vs Trailmon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18 - Trailmon Vs Trailmon.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18 - Trailmon Vs Trailmon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/35%20-%20Takuya%20And%20Koji's%20Evolution%20Revolution.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/35%20-%20Takuya%20And%20Koji's%20Evolution%20Revolution.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/35%20-%20Takuya%20And%20Koji's%20Evolution%20Revolution.mp4"
       },
       {
         "episodeNumber": 36,
         "title": "Episode 36 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18 - Trailmon Vs Trailmon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18 - Trailmon Vs Trailmon.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/18 - Trailmon Vs Trailmon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/36%20-%20Ice%20Ice%20Baby.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/36%20-%20Ice%20Ice%20Baby.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/36%20-%20Ice%20Ice%20Baby.mp4"
       },
       {
         "episodeNumber": 37,
         "title": "Episode 37 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19 - You Want Fries With That.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19 - You Want Fries With That.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19 - You Want Fries With That.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/37%20-%20Cherubimania.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/37%20-%20Cherubimania.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/37%20-%20Cherubimania.mp4"
       },
       {
         "episodeNumber": 38,
         "title": "Episode 38 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19 - You Want Fries With That.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19 - You Want Fries With That.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/19 - You Want Fries With That.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/38%20-%20It%20Can't%20Be!%20Lucemon%20Reappears.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/38%20-%20It%20Can't%20Be!%20Lucemon%20Reappears.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/38%20-%20It%20Can't%20Be!%20Lucemon%20Reappears.mp4"
       },
       {
         "episodeNumber": 39,
         "title": "Episode 39 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20 - From Dawn To Duskmon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20 - From Dawn To Duskmon.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20 - From Dawn To Duskmon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/39%20-%20The%20Man%20In%20The%20Moon%20Is%20You.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/39%20-%20The%20Man%20In%20The%20Moon%20Is%20You.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/39%20-%20The%20Man%20In%20The%20Moon%20Is%20You.mp4"
       },
       {
         "episodeNumber": 40,
         "title": "Episode 40 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20 - From Dawn To Duskmon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20 - From Dawn To Duskmon.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/20 - From Dawn To Duskmon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/40%20-%20The%20Bully%20Pulpit.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/40%20-%20The%20Bully%20Pulpit.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/40%20-%20The%20Bully%20Pulpit.mp4"
       },
       {
         "episodeNumber": 41,
         "title": "Episode 41 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21 - Darkest Before Duskmon.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21 - Darkest Before Duskmon.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21 - Darkest Before Duskmon.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/41%20-%20Jerks%20And%20Beanstalk.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/41%20-%20Jerks%20And%20Beanstalk.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/41%20-%20Jerks%20And%20Beanstalk.mp4"
       },
       {
         "episodeNumber": 42,
         "title": "Episode 42 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21 - Darkest Before Duskmon.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21 - Darkest Before Duskmon.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/21 - Darkest Before Duskmon.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/42%20-%20Glean%20Eggs%20And%20Scram.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/42%20-%20Glean%20Eggs%20And%20Scram.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/42%20-%20Glean%20Eggs%20And%20Scram.mp4"
       },
       {
         "episodeNumber": 43,
         "title": "Episode 43 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22 - Home Again, Takuya Returns.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22 - Home Again, Takuya Returns.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22 - Home Again, Takuya Returns.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/43%20-%20Bad%20To%20The%20Bones.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/43%20-%20Bad%20To%20The%20Bones.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/43%20-%20Bad%20To%20The%20Bones.mp4"
       },
       {
         "episodeNumber": 44,
         "title": "Episode 44 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22 - Home Again, Takuya Returns.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22 - Home Again, Takuya Returns.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/22 - Home Again, Takuya Returns.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/44%20-%20Now%20You%20See%20It%2C%20Now%20You%20Don't.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/44%20-%20Now%20You%20See%20It%2C%20Now%20You%20Don't.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/44%20-%20Now%20You%20See%20It%2C%20Now%20You%20Don't.mp4"
       },
       {
         "episodeNumber": 45,
         "title": "Episode 45 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23 - Sockit Takuya.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23 - Sockit Takuya.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23 - Sockit Takuya.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/45%20-%20All%20Aboard%20The%20Tag%20Team%20Express.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/45%20-%20All%20Aboard%20The%20Tag%20Team%20Express.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/45%20-%20All%20Aboard%20The%20Tag%20Team%20Express.mp4"
       },
       {
         "episodeNumber": 46,
         "title": "Episode 46 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23 - Sockit Takuya.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23 - Sockit Takuya.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/23 - Sockit Takuya.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/46%20-%20To%20Make%20The%20World%20Go%20Away.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/46%20-%20To%20Make%20The%20World%20Go%20Away.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/46%20-%20To%20Make%20The%20World%20Go%20Away.mp4"
       },
       {
         "episodeNumber": 47,
         "title": "Episode 47 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24 - Alone But Never Alone.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24 - Alone But Never Alone.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24 - Alone But Never Alone.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/47%20-%20When%20Knights%20Fall.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/47%20-%20When%20Knights%20Fall.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/47%20-%20When%20Knights%20Fall.mp4"
       },
       {
         "episodeNumber": 48,
         "title": "Episode 48 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24 - Alone But Never Alone.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24 - Alone But Never Alone.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/24 - Alone But Never Alone.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/48%20-%20The%20Brothers%20Yin%20And%20Yang.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/48%20-%20The%20Brothers%20Yin%20And%20Yang.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/48%20-%20The%20Brothers%20Yin%20And%20Yang.mp4"
       },
       {
         "episodeNumber": 49,
         "title": "Episode 49 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25 - The Dark Heart Of Friendship.mkv",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25 - The Dark Heart Of Friendship.mkv",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25 - The Dark Heart Of Friendship.mkv"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/49%20-%20Lucemon%20On%20The%20Loose.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/49%20-%20Lucemon%20On%20The%20Loose.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/49%20-%20Lucemon%20On%20The%20Loose.mp4"
       },
       {
         "episodeNumber": 50,
         "title": "Episode 50 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25 - The Dark Heart Of Friendship.mp4",
-        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25 - The Dark Heart Of Friendship.mp4",
-        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/25 - The Dark Heart Of Friendship.mp4"
+        "videoUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/50%20-%20End%20Of%20Time.mp4",
+        "dubUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/50%20-%20End%20Of%20Time.mp4",
+        "subUrl": "https://archive.org/download/digimon-frontier-the-complete-collection-edited-version/50%20-%20End%20Of%20Time.mp4"
       }
     ]
   },
@@ -7373,422 +7373,422 @@ export const OUR_ANIME_CATALOG = [
       "color": "#d6d66b"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1261-l8LTuAbNjM4O.jpg",
-    "episodes": [
+        "episodes": [
       {
         "episodeNumber": 1,
         "title": "Episode 1 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 01 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 01 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 01 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2001%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2001%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2001%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 2,
         "title": "Episode 2 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 01 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 01 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 01 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2002%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2002%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2002%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 3,
         "title": "Episode 3 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 02 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 02 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 02 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2003%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2003%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2003%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 4,
         "title": "Episode 4 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 02 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 02 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 02 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2004%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2004%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2004%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 5,
         "title": "Episode 5 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 03 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 03 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 03 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2005%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2005%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2005%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 6,
         "title": "Episode 6 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 03 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 03 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 03 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2006%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2006%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2006%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 7,
         "title": "Episode 7 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 04 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 04 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 04 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2007%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2007%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2007%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 8,
         "title": "Episode 8 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 04 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 04 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 04 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2008%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2008%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2008%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 9,
         "title": "Episode 9 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 05 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 05 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 05 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2009%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2009%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2009%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 10,
         "title": "Episode 10 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 05 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 05 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 05 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2010%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2010%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2010%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 11,
         "title": "Episode 11 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 06 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 06 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 06 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2011%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2011%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2011%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 12,
         "title": "Episode 12 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 06 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 06 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 06 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2012%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2012%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2012%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 13,
         "title": "Episode 13 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 07 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 07 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 07 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2013%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2013%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2013%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 14,
         "title": "Episode 14 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 07 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 07 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 07 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2014%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2014%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2014%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 15,
         "title": "Episode 15 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 08 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 08 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 08 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2015%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2015%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2015%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 16,
         "title": "Episode 16 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 08 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 08 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 08 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2016%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2016%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2016%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 17,
         "title": "Episode 17 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 09 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 09 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 09 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2017%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2017%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2017%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 18,
         "title": "Episode 18 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 09 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 09 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 09 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2018%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2018%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2018%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 19,
         "title": "Episode 19 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 10 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 10 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 10 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2019%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2019%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2019%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 20,
         "title": "Episode 20 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 10 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 10 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 10 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2020%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2020%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2020%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 21,
         "title": "Episode 21 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 11 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 11 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 11 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2021%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2021%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2021%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 22,
         "title": "Episode 22 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 11 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 11 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 11 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2022%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2022%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2022%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 23,
         "title": "Episode 23 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 12 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 12 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 12 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2023%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2023%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2023%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 24,
         "title": "Episode 24 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 12 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 12 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 12 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2024%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2024%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2024%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 25,
         "title": "Episode 25 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 13 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 13 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 13 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2025%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2025%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2025%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 26,
         "title": "Episode 26 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 13 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 13 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 13 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2026%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2026%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2026%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 27,
         "title": "Episode 27 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 14 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 14 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 14 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2027%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2027%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2027%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 28,
         "title": "Episode 28 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 14 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 14 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 14 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2028%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2028%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2028%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 29,
         "title": "Episode 29 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 15 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 15 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 15 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2029%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2029%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2029%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 30,
         "title": "Episode 30 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 15 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 15 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 15 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2030%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2030%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2030%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 31,
         "title": "Episode 31 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 16 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 16 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 16 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2031%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2031%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2031%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 32,
         "title": "Episode 32 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 16 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 16 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 16 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2032%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2032%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2032%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 33,
         "title": "Episode 33 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 17 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 17 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 17 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2033%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2033%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2033%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 34,
         "title": "Episode 34 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 17 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 17 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 17 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2034%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2034%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2034%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 35,
         "title": "Episode 35 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 18 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 18 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 18 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2035%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2035%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2035%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 36,
         "title": "Episode 36 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 18 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 18 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 18 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2036%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2036%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2036%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 37,
         "title": "Episode 37 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 19 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 19 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 19 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2037%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2037%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2037%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 38,
         "title": "Episode 38 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 19 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 19 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 19 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2038%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2038%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2038%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 39,
         "title": "Episode 39 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 20 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 20 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 20 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2039%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2039%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2039%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 40,
         "title": "Episode 40 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 20 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 20 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 20 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2040%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2040%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2040%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 41,
         "title": "Episode 41 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 21 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 21 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 21 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2041%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2041%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2041%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 42,
         "title": "Episode 42 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 21 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 21 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 21 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2042%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2042%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2042%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 43,
         "title": "Episode 43 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 22 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 22 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 22 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2043%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2043%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2043%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 44,
         "title": "Episode 44 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 22 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 22 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 22 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2044%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2044%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2044%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 45,
         "title": "Episode 45 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 23 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 23 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 23 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2045%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2045%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2045%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 46,
         "title": "Episode 46 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 23 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 23 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 23 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2046%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2046%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2046%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 47,
         "title": "Episode 47 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 24 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 24 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 24 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2047%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2047%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2047%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 48,
         "title": "Episode 48 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 24 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 24 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 24 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2048%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2048%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2048%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 49,
         "title": "Episode 49 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 25 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 25 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 25 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2049%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2049%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2049%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 50,
         "title": "Episode 50 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 25 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 25 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 25 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2050%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2050%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2050%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 51,
         "title": "Episode 51 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 26 [English] [BDRip] [480p].mkv",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 26 [English] [BDRip] [480p].mkv",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 26 [English] [BDRip] [480p].mkv"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2051%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2051%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2051%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       },
       {
         "episodeNumber": 52,
         "title": "Episode 52 (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 26 [English] [BDRip] [480p].mp4",
-        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 26 [English] [BDRip] [480p].mp4",
-        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/[RH] Kyattou Ninden Teyandee - 26 [English] [BDRip] [480p].mp4"
+        "videoUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2052%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "dubUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2052%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4",
+        "subUrl": "https://archive.org/download/samurai-pizza-cats-the-complete-series-1990-91/%5BRH%5D%20Kyattou%20Ninden%20Teyandee%20-%2052%20%5BEnglish%5D%20%5BBDRip%5D%20%5B480p%5D.mp4"
       }
     ]
   },
