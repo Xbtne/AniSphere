@@ -61,13 +61,13 @@ export default function AdminPanel({ isOpen, onClose }) {
 
   // Filter animes for Staff Picks
   const filteredForStaff = OUR_ANIME_CATALOG.filter((anime) => {
-    const title = (anime.title.english || anime.title.romaji || '').toLowerCase();
+    const title = (anime.title?.english || anime.title?.romaji || (typeof anime.title === 'string' ? anime.title : '') || '').toLowerCase();
     return title.includes(searchQuery.toLowerCase());
   });
 
   // Filter animes for Mature
   const filteredForMature = OUR_ANIME_CATALOG.filter((anime) => {
-    const title = (anime.title.english || anime.title.romaji || '').toLowerCase();
+    const title = (anime.title?.english || anime.title?.romaji || (typeof anime.title === 'string' ? anime.title : '') || '').toLowerCase();
     return title.includes(matureSearch.toLowerCase());
   });
 

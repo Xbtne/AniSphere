@@ -60,6 +60,7 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
   const [audioLanguage, setAudioLanguage] = useState('dub'); // 'dub' | 'sub'
   const [vaLanguageTab, setVaLanguageTab] = useState('english'); // 'english' | 'japanese'
   const [episodeRange, setEpisodeRange] = useState(0);
+  const [episodeSearch, setEpisodeSearch] = useState('');
 
   // Auto-sync episode range tab when selectedEpisode changes
   useEffect(() => {
@@ -216,16 +217,16 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
     }
   };
 
-  const [episodeSearch, setEpisodeSearch] = useState('');
-
-  const filteredEpisodes = ourEpisodes.filter((ep) => {
-    if (!episodeSearch.trim()) return true;
-    const q = episodeSearch.toLowerCase().trim();
-    return (
-      String(ep.episodeNumber).includes(q) ||
-      (ep.title && ep.title.toLowerCase().includes(q))
-    );
-  });
+  const filteredEpisodes = React.useMemo(() => {
+    return ourEpisodes.filter((ep) => {
+      if (!episodeSearch.trim()) return true;
+      const q = episodeSearch.toLowerCase().trim();
+      return (
+        String(ep.episodeNumber).includes(q) ||
+        (ep.title && ep.title.toLowerCase().includes(q))
+      );
+    });
+  }, [ourEpisodes, episodeSearch]);
 
   const safeRecommendations = (merged.recommendations?.nodes || [])
     .filter((rec) => rec.mediaRecommendation)

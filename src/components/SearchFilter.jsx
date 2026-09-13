@@ -67,15 +67,15 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
     if (searchTerm && searchTerm.trim()) {
       const q = searchTerm.trim().toLowerCase();
       list = list.filter((a) => {
-        const eng = (a.title.english || '').toLowerCase();
-        const rom = (a.title.romaji || '').toLowerCase();
+        const eng = (a.title?.english || (typeof a.title === 'string' ? a.title : '') || '').toLowerCase();
+        const rom = (a.title?.romaji || '').toLowerCase();
         return eng.includes(q) || rom.includes(q);
       });
     }
 
     if (selectedLetter && selectedLetter !== 'All') {
       list = list.filter((a) => {
-        const titleToTest = (a.title.english || a.title.romaji || '').toUpperCase();
+        const titleToTest = (a.title?.english || a.title?.romaji || (typeof a.title === 'string' ? a.title : '') || '').toUpperCase();
         return titleToTest.startsWith(selectedLetter);
       });
     }
@@ -95,7 +95,11 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
     if (selectedSort === 'SCORE_DESC') {
       list.sort((a, b) => b.averageScore - a.averageScore);
     } else if (selectedSort === 'TITLE_ASC') {
-      list.sort((a, b) => (a.title.english || a.title.romaji).localeCompare(b.title.english || b.title.romaji));
+      list.sort((a, b) => {
+        const tA = (a.title?.english || a.title?.romaji || (typeof a.title === 'string' ? a.title : '') || '');
+        const tB = (b.title?.english || b.title?.romaji || (typeof b.title === 'string' ? b.title : '') || '');
+        return tA.localeCompare(tB);
+      });
     }
 
     setResults(list);

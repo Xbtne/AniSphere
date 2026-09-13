@@ -139,7 +139,7 @@ export default function Navbar({
             title="Search Catalog"
           >
             <Search className="w-4 h-4 text-teal-400 group-hover:scale-110 group-hover:text-teal-300 transition-all" />
-            <span className="hidden md:inline text-gray-300">Search 628+ Dub Episodes...</span>
+            <span className="hidden md:inline text-gray-300">Search 2,600+ Dub Episodes...</span>
           </button>
 
           {/* Xron Admin Panel Launcher */}
@@ -246,6 +246,48 @@ export default function Navbar({
               <Dices className="w-4 h-4 text-amber-300" />
               Surprise Me
             </button>
+
+            {isAdmin && (
+              <button
+                onClick={() => {
+                  onOpenAdmin();
+                  setIsMenuOpen(false);
+                }}
+                className="flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-gradient-to-r from-amber-500 to-yellow-600 border border-amber-300/40 text-sm font-black text-[#0a0f0c] shadow-lg shadow-amber-500/30"
+              >
+                <Shield className="w-4 h-4" />
+                Admin Control Center
+              </button>
+            )}
+
+            {isAuthenticated ? (
+              <button
+                onClick={() => {
+                  onOpenProfile();
+                  setIsMenuOpen(false);
+                }}
+                className="flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-sm font-bold text-amber-200"
+              >
+                <img
+                  src={user?.avatar || 'https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-50mB868V8K2m.jpg'}
+                  alt=""
+                  className="w-5 h-5 rounded-full object-cover ring-1 ring-amber-400"
+                />
+                Profile ({user?.displayName || user?.username})
+              </button>
+            ) : (
+              <button
+                onClick={() => {
+                  if (onOpenAuth) onOpenAuth();
+                  else setIsAuthModalOpen(true);
+                  setIsMenuOpen(false);
+                }}
+                className="flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-gradient-to-r from-amber-500 to-yellow-600 text-sm font-bold text-[#0a0f0c] shadow-lg"
+              >
+                <User className="w-4 h-4" />
+                Sign In / Register
+              </button>
+            )}
           </div>
         </div>
       )}

@@ -38,60 +38,76 @@ export function syncWithCatalog(anime) {
   return anime;
 }
 
+export function loadUserWatchlist(uname) {
+  try {
+    const saved = localStorage.getItem(`anisphere_watchlist_${uname}`);
+    if (!saved) return {};
+    const parsed = JSON.parse(saved);
+    const synced = {};
+    for (const key of Object.keys(parsed)) {
+      synced[key] = {
+        ...parsed[key],
+        anime: syncWithCatalog(parsed[key].anime),
+      };
+    }
+    return synced;
+  } catch {
+    return {};
+  }
+}
+
+export function loadUserFavorites(uname) {
+  try {
+    const saved = localStorage.getItem(`anisphere_favorites_${uname}`);
+    if (!saved) return [];
+    return JSON.parse(saved).map(syncWithCatalog);
+  } catch {
+    return [];
+  }
+}
+
+export function loadUserHistory(uname) {
+  try {
+    const saved = localStorage.getItem(`anisphere_history_${uname}`);
+    if (!saved) return [];
+    return JSON.parse(saved).map((item) => ({
+      ...item,
+      anime: syncWithCatalog(item.anime),
+    }));
+  } catch {
+    return [];
+  }
+}
+
+export function loadUserProgress(uname) {
+  try {
+    const saved = localStorage.getItem(`anisphere_progress_${uname}`);
+    return saved ? JSON.parse(saved) : {};
+  } catch {
+    return {};
+  }
+}
+
 export function WatchlistProvider({ children }) {
   const { user } = useAuth();
   const username = user?.username || 'guest';
+  const currentUserRef = React.useRef(username);
 
-  const [watchlist, setWatchlist] = useState(() => {
-    try {
-      const saved = localStorage.getItem(`anisphere_watchlist_${username}`);
-      if (!saved) return {};
-      const parsed = JSON.parse(saved);
-      const synced = {};
-      for (const key of Object.keys(parsed)) {
-        synced[key] = {
-          ...parsed[key],
-          anime: syncWithCatalog(parsed[key].anime),
-        };
-      }
-      return synced;
-    } catch {
-      return {};
-    }
-  });
+  const [watchlist, setWatchlist] = useState(() => loadUserWatchlist(username));
+  const [favorites, setFavorites] = useState(() => loadUserFavorites(username));
+  const [history, setHistory] = useState(() => loadUserHistory(username));
+  const [watchProgress, setWatchProgress] = useState(() => loadUserProgress(username));
 
-  const [favorites, setFavorites] = useState(() => {
-    try {
-      const saved = localStorage.getItem(`anisphere_favorites_${username}`);
-      if (!saved) return [];
-      return JSON.parse(saved).map(syncWithCatalog);
-    } catch {
-      return [];
+  // Reload user state cleanly whenever username switches (login, logout, switch user)
+  useEffect(() => {
+    if (currentUserRef.current !== username) {
+      currentUserRef.current = username;
+      setWatchlist(loadUserWatchlist(username));
+      setFavorites(loadUserFavorites(username));
+      setHistory(loadUserHistory(username));
+      setWatchProgress(loadUserProgress(username));
     }
-  });
-
-  const [history, setHistory] = useState(() => {
-    try {
-      const saved = localStorage.getItem(`anisphere_history_${username}`);
-      if (!saved) return [];
-      return JSON.parse(saved).map((item) => ({
-        ...item,
-        anime: syncWithCatalog(item.anime),
-      }));
-    } catch {
-      return [];
-    }
-  });
-
-  // Watch progress per anime (episode number)
-  const [watchProgress, setWatchProgress] = useState(() => {
-    try {
-      const saved = localStorage.getItem(`anisphere_progress_${username}`);
-      return saved ? JSON.parse(saved) : {};
-    } catch {
-      return {};
-    }
-  });
+  }, [username]);
 
   // Age confirmation state (persisted)
   const [isAgeConfirmed, setIsAgeConfirmed] = useState(() => {
@@ -163,34 +179,42 @@ export function WatchlistProvider({ children }) {
   });
 
   useEffect(() => {
-    try {
-      localStorage.setItem(`anisphere_watchlist_${username}`, JSON.stringify(watchlist));
-    } catch (e) {
-      console.error(e);
+    if (currentUserRef.current === username) {
+      try {
+        localStorage.setItem(`anisphere_watchlist_${username}`, JSON.stringify(watchlist));
+      } catch (e) {
+        console.error(e);
+      }
     }
   }, [watchlist, username]);
 
   useEffect(() => {
-    try {
-      localStorage.setItem(`anisphere_favorites_${username}`, JSON.stringify(favorites));
-    } catch (e) {
-      console.error(e);
+    if (currentUserRef.current === username) {
+      try {
+        localStorage.setItem(`anisphere_favorites_${username}`, JSON.stringify(favorites));
+      } catch (e) {
+        console.error(e);
+      }
     }
   }, [favorites, username]);
 
   useEffect(() => {
-    try {
-      localStorage.setItem(`anisphere_history_${username}`, JSON.stringify(history));
-    } catch (e) {
-      console.error(e);
+    if (currentUserRef.current === username) {
+      try {
+        localStorage.setItem(`anisphere_history_${username}`, JSON.stringify(history));
+      } catch (e) {
+        console.error(e);
+      }
     }
   }, [history, username]);
 
   useEffect(() => {
-    try {
-      localStorage.setItem(`anisphere_progress_${username}`, JSON.stringify(watchProgress));
-    } catch (e) {
-      console.error(e);
+    if (currentUserRef.current === username) {
+      try {
+        localStorage.setItem(`anisphere_progress_${username}`, JSON.stringify(watchProgress));
+      } catch (e) {
+        console.error(e);
+      }
     }
   }, [watchProgress, username]);
 

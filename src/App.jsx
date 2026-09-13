@@ -81,11 +81,6 @@ export default function App() {
   }, []);
 
   const handleSelectAnime = (anime) => {
-    if (!isAuthenticated) {
-      setIsAuthModalOpen(true);
-      return;
-    }
-    
     if (anime && isMatureAnime(anime) && !isAgeConfirmed) {
       setIsMatureGateOpen(true);
       return;
