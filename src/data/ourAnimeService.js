@@ -783,10 +783,12 @@ export const OUR_ANIME_CATALOG = [
       "native": "BLEACH"
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxhUpdhmyuzH.png",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxhUpdhmyuzH.png"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx269-d2GmRkJbMopq.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx269-d2GmRkJbMopq.png",
+      "color": "#f1a150"
     },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/269.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/269-08ar2HJOUAuL.jpg",
     "description": "Ichigo Kurosaki is an ordinary high schooler until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. When Soul Reaper Rukia Kuchiki is injured, Ichigo accepts her powers and becomes a substitute Soul Reaper to defend Karakura Town.",
     "averageScore": 79,
     "seasonYear": 2004,
@@ -21509,12 +21511,12 @@ export const OUR_ANIME_CATALOG = [
       "native": "けいおん!!"
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7791-HKAVywZjY6EL.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7791-HKAVywZjY6EL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7791-HKAVywZjY6EL.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7791-4tnomla2mMDp.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7791-4tnomla2mMDp.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7791-4tnomla2mMDp.png",
       "color": "#e45d5d"
     },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7791-uWQzKEJzCWNE.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7791-XUCEPg0lbD1K.jpg",
     "description": "After the success of the Light Music Club's first performance, Yui, Mio, Ritsu, Tsumugi and Azusa are back as seniors. Their goal remains the same as always, but with the school festival approaching and graduation looming on the horizon, the girls are determined to make their final year—and their days in the club—last as long as possible.",
     "averageScore": 79,
     "seasonYear": 2010,
