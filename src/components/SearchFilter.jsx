@@ -21,7 +21,9 @@ import {
   POPULAR_YEARS,
   ALPHABET_LETTERS
 } from '../api/anilist';
+import { useWatchlist } from '../context/WatchlistContext';
 import AnimeCard from './AnimeCard';
+import { Award } from 'lucide-react';
 
 export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
   const [searchTerm, setSearchTerm] = useState('');
@@ -33,6 +35,9 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
   const [selectedFormat, setSelectedFormat] = useState('All');
   const [selectedLetter, setSelectedLetter] = useState('All');
   const [selectedAudio, setSelectedAudio] = useState('All'); // 'All' | 'DUB_ONLY' | 'SUB_ONLY'
+  const [onlyStaffPicks, setOnlyStaffPicks] = useState(false);
+
+  const { isStaffPick } = useWatchlist();
 
   const [results, setResults] = useState(OUR_ANIME_CATALOG);
   const [totalCount, setTotalCount] = useState(OUR_ANIME_CATALOG.length);
@@ -55,23 +60,28 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
 
     let list = [...OUR_ANIME_CATALOG];
 
+    if (onlyStaffPicks) {
+      list = list.filter((a) => isStaffPick(a.id));
+    }
+
     if (searchTerm && searchTerm.trim()) {
       const q = searchTerm.trim().toLowerCase();
-      list = list.filter(
-        (a) =>
-          a.title.english.toLowerCase().includes(q) ||
-          a.title.romaji.toLowerCase().includes(q)
-      );
+      list = list.filter((a) => {
+        const eng = (a.title.english || '').toLowerCase();
+        const rom = (a.title.romaji || '').toLowerCase();
+        return eng.includes(q) || rom.includes(q);
+      });
     }
 
     if (selectedLetter && selectedLetter !== 'All') {
-      list = list.filter((a) =>
-        a.title.english.toUpperCase().startsWith(selectedLetter)
-      );
+      list = list.filter((a) => {
+        const titleToTest = (a.title.english || a.title.romaji || '').toUpperCase();
+        return titleToTest.startsWith(selectedLetter);
+      });
     }
 
     if (selectedGenre && selectedGenre !== 'All') {
-      list = list.filter((a) => a.genres.includes(selectedGenre));
+      list = list.filter((a) => a.genres?.includes(selectedGenre));
     }
 
     if (selectedYear && selectedYear !== 'All') {
@@ -85,7 +95,7 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
     if (selectedSort === 'SCORE_DESC') {
       list.sort((a, b) => b.averageScore - a.averageScore);
     } else if (selectedSort === 'TITLE_ASC') {
-      list.sort((a, b) => a.title.english.localeCompare(b.title.english));
+      list.sort((a, b) => (a.title.english || a.title.romaji).localeCompare(b.title.english || b.title.romaji));
     }
 
     setResults(list);
@@ -108,6 +118,7 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
     };
   }, [
     searchTerm,
+    onlyStaffPicks,
     selectedGenre,
     selectedYear,
     selectedSeason,
@@ -282,6 +293,19 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
               <span className="hidden sm:inline">English Dub</span>
               <span className="sm:hidden">Dub</span>
             </button>
+            <button
+              type="button"
+              onClick={() => setOnlyStaffPicks(!onlyStaffPicks)}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all shadow-sm ${
+                onlyStaffPicks
+                  ? 'bg-gradient-to-r from-amber-400 to-yellow-500 text-[#060907] shadow-lg shadow-amber-500/30'
+                  : 'bg-white/10 hover:bg-white/15 text-gray-300 border border-white/10'
+              }`}
+              title="Filter to AniSphere Staff Picks"
+            >
+              <Award className="w-3.5 h-3.5" />
+              <span>Staff Picks</span>
+            </button>
 
             {searchTerm && (
               <button
@@ -292,6 +316,27 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
               </button>
             )}
           </div>
+        </div>
+
+        {/* Quick Genre Pills */}
+        <div className="flex items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar">
+          {['All', 'Action', 'Supernatural', 'Sci-Fi', 'Comedy', 'Drama', 'Adventure', 'Romance'].map((g) => {
+            const isSelected = selectedGenre === g;
+            return (
+              <button
+                key={g}
+                type="button"
+                onClick={() => setSelectedGenre(g)}
+                className={`px-3 py-1.5 rounded-xl text-xs font-bold whitespace-nowrap transition-all ${
+                  isSelected
+                    ? 'bg-amber-500 text-[#060907] shadow-md shadow-amber-500/30 scale-105'
+                    : 'bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white border border-white/5'
+                }`}
+              >
+                {g}
+              </button>
+            );
+          })}
         </div>
 
         {/* Multi-Dimensional Filter Selectors */}
