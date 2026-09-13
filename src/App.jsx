@@ -137,16 +137,8 @@ export default function App() {
         onOpenAuth={() => setIsAuthModalOpen(true)}
       />
 
-      {/* Sitewide Announcement Banner */}
-      {announcement?.active && announcement?.message && (
-        <div className="fixed top-16 left-0 right-0 z-30 px-4 py-2 bg-gradient-to-r from-amber-600/90 via-yellow-600/90 to-amber-700/90 text-[#0a0f0c] backdrop-blur-md border-b border-amber-300/40 shadow-lg text-center text-xs font-bold flex items-center justify-center gap-2">
-          <Megaphone className="w-3.5 h-3.5 shrink-0 text-[#0a0f0c]" />
-          <span>{announcement.message}</span>
-        </div>
-      )}
-
       {/* Hero Spotlight Billboard */}
-      <div id="hero" className={announcement?.active && announcement?.message ? 'pt-6' : ''}>
+      <div id="hero">
         <HeroBanner
           animeList={heroSpotlight}
           onSelectAnime={handleSelectAnime}
@@ -154,7 +146,7 @@ export default function App() {
       </div>
 
       {/* Main Content Sections */}
-      <main className="flex-1 space-y-4 -mt-10 sm:-mt-14 relative z-20">
+      <main className="flex-1 space-y-6 pt-4 sm:pt-6 relative z-20">
         {/* Continue Watching (if history exists) */}
         {history.length > 0 && (
           <AnimeRow

@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
-import { X, Bookmark, Play, Trash2, Heart, Clock, CheckCircle2, Film } from 'lucide-react';
+import { X, Bookmark, Play, Trash2, Heart, Clock, CheckCircle2, Film, LogOut } from 'lucide-react';
 import { useWatchlist, WATCH_STATUSES } from '../context/WatchlistContext';
+import { useAuth } from '../context/AuthContext';
 
 export default function WatchlistDrawer({ isOpen, onClose, onSelectAnime }) {
   const [activeTab, setActiveTab] = useState('all'); // 'all' | 'watching' | 'plan' | 'completed' | 'favorites' | 'history'
   const { watchlist, favorites, history, setAnimeStatus, removeAnime, toggleFavorite } = useWatchlist();
+  const { logout, isAuthenticated } = useAuth();
 
   if (!isOpen) return null;
 
@@ -58,12 +60,28 @@ export default function WatchlistDrawer({ isOpen, onClose, onSelectAnime }) {
             </div>
           </div>
 
-          <button
-            onClick={onClose}
-            className="p-2 rounded-xl bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-colors"
-          >
-            <X className="w-5 h-5" />
-          </button>
+          <div className="flex items-center gap-2">
+            {isAuthenticated && (
+              <button
+                onClick={() => {
+                  logout();
+                  onClose();
+                }}
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-rose-500/15 hover:bg-rose-500/25 border border-rose-500/30 text-xs font-bold text-rose-300 hover:text-rose-200 transition-all hover:scale-105"
+                title="Sign Out"
+              >
+                <LogOut className="w-3.5 h-3.5" />
+                <span>Sign Out</span>
+              </button>
+            )}
+
+            <button
+              onClick={onClose}
+              className="p-2 rounded-xl bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-colors"
+            >
+              <X className="w-5 h-5" />
+            </button>
+          </div>
         </div>
 
         {/* Tab Pills */}

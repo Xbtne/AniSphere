@@ -16,7 +16,8 @@ import {
   Menu,
   X,
   Award,
-  Shield
+  Shield,
+  Megaphone
 } from 'lucide-react';
 import { useWatchlist } from '../context/WatchlistContext';
 import { useAuth } from '../context/AuthContext';
@@ -35,7 +36,8 @@ export default function Navbar({
   const [scrolled, setScrolled] = useState(false);
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const { watchlist } = useWatchlist();
+  const [announcementDismissed, setAnnouncementDismissed] = useState(false);
+  const { watchlist, announcement } = useWatchlist();
   const { user, logout, isAuthenticated, isAdmin } = useAuth();
 
   const totalSaved = Object.keys(watchlist).length;
@@ -67,10 +69,27 @@ export default function Navbar({
     <header
       className={`fixed top-0 left-0 right-0 z-40 transition-all duration-500 ${
         scrolled
-          ? 'glass-nav py-3 shadow-2xl shadow-black/50'
-          : 'bg-gradient-to-b from-black/95 via-black/70 to-transparent py-5'
+          ? 'glass-nav py-2.5 shadow-2xl shadow-black/60'
+          : 'bg-gradient-to-b from-black/95 via-black/80 to-transparent py-3 sm:py-4'
       }`}
     >
+      {/* Sitewide Broadcast Announcement Bar */}
+      {announcement?.active && announcement?.message && !announcementDismissed && (
+        <div className="w-full bg-gradient-to-r from-amber-500 via-yellow-400 to-amber-500 text-[#0a0f0c] px-4 py-2 text-xs font-black flex items-center justify-between gap-3 shadow-lg border-b border-amber-400/60 mb-2.5 animate-fade-in">
+          <div className="flex-1 flex items-center justify-center gap-2 text-center overflow-hidden">
+            <Megaphone className="w-4 h-4 shrink-0 text-[#0a0f0c] animate-bounce" />
+            <span className="truncate">{announcement.message}</span>
+          </div>
+          <button
+            onClick={() => setAnnouncementDismissed(true)}
+            className="p-1 rounded-lg hover:bg-black/20 text-[#0a0f0c] transition-colors shrink-0"
+            title="Dismiss announcement"
+          >
+            <X className="w-3.5 h-3.5" />
+          </button>
+        </div>
+      )}
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between gap-4">
         {/* Brand Logo */}
         <div
@@ -184,6 +203,18 @@ export default function Navbar({
             </button>
           )}
 
+          {/* Quick Direct Sign Out Button */}
+          {isAuthenticated && (
+            <button
+              onClick={logout}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-rose-500/15 hover:bg-rose-500/25 border border-rose-500/30 text-xs font-bold text-rose-300 hover:text-rose-200 transition-all duration-300 hover:scale-105 shadow-sm"
+              title="Sign Out of AniSphere"
+            >
+              <LogOut className="w-3.5 h-3.5" />
+              <span className="hidden sm:inline">Log Out</span>
+            </button>
+          )}
+
           <button
             onClick={onOpenWatchlist}
             className="relative flex items-center gap-2 px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-xs font-semibold text-amber-200 transition-all duration-300 hover:scale-105 shadow-lg"
@@ -261,20 +292,33 @@ export default function Navbar({
             )}
 
             {isAuthenticated ? (
-              <button
-                onClick={() => {
-                  onOpenProfile();
-                  setIsMenuOpen(false);
-                }}
-                className="flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-sm font-bold text-amber-200"
-              >
-                <img
-                  src={user?.avatar || 'https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-50mB868V8K2m.jpg'}
-                  alt=""
-                  className="w-5 h-5 rounded-full object-cover ring-1 ring-amber-400"
-                />
-                Profile ({user?.displayName || user?.username})
-              </button>
+              <>
+                <button
+                  onClick={() => {
+                    onOpenProfile();
+                    setIsMenuOpen(false);
+                  }}
+                  className="flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-white/5 hover:bg-white/10 border border-amber-500/40 text-sm font-bold text-amber-200"
+                >
+                  <img
+                    src={user?.avatar || 'https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-50mB868V8K2m.jpg'}
+                    alt=""
+                    className="w-5 h-5 rounded-full object-cover ring-1 ring-amber-400"
+                  />
+                  Profile ({user?.displayName || user?.username})
+                </button>
+
+                <button
+                  onClick={() => {
+                    logout();
+                    setIsMenuOpen(false);
+                  }}
+                  className="flex items-center justify-center gap-2 px-4 py-3 rounded-2xl bg-rose-500/15 hover:bg-rose-500/25 border border-rose-500/30 text-sm font-bold text-rose-300 transition-all"
+                >
+                  <LogOut className="w-4 h-4" />
+                  Sign Out
+                </button>
+              </>
             ) : (
               <button
                 onClick={() => {

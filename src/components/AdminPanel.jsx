@@ -14,7 +14,8 @@ import {
   Info,
   Sparkles,
   ExternalLink,
-  Edit3
+  Edit3,
+  LogOut
 } from 'lucide-react';
 import { useWatchlist } from '../context/WatchlistContext';
 import { useAuth } from '../context/AuthContext';
@@ -38,7 +39,7 @@ export default function AdminPanel({ isOpen, onClose }) {
     setBroadcastAnnouncement
   } = useWatchlist();
 
-  const { user, users, updateProfile, isAdmin } = useAuth();
+  const { user, users, updateProfile, isAdmin, logout } = useAuth();
 
   const [activeTab, setActiveTab] = useState('staff-picks');
   const [searchQuery, setSearchQuery] = useState('');
@@ -119,12 +120,25 @@ export default function AdminPanel({ isOpen, onClose }) {
               <h2 className="text-2xl font-black text-white tracking-tight">AniSphere Control Center</h2>
             </div>
           </div>
-          <button
-            onClick={onClose}
-            className="p-2.5 rounded-xl bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-colors"
-          >
-            <X className="w-5 h-5" />
-          </button>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => {
+                logout();
+                onClose();
+              }}
+              className="flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-rose-500/15 hover:bg-rose-500/25 border border-rose-500/30 text-xs font-bold text-rose-300 hover:text-rose-200 transition-all hover:scale-105"
+              title="Sign Out"
+            >
+              <LogOut className="w-3.5 h-3.5" />
+              <span>Sign Out</span>
+            </button>
+            <button
+              onClick={onClose}
+              className="p-2.5 rounded-xl bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white transition-colors"
+            >
+              <X className="w-5 h-5" />
+            </button>
+          </div>
         </div>
 
         {/* Tab Navigation */}

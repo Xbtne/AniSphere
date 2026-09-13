@@ -172,9 +172,16 @@ export function WatchlistProvider({ children }) {
   const [announcement, setAnnouncement] = useState(() => {
     try {
       const saved = localStorage.getItem('anisphere_announcement');
-      return saved ? JSON.parse(saved) : { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Anime • 2,645+ 100% English Dub Episodes! Login as Xron for Admin Panel.', type: 'info' };
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        if (parsed?.message && parsed.message.includes('Login as Xron')) {
+          parsed.message = '✨ Welcome to AniSphere! 66 Legendary Series • 2,645+ 100% English Dub Episodes with Direct HD Streaming.';
+        }
+        return parsed;
+      }
+      return { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Series • 2,645+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
     } catch {
-      return { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Anime • 2,645+ 100% English Dub Episodes! Login as Xron for Admin Panel.', type: 'info' };
+      return { active: true, message: '✨ Welcome to AniSphere! 66 Legendary Series • 2,645+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
     }
   });
 

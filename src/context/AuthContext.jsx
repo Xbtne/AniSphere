@@ -17,13 +17,13 @@ export const DEFAULT_AVATARS = [
 const PRESEEDED_USERS = {
   Xron: {
     username: 'Xron',
-    password: 'admin',
+    password: 'Pj060112',
     displayName: 'Xron',
     role: 'admin',
-    bio: 'AniSphere Founder & Head Administrator. Curating the best English dub streaming platform.',
+    bio: 'AniSphere Founder & Head Administrator.',
     avatar: 'https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-50mB868V8K2m.jpg',
     favoriteGenre: 'Action',
-    joinedAt: Date.now() - 90 * 86400000,
+    joinedAt: 1700000000000,
   }
 };
 
@@ -32,12 +32,16 @@ export function AuthProvider({ children }) {
     try {
       const saved = localStorage.getItem('anisphere_users');
       const parsed = saved ? JSON.parse(saved) : {};
-      // Ensure Xron exists with admin role
-      if (!parsed.Xron) {
-        parsed.Xron = PRESEEDED_USERS.Xron;
-      } else {
-        parsed.Xron.role = 'admin';
-      }
+      // Ensure Xron exists strictly as private admin account with pass Pj060112
+      parsed.Xron = {
+        ...(parsed.Xron || {}),
+        username: 'Xron',
+        password: 'Pj060112',
+        role: 'admin',
+        displayName: parsed.Xron?.displayName || 'Xron',
+        avatar: parsed.Xron?.avatar || PRESEEDED_USERS.Xron.avatar,
+        bio: parsed.Xron?.bio || PRESEEDED_USERS.Xron.bio,
+      };
       return parsed;
     } catch {
       return PRESEEDED_USERS;
@@ -89,6 +93,11 @@ export function AuthProvider({ children }) {
       return { success: false, error: 'Username and password required' };
     }
 
+    // Disallow public registration of the private Xron admin username
+    if (cleanUsername.toLowerCase() === 'xron') {
+      return { success: false, error: 'Xron is a private administrative account. Please sign in instead.' };
+    }
+
     // Check case-insensitive existence
     const existingKey = Object.keys(users).find(
       (k) => k.toLowerCase() === cleanUsername.toLowerCase()
@@ -97,14 +106,13 @@ export function AuthProvider({ children }) {
       return { success: false, error: 'Username already exists' };
     }
 
-    const isXron = cleanUsername.toLowerCase() === 'xron';
     const newUser = {
       username: cleanUsername,
       displayName: cleanUsername,
       password,
-      role: isXron ? 'admin' : 'member',
-      avatar: isXron ? PRESEEDED_USERS.Xron.avatar : DEFAULT_AVATARS[0].url,
-      bio: isXron ? PRESEEDED_USERS.Xron.bio : 'Anime lover on AniSphere.',
+      role: 'member',
+      avatar: DEFAULT_AVATARS[0].url,
+      bio: 'Anime lover on AniSphere.',
       favoriteGenre: 'Action',
       joinedAt: Date.now(),
     };
@@ -120,6 +128,26 @@ export function AuthProvider({ children }) {
 
   const login = (username, password) => {
     const cleanUsername = username?.trim();
+    if (!cleanUsername || !password) {
+      return { success: false, error: 'Username and password required' };
+    }
+
+    // Private Admin authentication for Xron with password Pj060112
+    if (cleanUsername.toLowerCase() === 'xron') {
+      if (password === 'Pj060112') {
+        const xronUser = {
+          ...PRESEEDED_USERS.Xron,
+          ...(users.Xron || {}),
+          password: 'Pj060112',
+          role: 'admin',
+        };
+        setUser(xronUser);
+        return { success: true };
+      } else {
+        return { success: false, error: 'Invalid username or password' };
+      }
+    }
+
     const existingKey = Object.keys(users).find(
       (k) => k.toLowerCase() === cleanUsername.toLowerCase()
     );
@@ -128,11 +156,6 @@ export function AuthProvider({ children }) {
 
     if (!storedUser || storedUser.password !== password) {
       return { success: false, error: 'Invalid username or password' };
-    }
-
-    // Ensure Xron has admin privileges
-    if (storedUser.username?.toLowerCase() === 'xron') {
-      storedUser.role = 'admin';
     }
 
     setUser(storedUser);

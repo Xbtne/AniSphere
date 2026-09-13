@@ -107,7 +107,7 @@ export default function ProfileModal({ isOpen, onClose, onOpenAdmin }) {
               </div>
             </div>
 
-            <div className="flex gap-2">
+            <div className="flex gap-2 flex-wrap">
               <button
                 onClick={() => setIsEditing(!isEditing)}
                 className="px-3.5 py-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/10 text-xs font-bold text-gray-200 flex items-center gap-1.5 transition-all hover:scale-105"
@@ -128,6 +128,15 @@ export default function ProfileModal({ isOpen, onClose, onOpenAdmin }) {
                   <span>Admin Panel</span>
                 </button>
               )}
+
+              <button
+                onClick={handleLogout}
+                className="px-3 py-2 rounded-xl bg-rose-500/15 hover:bg-rose-500/25 border border-rose-500/30 text-xs font-bold text-rose-300 hover:text-rose-200 flex items-center gap-1.5 transition-all hover:scale-105"
+                title="Sign Out"
+              >
+                <LogOut className="w-3.5 h-3.5" />
+                <span>Sign Out</span>
+              </button>
             </div>
           </div>
 
