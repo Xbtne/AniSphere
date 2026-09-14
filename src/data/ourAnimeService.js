@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 5952 verified English Dub streams across 137 complete anime!
+// Total: 6053 verified English Dub streams across 140 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -18658,139 +18658,169 @@ export const OUR_ANIME_CATALOG = [
   {
     "id": 270,
     "title": {
-      "english": "Hellsing",
       "romaji": "HELLSING",
+      "english": "Hellsing",
       "native": "HELLSING"
     },
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b270-S2ProngvO6BU.jpg",
-      "color": "#e4ae43"
-    },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/270-wzSdgMsCRvtl.jpg",
-    "description": "Hellsing follows the antiheroic vampire, Alucard, and a police girl-turned-vampire, Seras Victoria, two vampires employed by the vampire-extermination group of England, the Hellsing Organization. Slowly but surely, through their active duty, they find a new breed of vampires beginning to arise. <br><br> (Source: Anime News Network)",
-    "averageScore": 72,
+    "description": "Hellsing follows the antiheroic vampire, Alucard, and a police girl-turned-vampire, Seras Victoria, two vampires employed by the vampire-extermination group of England, the Hellsing Organization. Slowly but surely, through their active duty, they find a new breed of vampires beginning to arise.\n<br><br>\n(Source: Anime News Network)",
+    "episodesCount": 13,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
     "seasonYear": 2001,
     "genres": [
       "Action",
       "Horror",
       "Supernatural"
     ],
-    "format": "TV",
+    "averageScore": 72,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/270-wzSdgMsCRvtl.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b270-S2ProngvO6BU.jpg",
+      "color": "#e4ae43"
+    },
     "hasDub": true,
-    "badgeText": "FULL ENGLISH DUB • COMPLETE TV SERIES • 13 DUB EPS",
-    "isMature": true,
-    "contentRating": "TV-MA",
+    "hasSub": true,
+    "badgeText": "COMPLETE • 13 DUB EPS",
+    "isStaffPick": false,
+    "staffNotes": "Hellsing in full native playback!",
+    "isMature": false,
+    "contentRating": "TV-14",
     "contentWarnings": [
-      "Graphic Violence",
-      "Gore",
-      "Vampire Horror"
+      "Action Violence"
     ],
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Episode 1 (English Dub)",
+        "title": "Episode 1 - The Undead (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep01.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep01.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep01.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/01.%20The%20Undead.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/01.%20The%20Undead.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/01.%20The%20Undead.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 2,
-        "title": "Episode 2 (English Dub)",
+        "title": "Episode 2 - Club M (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep02.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep02.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep02.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/02.%20Club%20M.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/02.%20Club%20M.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/02.%20Club%20M.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 3,
-        "title": "Episode 3 (English Dub)",
+        "title": "Episode 3 - Sword Dancer (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep03.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep03.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep03.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/03.%20Sword%20Dancer.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/03.%20Sword%20Dancer.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/03.%20Sword%20Dancer.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 4,
-        "title": "Episode 4 (English Dub)",
+        "title": "Episode 4 - Innocent as a Human (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep04.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep04.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep04.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/04.%20Innocent%20as%20a%20Human.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/04.%20Innocent%20as%20a%20Human.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/04.%20Innocent%20as%20a%20Human.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 5,
-        "title": "Episode 5 (English Dub)",
+        "title": "Episode 5 - Brotherhood (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep05.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep05.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep05.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/05.%20Brotherhood.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/05.%20Brotherhood.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/05.%20Brotherhood.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 6,
-        "title": "Episode 6 (English Dub)",
+        "title": "Episode 6 - Dead Zone (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep06.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep06.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep06.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/06.%20Dead%20Zone.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/06.%20Dead%20Zone.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/06.%20Dead%20Zone.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 7,
-        "title": "Episode 7 (English Dub)",
+        "title": "Episode 7 - Duel (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep07.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep07.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep07.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/07.%20Duel.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/07.%20Duel.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/07.%20Duel.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 8,
-        "title": "Episode 8 (English Dub)",
+        "title": "Episode 8 - Kill House (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep08.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep08.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep08.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/08.%20Kill%20House.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/08.%20Kill%20House.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/08.%20Kill%20House.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 9,
-        "title": "Episode 9 (English Dub)",
+        "title": "Episode 9 - Red Rose Vertigo (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep09.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep09.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep09.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/09.%20Red%20Rose%20Vertigo.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/09.%20Red%20Rose%20Vertigo.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/09.%20Red%20Rose%20Vertigo.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 10,
-        "title": "Episode 10 (English Dub)",
+        "title": "Episode 10 - Master of Monster (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep10.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep10.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep10.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/10.%20Master%20of%20Monster.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/10.%20Master%20of%20Monster.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/10.%20Master%20of%20Monster.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 11,
-        "title": "Episode 11 (English Dub)",
+        "title": "Episode 11 - Transcend Force (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep11.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep11.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep11.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/11.%20Transcend%20Force.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/11.%20Transcend%20Force.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/11.%20Transcend%20Force.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 12,
-        "title": "Episode 12 (English Dub)",
+        "title": "Episode 12 - Total Destruction (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep12.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep12.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep12.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/12.%20Total%20Destruction.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/12.%20Total%20Destruction.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/12.%20Total%20Destruction.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 13,
-        "title": "Episode 13 (English Dub)",
+        "title": "Episode 13 - Hellfire (English Dub)",
         "duration": "23:30",
-        "videoUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep13.mp4",
-        "dubUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep13.mp4",
-        "subUrl": "https://archive.org/download/hellsing-xiczcix/(xiczcix)_hellsing_ep13.mp4"
+        "videoUrl": "https://archive.org/download/Hellsing-2001-576i/13.%20Hellfire.mp4",
+        "dubUrl": "https://archive.org/download/Hellsing-2001-576i/13.%20Hellfire.mp4",
+        "subUrl": "https://archive.org/download/Hellsing-2001-576i/13.%20Hellfire.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       }
     ]
   },
@@ -54298,5 +54328,1134 @@ export const OUR_ANIME_CATALOG = [
     "staffNotes": "Chaotic complete series in full native playback!",
     "badgeText": "COMPLETE SERIES • 79 EPS",
     "isStaffPick": false
+  },
+  {
+    "id": 21698,
+    "title": {
+      "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+      "english": "HAIKYU!! 3rd Season",
+      "native": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校"
+    },
+    "description": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to advance to nationals, the Karasuno team has to defeat the powerhouse Shiratorizawa Academy. Karasuno’s greatest hurdle is their adversary’s ace, Wakatoshi Ushijima, the number one player in the Miyagi Prefecture, and one of the country’s top three aces.\n<br><br>\nOnly the strongest team will make it to the national tournament. Since this match is the third-year players’ last chance to qualify for nationals, Karasuno has to use everything they learned during the training camp and prior matches to attain victory. Filled with restlessness and excitement, both teams are determined to come out on top in the third season of Haikyuu!!.\n<br><br>\n(Source: MAL Rewrite)",
+    "episodesCount": 10,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "averageScore": 87,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21698-jVFRIHAENS5B.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21698-RL71mr1YU5Io.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21698-RL71mr1YU5Io.png",
+      "color": "#e48635"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "badgeText": "COMPLETE • 10 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "HAIKYU!! 3rd Season in full native playback!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%201.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%202.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%203.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%204.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%205.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%206.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%207.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%208.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%209.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/haikyuu-s3-dub/Haikyuu%20temporada%203/Haikyuu!!%20Karasuno%20Koukou%20vs.%20Shiratorizawa%20Gakuen%20Koukou%20(Dub)%20Episode%2010.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ]
+  },
+  {
+    "id": 1564,
+    "title": {
+      "romaji": "Pocket Monsters Advanced Generation",
+      "english": "Pokémon the Series: Ruby and Sapphire",
+      "native": "ポケットモンスター　アドバンスジェネレーション"
+    },
+    "description": "After participating in the Johto League, Ash decides to begin anew in yet another journey; this time by himself and Pikachu, in the land of Hoenn. Though he isn't alone for long, as 10-year-old May (who dislikes Pokemon, but just wants to come along to see the world) travels with him after Pikachu destroys her bicycle. Ash also meets up with his old companion, Brock, and May's younger brother, Max. Together, they travel along in Hoenn, battling Gym Leaders, entering Contests, and other events on the way to the Hoenn League. <br><br>\n(Source: Anime News Network)",
+    "episodesCount": 40,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 69,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1564-aEGOcnOGHHCI.png",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1564-1KniCPyGiu0W.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1564-1KniCPyGiu0W.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1564-1KniCPyGiu0W.png",
+      "color": "#f1d643"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "badgeText": "COMPLETE • 40 DUB EPS",
+    "isStaffPick": false,
+    "staffNotes": "Pokémon the Series: Ruby and Sapphire in full native playback!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - Get the Show on the Road (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20277%20-%20AG001%20-%20Get%20the%20Show%20on%20the%20Road%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B06380176%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20277%20-%20AG001%20-%20Get%20the%20Show%20on%20the%20Road%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B06380176%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20277%20-%20AG001%20-%20Get%20the%20Show%20on%20the%20Road%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B06380176%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - A Ruin with a View (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20278%20-%20AG002%20-%20A%20Ruin%20with%20a%20View%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BE9E92481%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20278%20-%20AG002%20-%20A%20Ruin%20with%20a%20View%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BE9E92481%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20278%20-%20AG002%20-%20A%20Ruin%20with%20a%20View%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BE9E92481%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - There's no Place Like Hoenn (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20279%20-%20AG003%20-%20There's%20no%20Place%20Like%20Hoenn%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BD6D2DA0B%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20279%20-%20AG003%20-%20There's%20no%20Place%20Like%20Hoenn%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BD6D2DA0B%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20279%20-%20AG003%20-%20There's%20no%20Place%20Like%20Hoenn%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BD6D2DA0B%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - You Never Can Taillow (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20280%20-%20AG004%20-%20You%20Never%20Can%20Taillow%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2628DFDB%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20280%20-%20AG004%20-%20You%20Never%20Can%20Taillow%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2628DFDB%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20280%20-%20AG004%20-%20You%20Never%20Can%20Taillow%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2628DFDB%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - In the Knicker of Time! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20281%20-%20AG005%20-%20In%20the%20Knicker%20of%20Time!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BBD850A46%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20281%20-%20AG005%20-%20In%20the%20Knicker%20of%20Time!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BBD850A46%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20281%20-%20AG005%20-%20In%20the%20Knicker%20of%20Time!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BBD850A46%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - A Poached Ego! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20282%20-%20AG006%20-%20A%20Poached%20Ego!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B20E87D9B%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20282%20-%20AG006%20-%20A%20Poached%20Ego!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B20E87D9B%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20282%20-%20AG006%20-%20A%20Poached%20Ego!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B20E87D9B%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Tree's a Crowd (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20283%20-%20AG007%20-%20Tree's%20a%20Crowd%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B23F9BB94%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20283%20-%20AG007%20-%20Tree's%20a%20Crowd%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B23F9BB94%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20283%20-%20AG007%20-%20Tree's%20a%20Crowd%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B23F9BB94%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - A Tail with a Twist (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20284%20-%20AG008%20-%20A%20Tail%20with%20a%20Twist%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BE2F68D78%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20284%20-%20AG008%20-%20A%20Tail%20with%20a%20Twist%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BE2F68D78%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20284%20-%20AG008%20-%20A%20Tail%20with%20a%20Twist%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BE2F68D78%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Taming of the Shroomish (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20285%20-%20AG009%20-%20Taming%20of%20the%20Shroomish%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B3F2EB145%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20285%20-%20AG009%20-%20Taming%20of%20the%20Shroomish%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B3F2EB145%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20285%20-%20AG009%20-%20Taming%20of%20the%20Shroomish%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B3F2EB145%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - You Said a Mouthful! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20286%20-%20AG010%20-%20You%20Said%20a%20Mouthful!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1C9A7E83%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20286%20-%20AG010%20-%20You%20Said%20a%20Mouthful!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1C9A7E83%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20286%20-%20AG010%20-%20You%20Said%20a%20Mouthful!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1C9A7E83%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - A Bite to Remember (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20287%20-%20AG011%20-%20A%20Bite%20to%20Remember%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BC2FE6260%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20287%20-%20AG011%20-%20A%20Bite%20to%20Remember%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BC2FE6260%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20287%20-%20AG011%20-%20A%20Bite%20to%20Remember%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BC2FE6260%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - The Lotad Lowdown (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20288%20-%20AG012%20-%20The%20Lotad%20Lowdown%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B9924268B%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20288%20-%20AG012%20-%20The%20Lotad%20Lowdown%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B9924268B%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20288%20-%20AG012%20-%20The%20Lotad%20Lowdown%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B9924268B%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - All Things Bright and Beautifly! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20289%20-%20AG013%20-%20All%20Things%20Bright%20and%20Beautifly!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BA4D8BB68%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20289%20-%20AG013%20-%20All%20Things%20Bright%20and%20Beautifly!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BA4D8BB68%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20289%20-%20AG013%20-%20All%20Things%20Bright%20and%20Beautifly!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BA4D8BB68%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - All in a Day's Wurmple (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20290%20-%20AG014%20-%20All%20in%20a%20Day's%20Wurmple%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B4667473E%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20290%20-%20AG014%20-%20All%20in%20a%20Day's%20Wurmple%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B4667473E%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20290%20-%20AG014%20-%20All%20in%20a%20Day's%20Wurmple%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B4667473E%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - Gonna Rule The School! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20291%20-%20AG015%20-%20Gonna%20Rule%20The%20School!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B282E09F0%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20291%20-%20AG015%20-%20Gonna%20Rule%20The%20School!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B282E09F0%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20291%20-%20AG015%20-%20Gonna%20Rule%20The%20School!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B282E09F0%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - The Winner by a Nosepass (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20292%20-%20AG016%20-%20The%20Winner%20by%20a%20Nosepass%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B921D4024%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20292%20-%20AG016%20-%20The%20Winner%20by%20a%20Nosepass%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B921D4024%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20292%20-%20AG016%20-%20The%20Winner%20by%20a%20Nosepass%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B921D4024%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Stairway to Devon (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20293%20-%20AG017%20-%20Stairway%20to%20Devon%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B95E54B15%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20293%20-%20AG017%20-%20Stairway%20to%20Devon%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B95E54B15%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20293%20-%20AG017%20-%20Stairway%20to%20Devon%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B95E54B15%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - On a Wingull and a Prayer! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20294%20-%20AG018%20-%20On%20a%20Wingull%20and%20a%20Prayer!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B819084BC%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20294%20-%20AG018%20-%20On%20a%20Wingull%20and%20a%20Prayer!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B819084BC%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20294%20-%20AG018%20-%20On%20a%20Wingull%20and%20a%20Prayer!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B819084BC%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - Sharpedo Attack! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20295%20-%20AG019%20-%20Sharpedo%20Attack!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B6D1946D2%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20295%20-%20AG019%20-%20Sharpedo%20Attack!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B6D1946D2%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20295%20-%20AG019%20-%20Sharpedo%20Attack!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B6D1946D2%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - Brave the Wave (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20296%20-%20AG020%20-%20Brave%20the%20Wave%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B73B99330%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20296%20-%20AG020%20-%20Brave%20the%20Wave%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B73B99330%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20296%20-%20AG020%20-%20Brave%20the%20Wave%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B73B99330%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - Which Wurmple's Which (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20297%20-%20AG021%20-%20Which%20Wurmple's%20Which%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BF6A3728A%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20297%20-%20AG021%20-%20Which%20Wurmple's%20Which%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BF6A3728A%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20297%20-%20AG021%20-%20Which%20Wurmple's%20Which%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BF6A3728A%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - A Hole Lotta Trouble (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20298%20-%20AG022%20-%20A%20Hole%20Lotta%20Trouble%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B241FA7FB%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20298%20-%20AG022%20-%20A%20Hole%20Lotta%20Trouble%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B241FA7FB%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20298%20-%20AG022%20-%20A%20Hole%20Lotta%20Trouble%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B241FA7FB%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Gone Corphishin' (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20299%20-%20AG023%20-%20Gone%20Corphishin'%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B5AFC171B%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20299%20-%20AG023%20-%20Gone%20Corphishin'%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B5AFC171B%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20299%20-%20AG023%20-%20Gone%20Corphishin'%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B5AFC171B%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - A Corphish Out of Water (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20300%20-%20AG024%20-%20A%20Corphish%20Out%20of%20Water%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BCA6C079E%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20300%20-%20AG024%20-%20A%20Corphish%20Out%20of%20Water%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BCA6C079E%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20300%20-%20AG024%20-%20A%20Corphish%20Out%20of%20Water%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BCA6C079E%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - A Mudkip Mission (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20301%20-%20AG025%20-%20A%20Mudkip%20Mission%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1FDC43D7%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20301%20-%20AG025%20-%20A%20Mudkip%20Mission%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1FDC43D7%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20301%20-%20AG025%20-%20A%20Mudkip%20Mission%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1FDC43D7%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - Turning Over a Nuzleaf (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20302%20-%20AG026%20-%20Turning%20Over%20a%20Nuzleaf%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BDF6100E4%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20302%20-%20AG026%20-%20Turning%20Over%20a%20Nuzleaf%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BDF6100E4%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20302%20-%20AG026%20-%20Turning%20Over%20a%20Nuzleaf%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BDF6100E4%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - A Three Team Scheme (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20303%20-%20AG027%20-%20A%20Three%20Team%20Scheme%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B5C0F9C7D%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20303%20-%20AG027%20-%20A%20Three%20Team%20Scheme%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B5C0F9C7D%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20303%20-%20AG027%20-%20A%20Three%20Team%20Scheme%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B5C0F9C7D%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - Seeing is Believing (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20304%20-%20AG028%20-%20Seeing%20is%20Believing%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B3D1EA39E%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20304%20-%20AG028%20-%20Seeing%20is%20Believing%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B3D1EA39E%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20304%20-%20AG028%20-%20Seeing%20is%20Believing%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B3D1EA39E%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - Ready, Willing, and Sableye (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20305%20-%20AG029%20-%20Ready%2C%20Willing%2C%20and%20Sableye%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B8119BAB7%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20305%20-%20AG029%20-%20Ready%2C%20Willing%2C%20and%20Sableye%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B8119BAB7%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20305%20-%20AG029%20-%20Ready%2C%20Willing%2C%20and%20Sableye%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B8119BAB7%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - A Meditite Fight (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20306%20-%20AG030%20-%20A%20Meditite%20Fight%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B8A429222%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20306%20-%20AG030%20-%20A%20Meditite%20Fight%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B8A429222%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20306%20-%20AG030%20-%20A%20Meditite%20Fight%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B8A429222%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Just One of the Geysers (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20307%20-%20AG031%20-%20Just%20One%20of%20the%20Geysers%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B30F1FFA6%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20307%20-%20AG031%20-%20Just%20One%20of%20the%20Geysers%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B30F1FFA6%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20307%20-%20AG031%20-%20Just%20One%20of%20the%20Geysers%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B30F1FFA6%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - Abandon Ship! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20308%20-%20AG032%20-%20Abandon%20Ship!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1A7F3F09%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20308%20-%20AG032%20-%20Abandon%20Ship!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1A7F3F09%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20308%20-%20AG032%20-%20Abandon%20Ship!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B1A7F3F09%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - Now that's Flower Power! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20309%20-%20AG033%20-%20Now%20that's%20Flower%20Power!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BAE8BD37A%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20309%20-%20AG033%20-%20Now%20that's%20Flower%20Power!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BAE8BD37A%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20309%20-%20AG033%20-%20Now%20that's%20Flower%20Power!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BAE8BD37A%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - Having a Wailord of a Time (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20310%20-%20AG034%20-%20Having%20a%20Wailord%20of%20a%20Time%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BF7AAEAF0%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20310%20-%20AG034%20-%20Having%20a%20Wailord%20of%20a%20Time%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BF7AAEAF0%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20310%20-%20AG034%20-%20Having%20a%20Wailord%20of%20a%20Time%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BF7AAEAF0%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - Win, Lose or Drew! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20311%20-%20AG035%20-%20Win%2C%20Lose%20or%20Drew!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B4A6B721D%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20311%20-%20AG035%20-%20Win%2C%20Lose%20or%20Drew!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B4A6B721D%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20311%20-%20AG035%20-%20Win%2C%20Lose%20or%20Drew!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B4A6B721D%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - The Spheal of Approval (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20312%20-%20AG036%20-%20The%20Spheal%20of%20Approval%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2C0818F7%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20312%20-%20AG036%20-%20The%20Spheal%20of%20Approval%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2C0818F7%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20312%20-%20AG036%20-%20The%20Spheal%20of%20Approval%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2C0818F7%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - Jump for Joy (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20313%20-%20AG037%20-%20Jump%20for%20Joy%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2C37AD2E%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20313%20-%20AG037%20-%20Jump%20for%20Joy%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2C37AD2E%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20313%20-%20AG037%20-%20Jump%20for%20Joy%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2C37AD2E%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - A Different Kind of Misty! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20314%20-%20AG038%20-%20A%20Different%20Kind%20of%20Misty!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BA4759FAA%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20314%20-%20AG038%20-%20A%20Different%20Kind%20of%20Misty!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BA4759FAA%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20314%20-%20AG038%20-%20A%20Different%20Kind%20of%20Misty!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5BA4759FAA%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - A Pokeblock Party! (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20315%20-%20AG039%20-%20A%20Pokeblock%20Party!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2A6C682A%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20315%20-%20AG039%20-%20A%20Pokeblock%20Party!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2A6C682A%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20315%20-%20AG039%20-%20A%20Pokeblock%20Party!%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B2A6C682A%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - Watt's with Wattson (English Dub)",
+        "duration": "21:30",
+        "videoUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20316%20-%20AG040%20-%20Watt's%20with%20Wattson%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B7AE7679D%5D.mp4",
+        "dubUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20316%20-%20AG040%20-%20Watt's%20with%20Wattson%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B7AE7679D%5D.mp4",
+        "subUrl": "https://archive.org/download/pokemon-advanced-the-complete-collection-4kids-entertainment-english-dub/Pokemon%20-%20316%20-%20AG040%20-%20Watt's%20with%20Wattson%20%5BDVD%5D%5BPM-Dragon-x264-AC3%5D%5B7AE7679D%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      }
+    ]
+  },
+  {
+    "id": 2109,
+    "title": {
+      "romaji": "Rockman.EXE Stream",
+      "english": null,
+      "native": "ロックマンエクゼStream"
+    },
+    "description": "A comet burns in the sky, its brilliant light shining down upon the people of Earth. At that time, a giant army of viruses invade the real world, crushing everything in their path. Netto and Enzan use cross fusion to intervene, but are whisked away to an unknown location, only to be confronted by the one responsible for the attack - Duo! <br><br>\n(Source: Official Site)",
+    "episodesCount": 51,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "averageScore": 67,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2109.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2109.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2109.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2109.jpg",
+      "color": "#f1d61a"
+    },
+    "hasDub": false,
+    "hasSub": true,
+    "badgeText": "COMPLETE • 51 EPS",
+    "isStaffPick": false,
+    "staffNotes": "Rockman.EXE Stream in full native playback!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_01_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_01_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_01_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_02_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_02_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_02_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_03_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_03_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_03_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_04_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_04_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_04_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_05_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_05_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_05_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_06_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_06_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_06_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_07_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_07_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_07_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_08_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_08_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_08_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_09_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_09_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_09_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_10_DVD_480p_DATS.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_10_DVD_480p_DATS.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_10_DVD_480p_DATS.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_11_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_11_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_11_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_12_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_12_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_12_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_13_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_13_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_13_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_14_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_14_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_14_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_15_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_15_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_15_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_16_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_16_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_16_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_17_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_17_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_17_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_18_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_18_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_18_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_19_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_19_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_19_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_20_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_20_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_20_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_21_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_21_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_21_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_22_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_22_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_22_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_23_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_23_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_23_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_24_DVD_480p_Hi-C.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_24_DVD_480p_Hi-C.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_24_DVD_480p_Hi-C.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_25_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_25_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_25_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_26_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_26_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_26_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_27_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_27_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_27_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_28_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_28_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_28_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_29_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_29_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_29_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_30_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_30_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_30_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_31_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_31_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_31_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_32_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_32_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_32_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_33_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_33_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_33_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_34_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_34_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_34_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_35_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_35_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_35_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_36_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_36_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_36_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_37_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_37_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_37_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_38_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_38_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_38_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_39_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_39_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_39_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_40_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_40_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_40_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_41_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_41_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_41_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_42_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_42_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_42_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_43_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_43_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_43_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_44_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_44_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_44_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_45_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_45_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_45_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_46_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_46_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_46_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_47_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_47_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_47_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_48_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_48_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_48_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_49_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_49_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_49_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_50_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_50_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_50_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_51_DVD_480p_IHP.mp4",
+        "dubUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_51_DVD_480p_IHP.mp4",
+        "subUrl": "https://archive.org/download/rockman.-exe-stream-ensubbed-dvd-480p-ihp/AnimePahe_Rockman.EXE_Stream_-_51_DVD_480p_IHP.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      }
+    ]
   }
 ];

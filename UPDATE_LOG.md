@@ -26,8 +26,11 @@
 - **Bakemonogatari** (`id: 5081`): Complete 1080p BD Series (**15 Episodes**) with Subtitles.
 - **Noragami** (`id: 20447`): Complete Season 1 (**12 Episodes**) in English Dub.
 - **My First Girlfriend is a Gal** (`id: 97863`): Complete Season (**10 Episodes**) in English Dub.
+- **Rockman.EXE Stream (MegaMan)** (`id: 2109`): Complete Series (**51 Episodes**) with Subtitles.
+- **Pokémon the Series: Ruby and Sapphire** (`id: 1564`): Complete 4Kids Series (**40 Episodes**) in English Dub.
+- **HAIKYU!! 3rd Season** (`id: 21698`): Complete Karasuno vs. Shiratorizawa Season (**10 Episodes**) in English Dub.
 
-**Total AniSphere Catalog:** 137 Complete Anime | 5,952 Verified Native MP4 Streaming Episodes.
+**Total AniSphere Catalog:** 140 Complete Anime | 6,053 Verified Native MP4 Streaming Episodes.
 
 ---
 
