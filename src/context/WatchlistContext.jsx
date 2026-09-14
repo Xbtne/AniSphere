@@ -17,8 +17,14 @@ export function syncWithCatalog(anime) {
   const match = OUR_ANIME_CATALOG.find(
     (c) =>
       c.id === anime.id ||
+      (Array.isArray(c.relatedIds) && c.relatedIds.includes(anime.id)) ||
       (c.title?.english && anime.title?.english && c.title.english.toLowerCase() === anime.title.english.toLowerCase()) ||
       (c.title?.romaji && anime.title?.romaji && c.title.romaji.toLowerCase() === anime.title.romaji.toLowerCase()) ||
+      (Array.isArray(c.aliases) && (
+        (anime.title?.english && c.aliases.some(a => a.toLowerCase() === anime.title.english.toLowerCase())) ||
+        (anime.title?.romaji && c.aliases.some(a => a.toLowerCase() === anime.title.romaji.toLowerCase())) ||
+        (typeof anime.title === 'string' && c.aliases.some(a => a.toLowerCase() === anime.title.toLowerCase()))
+      )) ||
       (typeof anime.title === 'string' && (
         (c.title?.english && c.title.english.toLowerCase() === anime.title.toLowerCase()) ||
         (c.title?.romaji && c.title.romaji.toLowerCase() === anime.title.toLowerCase())

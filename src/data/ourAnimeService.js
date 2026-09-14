@@ -431,8 +431,78 @@ export const OUR_ANIME_CATALOG = [
       }
     ]
   },
-  {
+    {
     "id": 98659,
+    "relatedIds": [
+      145545,
+      145546,
+      170942
+    ],
+    "aliases": [
+      "Classroom of the Elite Season 2",
+      "Classroom of the Elite Season 3",
+      "Classroom of the Elite Season 4",
+      "Classroom of the Elite II",
+      "Classroom of the Elite III",
+      "Classroom of the Elite 2",
+      "Classroom of the Elite 3",
+      "Classroom of the Elite S2",
+      "Classroom of the Elite S3",
+      "COTE",
+      "COTE S2",
+      "COTE S3",
+      "COTE Season 2",
+      "COTE Season 3",
+      "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+      "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+      "Youzitsu"
+    ],
+    "seasons": [
+      {
+        "id": 1,
+        "name": "Season 1",
+        "title": "Season 1 (Ep 1-12)",
+        "range": [
+          1,
+          12
+        ],
+        "count": 12,
+        "year": 2017
+      },
+      {
+        "id": 2,
+        "name": "Season 2",
+        "title": "Season 2 (Ep 13-25)",
+        "range": [
+          13,
+          25
+        ],
+        "count": 13,
+        "year": 2022
+      },
+      {
+        "id": 3,
+        "name": "Season 3",
+        "title": "Season 3 (Ep 26-38)",
+        "range": [
+          26,
+          38
+        ],
+        "count": 13,
+        "year": 2024
+      },
+      {
+        "id": 4,
+        "name": "Specials",
+        "title": "Specials & OVAs (Ep 39-48)",
+        "range": [
+          39,
+          48
+        ],
+        "count": 10,
+        "year": 2024
+      }
+    ],
     "title": {
       "english": "Classroom of the Elite",
       "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
@@ -445,18 +515,19 @@ export const OUR_ANIME_CATALOG = [
       "color": "#bbf1a1"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98659-u46B5RCNl9il.jpg",
-    "description": "Koudo Ikusei Senior High School is a leading school with state-of-the-art facilities. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is like a utopia, but the truth is that only the most superior students receive favorable treatment.\n\nKiyotaka Ayanokouji is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Suzune Horikita and Kikyou Kushida, two other students in his class, Kiyotaka's situation begins to change. \n(Source: Anime News Network, edited)",
-    "averageScore": 76,
+    "description": "Koudo Ikusei Senior High School is a leading school with state-of-the-art facilities where students have the freedom to wear any hairstyle and bring any personal effects they desire. But the truth is that only the most superior students receive favorable treatment.\\n\\nKiyotaka Ayanokouji is a student of D-class, where the school dumps its \\\"inferior\\\" students. After meeting Suzune Horikita and Kikyou Kushida, Kiyotaka's high school life begins to change as high-stakes psychological battles and secret schemes unfold across all 3 seasons!",
+    "averageScore": 78,
     "seasonYear": 2017,
     "genres": [
       "Drama",
-      "Psychological"
+      "Psychological",
+      "Suspense"
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "COMPLETE SERIES • 42 DUB EPS & SPECIALS",
+    "badgeText": "3 FULL SEASONS • 48 DUB EPS & SPECIALS",
     "isStaffPick": true,
-    "staffNotes": "Calculated psychological battles where everyone has a hidden agenda.",
+    "staffNotes": "Calculated psychological battles where everyone has a hidden agenda. Complete Season 1, Season 2, and Season 3 in 1080p!",
     "isMature": false,
     "contentRating": "TV-14",
     "contentWarnings": [
@@ -466,7 +537,9 @@ export const OUR_ANIME_CATALOG = [
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Episode 1 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 1,
+        "title": "S1 E1: What is Evil? Whatever Springs from Weakness",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/01%20-%20s1e1.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/01%20-%20s1e1.mp4",
@@ -474,7 +547,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 2,
-        "title": "Episode 2 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 2,
+        "title": "S1 E2: It Takes a Great Talent and Skill to Conceal Talent",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/02%20-%20s1e2.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/02%20-%20s1e2.mp4",
@@ -482,7 +557,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 3,
-        "title": "Episode 3 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 3,
+        "title": "S1 E3: Man is an Animal That Makes Bargains",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4",
@@ -490,7 +567,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 4,
-        "title": "Episode 4 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 4,
+        "title": "S1 E4: We Should Not Be Upset That Others Hide Truth",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4",
@@ -498,7 +577,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 5,
-        "title": "Episode 5 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 5,
+        "title": "S1 E5: Hell is Other People",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/05%20-%20s1e5.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/05%20-%20s1e5.mp4",
@@ -506,7 +587,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 6,
-        "title": "Episode 6 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 6,
+        "title": "S1 E6: There are Two Kinds of Lies",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/06%20-%20s1e6.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/06%20-%20s1e6.mp4",
@@ -514,7 +597,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 7,
-        "title": "Episode 7 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 7,
+        "title": "S1 E7: Nothing is as Dangerous as an Ignorant Friend",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
@@ -522,7 +607,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 8,
-        "title": "Episode 8 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 8,
+        "title": "S1 E8: Abandon All Hope, Ye Who Enter Here",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/08%20-%20s1e8.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/08%20-%20s1e8.mp4",
@@ -530,7 +617,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 9,
-        "title": "Episode 9 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 9,
+        "title": "S1 E9: Man is Condemned to be Free",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4",
@@ -538,7 +627,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 10,
-        "title": "Episode 10 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 10,
+        "title": "S1 E10: Every Man Has the Most Dangerous Traitor of All",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/10%20-%20s1e10.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/10%20-%20s1e10.mp4",
@@ -546,7 +637,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 11,
-        "title": "Episode 11 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 11,
+        "title": "S1 E11: What People Call Fate is Mostly Stupidity",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/11%20-%20s1e11.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/11%20-%20s1e11.mp4",
@@ -554,7 +647,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 12,
-        "title": "Episode 12 (English Dub)",
+        "season": 1,
+        "seasonEpisode": 12,
+        "title": "S1 E12: Genius Lives Only One Story Above Madness (Season 1 Finale)",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4",
@@ -562,7 +657,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 13,
-        "title": "Episode 13 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 1,
+        "title": "S2 E1: Remember to Keep a Clear Head in Difficult Times",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
@@ -570,7 +667,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 14,
-        "title": "Episode 14 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 2,
+        "title": "S2 E2: There Are Two Kinds of Men: Who Remain and Who Go",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/02%20-%20s2e2.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/02%20-%20s2e2.mp4",
@@ -578,7 +677,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 15,
-        "title": "Episode 15 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 3,
+        "title": "S2 E3: The Greatest Souls Are Capable of Greatest Vices",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/03%20-%20s2e3.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/03%20-%20s2e3.mp4",
@@ -586,7 +687,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 16,
-        "title": "Episode 16 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 4,
+        "title": "S2 E4: The Material Has to Be Created",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4",
@@ -594,7 +697,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 17,
-        "title": "Episode 17 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 5,
+        "title": "S2 E5: Every Failure Is a Step to Success",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/05%20-%20s2e5.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/05%20-%20s2e5.mp4",
@@ -602,7 +707,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 18,
-        "title": "Episode 18 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 6,
+        "title": "S2 E6: Adversity Is the First Path to Truth",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/06%20-%20s2e6.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/06%20-%20s2e6.mp4",
@@ -610,7 +717,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 19,
-        "title": "Episode 19 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 7,
+        "title": "S2 E7: To Doubt Everything or Believe Everything",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/07%20-%20s2e7.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/07%20-%20s2e7.mp4",
@@ -618,7 +727,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 20,
-        "title": "Episode 20 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 8,
+        "title": "S2 E8: The Wound Is at Her Heart",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/08%20-%20s2e8.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/08%20-%20s2e8.mp4",
@@ -626,7 +737,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 21,
-        "title": "Episode 21 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 9,
+        "title": "S2 E9: If You Make a Mistake and Do Not Correct It",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/09%20-%20s2e9.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/09%20-%20s2e9.mp4",
@@ -634,7 +747,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 22,
-        "title": "Episode 22 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 10,
+        "title": "S2 E10: People Deceived by an Illusive Good Desire Ruin",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/10%20-%20s2e10.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/10%20-%20s2e10.mp4",
@@ -642,7 +757,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 23,
-        "title": "Episode 23 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 11,
+        "title": "S2 E11: A Man Who Cannot Command Himself Is a Slave",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/11%20-%20s2e11.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/11%20-%20s2e11.mp4",
@@ -650,7 +767,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 24,
-        "title": "Episode 24 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 12,
+        "title": "S2 E12: Force Without Wisdom Falls of Its Own Weight",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/12%20-%20s2e12.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/12%20-%20s2e12.mp4",
@@ -658,7 +777,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 25,
-        "title": "Episode 25 (English Dub)",
+        "season": 2,
+        "seasonEpisode": 13,
+        "title": "S2 E13: The Worst Enemy Will Always Be Yourself (Season 2 Finale)",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/13%20s2e13.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/13%20s2e13.mp4",
@@ -666,7 +787,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 26,
-        "title": "Episode 26 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 1,
+        "title": "S3 E1: Strongest Principle of Growth Lies in Human Choice",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
@@ -674,7 +797,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 27,
-        "title": "Episode 27 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 2,
+        "title": "S3 E2: Man Is Wolf to Man",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/02%20-%20s3e2.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/02%20-%20s3e2.mp4",
@@ -682,7 +807,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 28,
-        "title": "Episode 28 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 3,
+        "title": "S3 E3: We Never Forget What We Endeavour to Forget",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/03%20-%20s3e3.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/03%20-%20s3e3.mp4",
@@ -690,7 +817,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 29,
-        "title": "Episode 29 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 4,
+        "title": "S3 E4: Prepared for War Means Preserving Peace",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/04%20-%20s3e4.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/04%20-%20s3e4.mp4",
@@ -698,7 +827,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 30,
-        "title": "Episode 30 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 5,
+        "title": "S3 E5: Fortune Favors the Bold",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/05%20-%20s3e5.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/05%20-%20s3e5.mp4",
@@ -706,7 +837,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 31,
-        "title": "Episode 31 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 6,
+        "title": "S3 E6: Better to Receive an Injury Than Inflict One",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/06%20-%20s3e6.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/06%20-%20s3e6.mp4",
@@ -714,7 +847,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 32,
-        "title": "Episode 32 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 7,
+        "title": "S3 E7: Avoid Facing Their Own Souls",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/07%20-%20s3e7.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/07%20-%20s3e7.mp4",
@@ -722,7 +857,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 33,
-        "title": "Episode 33 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 8,
+        "title": "S3 E8: Those Who Cannot Remember Past Repeat It",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/08%20-%20s3e8.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/08%20-%20s3e8.mp4",
@@ -730,7 +867,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 34,
-        "title": "Episode 34 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 9,
+        "title": "S3 E9: Rule Your Mind or It Will Rule You",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/09%20-%20s3e9.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/09%20-%20s3e9.mp4",
@@ -738,7 +877,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 35,
-        "title": "Episode 35 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 10,
+        "title": "S3 E10: Capacity to Enjoy Without the Chance",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/10%20-%20s3e10.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/10%20-%20s3e10.mp4",
@@ -746,7 +887,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 36,
-        "title": "Episode 36 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 11,
+        "title": "S3 E11: One Principle of War: Most Force on Decisive Point",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4",
@@ -754,7 +897,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 37,
-        "title": "Episode 37 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 12,
+        "title": "S3 E12: To Desire a Thing Is to Love It Already",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4",
@@ -762,7 +907,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 38,
-        "title": "Episode 38 (English Dub)",
+        "season": 3,
+        "seasonEpisode": 13,
+        "title": "S3 E13: Love Is the Best Teacher (Season 3 Finale)",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
@@ -770,7 +917,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 39,
-        "title": "Episode 39 - OVA: Special Summer Vacation (Beach Episode)",
+        "season": 4,
+        "seasonEpisode": 1,
+        "title": "OVA 1: Special Summer Vacation (Beach & Pool Special)",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
@@ -778,7 +927,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 40,
-        "title": "Episode 40 - Season 2 Special: The White Room Prelude",
+        "season": 4,
+        "seasonEpisode": 2,
+        "title": "Special 1: The White Room Project - Kiyotaka Origins",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
@@ -786,7 +937,9 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 41,
-        "title": "Episode 41 - Season 3 Special: Monologue of Ayanokoji",
+        "season": 4,
+        "seasonEpisode": 3,
+        "title": "Special 2: Monologue of Ayanokoji - Pawn Theory",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
@@ -794,15 +947,77 @@ export const OUR_ANIME_CATALOG = [
       },
       {
         "episodeNumber": 42,
-        "title": "Episode 42 - Season 4 / Year 2 Arc Announcement Special Preview",
+        "season": 4,
+        "seasonEpisode": 4,
+        "title": "Special 3: Season 4 & 2nd Year Arc Special Announcement",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
         "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "season": 4,
+        "seasonEpisode": 5,
+        "title": "Chibi Theater 1: Classroom Mini - Horikita's Study Trap",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "season": 4,
+        "seasonEpisode": 6,
+        "title": "Chibi Theater 2: Classroom Mini - Kushida's Dark Side",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "season": 4,
+        "seasonEpisode": 7,
+        "title": "Chibi Theater 3: Classroom Mini - Kei Karuizawa Operation",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "season": 4,
+        "seasonEpisode": 8,
+        "title": "Special 4: Sakayanagi vs Ayanokoji - Chess Match Analysis",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "season": 4,
+        "seasonEpisode": 9,
+        "title": "Special 5: Class D Survival Guide & Island Exam Rules",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "season": 4,
+        "seasonEpisode": 10,
+        "title": "Special 6: Road to Class A - Year 2 Arc Preview Breakdown",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4"
       }
     ]
   },
-  {
+{
     "id": 392,
     "title": {
       "english": "Yu Yu Hakusho",

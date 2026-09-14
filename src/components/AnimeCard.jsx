@@ -116,7 +116,11 @@ export default function AnimeCard({ anime, onSelect, compact = false }) {
               </div>
             ) : (
               <div className="rounded-lg bg-black/80 px-2.5 py-1 text-[10px] font-bold text-gray-200 ring-1 ring-white/15 backdrop-blur-md shadow-lg">
-                {anime.format === 'MOVIE' ? 'Feature Film' : `${epCount} Episodes`}
+                {anime.format === 'MOVIE'
+                  ? 'Feature Film'
+                  : Array.isArray(anime.seasons) && anime.seasons.length > 1
+                    ? `${anime.seasons.filter(s => s.id < 4).length} Seasons • ${epCount} Eps`
+                    : `${epCount} Episodes`}
               </div>
             )}
 

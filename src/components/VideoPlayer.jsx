@@ -105,8 +105,14 @@ export default function VideoPlayer({
   const catalogAnime = OUR_ANIME_CATALOG.find(
     (c) =>
       c.id === anime?.id ||
+      (Array.isArray(c.relatedIds) && c.relatedIds.includes(anime?.id)) ||
       (c.title?.english && anime?.title?.english && c.title.english.toLowerCase() === anime.title.english.toLowerCase()) ||
       (c.title?.romaji && anime?.title?.romaji && c.title.romaji.toLowerCase() === anime.title.romaji.toLowerCase()) ||
+      (Array.isArray(c.aliases) && (
+        (anime?.title?.english && c.aliases.some(a => a.toLowerCase() === anime.title.english.toLowerCase())) ||
+        (anime?.title?.romaji && c.aliases.some(a => a.toLowerCase() === anime.title.romaji.toLowerCase())) ||
+        (typeof anime?.title === 'string' && c.aliases.some(a => a.toLowerCase() === anime.title.toLowerCase()))
+      )) ||
       (typeof anime?.title === 'string' && (
         (c.title?.english && c.title.english.toLowerCase() === anime.title.toLowerCase()) ||
         (c.title?.romaji && c.title.romaji.toLowerCase() === anime.title.toLowerCase())
@@ -123,6 +129,9 @@ export default function VideoPlayer({
     episodesList.find((e) => e.episodeNumber === episode) ||
     episodesList[episode - 1] ||
     episodesList[0];
+
+  const nextEpObj =
+    episodesList.find((e) => e.episodeNumber === episode + 1) || null;
 
   // Resolve audio track: English Dub prioritized if requested or available
   const hasDub = Boolean(currentEpObj?.dubUrl || catalogAnime?.hasDub || anime?.hasDub);
@@ -791,10 +800,21 @@ export default function VideoPlayer({
                 showControls || !isPlaying ? 'opacity-100' : 'opacity-0'
               }`}
             >
-              <div className="flex items-center gap-2">
-                <span className="px-3 py-1 rounded-full bg-black/80 backdrop-blur-md border border-white/20 text-xs font-bold text-white flex items-center gap-1.5 shadow-lg">
-                  <Tv className="w-3 h-3 text-amber-400" />
-                  {title} • Episode {episode}
+              <div className="flex items-center gap-2 flex-wrap">
+                <span className="px-3 py-1.5 rounded-full bg-black/85 backdrop-blur-md border border-white/20 text-xs font-bold text-white flex items-center gap-2 shadow-lg">
+                  <Tv className="w-3.5 h-3.5 text-amber-400 shrink-0" />
+                  <span className="font-extrabold">{title}</span>
+                  <span className="text-amber-400">•</span>
+                  <span className="text-amber-300 font-semibold">
+                    {currentEpObj?.season
+                      ? (currentEpObj.season >= 4 ? `OVA ${currentEpObj.seasonEpisode || (episode - 38)}` : `S${currentEpObj.season} E${currentEpObj.seasonEpisode || episode}`)
+                      : `Ep ${episode}`}
+                  </span>
+                  {currentEpObj?.title && (
+                    <span className="hidden md:inline text-gray-300 text-xs truncate max-w-xs border-l border-white/20 pl-2">
+                      {currentEpObj.title}
+                    </span>
+                  )}
                 </span>
 
                 <span
@@ -821,6 +841,33 @@ export default function VideoPlayer({
                 </span>
               </div>
             </div>
+
+            {/* Floating Up Next / Next Season Card (Near end of episode) */}
+            {episode < totalEpisodes && nextEpObj && (duration > 0 && currentTime >= duration - 25) && (
+              <div className="absolute right-4 bottom-24 z-30 p-3.5 rounded-2xl bg-black/90 backdrop-blur-xl border border-amber-500/50 shadow-2xl max-w-sm flex items-center gap-3 animate-fade-in ring-1 ring-amber-400/30">
+                <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-amber-400 to-yellow-500 text-[#070b09] flex items-center justify-center font-black text-sm shadow-md shrink-0">
+                  <SkipForward className="w-5 h-5 fill-current" />
+                </div>
+                <div className="min-w-0 flex-1">
+                  <span className="text-[10px] font-black uppercase tracking-wider text-amber-400 block">
+                    {nextEpObj.season && currentEpObj?.season && nextEpObj.season !== currentEpObj.season
+                      ? `Next Season: Season ${nextEpObj.season} (Ep ${nextEpObj.episodeNumber})`
+                      : `Up Next • Episode ${nextEpObj.episodeNumber}`}
+                  </span>
+                  <p className="text-xs font-bold text-white truncate" title={nextEpObj.title}>
+                    {nextEpObj.title || `Episode ${nextEpObj.episodeNumber}`}
+                  </p>
+                </div>
+                <button
+                  type="button"
+                  onClick={onNextEpisode}
+                  className="px-3.5 py-2 rounded-xl bg-gradient-to-r from-amber-400 to-yellow-500 hover:from-amber-300 hover:to-yellow-400 text-black font-black text-xs transition-all shadow-lg shrink-0 flex items-center gap-1.5 hover:scale-105 active:scale-95"
+                >
+                  <Play className="w-3 h-3 fill-current" />
+                  <span>Play</span>
+                </button>
+              </div>
+            )}
 
             {/* Custom Control Bar Overlay */}
             <div

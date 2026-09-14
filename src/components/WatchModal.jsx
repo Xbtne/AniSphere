@@ -66,12 +66,12 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
   const [details, setDetails] = useState(null);
   const [loading, setLoading] = useState(true);
   const [selectedEpisode, setSelectedEpisode] = useState(1);
+  const [selectedSeason, setSelectedSeason] = useState('all');
   const [activeTab, setActiveTab] = useState('player'); // 'player' | 'episodes' | 'characters' | 'recommendations'
   const [showFullSynopsis, setShowFullSynopsis] = useState(false);
   const [copied, setCopied] = useState(false);
   const [audioLanguage, setAudioLanguage] = useState('dub'); // 'dub' | 'sub'
   const [vaLanguageTab, setVaLanguageTab] = useState('english'); // 'english' | 'japanese'
-  const [episodeRange, setEpisodeRange] = useState(0);
   const [episodeSearch, setEpisodeSearch] = useState('');
 
   const {
@@ -91,22 +91,18 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
 
   const savedProgress = anime?.id ? getWatchProgress(anime.id) : null;
 
-  // Auto-sync episode range tab when selectedEpisode changes
-  useEffect(() => {
-    const calculatedRange = Math.floor((selectedEpisode - 1) / 25);
-    if (calculatedRange !== episodeRange) {
-      setEpisodeRange(calculatedRange);
-    }
-  }, [selectedEpisode]);
-
-  // Resume saved episode or start from episode 1 whenever an anime is opened
+  // Resume saved episode or start from episode 1 (or season start) whenever an anime is opened
   useEffect(() => {
     if (!anime?.id) return;
     const progress = getWatchProgress(anime.id);
-    const initialEp = (progress && progress.episode) ? Number(progress.episode) : 1;
+    let initialEp = (progress && progress.episode) ? Number(progress.episode) : 1;
+    // If user clicked specifically on Season 2 (e.g. AniList ID 145545) or Season 3 (145546):
+    if (anime.id === 145545 && (!progress || progress.episode < 13)) {
+      initialEp = 13;
+    } else if (anime.id === 145546 && (!progress || progress.episode < 26)) {
+      initialEp = 26;
+    }
     setSelectedEpisode(initialEp);
-    const calculatedRange = Math.floor((initialEp - 1) / 25);
-    setEpisodeRange(calculatedRange);
     setEpisodeSearch('');
   }, [anime?.id]);
 
@@ -158,8 +154,14 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
   const catalogMatch = OUR_ANIME_CATALOG.find(
     (c) =>
       c.id === anime.id ||
+      (Array.isArray(c.relatedIds) && c.relatedIds.includes(anime.id)) ||
       (c.title?.english && anime.title?.english && c.title.english.toLowerCase() === anime.title.english.toLowerCase()) ||
       (c.title?.romaji && anime.title?.romaji && c.title.romaji.toLowerCase() === anime.title.romaji.toLowerCase()) ||
+      (Array.isArray(c.aliases) && (
+        (anime.title?.english && c.aliases.some(a => a.toLowerCase() === anime.title.english.toLowerCase())) ||
+        (anime.title?.romaji && c.aliases.some(a => a.toLowerCase() === anime.title.romaji.toLowerCase())) ||
+        (typeof anime.title === 'string' && c.aliases.some(a => a.toLowerCase() === anime.title.toLowerCase()))
+      )) ||
       (typeof anime.title === 'string' && (
         (c.title?.english && c.title.english.toLowerCase() === anime.title.toLowerCase()) ||
         (c.title?.romaji && c.title.romaji.toLowerCase() === anime.title.toLowerCase())
@@ -192,6 +194,73 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
   const matureWarnings = getAnimeWarnings(merged);
   const isMature = isMatureAnime(merged);
 
+  const totalEpisodes = ourEpisodes.length > 0
+    ? ourEpisodes.length
+    : Math.max(
+        typeof merged.episodes === 'number' ? merged.episodes : 0,
+        merged.nextAiringEpisode?.episode ? merged.nextAiringEpisode.episode - 1 : 0,
+        1
+      );
+
+  // Compute clean structured season tabs
+  const seasonsList = React.useMemo(() => {
+    if (Array.isArray(catalogMatch?.seasons) && catalogMatch.seasons.length > 0) {
+      return catalogMatch.seasons;
+    }
+    if (ourEpisodes.length > 0 && ourEpisodes.some(e => e.season)) {
+      const seasonMap = new Map();
+      ourEpisodes.forEach(ep => {
+        const sNum = ep.season || 1;
+        if (!seasonMap.has(sNum)) {
+          seasonMap.set(sNum, {
+            id: sNum,
+            name: sNum >= 4 ? 'Specials & OVAs' : `Season ${sNum}`,
+            title: sNum >= 4 ? 'Specials & OVAs' : `Season ${sNum}`,
+            range: [ep.episodeNumber, ep.episodeNumber],
+            count: 0
+          });
+        }
+        const sObj = seasonMap.get(sNum);
+        sObj.range[0] = Math.min(sObj.range[0], ep.episodeNumber);
+        sObj.range[1] = Math.max(sObj.range[1], ep.episodeNumber);
+        sObj.count += 1;
+      });
+      return Array.from(seasonMap.values()).map(s => ({
+        ...s,
+        title: `${s.name} (Ep ${s.range[0]}-${s.range[1]})`
+      }));
+    }
+    if (totalEpisodes > 25) {
+      const batches = [];
+      const count = Math.ceil(totalEpisodes / 25);
+      for (let i = 0; i < count; i++) {
+        const start = i * 25 + 1;
+        const end = Math.min(totalEpisodes, (i + 1) * 25);
+        batches.push({
+          id: i + 1,
+          name: `Episodes ${start}-${end}`,
+          title: `Episodes ${start}-${end}`,
+          range: [start, end],
+          count: end - start + 1
+        });
+      }
+      return batches;
+    }
+    return [];
+  }, [catalogMatch?.seasons, ourEpisodes, totalEpisodes]);
+
+  // Keep selectedSeason synced when changing episode
+  useEffect(() => {
+    if (seasonsList.length > 0 && selectedSeason !== 'all') {
+      const activeSeason = seasonsList.find(
+        (s) => selectedEpisode >= s.range[0] && selectedEpisode <= s.range[1]
+      );
+      if (activeSeason && activeSeason.id !== selectedSeason) {
+        setSelectedSeason(activeSeason.id);
+      }
+    }
+  }, [selectedEpisode, seasonsList]);
+
   // Parse and sort all streaming episodes numerically ascending (Ep 1, 2, 3...)
   const sortedStreamingEpisodes = React.useMemo(() => {
     if (!merged.streamingEpisodes || !Array.isArray(merged.streamingEpisodes)) return [];
@@ -222,14 +291,6 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
     });
   }, [merged.streamingEpisodes]);
 
-  const totalEpisodes = ourEpisodes.length > 0
-    ? ourEpisodes.length
-    : Math.max(
-        typeof merged.episodes === 'number' ? merged.episodes : 0,
-        merged.nextAiringEpisode?.episode ? merged.nextAiringEpisode.episode - 1 : 0,
-        1
-      );
-
   const cleanDescription = merged.description
     ? merged.description.replace(/<[^>]*>?/gm, '')
     : 'No synopsis available for this anime.';
@@ -253,6 +314,12 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
 
   const filteredEpisodes = React.useMemo(() => {
     return ourEpisodes.filter((ep) => {
+      if (!episodeSearch.trim() && selectedSeason !== 'all') {
+        const sObj = seasonsList.find((s) => s.id === selectedSeason);
+        if (sObj && (ep.episodeNumber < sObj.range[0] || ep.episodeNumber > sObj.range[1])) {
+          return false;
+        }
+      }
       if (!episodeSearch.trim()) return true;
       const q = episodeSearch.toLowerCase().trim();
       return (
@@ -260,7 +327,7 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
         (ep.title && ep.title.toLowerCase().includes(q))
       );
     });
-  }, [ourEpisodes, episodeSearch]);
+  }, [ourEpisodes, episodeSearch, selectedSeason, seasonsList]);
 
   const safeRecommendations = (merged.recommendations?.nodes || [])
     .filter((rec) => rec.mediaRecommendation)
@@ -564,73 +631,165 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
                 )}
               </div>
 
-              {/* Episode batch switcher for anime with > 25 episodes (when not searching) */}
-              {!episodeSearch && totalEpisodes > 25 && (
-                <div className="flex items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar text-xs">
-                  <span className="text-gray-400 text-[11px] font-bold mr-1">Range:</span>
-                  {Array.from({ length: Math.ceil(totalEpisodes / 25) }).map((_, idx) => {
-                    const start = idx * 25 + 1;
-                    const end = Math.min(totalEpisodes, (idx + 1) * 25);
-                    const isActive = episodeRange === idx;
+              {/* Modern Season & Episode Filter Pills */}
+              {!episodeSearch && seasonsList.length > 0 && (
+                <div className="flex items-center gap-1.5 overflow-x-auto pb-1.5 pt-0.5 no-scrollbar text-xs">
+                  <button
+                    type="button"
+                    onClick={() => setSelectedSeason('all')}
+                    className={`px-3 py-1.5 rounded-xl font-bold transition-all whitespace-nowrap flex items-center gap-1.5 ${
+                      selectedSeason === 'all'
+                        ? 'bg-gradient-to-r from-amber-400 to-yellow-500 text-[#060907] shadow-md shadow-amber-500/30 font-black'
+                        : 'bg-white/5 hover:bg-white/10 text-gray-300 border border-white/10'
+                    }`}
+                  >
+                    <span>All Episodes</span>
+                    <span className={`px-1.5 py-0.2 rounded-full text-[10px] font-bold ${
+                      selectedSeason === 'all' ? 'bg-black/20 text-[#060907]' : 'bg-white/10 text-gray-400'
+                    }`}>
+                      {ourEpisodes.length || totalEpisodes}
+                    </span>
+                  </button>
+
+                  {seasonsList.map((s) => {
+                    const isActive = selectedSeason === s.id;
                     return (
                       <button
-                        key={idx}
+                        key={s.id}
                         type="button"
-                        onClick={() => setEpisodeRange(idx)}
-                        className={`px-2.5 py-1 rounded-lg font-bold transition-all ${
+                        onClick={() => setSelectedSeason(s.id)}
+                        className={`px-3 py-1.5 rounded-xl font-bold transition-all whitespace-nowrap flex items-center gap-1.5 ${
                           isActive
-                            ? 'bg-amber-500 text-[#0a0f0c] shadow-sm'
-                            : 'bg-white/5 hover:bg-white/10 text-gray-300'
+                            ? 'bg-gradient-to-r from-amber-500/25 to-yellow-500/20 text-amber-300 border border-amber-400/80 shadow-md shadow-amber-950/40 ring-1 ring-amber-400/80 font-black'
+                            : 'bg-white/5 hover:bg-white/10 text-gray-300 border border-white/10'
                         }`}
                       >
-                        {start}-{end}
+                        <span>{s.name}</span>
+                        <span className={`px-1.5 py-0.2 rounded-full text-[10px] font-bold ${
+                          isActive ? 'bg-amber-400/30 text-amber-200' : 'bg-white/10 text-gray-400'
+                        }`}>
+                          {s.count || (s.range[1] - s.range[0] + 1)} Eps
+                        </span>
                       </button>
                     );
                   })}
                 </div>
               )}
 
+              {/* Season 1 -> Season 2 Seamless Continuation Banner */}
+              {selectedEpisode === 12 && ourEpisodes.some((e) => e.episodeNumber === 13) && (
+                <div className="p-3.5 sm:p-4 rounded-2xl bg-gradient-to-r from-amber-500/20 via-yellow-500/15 to-emerald-500/20 border border-amber-400/40 shadow-xl flex items-center justify-between gap-3 flex-wrap animate-fade-in">
+                  <div className="flex items-center gap-3 min-w-0">
+                    <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-amber-400 to-yellow-500 text-black flex items-center justify-center font-black text-sm shadow-md shrink-0">
+                      S2
+                    </div>
+                    <div className="min-w-0">
+                      <h4 className="font-black text-white text-sm flex items-center gap-2">
+                        <span>Season 1 Finale Complete! Ready for Season 2?</span>
+                        <span className="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[10px] font-bold border border-emerald-500/30">
+                          13 FULL EPS
+                        </span>
+                      </h4>
+                      <p className="text-xs text-amber-200/90 truncate">
+                        Don't stop here! Season 2 Episode 1 (Ep 13) kicks off the Cruise Ship Special Exam!
+                      </p>
+                    </div>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => handleEpisodeClick(13)}
+                    className="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-400 to-yellow-500 hover:from-amber-300 hover:to-yellow-400 text-[#070b09] font-black text-xs transition-all shadow-lg flex items-center gap-2 hover:scale-105 active:scale-95 shrink-0"
+                  >
+                    <Play className="w-3.5 h-3.5 fill-current" />
+                    <span>Continue to Season 2 (Ep 13) ➔</span>
+                  </button>
+                </div>
+              )}
+
+              {/* Season 2 -> Season 3 Continuation Banner */}
+              {selectedEpisode === 25 && ourEpisodes.some((e) => e.episodeNumber === 26) && (
+                <div className="p-3.5 sm:p-4 rounded-2xl bg-gradient-to-r from-teal-500/20 via-emerald-500/15 to-amber-500/20 border border-teal-400/40 shadow-xl flex items-center justify-between gap-3 flex-wrap animate-fade-in">
+                  <div className="flex items-center gap-3 min-w-0">
+                    <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-teal-400 to-emerald-400 text-black flex items-center justify-center font-black text-sm shadow-md shrink-0">
+                      S3
+                    </div>
+                    <div className="min-w-0">
+                      <h4 className="font-black text-white text-sm flex items-center gap-2">
+                        <span>Season 2 Finale Complete! Ready for Season 3?</span>
+                        <span className="px-2 py-0.5 rounded-full bg-teal-500/20 text-teal-300 text-[10px] font-bold border border-teal-500/30">
+                          13 FULL EPS
+                        </span>
+                      </h4>
+                      <p className="text-xs text-teal-200/90 truncate">
+                        Ayanokoji vs Sakayanagi in the Mixed Training Camp! Season 3 is complete in 1080p.
+                      </p>
+                    </div>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => handleEpisodeClick(26)}
+                    className="px-4 py-2 rounded-xl bg-gradient-to-r from-teal-400 to-emerald-400 hover:from-teal-300 hover:to-emerald-300 text-[#070b09] font-black text-xs transition-all shadow-lg flex items-center gap-2 hover:scale-105 active:scale-95 shrink-0"
+                  >
+                    <Play className="w-3.5 h-3.5 fill-current" />
+                    <span>Continue to Season 3 (Ep 26) ➔</span>
+                  </button>
+                </div>
+              )}
+
               {/* Episodes from Our Direct Streaming Service */}
               {ourEpisodes.length > 0 ? (
                 <div className="space-y-2 pt-1 border-t border-white/5">
-                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5 max-h-72 overflow-y-auto custom-scrollbar p-0.5">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5 max-h-80 overflow-y-auto custom-scrollbar p-0.5">
                     {filteredEpisodes.length === 0 ? (
                       <div className="col-span-full py-8 text-center text-gray-400 text-xs">
                         No episodes found matching "{episodeSearch}".
                         <button
-                          onClick={() => setEpisodeSearch('')}
+                          onClick={() => {
+                            setEpisodeSearch('');
+                            setSelectedSeason('all');
+                          }}
                           className="ml-2 text-amber-400 underline hover:text-amber-300"
                         >
-                          Clear search
+                          Clear search & filter
                         </button>
                       </div>
                     ) : (
                       filteredEpisodes.map((ep) => {
                         const epNum = ep.episodeNumber;
                         const isCurrent = selectedEpisode === epNum;
+                        const epBadgeLabel = ep.season
+                          ? (ep.season >= 4 ? `OVA ${ep.seasonEpisode || (epNum - 38)}` : `S${ep.season} E${ep.seasonEpisode || epNum}`)
+                          : `EP ${epNum}`;
+
                         return (
                           <div
                             key={epNum}
                             onClick={() => handleEpisodeClick(epNum)}
-                            className={`flex items-center gap-2.5 p-2.5 rounded-2xl border cursor-pointer transition-all duration-200 ${
+                            className={`flex items-center gap-3 p-2.5 rounded-2xl border cursor-pointer transition-all duration-200 group/card relative overflow-hidden ${
                               isCurrent
-                                ? 'bg-amber-500/20 border-amber-400/80 shadow-lg shadow-amber-900/30 ring-1 ring-amber-400'
-                                : 'bg-white/5 hover:bg-white/10 border-white/5 hover:border-white/20'
+                                ? 'bg-gradient-to-r from-amber-500/20 via-amber-900/20 to-black/60 border-amber-400/90 shadow-xl shadow-amber-950/40 ring-1 ring-amber-400'
+                                : 'bg-white/5 hover:bg-white/10 border-white/5 hover:border-amber-400/30'
                             }`}
                           >
+                            {/* Episode Tag / Season Badge */}
                             <div
-                              className={`w-14 h-11 rounded-xl flex items-center justify-center flex-shrink-0 text-xs font-black transition-all ${
+                              className={`w-16 h-12 rounded-xl flex flex-col items-center justify-center flex-shrink-0 text-xs font-black transition-all ${
                                 isCurrent
-                                  ? 'bg-amber-500 text-[#0a0f0c] shadow-md'
-                                  : 'bg-white/10 text-amber-200 border border-white/10'
+                                  ? 'bg-gradient-to-br from-amber-400 to-yellow-500 text-[#0a0f0c] shadow-md shadow-amber-500/40'
+                                  : 'bg-white/10 text-amber-200 border border-white/10 group-hover/card:border-amber-400/40'
                               }`}
                             >
-                              EP {epNum}
+                              <span className="text-[11px] leading-tight">{epBadgeLabel}</span>
+                              <span className="text-[9px] opacity-75 font-semibold">#{epNum}</span>
                             </div>
+
                             <div className="overflow-hidden min-w-0 flex-1">
-                              <p className="text-xs font-semibold text-gray-200 truncate" title={ep.title}>
-                                {ep.title}
-                              </p>
+                              <div className="flex items-center gap-1.5">
+                                <p className={`text-xs font-bold truncate ${isCurrent ? 'text-amber-300' : 'text-gray-200 group-hover/card:text-white'}`} title={ep.title}>
+                                  {ep.title}
+                                </p>
+                              </div>
+
                               <div className="flex items-center gap-2 mt-1">
                                 {isCurrent ? (
                                   <div className="flex items-center gap-1.5 text-[10px] text-amber-300 font-black">
@@ -639,12 +798,28 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
                                       <span className="w-0.5 bg-amber-400 rounded-full animate-equalizer-2" />
                                       <span className="w-0.5 bg-amber-400 rounded-full animate-equalizer-3" />
                                     </div>
-                                    <span>PLAYING</span>
+                                    <span>NOW PLAYING</span>
                                   </div>
                                 ) : (
-                                  <span className="text-[10px] text-gray-400 hover:text-amber-300 font-medium flex items-center gap-1">
+                                  <span className="text-[10px] text-gray-400 group-hover/card:text-amber-300 font-medium flex items-center gap-1">
                                     <Play className="w-2.5 h-2.5 fill-current" />
-                                    <span>Play Ep {epNum}</span>
+                                    <span>Play</span>
+                                  </span>
+                                )}
+
+                                {epNum === 12 && (
+                                  <span className="text-[9px] text-amber-300 font-black px-1.5 py-0.2 rounded bg-amber-400/20 border border-amber-400/40">
+                                    S1 FINALE
+                                  </span>
+                                )}
+                                {epNum === 25 && (
+                                  <span className="text-[9px] text-amber-300 font-black px-1.5 py-0.2 rounded bg-amber-400/20 border border-amber-400/40">
+                                    S2 FINALE
+                                  </span>
+                                )}
+                                {epNum === 38 && (
+                                  <span className="text-[9px] text-teal-300 font-black px-1.5 py-0.2 rounded bg-teal-400/20 border border-teal-400/40">
+                                    S3 FINALE
                                   </span>
                                 )}
 
@@ -659,7 +834,7 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
                                 ) : null}
 
                                 {ep.duration && (
-                                  <span className="text-[10px] text-amber-300/90 font-medium px-1.5 py-0.2 rounded bg-amber-400/10 border border-amber-400/20">
+                                  <span className="text-[10px] text-gray-400 font-medium px-1.5 py-0.2 rounded bg-white/5 border border-white/10">
                                     {ep.duration}
                                   </span>
                                 )}

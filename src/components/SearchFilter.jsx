@@ -69,7 +69,9 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
       list = list.filter((a) => {
         const eng = (a.title?.english || (typeof a.title === 'string' ? a.title : '') || '').toLowerCase();
         const rom = (a.title?.romaji || '').toLowerCase();
-        return eng.includes(q) || rom.includes(q);
+        const native = (a.title?.native || '').toLowerCase();
+        const aliases = Array.isArray(a.aliases) ? a.aliases.map((al) => al.toLowerCase()) : [];
+        return eng.includes(q) || rom.includes(q) || native.includes(q) || aliases.some((al) => al.includes(q));
       });
     }
 
