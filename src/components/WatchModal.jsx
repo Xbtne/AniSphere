@@ -50,6 +50,18 @@ const FALLBACK_QUALITY_ART = "data:image/svg+xml;charset=UTF-8," + encodeURIComp
   </svg>
 `);
 
+function formatTime(seconds) {
+  if (isNaN(seconds) || seconds < 0) return '00:00';
+  const mins = Math.floor(seconds / 60);
+  const secs = Math.floor(seconds % 60);
+  if (mins >= 60) {
+    const hrs = Math.floor(mins / 60);
+    const remMins = mins % 60;
+    return `${hrs}:${remMins < 10 ? '0' : ''}${remMins}:${secs < 10 ? '0' : ''}${secs}`;
+  }
+  return `${mins < 10 ? '0' : ''}${mins}:${secs < 10 ? '0' : ''}${secs}`;
+}
+
 export default function WatchModal({ anime, onClose, onSelectAnime }) {
   const [details, setDetails] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -62,6 +74,23 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
   const [episodeRange, setEpisodeRange] = useState(0);
   const [episodeSearch, setEpisodeSearch] = useState('');
 
+  const {
+    watchlist,
+    setAnimeStatus,
+    toggleFavorite,
+    isFavorite,
+    recordWatch,
+    getWatchProgress,
+    savePlaybackProgress,
+    isAgeConfirmed,
+    isMatureAnime,
+    getAnimeRating,
+    getAnimeWarnings,
+    reportContent
+  } = useWatchlist();
+
+  const savedProgress = anime?.id ? getWatchProgress(anime.id) : null;
+
   // Auto-sync episode range tab when selectedEpisode changes
   useEffect(() => {
     const calculatedRange = Math.floor((selectedEpisode - 1) / 25);
@@ -70,14 +99,16 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
     }
   }, [selectedEpisode]);
 
-  // Reset episode and search whenever a different anime is opened
+  // Resume saved episode or start from episode 1 whenever an anime is opened
   useEffect(() => {
-    setSelectedEpisode(1);
-    setEpisodeRange(0);
+    if (!anime?.id) return;
+    const progress = getWatchProgress(anime.id);
+    const initialEp = (progress && progress.episode) ? Number(progress.episode) : 1;
+    setSelectedEpisode(initialEp);
+    const calculatedRange = Math.floor((initialEp - 1) / 25);
+    setEpisodeRange(calculatedRange);
     setEpisodeSearch('');
   }, [anime?.id]);
-
-  const { watchlist, setAnimeStatus, toggleFavorite, isFavorite, recordWatch, isAgeConfirmed, isMatureAnime, getAnimeRating, getAnimeWarnings, reportContent } = useWatchlist();
 
   useEffect(() => {
     if (!anime) return;
@@ -94,8 +125,11 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
         console.error('Failed to fetch anime details:', err);
       });
 
-    // Record initial watch history
-    recordWatch(anime, 1);
+    // Only record default watch history if no previous progress exists
+    const progress = getWatchProgress(anime.id);
+    if (!progress) {
+      recordWatch(anime, 1);
+    }
 
     return () => {
       isCancelled = true;
@@ -414,6 +448,57 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
               </div>
             )}
 
+            {/* Pick Up Where You Left Off Progress Banner */}
+            {savedProgress && (savedProgress.currentTime > 5 || savedProgress.episode > 1) && (
+              <div className="flex items-center justify-between gap-3 p-3.5 rounded-2xl bg-gradient-to-r from-amber-500/15 via-[#1a1708] to-amber-500/10 border border-amber-500/30 text-xs shadow-lg animate-fade-in">
+                <div className="flex items-center gap-3 min-w-0">
+                  <div className="w-8 h-8 rounded-xl bg-amber-500/20 text-amber-300 border border-amber-500/40 flex items-center justify-center shrink-0">
+                    <Clock className="w-4 h-4 text-amber-300" />
+                  </div>
+                  <div className="min-w-0">
+                    <span className="font-bold text-white block truncate">
+                      Pick up where you left off: Episode {savedProgress.episode}
+                    </span>
+                    <span className="text-amber-300/90 text-[11px] font-medium flex items-center gap-1.5">
+                      <span>{savedProgress.currentTime > 0 ? `Stopped at ${formatTime(savedProgress.currentTime)}` : 'In progress'}</span>
+                      {savedProgress.percentage > 0 && <span>• {Math.round(savedProgress.percentage)}% watched</span>}
+                    </span>
+                  </div>
+                </div>
+
+                <div className="flex items-center gap-2 shrink-0">
+                  {selectedEpisode !== savedProgress.episode ? (
+                    <button
+                      type="button"
+                      onClick={() => setSelectedEpisode(savedProgress.episode)}
+                      className="px-3 py-1.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-[#070b09] font-black text-xs transition-all shadow-md flex items-center gap-1.5 hover:scale-105 active:scale-95"
+                    >
+                      <Play className="w-3 h-3 fill-current" />
+                      <span>Resume Ep {savedProgress.episode}</span>
+                    </button>
+                  ) : (
+                    <span className="px-2.5 py-1 rounded-xl bg-amber-500/20 border border-amber-500/40 text-amber-300 text-[11px] font-bold">
+                      Current Episode
+                    </span>
+                  )}
+                  {savedProgress.currentTime > 10 && (
+                    <button
+                      type="button"
+                      onClick={() => {
+                        savePlaybackProgress(anime, { episode: selectedEpisode, currentTime: 0, duration: savedProgress.duration });
+                        const v = document.querySelector('video');
+                        if (v) v.currentTime = 0;
+                      }}
+                      className="px-2.5 py-1.5 rounded-xl bg-white/5 hover:bg-white/10 text-gray-300 text-xs font-semibold transition-colors"
+                      title="Restart this episode from 00:00"
+                    >
+                      Restart
+                    </button>
+                  )}
+                </div>
+              </div>
+            )}
+
             {/* AniSphere Direct Streaming Engine Hub */}
             <div className="p-4 rounded-2xl bg-gradient-to-r from-amber-950/40 via-[#101512] to-teal-950/40 border border-amber-500/20 shadow-xl space-y-3">
               <div className="flex items-center justify-between flex-wrap gap-2">
@@ -563,6 +648,16 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
                                   </span>
                                 )}
 
+                                {savedProgress && savedProgress.episode === epNum && savedProgress.percentage > 0 ? (
+                                  <span className="text-[9px] text-amber-300 font-bold px-1.5 py-0.2 rounded bg-amber-400/15 border border-amber-400/30">
+                                    {Math.round(savedProgress.percentage)}%
+                                  </span>
+                                ) : savedProgress && epNum < savedProgress.episode ? (
+                                  <span className="text-[9px] text-emerald-400 font-bold flex items-center gap-0.5">
+                                    <Check className="w-2.5 h-2.5" /> Watched
+                                  </span>
+                                ) : null}
+
                                 {ep.duration && (
                                   <span className="text-[10px] text-amber-300/90 font-medium px-1.5 py-0.2 rounded bg-amber-400/10 border border-amber-400/20">
                                     {ep.duration}
@@ -574,6 +669,15 @@ export default function WatchModal({ anime, onClose, onSelectAnime }) {
                                   </span>
                                 )}
                               </div>
+
+                              {savedProgress && savedProgress.episode === epNum && savedProgress.percentage > 0 && (
+                                <div className="mt-2 w-full bg-white/10 h-1 rounded-full overflow-hidden">
+                                  <div
+                                    className="bg-gradient-to-r from-amber-400 to-yellow-400 h-full rounded-full transition-all"
+                                    style={{ width: `${savedProgress.percentage}%` }}
+                                  />
+                                </div>
+                              )}
                             </div>
                           </div>
                         );

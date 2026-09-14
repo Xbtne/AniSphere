@@ -82,7 +82,23 @@ export function loadUserHistory(uname) {
 export function loadUserProgress(uname) {
   try {
     const saved = localStorage.getItem(`anisphere_progress_${uname}`);
-    return saved ? JSON.parse(saved) : {};
+    if (!saved) return {};
+    const parsed = JSON.parse(saved);
+    const normalized = {};
+    for (const [id, val] of Object.entries(parsed)) {
+      if (typeof val === 'number') {
+        normalized[id] = { episode: val, currentTime: 0, duration: 0, percentage: 0, updatedAt: Date.now() };
+      } else if (val && typeof val === 'object') {
+        normalized[id] = {
+          episode: Number(val.episode) || 1,
+          currentTime: Number(val.currentTime) || 0,
+          duration: Number(val.duration) || 0,
+          percentage: Number(val.percentage) || (val.duration > 0 ? (val.currentTime / val.duration) * 100 : 0),
+          updatedAt: val.updatedAt || Date.now()
+        };
+      }
+    }
+    return normalized;
   } catch {
     return {};
   }
@@ -431,18 +447,59 @@ export function WatchlistProvider({ children }) {
     return watchlist[animeId]?.status || null;
   };
 
-  const recordWatch = (anime, episode = 1) => {
+  const getWatchProgress = (animeId) => {
+    if (!animeId) return null;
+    const p = watchProgress[animeId];
+    if (!p) return null;
+    if (typeof p === 'number') {
+      return { episode: p, currentTime: 0, duration: 0, percentage: 0 };
+    }
+    return p;
+  };
+
+  const savePlaybackProgress = (anime, { episode = 1, currentTime = 0, duration = 0 }) => {
+    if (!anime?.id) return;
     const fresh = syncWithCatalog(anime);
-    setHistory(prev => {
-      const filtered = prev.filter(item => item.anime.id !== fresh.id);
-      return [{ anime: fresh, episode, watchedAt: Date.now() }, ...filtered].slice(0, 20);
+    const validCurrentTime = Math.max(0, Number(currentTime) || 0);
+    const validDuration = Math.max(0, Number(duration) || 0);
+    const percentage = validDuration > 0
+      ? Math.min(100, Math.max(0, Math.round((validCurrentTime / validDuration) * 1000) / 10))
+      : 0;
+
+    const progressObj = {
+      episode: Number(episode) || 1,
+      currentTime: Math.round(validCurrentTime * 10) / 10,
+      duration: Math.round(validDuration * 10) / 10,
+      percentage,
+      updatedAt: Date.now()
+    };
+
+    setWatchProgress(prev => {
+      const updated = {
+        ...prev,
+        [fresh.id]: progressObj
+      };
+      try {
+        localStorage.setItem(`anisphere_progress_${username}`, JSON.stringify(updated));
+      } catch (e) {}
+      return updated;
     });
 
-    // Save watch progress
-    setWatchProgress(prev => ({
-      ...prev,
-      [fresh.id]: episode
-    }));
+    setHistory(prev => {
+      const filtered = prev.filter(item => item.anime.id !== fresh.id);
+      const updatedHistory = [{
+        anime: fresh,
+        episode: progressObj.episode,
+        currentTime: progressObj.currentTime,
+        duration: progressObj.duration,
+        percentage: progressObj.percentage,
+        watchedAt: Date.now()
+      }, ...filtered].slice(0, 25);
+      try {
+        localStorage.setItem(`anisphere_history_${username}`, JSON.stringify(updatedHistory));
+      } catch (e) {}
+      return updatedHistory;
+    });
 
     // Auto set to watching if not already set
     if (!watchlist[fresh.id]) {
@@ -450,15 +507,26 @@ export function WatchlistProvider({ children }) {
     }
   };
 
-  const getWatchProgress = (animeId) => {
-    return watchProgress[animeId] || 1;
+  const recordWatch = (anime, episode = 1, currentTime = 0, duration = 0) => {
+    savePlaybackProgress(anime, { episode, currentTime, duration });
   };
 
-  const updateWatchProgress = (animeId, episode) => {
-    setWatchProgress(prev => ({
-      ...prev,
-      [animeId]: episode
-    }));
+  const updateWatchProgress = (animeId, episode, currentTime = 0, duration = 0) => {
+    const catalogItem = OUR_ANIME_CATALOG.find(a => a.id === animeId);
+    if (catalogItem) {
+      savePlaybackProgress(catalogItem, { episode, currentTime, duration });
+    } else {
+      setWatchProgress(prev => ({
+        ...prev,
+        [animeId]: {
+          episode: Number(episode) || 1,
+          currentTime: Number(currentTime) || 0,
+          duration: Number(duration) || 0,
+          percentage: duration > 0 ? (currentTime / duration) * 100 : 0,
+          updatedAt: Date.now()
+        }
+      }));
+    }
   };
 
   return (
@@ -476,6 +544,7 @@ export function WatchlistProvider({ children }) {
         recordWatch,
         getWatchProgress,
         updateWatchProgress,
+        savePlaybackProgress,
         // Mature & Moderation Controls
         isAgeConfirmed,
         confirmAge,

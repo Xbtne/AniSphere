@@ -42,7 +42,7 @@ export default function VideoPlayer({
   onNextEpisode,
   onPrevEpisode,
 }) {
-  const { updateWatchProgress, getWatchProgress, recordWatch } = useWatchlist();
+  const { updateWatchProgress, getWatchProgress, recordWatch, savePlaybackProgress } = useWatchlist();
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
@@ -84,6 +84,8 @@ export default function VideoPlayer({
   const controlsTimeoutRef = useRef(null);
   const previousSeekRef = useRef(0);
   const previousEpRef = useRef(episode);
+  const targetTimeRef = useRef(0);
+  const lastSavedTimeRef = useRef(0);
   const progressSaveTimeoutRef = useRef(null);
   const bufferingTimerRef = useRef(null);
 
@@ -94,6 +96,8 @@ export default function VideoPlayer({
   recordWatchRef.current = recordWatch;
   const updateWatchProgressRef = useRef(updateWatchProgress);
   updateWatchProgressRef.current = updateWatchProgress;
+  const savePlaybackProgressRef = useRef(savePlaybackProgress);
+  savePlaybackProgressRef.current = savePlaybackProgress;
 
   const title = anime?.title?.english || anime?.title?.romaji || 'Anime';
 
@@ -174,9 +178,18 @@ export default function VideoPlayer({
     
     // Load saved progress for this anime (read through ref — never a dep)
     const savedProgress = getWatchProgressRef.current(anime?.id);
-    const targetTime = (isSameEp && previousSeekRef.current > 0) 
-      ? previousSeekRef.current 
-      : (savedProgress === episode ? 0 : 0);
+    let targetTime = 0;
+    if (isSameEp && previousSeekRef.current > 0) {
+      targetTime = previousSeekRef.current;
+    } else if (
+      savedProgress &&
+      Number(savedProgress.episode) === Number(episode) &&
+      savedProgress.currentTime > 5 &&
+      (!savedProgress.duration || savedProgress.currentTime < savedProgress.duration - 15)
+    ) {
+      targetTime = savedProgress.currentTime;
+    }
+    targetTimeRef.current = targetTime;
     
     previousEpRef.current = episode;
 
@@ -188,6 +201,8 @@ export default function VideoPlayer({
       if (targetTime > 0) {
         try {
           video.currentTime = targetTime;
+          setCurrentTime(targetTime);
+          showToast(`Resumed Ep ${episode} at ${formatTime(targetTime)}`);
         } catch (err) {}
       }
       setIsLoadingVideo(false);
@@ -291,22 +306,42 @@ export default function VideoPlayer({
     };
   }, [episode, videoSrc, anime?.id]);
 
-  // Save watch progress periodically during playback
+  // Save watch progress periodically during playback and whenever leaving the page
   useEffect(() => {
-    if (!isPlaying || !anime?.id) return;
+    if (!anime?.id) return;
 
-    const saveProgress = () => {
-      updateWatchProgressRef.current(anime.id, episode);
-      recordWatchRef.current(anime, episode);
+    const saveCurrentProgress = () => {
+      const video = videoRef.current;
+      if (!video) return;
+      const curTime = video.currentTime;
+      const dur = video.duration || 0;
+      if (curTime > 1) {
+        savePlaybackProgressRef.current?.(anime, {
+          episode,
+          currentTime: curTime,
+          duration: dur
+        });
+      }
     };
 
-    // Save progress every 10 seconds
-    const interval = setInterval(saveProgress, 10000);
+    // Save progress every 3.5 seconds while playing
+    let interval = null;
+    if (isPlaying) {
+      interval = setInterval(saveCurrentProgress, 3500);
+    }
 
-    // Also save on unmount
+    // Save on beforeunload and pagehide so exiting tab/browser persists progress immediately
+    const handleBeforeUnload = () => {
+      saveCurrentProgress();
+    };
+    window.addEventListener('beforeunload', handleBeforeUnload);
+    window.addEventListener('pagehide', handleBeforeUnload);
+
     return () => {
-      clearInterval(interval);
-      saveProgress();
+      if (interval) clearInterval(interval);
+      window.removeEventListener('beforeunload', handleBeforeUnload);
+      window.removeEventListener('pagehide', handleBeforeUnload);
+      saveCurrentProgress();
     };
   }, [isPlaying, episode, anime?.id]);
 
@@ -405,6 +440,16 @@ export default function VideoPlayer({
     setShowSkipIntro(isInIntroWindow);
     setCurrentTime(t);
     previousSeekRef.current = t;
+
+    // Save progress periodically as time updates
+    if (t > 2 && Math.abs(t - lastSavedTimeRef.current) >= 3.5) {
+      lastSavedTimeRef.current = t;
+      savePlaybackProgressRef.current?.(anime, {
+        episode,
+        currentTime: t,
+        duration: videoRef.current.duration || duration || 0
+      });
+    }
   };
 
   const handleSkipIntro = () => {
@@ -422,6 +467,13 @@ export default function VideoPlayer({
     setDuration(loadedDuration);
     setIntroSkipEndTime(loadedDuration > 0 ? Math.min(Math.max(90, loadedDuration * 0.12), loadedDuration - 10) : 90);
     setIsLoadingVideo(false);
+
+    if (targetTimeRef.current > 0 && Math.abs((videoRef.current.currentTime || 0) - targetTimeRef.current) > 2) {
+      try {
+        videoRef.current.currentTime = targetTimeRef.current;
+        setCurrentTime(targetTimeRef.current);
+      } catch (err) {}
+    }
   };
 
   const handleSeek = (e) => {
@@ -485,6 +537,13 @@ export default function VideoPlayer({
 
   const handleVideoEnded = () => {
     setIsPlaying(false);
+    if (anime?.id) {
+      savePlaybackProgressRef.current?.(anime, {
+        episode,
+        currentTime: duration || 1440,
+        duration: duration || 1440
+      });
+    }
     if (episode < totalEpisodes && onNextEpisode) {
       onNextEpisode();
     }

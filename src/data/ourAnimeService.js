@@ -454,7 +454,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "COMPLETE SERIES • 38 DUB EPS",
+    "badgeText": "COMPLETE SERIES • 42 DUB EPS & SPECIALS",
     "isStaffPick": true,
     "staffNotes": "Calculated psychological battles where everyone has a hidden agenda.",
     "isMature": false,
@@ -763,6 +763,38 @@ export const OUR_ANIME_CATALOG = [
       {
         "episodeNumber": 38,
         "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - OVA: Special Summer Vacation (Beach Episode)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - Season 2 Special: The White Room Prelude",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - Season 3 Special: Monologue of Ayanokoji",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - Season 4 / Year 2 Arc Announcement Special Preview",
         "duration": "24:00",
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",

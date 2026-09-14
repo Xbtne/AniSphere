@@ -25,7 +25,8 @@ export default function AnimeCard({ anime, onSelect, compact = false }) {
     isFavorite,
     isMatureAnime,
     getAnimeRating,
-    isStaffPick
+    isStaffPick,
+    getWatchProgress
   } = useWatchlist();
 
   if (!anime) return null;
@@ -34,6 +35,7 @@ export default function AnimeCard({ anime, onSelect, compact = false }) {
   const favorited = isFavorite(anime.id);
   const isMature = isMatureAnime(anime);
   const matureRating = getAnimeRating(anime);
+  const progress = anime.id ? getWatchProgress(anime.id) : null;
 
   const title = anime.title?.english || anime.title?.romaji || 'Unknown Anime';
   const cover = anime.coverImage?.large || anime.coverImage?.extraLarge;
@@ -106,15 +108,32 @@ export default function AnimeCard({ anime, onSelect, compact = false }) {
           </div>
 
           {/* Bottom Stream Badges */}
-          <div className="absolute inset-x-0 bottom-0 z-10 flex items-end justify-between gap-2 p-3">
-            <div className="rounded-lg bg-black/80 px-2.5 py-1 text-[10px] font-bold text-gray-200 ring-1 ring-white/15 backdrop-blur-md shadow-lg">
-              {anime.format === 'MOVIE' ? 'Feature Film' : `${epCount} Episodes`}
-            </div>
+          <div className="absolute inset-x-0 bottom-0 z-10 flex items-end justify-between gap-2 p-3 pb-2.5">
+            {progress && (progress.percentage > 0 || progress.episode > 1) ? (
+              <div className="rounded-lg bg-gradient-to-r from-amber-400 to-yellow-500 text-[#070b09] px-2.5 py-1 text-[10px] font-black ring-1 ring-amber-300 backdrop-blur-md shadow-md shadow-amber-500/30 flex items-center gap-1 animate-fade-in">
+                <Play className="w-2.5 h-2.5 fill-current" />
+                <span>Resume Ep {progress.episode}</span>
+              </div>
+            ) : (
+              <div className="rounded-lg bg-black/80 px-2.5 py-1 text-[10px] font-bold text-gray-200 ring-1 ring-white/15 backdrop-blur-md shadow-lg">
+                {anime.format === 'MOVIE' ? 'Feature Film' : `${epCount} Episodes`}
+              </div>
+            )}
 
             <div className="rounded-lg bg-emerald-500/30 border border-emerald-400/40 px-2 py-1 text-[9px] font-black uppercase tracking-wider text-emerald-300 backdrop-blur-md shadow-sm">
               100% DUB
             </div>
           </div>
+
+          {/* Progress Bar at very bottom of card image */}
+          {progress && progress.percentage > 0 && (
+            <div className="absolute inset-x-0 bottom-0 z-20 h-1 bg-black/60 overflow-hidden">
+              <div
+                className="h-full bg-gradient-to-r from-amber-400 to-yellow-400 shadow-sm shadow-amber-400 transition-all"
+                style={{ width: `${Math.min(100, Math.max(5, progress.percentage))}%` }}
+              />
+            </div>
+          )}
         </div>
 
         {/* Card Details Area */}
