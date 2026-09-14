@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 5034 verified English Dub streams across 120 complete anime!
+// Total: 5952 verified English Dub streams across 137 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -19969,19 +19969,15 @@ export const OUR_ANIME_CATALOG = [
   {
     "id": 59,
     "title": {
-      "english": "Chobits",
       "romaji": "Chobits",
+      "english": "Chobits",
       "native": "ちょびっツ"
     },
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx59-0J95ZHgt4uyP.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx59-0J95ZHgt4uyP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx59-0J95ZHgt4uyP.jpg",
-      "color": "#50a1e4"
-    },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n59-A3U3L90yUEWQ.jpg",
-    "description": "In the future, personal computers have developed into \"Persocoms\", mobile computers that look like human beings. Hideki Motosuwa, a prep school student, desperately wants to buy a Persocom but cannot afford to. One day he finds a Persocom that has been thrown away and decides to keep it. When he turns on the Persocom, all she can say is \"Chii\" so he decides to name her that. After a while it starts to become apparent that Chii is more than an average Persocom. Having much better performance, it seems that Chii might be a \"Chobit\", a type of advanced Persocom rumored to have independent thought.<br><br> (Source: Anime News Network)",
-    "averageScore": 71,
+    "description": "In the future, personal computers have developed into \"Persocoms\", mobile computers that look like human beings. Hideki Motosuwa, a prep school student, desperately wants to buy a Persocom but cannot afford to. One day he finds a Persocom that has been thrown away and decides to keep it. When he turns on the Persocom, all she can say is \"Chii\" so he decides to name her that. After a while it starts to become apparent that Chii is more than an average Persocom. Having much better performance, it seems that Chii might be a \"Chobit\", a type of advanced Persocom rumored to have independent thought.<br><br>\n(Source: Anime News Network)",
+    "episodesCount": 27,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SPRING",
     "seasonYear": 2002,
     "genres": [
       "Comedy",
@@ -19990,214 +19986,295 @@ export const OUR_ANIME_CATALOG = [
       "Romance",
       "Sci-Fi"
     ],
-    "format": "TV",
+    "averageScore": 71,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n59-A3U3L90yUEWQ.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx59-0J95ZHgt4uyP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx59-0J95ZHgt4uyP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx59-0J95ZHgt4uyP.jpg",
+      "color": "#50a1e4"
+    },
     "hasDub": true,
-    "badgeText": "FULL ENGLISH DUB • 25 DUB EPS • 1080P",
-    "isMature": false,
-    "contentRating": "TV-14",
-    "contentWarnings": [],
+    "hasSub": true,
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Episode 1 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.00B%20Chobits%20-%20Episode%201%20(DUB)%201920x1080%20-%20Chi%20Awakens.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.00B%20Chobits%20-%20Episode%201%20(DUB)%201920x1080%20-%20Chi%20Awakens.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.00B%20Chobits%20-%20Episode%201%20(DUB)%201920x1080%20-%20Chi%20Awakens.mp4"
+        "title": "Episode 1 - Chii Awakens",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/01%20-%20Chii%20Awakens.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/01%20-%20Chii%20Awakens.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/01%20-%20Chii%20Awakens.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 2,
-        "title": "Episode 2 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.10B%20Chobits%20-%20Episode%202%20(DUB)%201920x1080%20-%20Chi%20Goes%20Out.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.10B%20Chobits%20-%20Episode%202%20(DUB)%201920x1080%20-%20Chi%20Goes%20Out.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.10B%20Chobits%20-%20Episode%202%20(DUB)%201920x1080%20-%20Chi%20Goes%20Out.mp4"
+        "title": "Episode 2 - Chii goes out",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/02%20-%20Chii%20goes%20out.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/02%20-%20Chii%20goes%20out.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/02%20-%20Chii%20goes%20out.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 3,
-        "title": "Episode 3 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.20B%20Chobits%20-%20Episode%203%20(DUB)%201920x1080%20-%20Chi%20Learns.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.20B%20Chobits%20-%20Episode%203%20(DUB)%201920x1080%20-%20Chi%20Learns.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.20B%20Chobits%20-%20Episode%203%20(DUB)%201920x1080%20-%20Chi%20Learns.mp4"
+        "title": "Episode 3 - Chii Memorizes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/03%20-%20Chii%20Memorizes.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/03%20-%20Chii%20Memorizes.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/03%20-%20Chii%20Memorizes.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 4,
-        "title": "Episode 4 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.30B%20Chobits%20-%20Episode%204%20(DUB)%201920x1080%20-%20Chi%20Goes%20on%20Errands.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.30B%20Chobits%20-%20Episode%204%20(DUB)%201920x1080%20-%20Chi%20Goes%20on%20Errands.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.30B%20Chobits%20-%20Episode%204%20(DUB)%201920x1080%20-%20Chi%20Goes%20on%20Errands.mp4"
+        "title": "Episode 4 - Chii Goes Shopping",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/04%20-%20Chii%20Goes%20Shopping.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/04%20-%20Chii%20Goes%20Shopping.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/04%20-%20Chii%20Goes%20Shopping.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 5,
-        "title": "Episode 5 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.40B%20Chobits%20-%20Episode%205%20(DUB)%201920x1080%20-%20Chi%20Finds.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.40B%20Chobits%20-%20Episode%205%20(DUB)%201920x1080%20-%20Chi%20Finds.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.40B%20Chobits%20-%20Episode%205%20(DUB)%201920x1080%20-%20Chi%20Finds.mp4"
+        "title": "Episode 5 - Chii Discovers",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/05%20-%20Chii%20Discovers.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/05%20-%20Chii%20Discovers.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/05%20-%20Chii%20Discovers.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 6,
-        "title": "Episode 6 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.50B%20Chobits%20-%20Episode%206%20(DUB)%201920x1080%20-%20Chi%20Weakens.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.50B%20Chobits%20-%20Episode%206%20(DUB)%201920x1080%20-%20Chi%20Weakens.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.50B%20Chobits%20-%20Episode%206%20(DUB)%201920x1080%20-%20Chi%20Weakens.mp4"
+        "title": "Episode 6 - Chi is in Trouble",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/06%20-%20Chi%20is%20in%20Trouble.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/06%20-%20Chi%20is%20in%20Trouble.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/06%20-%20Chi%20is%20in%20Trouble.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 7,
-        "title": "Episode 7 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.60B%20Chobits%20-%20Episode%207%20(DUB)%201920x1080%20-%20Chi%20Works.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.60B%20Chobits%20-%20Episode%207%20(DUB)%201920x1080%20-%20Chi%20Works.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.60B%20Chobits%20-%20Episode%207%20(DUB)%201920x1080%20-%20Chi%20Works.mp4"
+        "title": "Episode 7 - Chii Works",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/07%20-%20Chii%20Works.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/07%20-%20Chii%20Works.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/07%20-%20Chii%20Works.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 8,
-        "title": "Episode 8 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.70B%20Chobits%20-%20Episode%208%20(DUB)%201920x1080%20-%20Chi%20Bewildered.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.70B%20Chobits%20-%20Episode%208%20(DUB)%201920x1080%20-%20Chi%20Bewildered.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.70B%20Chobits%20-%20Episode%208%20(DUB)%201920x1080%20-%20Chi%20Bewildered.mp4"
+        "title": "Episode 8 - Chii is Bewildered",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/08%20-%20Chii%20is%20Bewildered.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/08%20-%20Chii%20is%20Bewildered.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/08%20-%20Chii%20is%20Bewildered.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 9,
-        "title": "Episode 9 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.80B%20Chobits%20-%20Episode%209%20(DUB)%201920x1080%20-%20Chi%20Buys.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.80B%20Chobits%20-%20Episode%209%20(DUB)%201920x1080%20-%20Chi%20Buys.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.80B%20Chobits%20-%20Episode%209%20(DUB)%201920x1080%20-%20Chi%20Buys.mp4"
+        "title": "Episode 9 - Shinbo and Sumumo talk",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/09%20-%20Shinbo%20and%20Sumumo%20talk.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/09%20-%20Shinbo%20and%20Sumumo%20talk.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/09%20-%20Shinbo%20and%20Sumumo%20talk.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 10,
-        "title": "Episode 10 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/1.90B%20Chobits%20-%20Episode%2010%20(DUB)%201920x1080%20-%20Chi%20Meets.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/1.90B%20Chobits%20-%20Episode%2010%20(DUB)%201920x1080%20-%20Chi%20Meets.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/1.90B%20Chobits%20-%20Episode%2010%20(DUB)%201920x1080%20-%20Chi%20Meets.mp4"
+        "title": "Episode 10 - Chii Buys",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/10%20-%20Chii%20Buys.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/10%20-%20Chii%20Buys.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/10%20-%20Chii%20Buys.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 11,
-        "title": "Episode 11 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.00B%20Chobits%20-%20Episode%2011%20(DUB)%201920x1080%20-%20Chi%20Confirms.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.00B%20Chobits%20-%20Episode%2011%20(DUB)%201920x1080%20-%20Chi%20Confirms.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.00B%20Chobits%20-%20Episode%2011%20(DUB)%201920x1080%20-%20Chi%20Confirms.mp4"
+        "title": "Episode 11 - Chii Encounters",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/11%20-%20Chii%20Encounters.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/11%20-%20Chii%20Encounters.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/11%20-%20Chii%20Encounters.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 12,
-        "title": "Episode 12 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.10B%20Chobits%20-%20Episode%2012%20(DUB)%201920x1080%20-%20Chi%20Plays.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.10B%20Chobits%20-%20Episode%2012%20(DUB)%201920x1080%20-%20Chi%20Plays.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.10B%20Chobits%20-%20Episode%2012%20(DUB)%201920x1080%20-%20Chi%20Plays.mp4"
+        "title": "Episode 12 - Chii Tests",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/12%20-%20Chii%20Tests.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/12%20-%20Chii%20Tests.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/12%20-%20Chii%20Tests.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 13,
-        "title": "Episode 13 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.20B%20Chobits%20-%20Episode%2013%20(DUB)%201920x1080%20-%20Chi%20Goes%20to%20the%20Ocean.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.20B%20Chobits%20-%20Episode%2013%20(DUB)%201920x1080%20-%20Chi%20Goes%20to%20the%20Ocean.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.20B%20Chobits%20-%20Episode%2013%20(DUB)%201920x1080%20-%20Chi%20Goes%20to%20the%20Ocean.mp4"
+        "title": "Episode 13 - Chii Plays",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/13%20-%20Chii%20Plays.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/13%20-%20Chii%20Plays.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/13%20-%20Chii%20Plays.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 14,
-        "title": "Episode 14 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.30B%20Chobits%20-%20Episode%2014%20(DUB)%201920x1080%20-%20Chi%20Entertains.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.30B%20Chobits%20-%20Episode%2014%20(DUB)%201920x1080%20-%20Chi%20Entertains.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.30B%20Chobits%20-%20Episode%2014%20(DUB)%201920x1080%20-%20Chi%20Entertains.mp4"
+        "title": "Episode 14 - Chii Goes to the Ocean",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/14%20-%20Chii%20Goes%20to%20the%20Ocean.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/14%20-%20Chii%20Goes%20to%20the%20Ocean.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/14%20-%20Chii%20Goes%20to%20the%20Ocean.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 15,
-        "title": "Episode 15 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.40B%20Chobits%20-%20Episode%2015%20(DUB)%201920x1080%20-%20Chi%20Doesn't%20Do%20Anything.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.40B%20Chobits%20-%20Episode%2015%20(DUB)%201920x1080%20-%20Chi%20Doesn't%20Do%20Anything.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.40B%20Chobits%20-%20Episode%2015%20(DUB)%201920x1080%20-%20Chi%20Doesn't%20Do%20Anything.mp4"
+        "title": "Episode 15 - Chii Entertains Guests",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/15%20-%20Chii%20Entertains%20Guests.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/15%20-%20Chii%20Entertains%20Guests.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/15%20-%20Chii%20Entertains%20Guests.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 16,
-        "title": "Episode 16 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.50B%20Chobits%20-%20Episode%2016%20(DUB)%201920x1080%20-%20Chi%20Provides.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.50B%20Chobits%20-%20Episode%2016%20(DUB)%201920x1080%20-%20Chi%20Provides.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.50B%20Chobits%20-%20Episode%2016%20(DUB)%201920x1080%20-%20Chi%20Provides.mp4"
+        "title": "Episode 16 - Chii doesnt do Anything",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/16%20-%20Chii%20doesnt%20do%20Anything.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/16%20-%20Chii%20doesnt%20do%20Anything.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/16%20-%20Chii%20doesnt%20do%20Anything.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 17,
-        "title": "Episode 17 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.60B%20Chobits%20-%20Episode%2017%20(DUB)%201920x1080%20-%20Chi%20Helps.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.60B%20Chobits%20-%20Episode%2017%20(DUB)%201920x1080%20-%20Chi%20Helps.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.60B%20Chobits%20-%20Episode%2017%20(DUB)%201920x1080%20-%20Chi%20Helps.mp4"
+        "title": "Episode 17 - Chii Manages",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/17%20-%20Chii%20Manages.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/17%20-%20Chii%20Manages.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/17%20-%20Chii%20Manages.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 18,
-        "title": "Episode 18 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.70B%20Chobits%20-%20Episode%2018%20(DUB)%201920x1080%20-%20Chi%20Disappears.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.70B%20Chobits%20-%20Episode%2018%20(DUB)%201920x1080%20-%20Chi%20Disappears.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.70B%20Chobits%20-%20Episode%2018%20(DUB)%201920x1080%20-%20Chi%20Disappears.mp4"
+        "title": "Episode 18 - Minoru and Yuzuki talk",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/18%20-%20Minoru%20and%20Yuzuki%20talk.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/18%20-%20Minoru%20and%20Yuzuki%20talk.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/18%20-%20Minoru%20and%20Yuzuki%20talk.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 19,
-        "title": "Episode 19 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.80B%20Chobits%20-%20Episode%2019%20(DUB)%201920x1080%20-%20Chi%20Waits.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.80B%20Chobits%20-%20Episode%2019%20(DUB)%201920x1080%20-%20Chi%20Waits.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.80B%20Chobits%20-%20Episode%2019%20(DUB)%201920x1080%20-%20Chi%20Waits.mp4"
+        "title": "Episode 19 - Chii Helps Out",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/19%20-%20Chii%20Helps%20Out.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/19%20-%20Chii%20Helps%20Out.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/19%20-%20Chii%20Helps%20Out.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 20,
-        "title": "Episode 20 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/2.90B%20Chobits%20-%20Episode%2020%20(DUB)%201920x1080%20-%20Chi%20Wants.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/2.90B%20Chobits%20-%20Episode%2020%20(DUB)%201920x1080%20-%20Chi%20Wants.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/2.90B%20Chobits%20-%20Episode%2020%20(DUB)%201920x1080%20-%20Chi%20Wants.mp4"
+        "title": "Episode 20 - Chii is Gone",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/20%20-%20Chii%20is%20Gone.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/20%20-%20Chii%20is%20Gone.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/20%20-%20Chii%20is%20Gone.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 21,
-        "title": "Episode 21 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/3.00B%20Chobits%20-%20Episode%2021%20(DUB)%201920x1080%20-%20Chi%20Answers.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/3.00B%20Chobits%20-%20Episode%2021%20(DUB)%201920x1080%20-%20Chi%20Answers.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/3.00B%20Chobits%20-%20Episode%2021%20(DUB)%201920x1080%20-%20Chi%20Answers.mp4"
+        "title": "Episode 21 - Chii waits",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/21%20-%20Chii%20waits.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/21%20-%20Chii%20waits.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/21%20-%20Chii%20waits.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 22,
-        "title": "Episode 22 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/3.10B%20Chobits%20-%20Episode%2022%20(DUB)%201920x1080%20-%20Chi%20Wears%20and%20Takes%20Off.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/3.10B%20Chobits%20-%20Episode%2022%20(DUB)%201920x1080%20-%20Chi%20Wears%20and%20Takes%20Off.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/3.10B%20Chobits%20-%20Episode%2022%20(DUB)%201920x1080%20-%20Chi%20Wears%20and%20Takes%20Off.mp4"
+        "title": "Episode 22 - Chii Hopes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/22%20-%20Chii%20Hopes.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/22%20-%20Chii%20Hopes.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/22%20-%20Chii%20Hopes.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 23,
-        "title": "Episode 23 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/3.20B%20Chobits%20-%20Episode%2023%20(DUB)%201920x1080%20-%20Chi%20Decides.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/3.20B%20Chobits%20-%20Episode%2023%20(DUB)%201920x1080%20-%20Chi%20Decides.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/3.20B%20Chobits%20-%20Episode%2023%20(DUB)%201920x1080%20-%20Chi%20Decides.mp4"
+        "title": "Episode 23 - Chii Answers",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/23%20-%20Chii%20Answers.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/23%20-%20Chii%20Answers.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/23%20-%20Chii%20Answers.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 24,
-        "title": "Episode 24 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/3.30B%20Chobits%20(FINALE)%20-%20Episode%2024%20(DUB)%201920x1080%20-%20The%20Person%20Only%20for%20Chi.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/3.30B%20Chobits%20(FINALE)%20-%20Episode%2024%20(DUB)%201920x1080%20-%20The%20Person%20Only%20for%20Chi.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/3.30B%20Chobits%20(FINALE)%20-%20Episode%2024%20(DUB)%201920x1080%20-%20The%20Person%20Only%20for%20Chi.mp4"
+        "title": "Episode 24 - Chii Changes Clothes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/24%20-%20Chii%20Changes%20Clothes.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/24%20-%20Chii%20Changes%20Clothes.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/24%20-%20Chii%20Changes%20Clothes.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 25,
-        "title": "Episode 25 (English Dub)",
-        "duration": "23:30",
-        "videoUrl": "https://archive.org/download/chobits-full-series/3.40B%20Chobits%20(OVA)%20-%20Episode%2025%20(DUB)%201920x1080%20-%20Chibits%20Special%20Sumomo%20And%20Kotoko%20Deliver.mp4",
-        "dubUrl": "https://archive.org/download/chobits-full-series/3.40B%20Chobits%20(OVA)%20-%20Episode%2025%20(DUB)%201920x1080%20-%20Chibits%20Special%20Sumomo%20And%20Kotoko%20Deliver.mp4",
-        "subUrl": "https://archive.org/download/chobits-full-series/3.40B%20Chobits%20(OVA)%20-%20Episode%2025%20(DUB)%201920x1080%20-%20Chibits%20Special%20Sumomo%20And%20Kotoko%20Deliver.mp4"
+        "title": "Episode 25 - Chii Decides",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/25%20-%20Chii%20Decides.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/25%20-%20Chii%20Decides.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/25%20-%20Chii%20Decides.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - A Person only for Chii",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/26%20-%20A%20Person%20only%20for%20Chii.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/26%20-%20A%20Person%20only%20for%20Chii.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/26%20-%20A%20Person%20only%20for%20Chii.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - Hibiya and Kotoko Tell the Story",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Chobits/27%20-%20Hibiya%20and%20Kotoko%20Tell%20the%20Story.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Chobits/27%20-%20Hibiya%20and%20Kotoko%20Tell%20the%20Story.mp4",
+        "subUrl": "https://archive.org/download/fansub_Chobits/27%20-%20Hibiya%20and%20Kotoko%20Tell%20the%20Story.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
       }
-    ]
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Chobits complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 27 EPS",
+    "isStaffPick": false
   },
   {
     "id": 210,
@@ -27915,19 +27992,15 @@ export const OUR_ANIME_CATALOG = [
   {
     "id": 4224,
     "title": {
-      "english": "Toradora!",
       "romaji": "Toradora!",
+      "english": "Toradora!",
       "native": "とらドラ！"
     },
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4224-PXVMBLNwy2aF.jpg",
-      "color": "#e45d78"
-    },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4224-iPUOHdMde27j.jpg",
-    "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n\nToradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
-    "averageScore": 78,
+    "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n<br><br>\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n<br><br>\n<i>Toradora!</i> is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
+    "episodesCount": 26,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
     "seasonYear": 2008,
     "genres": [
       "Comedy",
@@ -27935,219 +28008,285 @@ export const OUR_ANIME_CATALOG = [
       "Romance",
       "Slice of Life"
     ],
-    "format": "TV",
+    "averageScore": 78,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4224-iPUOHdMde27j.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4224-PXVMBLNwy2aF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4224-PXVMBLNwy2aF.jpg",
+      "color": "#e45d78"
+    },
     "hasDub": true,
-    "badgeText": "25 DUB EPS • COMPLETE",
-    "isStaffPick": true,
-    "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
-    "isMature": false,
-    "contentRating": "TV-14",
-    "contentWarnings": [
-      "Fantasy Violence",
-      "Mild Language"
-    ],
+    "hasSub": true,
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "01 - s1e1 (English Dub)",
-        "duration": "25:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/01%20-%20s1e1.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/01%20-%20s1e1.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/01%20-%20s1e1.mp4"
+        "title": "Episode 1 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_01_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_01_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_01_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 2,
-        "title": "02 - s1e2 (English Dub)",
+        "title": "Episode 2 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/02%20-%20s1e2.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/02%20-%20s1e2.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/02%20-%20s1e2.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_02_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_02_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_02_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 3,
-        "title": "03 - s1e3 (English Dub)",
+        "title": "Episode 3 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/03%20-%20s1e3.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/03%20-%20s1e3.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/03%20-%20s1e3.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_03_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_03_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_03_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 4,
-        "title": "04 - s1e4 (English Dub)",
+        "title": "Episode 4 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/04%20-%20s1e4.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/04%20-%20s1e4.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/04%20-%20s1e4.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_04_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_04_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_04_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 5,
-        "title": "05 - s1e5 (English Dub)",
+        "title": "Episode 5 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/05%20-%20s1e5.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/05%20-%20s1e5.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/05%20-%20s1e5.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_05_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_05_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_05_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 6,
-        "title": "06 - s1e6 (English Dub)",
+        "title": "Episode 6 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/06%20-%20s1e6.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/06%20-%20s1e6.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/06%20-%20s1e6.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_06_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_06_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_06_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 7,
-        "title": "07 - s1e7 (English Dub)",
+        "title": "Episode 7 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/07%20-%20s1e7.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/07%20-%20s1e7.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/07%20-%20s1e7.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_07_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_07_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_07_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 8,
-        "title": "08 - s1e8 (English Dub)",
+        "title": "Episode 8 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/08%20-%20s1e8.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/08%20-%20s1e8.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/08%20-%20s1e8.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_08_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_08_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_08_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 9,
-        "title": "09 - s1e9 (English Dub)",
+        "title": "Episode 9 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/09%20-%20s1e9.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/09%20-%20s1e9.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/09%20-%20s1e9.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_09_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_09_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_09_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 10,
-        "title": "10 - s1e10 (English Dub)",
+        "title": "Episode 10 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/10%20-%20s1e10.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/10%20-%20s1e10.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/10%20-%20s1e10.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_10_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_10_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_10_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 11,
-        "title": "11 - s1e11 (English Dub)",
+        "title": "Episode 11 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/11%20-%20s1e11.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/11%20-%20s1e11.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/11%20-%20s1e11.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_11_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_11_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_11_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 12,
-        "title": "12 - s1e12 (English Dub)",
+        "title": "Episode 12 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/12%20-%20s1e12.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/12%20-%20s1e12.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/12%20-%20s1e12.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_12_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_12_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_12_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 13,
-        "title": "13 - s1e13 (English Dub)",
+        "title": "Episode 13 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/13%20-%20s1e13.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/13%20-%20s1e13.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/13%20-%20s1e13.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_13_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_13_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_13_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 14,
-        "title": "14 - s1e14 (English Dub)",
+        "title": "Episode 14 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/14%20-%20s1e14.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/14%20-%20s1e14.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/14%20-%20s1e14.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_14_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_14_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_14_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 15,
-        "title": "15 - s1e15 (English Dub)",
+        "title": "Episode 15 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/15%20-%20s1e15.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/15%20-%20s1e15.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/15%20-%20s1e15.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_15_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_15_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_15_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 16,
-        "title": "16 - s1e16 (English Dub)",
+        "title": "Episode 16 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/16%20-%20s1e16.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/16%20-%20s1e16.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/16%20-%20s1e16.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_16_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_16_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_16_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 17,
-        "title": "17 - s1e17 (English Dub)",
+        "title": "Episode 17 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/17%20-%20s1e17.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/17%20-%20s1e17.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/17%20-%20s1e17.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_17_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_17_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_17_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 18,
-        "title": "18 - s1e18 (English Dub)",
+        "title": "Episode 18 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/18%20-%20s1e18.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/18%20-%20s1e18.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/18%20-%20s1e18.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_18_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_18_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_18_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 19,
-        "title": "19 - s1e19 (English Dub)",
+        "title": "Episode 19 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/19%20-%20s1e19.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/19%20-%20s1e19.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/19%20-%20s1e19.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_19_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_19_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_19_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 20,
-        "title": "20 - s1e20 (English Dub)",
+        "title": "Episode 20 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/20%20-%20s1e20.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/20%20-%20s1e20.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/20%20-%20s1e20.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_20_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_20_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_20_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 21,
-        "title": "21 - s1e21 (English Dub)",
+        "title": "Episode 21 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/21%20-%20s1e21.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/21%20-%20s1e21.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/21%20-%20s1e21.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_21_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_21_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_21_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 22,
-        "title": "22 - s1e22 (English Dub)",
+        "title": "Episode 22 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/22%20-%20s1e22.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/22%20-%20s1e22.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/22%20-%20s1e22.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_22_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_22_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_22_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 23,
-        "title": "23 - s1e23 (English Dub)",
+        "title": "Episode 23 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/23%20-%20s1e23.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/23%20-%20s1e23.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/23%20-%20s1e23.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_23_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_23_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_23_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 24,
-        "title": "24 - s1e24 (English Dub)",
+        "title": "Episode 24 (English Dub & Sub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/24%20-%20s1e24.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/24%20-%20s1e24.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/24%20-%20s1e24.mp4"
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_24_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_24_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_24_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       },
       {
         "episodeNumber": 25,
-        "title": "25 - s1e25 (English Dub)",
-        "duration": "23:00",
-        "videoUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/25%20-%20s1e25.mp4",
-        "dubUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/25%20-%20s1e25.mp4",
-        "subUrl": "https://archive.org/download/21-s-1e-21/Toradora!/s1/25%20-%20s1e25.mp4"
+        "title": "Episode 25 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_25_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_25_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_25_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_26_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "dubUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_26_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "subUrl": "https://archive.org/download/toradora_202006/%5BCleo%5DToradora_-_26_(Dual%20Audio_10bit_BD720p_x265).mp4",
+        "quality": "720p BD",
+        "source": "AniSphere Direct"
       }
-    ]
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Toradora! complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 26 EPS",
+    "isStaffPick": false
   },
   {
     "id": 21131,
@@ -44425,5 +44564,9739 @@ export const OUR_ANIME_CATALOG = [
         "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2012.mp4"
       }
     ]
+  },
+  {
+    "id": 225,
+    "title": {
+      "romaji": "Dragon Ball GT",
+      "english": "Dragon Ball GT",
+      "native": "ドラゴンボールGT"
+    },
+    "description": "Emperor Pilaf finally has his hands on the Black Star Dragon Balls after years of searching, which are said to be twice as powerful as Earth's normal ones. Pilaf is about to make his wish for world domination when he is interrupted by Gokuu Son. As a result, Pilaf flubs his wish and accidentally turns Gokuu back into a child.<br>\n<br>\nAfter the wish is granted, the Black Star Dragon Balls scatter across the galaxy. However, Gokuu discovers that they will cause the Earth to explode unless they are all brought back within a year. Uniting with his granddaughter Pan and a young adult Trunks, Gokuu sets off on an adventure through the universe to find the Black Star Dragon Balls and save his planet from destruction.<br>\n<br>\n(Source: MAL Rewrite)",
+    "episodesCount": 64,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "WINTER",
+    "seasonYear": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "averageScore": 63,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/225-gMgT7ZPEFvQ7.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx225-pzkDUVy7tKxH.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx225-pzkDUVy7tKxH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx225-pzkDUVy7tKxH.png",
+      "color": "#e4ae50"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - A Devestating Wish",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E01%20A%20Devestating%20Wish.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E01%20A%20Devestating%20Wish.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E01%20A%20Devestating%20Wish.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - Pan Blasts Off",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E02%20Pan%20Blasts%20Off.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E02%20Pan%20Blasts%20Off.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E02%20Pan%20Blasts%20Off.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - Terror On Imecka",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E03%20Terror%20On%20Imecka.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E03%20Terror%20On%20Imecka.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E03%20Terror%20On%20Imecka.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - The Most Wanted List",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E04%20The%20Most%20Wanted%20List.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E04%20The%20Most%20Wanted%20List.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E04%20The%20Most%20Wanted%20List.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Goku Vs. Ledgic",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E05%20Goku%20Vs.%20Ledgic.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E05%20Goku%20Vs.%20Ledgic.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E05%20Goku%20Vs.%20Ledgic.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - Like Pulling Teeth",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E06%20Like%20Pulling%20Teeth.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E06%20Like%20Pulling%20Teeth.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E06%20Like%20Pulling%20Teeth.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Trunks The Bride",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E07%20Trunks%20The%20Bride.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E07%20Trunks%20The%20Bride.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E07%20Trunks%20The%20Bride.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Whisker Power",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E08%20Whisker%20Power.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E08%20Whisker%20Power.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E08%20Whisker%20Power.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Lord Luud",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E09%20Lord%20Luud.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E09%20Lord%20Luud.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E09%20Lord%20Luud.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Dance and Attack",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E10%20Dance%20and%20Attack.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E10%20Dance%20and%20Attack.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E10%20Dance%20and%20Attack.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Lord Luud s Curse",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E11%20Lord%20Luud%20s%20Curse.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E11%20Lord%20Luud%20s%20Curse.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E11%20Lord%20Luud%20s%20Curse.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - The Last Oracle Of Luud",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E12%20The%20Last%20Oracle%20Of%20Luud.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E12%20The%20Last%20Oracle%20Of%20Luud.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E12%20The%20Last%20Oracle%20Of%20Luud.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - The Man Behind The Curtain",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E13%20The%20Man%20Behind%20The%20Curtain.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E13%20The%20Man%20Behind%20The%20Curtain.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E13%20The%20Man%20Behind%20The%20Curtain.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - The Battle Within",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E14%20The%20Battle%20Within.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E14%20The%20Battle%20Within.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E14%20The%20Battle%20Within.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - Beginning Of The End",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E15%20Beginning%20Of%20The%20End.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E15%20Beginning%20Of%20The%20End.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E15%20Beginning%20Of%20The%20End.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - Giru s Checkered Past",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E16%20Giru%20s%20Checkered%20Past.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E16%20Giru%20s%20Checkered%20Past.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E16%20Giru%20s%20Checkered%20Past.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Pan s Gambit",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E17%20Pan%20s%20Gambit.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E17%20Pan%20s%20Gambit.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E17%20Pan%20s%20Gambit.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - Unexpected Power",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E18%20Unexpected%20Power.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E18%20Unexpected%20Power.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E18%20Unexpected%20Power.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - A General Uprising",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E19%20A%20General%20Uprising.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E19%20A%20General%20Uprising.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E19%20A%20General%20Uprising.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - The Source Of Rilldo s Power",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E20%20The%20Source%20Of%20Rilldo%20s%20Power.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E20%20The%20Source%20Of%20Rilldo%20s%20Power.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E20%20The%20Source%20Of%20Rilldo%20s%20Power.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - A Secret Revealed",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E21%20A%20Secret%20Revealed.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E21%20A%20Secret%20Revealed.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E21%20A%20Secret%20Revealed.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - The Baby Secret",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E22%20The%20Baby%20Secret.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E22%20The%20Baby%20Secret.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E22%20The%20Baby%20Secret.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Hidden Danger",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E23%20Hidden%20Danger.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E23%20Hidden%20Danger.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E23%20Hidden%20Danger.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - Discovering The Truth",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E24%20Discovering%20The%20Truth.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E24%20Discovering%20The%20Truth.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E24%20Discovering%20The%20Truth.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - Baby s Arrival",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E25%20Baby%20s%20Arrival.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E25%20Baby%20s%20Arrival.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E25%20Baby%20s%20Arrival.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - Saiyan Hunting",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E26%20Saiyan%20Hunting.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E26%20Saiyan%20Hunting.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E26%20Saiyan%20Hunting.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - The Attack On Vegeta",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E27%20The%20Attack%20On%20Vegeta.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E27%20The%20Attack%20On%20Vegeta.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E27%20The%20Attack%20On%20Vegeta.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - A Worldwide Problem",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E28%20A%20Worldwide%20Problem.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E28%20A%20Worldwide%20Problem.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E28%20A%20Worldwide%20Problem.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - The Fall Of The Saiyans",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E29%20The%20Fall%20Of%20The%20Saiyans.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E29%20The%20Fall%20Of%20The%20Saiyans.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E29%20The%20Fall%20Of%20The%20Saiyans.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - The Game After Life",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E30%20The%20Game%20After%20Life.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E30%20The%20Game%20After%20Life.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E30%20The%20Game%20After%20Life.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Collapse From Within",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E31%20Collapse%20From%20Within.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E31%20Collapse%20From%20Within.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E31%20Collapse%20From%20Within.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - The Return Of Uub",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E32%20The%20Return%20Of%20Uub.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E32%20The%20Return%20Of%20Uub.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E32%20The%20Return%20Of%20Uub.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - The Tail s Tale",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E33%20The%20Tail%20s%20Tale.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E33%20The%20Tail%20s%20Tale.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E33%20The%20Tail%20s%20Tale.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - Back In The Game",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E34%20Back%20In%20The%20Game.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E34%20Back%20In%20The%20Game.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E34%20Back%20In%20The%20Game.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - Goku s Ascension",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E35%20Goku%20s%20Ascension.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E35%20Goku%20s%20Ascension.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E35%20Goku%20s%20Ascension.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - The Tuffle Gorilla Attacks",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E36%20The%20Tuffle%20Gorilla%20Attacks.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E36%20The%20Tuffle%20Gorilla%20Attacks.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E36%20The%20Tuffle%20Gorilla%20Attacks.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - Old Kai s Last Stand",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E37%20Old%20Kai%20s%20Last%20Stand.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E37%20Old%20Kai%20s%20Last%20Stand.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E37%20Old%20Kai%20s%20Last%20Stand.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - Family Bonds",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E38%20Family%20Bonds.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E38%20Family%20Bonds.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E38%20Family%20Bonds.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - Baby Put To Rest",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E39%20Baby%20Put%20To%20Rest.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E39%20Baby%20Put%20To%20Rest.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E39%20Baby%20Put%20To%20Rest.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - Piccolo s Decision",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E40%20Piccolo%20s%20Decision.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E40%20Piccolo%20s%20Decision.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E40%20Piccolo%20s%20Decision.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - Curtain Call",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E41%20Curtain%20Call.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E41%20Curtain%20Call.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E41%20Curtain%20Call.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - A Dangerous Union",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E42%20A%20Dangerous%20Union.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E42%20A%20Dangerous%20Union.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E42%20A%20Dangerous%20Union.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 - The Resurrection of Cell and Frieza",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E43%20The%20Resurrection%20of%20Cell%20and%20Frieza.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E43%20The%20Resurrection%20of%20Cell%20and%20Frieza.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E43%20The%20Resurrection%20of%20Cell%20and%20Frieza.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 - 17 Times 2",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E44%2017%20Times%202.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E44%2017%20Times%202.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E44%2017%20Times%202.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 - Piccolo s Best Bet",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E45%20Piccolo%20s%20Best%20Bet.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E45%20Piccolo%20s%20Best%20Bet.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E45%20Piccolo%20s%20Best%20Bet.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 - Raising the Stakes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E46%20Raising%20the%20Stakes.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E46%20Raising%20the%20Stakes.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E46%20Raising%20the%20Stakes.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - The Greatest Surprise",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E47%20The%20Greatest%20Surprise.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E47%20The%20Greatest%20Surprise.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E47%20The%20Greatest%20Surprise.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 - The Shadow Dragons",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E48%20The%20Shadow%20Dragons.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E48%20The%20Shadow%20Dragons.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E48%20The%20Shadow%20Dragons.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 - The Two-Star Dragon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E49%20The%20Two-Star%20Dragon.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E49%20The%20Two-Star%20Dragon.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E49%20The%20Two-Star%20Dragon.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 - The Five-Star Dragon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E50%20The%20Five-Star%20Dragon.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E50%20The%20Five-Star%20Dragon.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E50%20The%20Five-Star%20Dragon.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 - The Six-Star Dragon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E51%20The%20Six-Star%20Dragon.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E51%20The%20Six-Star%20Dragon.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E51%20The%20Six-Star%20Dragon.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 - The Seven-Star Dragon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E52%20The%20Seven-Star%20Dragon.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E52%20The%20Seven-Star%20Dragon.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E52%20The%20Seven-Star%20Dragon.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 - Saying Goodbye",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E53%20Saying%20Goodbye.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E53%20Saying%20Goodbye.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E53%20Saying%20Goodbye.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 - The Four-Star Dragon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E54%20The%20Four-Star%20Dragon.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E54%20The%20Four-Star%20Dragon.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E54%20The%20Four-Star%20Dragon.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 - The Heart of the Prince",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E55%20The%20Heart%20of%20the%20Prince.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E55%20The%20Heart%20of%20the%20Prince.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E55%20The%20Heart%20of%20the%20Prince.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 - The Three-Star Dragon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E56%20The%20Three-Star%20Dragon.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E56%20The%20Three-Star%20Dragon.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E56%20The%20Three-Star%20Dragon.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 - The One-Star Dragon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E57%20The%20One-Star%20Dragon.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E57%20The%20One-Star%20Dragon.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E57%20The%20One-Star%20Dragon.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 - Shadow Dragons Unite",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E58%20Shadow%20Dragons%20Unite.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E58%20Shadow%20Dragons%20Unite.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E58%20Shadow%20Dragons%20Unite.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 - Super Saiyan 4 Vegeta",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E59%20Super%20Saiyan%204%20Vegeta.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E59%20Super%20Saiyan%204%20Vegeta.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E59%20Super%20Saiyan%204%20Vegeta.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 - Super Saiyan 4 Fusion Within",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E60%20Super%20Saiyan%204%20Fusion%20Within.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E60%20Super%20Saiyan%204%20Fusion%20Within.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E60%20Super%20Saiyan%204%20Fusion%20Within.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 - The Limits of Power",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E61%20The%20Limits%20of%20Power.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E61%20The%20Limits%20of%20Power.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E61%20The%20Limits%20of%20Power.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 - Rescue Goku",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E62%20Rescue%20Goku.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E62%20Rescue%20Goku.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E62%20Rescue%20Goku.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 - Universal Allies",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E63%20Universal%20Allies.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E63%20Universal%20Allies.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E63%20Universal%20Allies.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 - Until We Meet Again",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E64%20Until%20We%20Meet%20Again.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E64%20Until%20We%20Meet%20Again.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-gt-remastered-1080p-hd-tri-audio-with-subs-2023/S01E64%20Until%20We%20Meet%20Again.mp4",
+        "quality": "1080p HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Dragon Ball GT complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 64 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 114811,
+    "title": {
+      "romaji": "Digimon Adventure:",
+      "english": "Digimon Adventure:",
+      "native": "デジモンアドベンチャー:"
+    },
+    "description": "It's the year 2020. The Network has become something humans can no longer do without in their daily lives. But what humans don't know is that on the other side of the Network is the Digital World, a realm of light and darkness. Nor are they aware of the Digimon who live there.<br>\n<br>\nWidespread Network difficulties arise, centered around the Tokyo area. Traffic signals blink chaotically, public outdoor TVs display garbled text, and so on. The news reports it as a case of cyberterrorism.<br>\n<br>\nFifth grader Taichi Yagami stayed home by himself to get ready for a weekend summer camp, but his mother and little sister Hikari went to Shibuya, and now they're aboard a runaway train. Taichi Hurries to Shibuya to save his mother and sister, but the instant he heads toward the station platform... a strange phenomenon befalls the DigiDestined, and Taichi goes to the Digital World! The DigiDestined meet their partner Digimon, and they're faced with an adventure into the unknown...!<br>\n<br>\n(Source: FUJI TELEVISION NETWORK, INC.)",
+    "episodesCount": 67,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SPRING",
+    "seasonYear": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageScore": 63,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114811-0vsPGTLAOKPu.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114811-SLZ6cMMhx6Im.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114811-SLZ6cMMhx6Im.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114811-SLZ6cMMhx6Im.jpg",
+      "color": "#a1f150"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - TOKYO DIGITAL CRISIS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E01_(Dub)%20%20TOKYO%20DIGITAL%20CRISIS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E01_(Dub)%20%20TOKYO%20DIGITAL%20CRISIS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E01_(Dub)%20%20TOKYO%20DIGITAL%20CRISIS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - WAR GAME",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E02_(Dub)%20WAR%20GAME.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E02_(Dub)%20WAR%20GAME.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E02_(Dub)%20WAR%20GAME.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - AND TO THE DIGITAL WORLD",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E03_(Dub)%20AND%20TO%20THE%20DIGITAL%20WORLD.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E03_(Dub)%20AND%20TO%20THE%20DIGITAL%20WORLD.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E03_(Dub)%20AND%20TO%20THE%20DIGITAL%20WORLD.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - BIRDRAMON SOARS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E04_(Dub)%20BIRDRAMON%20SOARS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E04_(Dub)%20BIRDRAMON%20SOARS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E04_(Dub)%20BIRDRAMON%20SOARS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - THE HOLY DIGIMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E05_(Dub)%20THE%20HOLY%20DIGIMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E05_(Dub)%20THE%20HOLY%20DIGIMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E05_(Dub)%20THE%20HOLY%20DIGIMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - THE TARGETED KINGDOM",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E06_(Dub)%20THE%20TARGETED%20KINGDOM.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E06_(Dub)%20THE%20TARGETED%20KINGDOM.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E06_(Dub)%20THE%20TARGETED%20KINGDOM.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - THAT BOY IS JOE KIDO",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E07_(Dub)%20THAT%20BOY%20IS%20JOE%20KIDO.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E07_(Dub)%20THAT%20BOY%20IS%20JOE%20KIDO.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E07_(Dub)%20THAT%20BOY%20IS%20JOE%20KIDO.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - THE CHILDREN'S ATTACK ON THE FORTRESS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E08_(Dub)%20THE%20CHILDREN'S%20ATTACK%20ON%20THE%20FORTRESS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E08_(Dub)%20THE%20CHILDREN'S%20ATTACK%20ON%20THE%20FORTRESS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E08_(Dub)%20THE%20CHILDREN'S%20ATTACK%20ON%20THE%20FORTRESS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - THE ULTIMATE DIGIMON ATTACKS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E09_(Dub)%20THE%20ULTIMATE%20DIGIMON%20ATTACKS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E09_(Dub)%20THE%20ULTIMATE%20DIGIMON%20ATTACKS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E09_(Dub)%20THE%20ULTIMATE%20DIGIMON%20ATTACKS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - THE STEEL-SOLID SUPER EVOLUTION",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E10_(Dub)%20THE%20STEEL-SOLID%20SUPER%20EVOLUTION.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E10_(Dub)%20THE%20STEEL-SOLID%20SUPER%20EVOLUTION.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E10_(Dub)%20THE%20STEEL-SOLID%20SUPER%20EVOLUTION.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - THE WOLF STANDING ATOP THE DESERT",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E11_(Dub)%20THE%20WOLF%20STANDING%20ATOP%20THE%20DESERT.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E11_(Dub)%20THE%20WOLF%20STANDING%20ATOP%20THE%20DESERT.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E11_(Dub)%20THE%20WOLF%20STANDING%20ATOP%20THE%20DESERT.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - LILIMON BLOOMS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E12_(Dub)%20LILIMON%20BLOOMS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E12_(Dub)%20LILIMON%20BLOOMS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E12_(Dub)%20LILIMON%20BLOOMS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - GARUDAMON OF THE CRIMSON WINGS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E13_(Dub)%20GARUDAMON%20OF%20THE%20CRIMSON%20WINGS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E13_(Dub)%20GARUDAMON%20OF%20THE%20CRIMSON%20WINGS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E13_(Dub)%20GARUDAMON%20OF%20THE%20CRIMSON%20WINGS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - THE KINGS OF THE INSECTS CLASH",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E14_(Dub)%20THE%20KINGS%20OF%20THE%20INSECTS%20CLASH.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E14_(Dub)%20THE%20KINGS%20OF%20THE%20INSECTS%20CLASH.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E14_(Dub)%20THE%20KINGS%20OF%20THE%20INSECTS%20CLASH.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - ZUDOMON'S IRON HAMMER OF LIGHTNING",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E15_(Dub)%20ZUDOMON'S%20IRON%20HAMMER%20OF%20LIGHTNING.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E15_(Dub)%20ZUDOMON'S%20IRON%20HAMMER%20OF%20LIGHTNING.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E15_(Dub)%20ZUDOMON'S%20IRON%20HAMMER%20OF%20LIGHTNING.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - THE JET-BLACK SHADOW INVADES TOKYO",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E16_(Dub)%20THE%20JET-BLACK%20SHADOW%20INVADES%20TOKYO.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E16_(Dub)%20THE%20JET-BLACK%20SHADOW%20INVADES%20TOKYO.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E16_(Dub)%20THE%20JET-BLACK%20SHADOW%20INVADES%20TOKYO.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - THE BATTLE IN TOKYO AGAINST OROCHIMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E17_(Dub)%20THE%20BATTLE%20IN%20TOKYO%20AGAINST%20OROCHIMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E17_(Dub)%20THE%20BATTLE%20IN%20TOKYO%20AGAINST%20OROCHIMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E17_(Dub)%20THE%20BATTLE%20IN%20TOKYO%20AGAINST%20OROCHIMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - COUNTDOWN TO TOKYO'S ANNIHILATION",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E18_(Dub)%20COUNTDOWN%20TO%20TOKYO'S%20ANNIHILATION.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E18_(Dub)%20COUNTDOWN%20TO%20TOKYO'S%20ANNIHILATION.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E18_(Dub)%20COUNTDOWN%20TO%20TOKYO'S%20ANNIHILATION.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - HOWL, JYUOKEN",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E19_(Dub)%20HOWL%2C%20JYUOKEN.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E19_(Dub)%20HOWL%2C%20JYUOKEN.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E19_(Dub)%20HOWL%2C%20JYUOKEN.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - THE SEVENTH ONE AWAKENS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E20_(Dub)%20THE%20SEVENTH%20ONE%20AWAKENS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E20_(Dub)%20THE%20SEVENTH%20ONE%20AWAKENS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E20_(Dub)%20THE%20SEVENTH%20ONE%20AWAKENS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - THE TIDE-TURNING UPDATE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E21_(Dub)%20THE%20TIDE-TURNING%20UPDATE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E21_(Dub)%20THE%20TIDE-TURNING%20UPDATE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E21_(Dub)%20THE%20TIDE-TURNING%20UPDATE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - THE UNBEATABLE BLUE SAGITTARIUS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E22_(Dub)%20THE%20UNBEATABLE%20BLUE%20SAGITTARIUS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E22_(Dub)%20THE%20UNBEATABLE%20BLUE%20SAGITTARIUS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E22_(Dub)%20THE%20UNBEATABLE%20BLUE%20SAGITTARIUS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - THE MESSENGER OF DARKNESS, DEVIMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E23_(Dub)%20THE%20MESSENGER%20OF%20DARKNESS%2C%20DEVIMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E23_(Dub)%20THE%20MESSENGER%20OF%20DARKNESS%2C%20DEVIMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E23_(Dub)%20THE%20MESSENGER%20OF%20DARKNESS%2C%20DEVIMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - THE FINAL STAGE, DONEDEVIMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E24_(Dub)%20THE%20FINAL%20STAGE%2C%20DONEDEVIMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E24_(Dub)%20THE%20FINAL%20STAGE%2C%20DONEDEVIMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E24_(Dub)%20THE%20FINAL%20STAGE%2C%20DONEDEVIMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - DIVE TO THE NEXT OCEAN",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E25_(Dub)%20DIVE%20TO%20THE%20NEXT%20OCEAN.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E25_(Dub)%20DIVE%20TO%20THE%20NEXT%20OCEAN.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E25_(Dub)%20DIVE%20TO%20THE%20NEXT%20OCEAN.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - BREAK THROUGH THE SEA MONSTER BARRICADE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E26_(Dub)%20BREAK%20THROUGH%20THE%20SEA%20MONSTER%20BARRICADE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E26_(Dub)%20BREAK%20THROUGH%20THE%20SEA%20MONSTER%20BARRICADE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E26_(Dub)%20BREAK%20THROUGH%20THE%20SEA%20MONSTER%20BARRICADE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - TO THE NEW CONTINENT",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E27_(Dub)%20TO%20THE%20NEW%20CONTINENT.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E27_(Dub)%20TO%20THE%20NEW%20CONTINENT.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E27_(Dub)%20TO%20THE%20NEW%20CONTINENT.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - THE CHILDREN'S FIGHT FOR SURVIVAL",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E28_(Dub)%20THE%20CHILDREN'S%20FIGHT%20FOR%20SURVIVAL.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E28_(Dub)%20THE%20CHILDREN'S%20FIGHT%20FOR%20SURVIVAL.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E28_(Dub)%20THE%20CHILDREN'S%20FIGHT%20FOR%20SURVIVAL.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - ESCAPE THE BURNING JUNGLE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E29_(Dub)%20ESCAPE%20THE%20BURNING%20JUNGLE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E29_(Dub)%20ESCAPE%20THE%20BURNING%20JUNGLE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E29_(Dub)%20ESCAPE%20THE%20BURNING%20JUNGLE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - THE MEGA DIGIMON, WARGREYMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E30_(Dub)%20THE%20MEGA%20DIGIMON%2C%20WARGREYMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E30_(Dub)%20THE%20MEGA%20DIGIMON%2C%20WARGREYMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E30_(Dub)%20THE%20MEGA%20DIGIMON%2C%20WARGREYMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - A NEW DARKNESS, MILLENNIUMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E31_(Dub)%20A%20NEW%20DARKNESS%2C%20MILLENNIUMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E31_(Dub)%20A%20NEW%20DARKNESS%2C%20MILLENNIUMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E31_(Dub)%20A%20NEW%20DARKNESS%2C%20MILLENNIUMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - SOARING HOPE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E32_(Dub)%20SOARING%20HOPE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E32_(Dub)%20SOARING%20HOPE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E32_(Dub)%20SOARING%20HOPE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - THE KARI OF DAWN",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E33_(Dub)%20THE%20KARI%20OF%20DAWN.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E33_(Dub)%20THE%20KARI%20OF%20DAWN.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E33_(Dub)%20THE%20KARI%20OF%20DAWN.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - KARI AND TAILMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E34_(Dub)%20KARI%20AND%20TAILMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E34_(Dub)%20KARI%20AND%20TAILMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E34_(Dub)%20KARI%20AND%20TAILMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - THE GLOWING ANGEWOMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E35_(Dub)%20THE%20GLOWING%20ANGEWOMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E35_(Dub)%20THE%20GLOWING%20ANGEWOMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E35_(Dub)%20THE%20GLOWING%20ANGEWOMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - OPERATION SATELLITE SNIPER",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E36_(Dub)%20OPERATION%20SATELLITE%20SNIPER.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E36_(Dub)%20OPERATION%20SATELLITE%20SNIPER.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E36_(Dub)%20OPERATION%20SATELLITE%20SNIPER.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - MIMI WARS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E37_(Dub)%20MIMI%20WARS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E37_(Dub)%20MIMI%20WARS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E37_(Dub)%20MIMI%20WARS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - THE BLAZING BLUE FRIENDSHIP",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E38_(Dub)%20THE%20BLAZING%20BLUE%20FRIENDSHIP.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E38_(Dub)%20THE%20BLAZING%20BLUE%20FRIENDSHIP.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E38_(Dub)%20THE%20BLAZING%20BLUE%20FRIENDSHIP.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - JYAGAMON, POTATO HELL",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E39_(Dub)%20JYAGAMON%2C%20POTATO%20HELL.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E39_(Dub)%20JYAGAMON%2C%20POTATO%20HELL.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E39_(Dub)%20JYAGAMON%2C%20POTATO%20HELL.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - STRIKE! THE KILLER SHOT",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E40_(Dub)%20STRIKE!%20THE%20KILLER%20SHOT.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E40_(Dub)%20STRIKE!%20THE%20KILLER%20SHOT.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E40_(Dub)%20STRIKE!%20THE%20KILLER%20SHOT.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - MON-MON PARK IN THE FOG",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E41_(Dub)%20MON-MON%20PARK%20IN%20THE%20FOG.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E41_(Dub)%20MON-MON%20PARK%20IN%20THE%20FOG.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E41_(Dub)%20MON-MON%20PARK%20IN%20THE%20FOG.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - KING OF INVENTORS, GERBEMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E42_(Dub)%20KING%20OF%20INVENTORS%2C%20GERBEMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E42_(Dub)%20KING%20OF%20INVENTORS%2C%20GERBEMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E42_(Dub)%20KING%20OF%20INVENTORS%2C%20GERBEMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 - CLASH, THE KING OF DIGIMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E43_(Dub)%20CLASH%2C%20THE%20KING%20OF%20DIGIMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E43_(Dub)%20CLASH%2C%20THE%20KING%20OF%20DIGIMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E43_(Dub)%20CLASH%2C%20THE%20KING%20OF%20DIGIMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 - KARI AND THE MOVING FOREST",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E44_(Dub)%20KARI%20AND%20THE%20MOVING%20FOREST.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E44_(Dub)%20KARI%20AND%20THE%20MOVING%20FOREST.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E44_(Dub)%20KARI%20AND%20THE%20MOVING%20FOREST.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 - ACTIVATE, METALGARURUMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E45_(Dub)%20ACTIVATE%2C%20METALGARURUMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E45_(Dub)%20ACTIVATE%2C%20METALGARURUMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E45_(Dub)%20ACTIVATE%2C%20METALGARURUMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 - THE SWORD OF HOPE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E46_(Dub)%20THE%20SWORD%20OF%20HOPE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E46_(Dub)%20THE%20SWORD%20OF%20HOPE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E46_(Dub)%20THE%20SWORD%20OF%20HOPE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - THE VILLAINS OF THE WASTELANDS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E47_(Dub)%20THE%20VILLAINS%20OF%20THE%20WASTELANDS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E47_(Dub)%20THE%20VILLAINS%20OF%20THE%20WASTELANDS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E47_(Dub)%20THE%20VILLAINS%20OF%20THE%20WASTELANDS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 - THE ATTACK OF MUGENDRAMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E48_(Dub)%20THE%20ATTACK%20OF%20MUGENDRAMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E48_(Dub)%20THE%20ATTACK%20OF%20MUGENDRAMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E48_(Dub)%20THE%20ATTACK%20OF%20MUGENDRAMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 - THE GOD OF EVIL DESCENDS, MILLENNIUMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E49_(Dub)%20THE%20GOD%20OF%20EVIL%20DESCENDS%2C%20MILLENNIUMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E49_(Dub)%20THE%20GOD%20OF%20EVIL%20DESCENDS%2C%20MILLENNIUMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E49_(Dub)%20THE%20GOD%20OF%20EVIL%20DESCENDS%2C%20MILLENNIUMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 - THE END, THE ULTIMATE HOLY BATTLE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E50_(Dub)%20%20THE%20END%2C%20THE%20ULTIMATE%20HOLY%20BATTLE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E50_(Dub)%20%20THE%20END%2C%20THE%20ULTIMATE%20HOLY%20BATTLE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E50_(Dub)%20%20THE%20END%2C%20THE%20ULTIMATE%20HOLY%20BATTLE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 - THE MYSTERY HIDDEN WITHIN THE CRESTS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E51_(Dub)%20THE%20MYSTERY%20HIDDEN%20WITHIN%20THE%20CRESTS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E51_(Dub)%20THE%20MYSTERY%20HIDDEN%20WITHIN%20THE%20CRESTS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E51_(Dub)%20THE%20MYSTERY%20HIDDEN%20WITHIN%20THE%20CRESTS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 - DANCE OF THE HEAVENS, HOUOUMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E52_(Dub)%20DANCE%20OF%20THE%20HEAVENS%2C%20HOUOUMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E52_(Dub)%20DANCE%20OF%20THE%20HEAVENS%2C%20HOUOUMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E52_(Dub)%20DANCE%20OF%20THE%20HEAVENS%2C%20HOUOUMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 - THE GEKO HOT SPRINGS' REVOLT",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E53_(Dub)%20THE%20GEKO%20HOT%20SPRINGS'%20REVOLT.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E53_(Dub)%20THE%20GEKO%20HOT%20SPRINGS'%20REVOLT.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E53_(Dub)%20THE%20GEKO%20HOT%20SPRINGS'%20REVOLT.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 - THE VAGRANT WAR DEMON, REBELLIMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E54_(Dub)%20THE%20VAGRANT%20WAR%20DEMON%2C%20REBELLIMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E54_(Dub)%20THE%20VAGRANT%20WAR%20DEMON%2C%20REBELLIMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E54_(Dub)%20THE%20VAGRANT%20WAR%20DEMON%2C%20REBELLIMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 - _THE DIGIMON SCHOOL UNDER ATTACK _",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E55_(Dub)%20_THE%20DIGIMON%20SCHOOL%20UNDER%20ATTACK%20_.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E55_(Dub)%20_THE%20DIGIMON%20SCHOOL%20UNDER%20ATTACK%20_.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E55_(Dub)%20_THE%20DIGIMON%20SCHOOL%20UNDER%20ATTACK%20_.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 - THE GOLD WOLF OF THE CRESCENT MOON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E56_(Dub)%20THE%20GOLD%20WOLF%20OF%20THE%20CRESCENT%20MOON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E56_(Dub)%20THE%20GOLD%20WOLF%20OF%20THE%20CRESCENT%20MOON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E56_(Dub)%20THE%20GOLD%20WOLF%20OF%20THE%20CRESCENT%20MOON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 - CONTACT FROM THE CATASTROPHE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E57_(Dub)%20CONTACT%20FROM%20THE%20CATASTROPHE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E57_(Dub)%20CONTACT%20FROM%20THE%20CATASTROPHE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E57_(Dub)%20CONTACT%20FROM%20THE%20CATASTROPHE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 - HIKARI, NEW LIFE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E58_(Dub)%20HIKARI%2C%20NEW%20LIFE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E58_(Dub)%20HIKARI%2C%20NEW%20LIFE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E58_(Dub)%20HIKARI%2C%20NEW%20LIFE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 - BOLT, HERAKLEKABUTERIMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E59_(Dub)%20BOLT%2C%20HERAKLEKABUTERIMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E59_(Dub)%20BOLT%2C%20HERAKLEKABUTERIMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E59_(Dub)%20BOLT%2C%20HERAKLEKABUTERIMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 - VIKEMON VENTURES THE GLACIERS",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E60_(Dub)%20%20VIKEMON%20VENTURES%20THE%20GLACIERS.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E60_(Dub)%20%20VIKEMON%20VENTURES%20THE%20GLACIERS.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E60_(Dub)%20%20VIKEMON%20VENTURES%20THE%20GLACIERS.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 - A PLACE TO RETURN TO",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E61_(Dub)%20%20A%20PLACE%20TO%20RETURN%20TO.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E61_(Dub)%20%20A%20PLACE%20TO%20RETURN%20TO.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E61_(Dub)%20%20A%20PLACE%20TO%20RETURN%20TO.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 - THE TEARS OF SHAKKOUMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E62_(Dub)%20THE%20TEARS%20OF%20SHAKKOUMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E62_(Dub)%20THE%20TEARS%20OF%20SHAKKOUMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E62_(Dub)%20THE%20TEARS%20OF%20SHAKKOUMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 - THE CREST OF COURAGE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E63_(Dub)%20THE%20CREST%20OF%20COURAGE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E63_(Dub)%20THE%20CREST%20OF%20COURAGE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E63_(Dub)%20THE%20CREST%20OF%20COURAGE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 - THE ANGELS' DETERMINATION",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E64_(Dub)%20THE%20ANGELS'%20DETERMINATION.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E64_(Dub)%20THE%20ANGELS'%20DETERMINATION.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E64_(Dub)%20THE%20ANGELS'%20DETERMINATION.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 - THE GREAT CATASTROPHE, NEGAMON",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E65_(Dub)%20THE%20GREAT%20CATASTROPHE%2C%20NEGAMON.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E65_(Dub)%20THE%20GREAT%20CATASTROPHE%2C%20NEGAMON.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E65_(Dub)%20THE%20GREAT%20CATASTROPHE%2C%20NEGAMON.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 - THE LAST MIRACLE, THE LAST POWER",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E66_(Dub)%20THE%20LAST%20MIRACLE%2C%20THE%20LAST%20POWER.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E66_(Dub)%20THE%20LAST%20MIRACLE%2C%20THE%20LAST%20POWER.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E66_(Dub)%20THE%20LAST%20MIRACLE%2C%20THE%20LAST%20POWER.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 - THE END OF THE ADVENTURE",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E67_(Dub)%20THE%20END%20OF%20THE%20ADVENTURE.mp4",
+        "dubUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E67_(Dub)%20THE%20END%20OF%20THE%20ADVENTURE.mp4",
+        "subUrl": "https://archive.org/download/digimon-adventure-2020-english-dub-studiopolis-toei-animation/Digimon%20Adventure__S01E67_(Dub)%20THE%20END%20OF%20THE%20ADVENTURE.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Digimon Adventure: complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 67 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 859,
+    "title": {
+      "romaji": "Digimon Savers",
+      "english": "Digimon Data Squad",
+      "native": "デジモンセイバーズ"
+    },
+    "description": "Masaru, a second year Junior High student and undefeated street-fighter, is about to learn the meaning of the word \"teamwork.\" After Agumon escapes DATS, an organization that deals with Digimon, it winds up in a fight with Masaru. Soon Yoshino and Lalamon come to capture Agumon, and the two fighters escape. After an evil Digimon appears, it's up to Masaru and Agumon to defeat it with their DNA Charge.<br><br>\nSoon, Masaru must join DATS to put an end to the Digimon coming to Earth. With the help of Yoshino, Ikuto, and Touma, the group must stop any evil Digimon that appear, and return them to the Digital World.<br><br>\nBut not everything goes as planned...",
+    "episodesCount": 48,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SPRING",
+    "seasonYear": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageScore": 67,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/859-sPI113vmBXur.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/859-bjjZXdawvrJW.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/859-bjjZXdawvrJW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/859-bjjZXdawvrJW.jpg",
+      "color": "#e4a135"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - There are Monsters Among Us!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/01%20-%20There%20are%20Monsters%20Among%20Us!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/01%20-%20There%20are%20Monsters%20Among%20Us!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/01%20-%20There%20are%20Monsters%20Among%20Us!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - Marcus' Inner Strength!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/02%20-%20Marcus'%20Inner%20Strength!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/02%20-%20Marcus'%20Inner%20Strength!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/02%20-%20Marcus'%20Inner%20Strength!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - The Return of Thomas!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/03%20-%20The%20Return%20of%20Thomas!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/03%20-%20The%20Return%20of%20Thomas!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/03%20-%20The%20Return%20of%20Thomas!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - The New Team of Markus and Thomas!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/04%20-%20The%20New%20Team%20of%20Markus%20and%20Thomas!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/04%20-%20The%20New%20Team%20of%20Markus%20and%20Thomas!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/04%20-%20The%20New%20Team%20of%20Markus%20and%20Thomas!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Digital World, Here We Come!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/05%20-%20Digital%20World%2C%20Here%20We%20Come!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/05%20-%20Digital%20World%2C%20Here%20We%20Come!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/05%20-%20Digital%20World%2C%20Here%20We%20Come!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - The Ultimate Team No More",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/06%20-%20The%20Ultimate%20Team%20No%20More.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/06%20-%20The%20Ultimate%20Team%20No%20More.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/06%20-%20The%20Ultimate%20Team%20No%20More.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - A Birthday Kristy Will Never Forget!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/07%20-%20A%20Birthday%20Kristy%20Will%20Never%20Forget!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/07%20-%20A%20Birthday%20Kristy%20Will%20Never%20Forget!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/07%20-%20A%20Birthday%20Kristy%20Will%20Never%20Forget!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - The Singer's Secret",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/08%20-%20The%20Singer's%20Secret.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/08%20-%20The%20Singer's%20Secret.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/08%20-%20The%20Singer's%20Secret.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Never Meet Your Heroes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/09%20-%20Never%20Meet%20Your%20Heroes.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/09%20-%20Never%20Meet%20Your%20Heroes.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/09%20-%20Never%20Meet%20Your%20Heroes.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Curse This Curse - Markus' Bad Day",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/10%20-%20Curse%20This%20Curse%20-%20Markus'%20Bad%20Day.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/10%20-%20Curse%20This%20Curse%20-%20Markus'%20Bad%20Day.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/10%20-%20Curse%20This%20Curse%20-%20Markus'%20Bad%20Day.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - The Vile of Vilemon!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/11%20-%20The%20Vile%20of%20Vilemon!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/11%20-%20The%20Vile%20of%20Vilemon!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/11%20-%20The%20Vile%20of%20Vilemon!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - The Digi - Egg That Fell to Earth",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/12%20-%20The%20Digi-Egg%20That%20Fell%20to%20Earth.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/12%20-%20The%20Digi-Egg%20That%20Fell%20to%20Earth.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/12%20-%20The%20Digi-Egg%20That%20Fell%20to%20Earth.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - The Rise of RizeGreymon!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/13%20-%20The%20Rise%20of%20RizeGreymon!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/13%20-%20The%20Rise%20of%20RizeGreymon!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/13%20-%20The%20Rise%20of%20RizeGreymon!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - The Wild Boy of the Digital World",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/14%20-%20The%20Wild%20Boy%20of%20the%20Digital%20World.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/14%20-%20The%20Wild%20Boy%20of%20the%20Digital%20World.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/14%20-%20The%20Wild%20Boy%20of%20the%20Digital%20World.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - The Gorge of Deception!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/15%20-%20The%20Gorge%20of%20Deception!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/15%20-%20The%20Gorge%20of%20Deception!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/15%20-%20The%20Gorge%20of%20Deception!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - Falcomon - Friend or Foe",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/16%20-%20Falcomon%20-%20Friend%20or%20Foe.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/16%20-%20Falcomon%20-%20Friend%20or%20Foe.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/16%20-%20Falcomon%20-%20Friend%20or%20Foe.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Yoshi's Biggest Battle - The One with Herself",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/17%20-%20Yoshi's%20Biggest%20Battle%20-%20The%20One%20with%20Herself.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/17%20-%20Yoshi's%20Biggest%20Battle%20-%20The%20One%20with%20Herself.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/17%20-%20Yoshi's%20Biggest%20Battle%20-%20The%20One%20with%20Herself.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - The Clash With Merukimon!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/18%20-%20The%20Clash%20With%20Merukimon!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/18%20-%20The%20Clash%20With%20Merukimon!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/18%20-%20The%20Clash%20With%20Merukimon!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - The Truth About Keenan",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/19%20-%20The%20Truth%20About%20Keenan.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/19%20-%20The%20Truth%20About%20Keenan.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/19%20-%20The%20Truth%20About%20Keenan.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - The Crier Family Reunion",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/20%20-%20The%20Crier%20Family%20Reunion.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/20%20-%20The%20Crier%20Family%20Reunion.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/20%20-%20The%20Crier%20Family%20Reunion.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - The Digimon Army Makes Its Move",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/21%20-%20The%20Digimon%20Army%20Makes%20Its%20Move.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/21%20-%20The%20Digimon%20Army%20Makes%20Its%20Move.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/21%20-%20The%20Digimon%20Army%20Makes%20Its%20Move.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - The Wrath of SaberLeomon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/22%20-%20The%20Wrath%20of%20SaberLeomon.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/22%20-%20The%20Wrath%20of%20SaberLeomon.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/22%20-%20The%20Wrath%20of%20SaberLeomon.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - One More Digital Dive!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/23%20-%20One%20More%20Digital%20Dive!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/23%20-%20One%20More%20Digital%20Dive!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/23%20-%20One%20More%20Digital%20Dive!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - The Past Revealed",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/24%20-%20The%20Past%20Revealed.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/24%20-%20The%20Past%20Revealed.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/24%20-%20The%20Past%20Revealed.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - Kurata's Revenge!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/25%20-%20Kurata's%20Revenge!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/25%20-%20Kurata's%20Revenge!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/25%20-%20Kurata's%20Revenge!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - Memory is the First Thing to Go!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/26%20-%20Memory%20is%20the%20First%20Thing%20to%20Go!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/26%20-%20Memory%20is%20the%20First%20Thing%20to%20Go!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/26%20-%20Memory%20is%20the%20First%20Thing%20to%20Go!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - The Beginning of the End",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/27%20-%20The%20Beginning%20of%20the%20End.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/27%20-%20The%20Beginning%20of%20the%20End.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/27%20-%20The%20Beginning%20of%20the%20End.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - Digivice Meltdown",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/28%20-%20Digivice%20Meltdown.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/28%20-%20Digivice%20Meltdown.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/28%20-%20Digivice%20Meltdown.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - How To Fix A Broken Digivice",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/29%20-%20How%20To%20Fix%20A%20Broken%20Digivice.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/29%20-%20How%20To%20Fix%20A%20Broken%20Digivice.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/29%20-%20How%20To%20Fix%20A%20Broken%20Digivice.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - Journey To The Sacred City",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/30%20-%20Journey%20To%20The%20Sacred%20City.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/30%20-%20Journey%20To%20The%20Sacred%20City.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/30%20-%20Journey%20To%20The%20Sacred%20City.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Showdown Beetween Geniuses - Thomas vs. Nanami!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/31%20-%20Showdown%20Beetween%20Geniuses%20-%20Thomas%20vs.%20Nanami!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/31%20-%20Showdown%20Beetween%20Geniuses%20-%20Thomas%20vs.%20Nanami!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/31%20-%20Showdown%20Beetween%20Geniuses%20-%20Thomas%20vs.%20Nanami!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - The Sacred City's Last Stand!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/32%20-%20The%20Sacred%20City's%20Last%20Stand!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/32%20-%20The%20Sacred%20City's%20Last%20Stand!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/32%20-%20The%20Sacred%20City's%20Last%20Stand!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - The Final Bio - Hybird Battle",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/33%20-%20The%20Final%20Bio-Hybird%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/33%20-%20The%20Final%20Bio-Hybird%20Battle.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/33%20-%20The%20Final%20Bio-Hybird%20Battle.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - The Norstein Family Secret",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/34%20-%20The%20Norstein%20Family%20Secret.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/34%20-%20The%20Norstein%20Family%20Secret.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/34%20-%20The%20Norstein%20Family%20Secret.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - Kurata's Real Plan",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/35%20-%20Kurata's%20Real%20Plan.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/35%20-%20Kurata's%20Real%20Plan.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/35%20-%20Kurata's%20Real%20Plan.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - Awaken Belphemon!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/36%20-%20Awaken%20Belphemon!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/36%20-%20Awaken%20Belphemon!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/36%20-%20Awaken%20Belphemon!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - The Battle With Belphemon!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/37%20-%20The%20Battle%20With%20Belphemon!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/37%20-%20The%20Battle%20With%20Belphemon!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/37%20-%20The%20Battle%20With%20Belphemon!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - The Power of The Burst Mode!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/38%20-%20The%20Power%20of%20The%20Burst%20Mode!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/38%20-%20The%20Power%20of%20The%20Burst%20Mode!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/38%20-%20The%20Power%20of%20The%20Burst%20Mode!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - King Drasil's Fatal Decision!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/39%20-%20King%20Drasil's%20Fatal%20Decision!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/39%20-%20King%20Drasil's%20Fatal%20Decision!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/39%20-%20King%20Drasil's%20Fatal%20Decision!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - The Royal Knights Assemble",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/40%20-%20The%20Royal%20Knights%20Assemble.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/40%20-%20The%20Royal%20Knights%20Assemble.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/40%20-%20The%20Royal%20Knights%20Assemble.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - Father and Son Destiny",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/41%20-%20Father%20and%20Son%20Destiny.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/41%20-%20Father%20and%20Son%20Destiny.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/41%20-%20Father%20and%20Son%20Destiny.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - Thomas Bursts On The Scene!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/42%20-%20Thomas%20Bursts%20On%20The%20Scene!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/42%20-%20Thomas%20Bursts%20On%20The%20Scene!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/42%20-%20Thomas%20Bursts%20On%20The%20Scene!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 - Justice Equals Power!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/43%20-%20Justice%20Equals%20Power!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/43%20-%20Justice%20Equals%20Power!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/43%20-%20Justice%20Equals%20Power!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 - Human Potential!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/44%20-%20Human%20Potential!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/44%20-%20Human%20Potential!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/44%20-%20Human%20Potential!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 - A Family Quarrel",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/45%20-%20A%20Family%20Quarrel.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/45%20-%20A%20Family%20Quarrel.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/45%20-%20A%20Family%20Quarrel.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 - The Truth About BanchoLeomon!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/46%20-%20The%20Truth%20About%20BanchoLeomon!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/46%20-%20The%20Truth%20About%20BanchoLeomon!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/46%20-%20The%20Truth%20About%20BanchoLeomon!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - The Data Squad's Final Battle!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/47%20-%20The%20Data%20Squad's%20Final%20Battle!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/47%20-%20The%20Data%20Squad's%20Final%20Battle!.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/47%20-%20The%20Data%20Squad's%20Final%20Battle!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 - The Ultimate Farewell",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/48%20-%20The%20Ultimate%20Farewell.mp4",
+        "dubUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/48%20-%20The%20Ultimate%20Farewell.mp4",
+        "subUrl": "https://archive.org/download/digimon-data-squad-the-complete-series/Digimon%20Data%20Squad%20-%20The%20Complete%20Series/48%20-%20The%20Ultimate%20Farewell.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Digimon Data Squad complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 48 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 8624,
+    "title": {
+      "romaji": "Digimon Xros Wars",
+      "english": "Digimon Fusion",
+      "native": "デジモンクロスウォーズ"
+    },
+    "description": "Taiki Kudou, an upbeat seventh-grade boy who always helps people in need, encounters a Digimon named Shoutmon, who brings him and his friends to the Digital World. With his friends Akari Hinomoto and Zenjirou Tsurugi, they form Team Xros Heart to compete against rival teams battling for supremacy, with their ultimate goal of taking down the evil Bagura Empire, who plans to conquer the Digital World.\n<br><br>\n(Source: Anime News Network)",
+    "episodesCount": 54,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SUMMER",
+    "seasonYear": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageScore": 64,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8624-D6AC2IKEvlQ1.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8624.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8624.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8624.jpg",
+      "color": "#aee443"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - Mikey Goes to Another World!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2001%20-%20Mikey%20Goes%20to%20Another%20World!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2001%20-%20Mikey%20Goes%20to%20Another%20World!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2001%20-%20Mikey%20Goes%20to%20Another%20World!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - He is Shoutmon, Hear Him Roar!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2002%20-%20He%20is%20Shoutmon%2C%20Hear%20Him%20Roar!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2002%20-%20He%20is%20Shoutmon%2C%20Hear%20Him%20Roar!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2002%20-%20He%20is%20Shoutmon%2C%20Hear%20Him%20Roar!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - A Rival Appears",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2003%20-%20A%20Rival%20Appears.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2003%20-%20A%20Rival%20Appears.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2003%20-%20A%20Rival%20Appears.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - Island Zone in Chaos!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2004%20-%20Island%20Zone%20in%20Chaos!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2004%20-%20Island%20Zone%20in%20Chaos!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2004%20-%20Island%20Zone%20in%20Chaos!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Thanks for the DigiCards!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2005%20-%20Thanks%20for%20the%20DigiCards!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2005%20-%20Thanks%20for%20the%20DigiCards!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2005%20-%20Thanks%20for%20the%20DigiCards!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - Crisis or Conquest",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2006%20-%20Crisis%20or%20Conquest.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2006%20-%20Crisis%20or%20Conquest.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2006%20-%20Crisis%20or%20Conquest.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Danger Erupts!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2007%20-%20Danger%20Erupts!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2007%20-%20Danger%20Erupts!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2007%20-%20Danger%20Erupts!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Meltdown in the Magma Zone!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2008%20-%20Meltdown%20in%20the%20Magma%20Zone!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2008%20-%20Meltdown%20in%20the%20Magma%20Zone!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2008%20-%20Meltdown%20in%20the%20Magma%20Zone!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Dorulumon's True Colors!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2009%20-%20Dorulumon's%20True%20Colors!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2009%20-%20Dorulumon's%20True%20Colors!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2009%20-%20Dorulumon's%20True%20Colors!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - The Rival Champions!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2010%20-%20The%20Rival%20Champions!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2010%20-%20The%20Rival%20Champions!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2010%20-%20The%20Rival%20Champions!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Ice to See You, Angie!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2011%20-%20Ice%20to%20See%20You%2C%20Angie!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2011%20-%20Ice%20to%20See%20You%2C%20Angie!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2011%20-%20Ice%20to%20See%20You%2C%20Angie!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Treasure, Traps and Trouble - Oh My!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2012%20-%20Treasure%2C%20Traps%20and%20Trouble%20-%20Oh%20My!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2012%20-%20Treasure%2C%20Traps%20and%20Trouble%20-%20Oh%20My!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2012%20-%20Treasure%2C%20Traps%20and%20Trouble%20-%20Oh%20My!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - Mikey, Warrior of the Light!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2013%20-%20Mikey%2C%20Warrior%20of%20the%20Light!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2013%20-%20Mikey%2C%20Warrior%20of%20the%20Light!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2013%20-%20Mikey%2C%20Warrior%20of%20the%20Light!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - Showdown in the Sand Zone",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2014%20-%20Showdown%20in%20the%20Sand%20Zone.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2014%20-%20Showdown%20in%20the%20Sand%20Zone.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2014%20-%20Showdown%20in%20the%20Sand%20Zone.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - Trouble in Paradise",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2015%20-%20Trouble%20in%20Paradise.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2015%20-%20Trouble%20in%20Paradise.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2015%20-%20Trouble%20in%20Paradise.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - A Dark Cloud Over the Sky Zone",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2016%20-%20A%20Dark%20Cloud%20Over%20the%20Sky%20Zone.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2016%20-%20A%20Dark%20Cloud%20Over%20the%20Sky%20Zone.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2016%20-%20A%20Dark%20Cloud%20Over%20the%20Sky%20Zone.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Clash in the Clouds",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2017%20-%20Clash%20in%20the%20Clouds.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2017%20-%20Clash%20in%20the%20Clouds.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2017%20-%20Clash%20in%20the%20Clouds.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - Welcome to the Jungle Zone",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2018%20-%20Welcome%20to%20the%20Jungle%20Zone.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2018%20-%20Welcome%20to%20the%20Jungle%20Zone.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2018%20-%20Welcome%20to%20the%20Jungle%20Zone.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - Rumble in the Jungle Zone!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2019%20-%20Rumble%20in%20the%20Jungle%20Zone!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2019%20-%20Rumble%20in%20the%20Jungle%20Zone!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2019%20-%20Rumble%20in%20the%20Jungle%20Zone!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - Train of Terror!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2020%20-%20Train%20of%20Terror!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2020%20-%20Train%20of%20Terror!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2020%20-%20Train%20of%20Terror!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - Disaster in the Dust Zone!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2021%20-%20Disaster%20in%20the%20Dust%20Zone!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2021%20-%20Disaster%20in%20the%20Dust%20Zone!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2021%20-%20Disaster%20in%20the%20Dust%20Zone!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - Lost in Digital Space",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2022%20-%20Lost%20in%20Digital%20Space.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2022%20-%20Lost%20in%20Digital%20Space.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2022%20-%20Lost%20in%20Digital%20Space.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Laughing All the Way to the Code Crown",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2023%20-%20Laughing%20All%20the%20Way%20to%20the%20Code%20Crown.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2023%20-%20Laughing%20All%20the%20Way%20to%20the%20Code%20Crown.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2023%20-%20Laughing%20All%20the%20Way%20to%20the%20Code%20Crown.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - Monitamission Impossible!!!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2024%20-%20Monitamission%20Impossible!!!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2024%20-%20Monitamission%20Impossible!!!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2024%20-%20Monitamission%20Impossible!!!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - Showdown in Shaky Town!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2025%20-%20Showdown%20in%20Shaky%20Town!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2025%20-%20Showdown%20in%20Shaky%20Town!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2025%20-%20Showdown%20in%20Shaky%20Town!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - Shoutmon - Bogus King or the Real Thing",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2026%20-%20Shoutmon%20-%20Bogus%20King%20or%20the%20Real%20Thing.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2026%20-%20Shoutmon%20-%20Bogus%20King%20or%20the%20Real%20Thing.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2026%20-%20Shoutmon%20-%20Bogus%20King%20or%20the%20Real%20Thing.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - Sweet Zone Bake - Off!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2027%20-%20Sweet%20Zone%20Bake-Off!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2027%20-%20Sweet%20Zone%20Bake-Off!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2027%20-%20Sweet%20Zone%20Bake-Off!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - Battle in the Digital Depths",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2028%20-%20Battle%20in%20the%20Digital%20Depths.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2028%20-%20Battle%20in%20the%20Digital%20Depths.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2028%20-%20Battle%20in%20the%20Digital%20Depths.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - Fall of the Final Code Crown",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2029%20-%20Fall%20of%20the%20Final%20Code%20Crown.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2029%20-%20Fall%20of%20the%20Final%20Code%20Crown.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2029%20-%20Fall%20of%20the%20Final%20Code%20Crown.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - When Worlds Collide",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2030%20-%20When%20Worlds%20Collide.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2030%20-%20When%20Worlds%20Collide.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2030%20-%20When%20Worlds%20Collide.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Back to the Digital World! Hot Time in Dragonland!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2031%20-%20Back%20to%20the%20Digital%20World!%20Hot%20Time%20in%20Dragonland!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2031%20-%20Back%20to%20the%20Digital%20World!%20Hot%20Time%20in%20Dragonland!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2031%20-%20Back%20to%20the%20Digital%20World!%20Hot%20Time%20in%20Dragonland!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - Take a Stand, Christopher! Fusion Fighters' Rescue Mission!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2032%20-%20Take%20a%20Stand%2C%20Christopher!%20Fusion%20Fighters'%20Rescue%20Mission!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2032%20-%20Take%20a%20Stand%2C%20Christopher!%20Fusion%20Fighters'%20Rescue%20Mission!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2032%20-%20Take%20a%20Stand%2C%20Christopher!%20Fusion%20Fighters'%20Rescue%20Mission!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - Vampire Land and the Moonlight General",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2033%20-%20Vampire%20Land%20and%20the%20Moonlight%20General.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2033%20-%20Vampire%20Land%20and%20the%20Moonlight%20General.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2033%20-%20Vampire%20Land%20and%20the%20Moonlight%20General.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - Hang on, Greymon! The Rise of Shoutmon DX",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2034%20-%20Hang%20on%2C%20Greymon!%20The%20Rise%20of%20Shoutmon%20DX.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2034%20-%20Hang%20on%2C%20Greymon!%20The%20Rise%20of%20Shoutmon%20DX.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2034%20-%20Hang%20on%2C%20Greymon!%20The%20Rise%20of%20Shoutmon%20DX.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - The Power Drain! The Hunters of Honeyland",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2035%20-%20The%20Power%20Drain!%20The%20Hunters%20of%20Honeyland.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2035%20-%20The%20Power%20Drain!%20The%20Hunters%20of%20Honeyland.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2035%20-%20The%20Power%20Drain!%20The%20Hunters%20of%20Honeyland.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - Sweet Revenge! The Horrors of Honeyland!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2036%20-%20Sweet%20Revenge!%20The%20Horrors%20of%20Honeyland!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2036%20-%20Sweet%20Revenge!%20The%20Horrors%20of%20Honeyland!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2036%20-%20Sweet%20Revenge!%20The%20Horrors%20of%20Honeyland!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - Ewan and the Land of Illusion",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2037%20-%20Ewan%20and%20the%20Land%20of%20Illusion.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2037%20-%20Ewan%20and%20the%20Land%20of%20Illusion.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2037%20-%20Ewan%20and%20the%20Land%20of%20Illusion.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - Psyche - Out in Cyberland!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2038%20-%20Psyche-Out%20in%20Cyberland!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2038%20-%20Psyche-Out%20in%20Cyberland!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2038%20-%20Psyche-Out%20in%20Cyberland!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - The Water Tiger's Slippery Trap!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2039%20-%20The%20Water%20Tiger's%20Slippery%20Trap!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2039%20-%20The%20Water%20Tiger's%20Slippery%20Trap!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2039%20-%20The%20Water%20Tiger's%20Slippery%20Trap!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - Gold Land and the Irate Pirate!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2040%20-%20Gold%20Land%20and%20the%20Irate%20Pirate!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2040%20-%20Gold%20Land%20and%20the%20Irate%20Pirate!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2040%20-%20Gold%20Land%20and%20the%20Irate%20Pirate!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - Ballistamon's Bad News Blast From the Past!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2041%20-%20Ballistamon's%20Bad%20News%20Blast%20From%20the%20Past!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2041%20-%20Ballistamon's%20Bad%20News%20Blast%20From%20the%20Past!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2041%20-%20Ballistamon's%20Bad%20News%20Blast%20From%20the%20Past!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - Deep Trouble in Canyon Land!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2042%20-%20Deep%20Trouble%20in%20Canyon%20Land!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2042%20-%20Deep%20Trouble%20in%20Canyon%20Land!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2042%20-%20Deep%20Trouble%20in%20Canyon%20Land!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 - Great Fusion! The Power of Friendship",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2043%20-%20Great%20Fusion!%20The%20Power%20of%20Friendship.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2043%20-%20Great%20Fusion!%20The%20Power%20of%20Friendship.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2043%20-%20Great%20Fusion!%20The%20Power%20of%20Friendship.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 - Regeneration Frustration!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2044%20-%20Regeneration%20Frustration!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2044%20-%20Regeneration%20Frustration!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2044%20-%20Regeneration%20Frustration!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 - Dark Side of the Sun",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2045%20-%20Dark%20Side%20of%20the%20Sun.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2045%20-%20Dark%20Side%20of%20the%20Sun.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2045%20-%20Dark%20Side%20of%20the%20Sun.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 - The Dark Side of Bright Land",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2046%20-%20The%20Dark%20Side%20of%20Bright%20Land.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2046%20-%20The%20Dark%20Side%20of%20Bright%20Land.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2046%20-%20The%20Dark%20Side%20of%20Bright%20Land.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - The Battle of the Young Generals",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2047%20-%20The%20Battle%20of%20the%20Young%20Generals.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2047%20-%20The%20Battle%20of%20the%20Young%20Generals.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2047%20-%20The%20Battle%20of%20the%20Young%20Generals.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 - Beelzemon's Revenge",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2048%20-%20Beelzemon's%20Revenge.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2048%20-%20Beelzemon's%20Revenge.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2048%20-%20Beelzemon's%20Revenge.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 - The Darkest Dark General of All!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2049%20-%20The%20Darkest%20Dark%20General%20of%20All!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2049%20-%20The%20Darkest%20Dark%20General%20of%20All!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2049%20-%20The%20Darkest%20Dark%20General%20of%20All!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 - Prison Land",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2050%20-%20Prison%20Land.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2050%20-%20Prison%20Land.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2050%20-%20Prison%20Land.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 - Rotten To The Digi - Core!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2051%20-%20Rotten%20To%20The%20Digi-Core!.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2051%20-%20Rotten%20To%20The%20Digi-Core!.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2051%20-%20Rotten%20To%20The%20Digi-Core!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 - D5 and the Brotherhood of Evil",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2052%20-%20D5%20and%20the%20Brotherhood%20of%20Evil.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2052%20-%20D5%20and%20the%20Brotherhood%20of%20Evil.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2052%20-%20D5%20and%20the%20Brotherhood%20of%20Evil.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 - The Darkness Before the Dawn",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2053%20-%20The%20Darkness%20Before%20the%20Dawn.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2053%20-%20The%20Darkness%20Before%20the%20Dawn.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2053%20-%20The%20Darkness%20Before%20the%20Dawn.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 - Final Fusion - The Fight for Earth! Finale",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2054%20-%20Final%20Fusion%20-%20The%20Fight%20for%20Earth!%20Finale.mp4",
+        "dubUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2054%20-%20Final%20Fusion%20-%20The%20Fight%20for%20Earth!%20Finale.mp4",
+        "subUrl": "https://archive.org/download/digimon-fusion-complete-english-series/Digimon%20Fusion/Ep.%2054%20-%20Final%20Fusion%20-%20The%20Fight%20for%20Earth!%20Finale.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Digimon Fusion complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 54 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 137309,
+    "title": {
+      "romaji": "Digimon Ghost Game",
+      "english": "Digimon Ghost Game",
+      "native": "デジモンゴーストゲーム"
+    },
+    "description": "Sightings of mysterious creatures known as \"Hologram Ghosts\" have been a popular topic on social networks for the past few years. According to the rumors, several people have fallen victim to these specters. Those fortunate to survive their encounters with the paranormal beings claim that they resembled glitched holograms.<br>\n<br>\nHazakura Academy middle school student Hiro Amanokawa believes these sightings are merely an urban legend. However, as the incidents start to increase in frequency, he is reminded of the day his father suddenly vanished, with strange digital watches serving as the only relics of his disappearance. Much like the other sightings, what happened to Hiro's father cannot be explained by conventional logic.<br>\n<br>\nOne day, when a fellow student in the academy is attacked by a Hologram Ghost, Hiro and his friend Kiyoshirou Higashimitarai decide to look into the matter. Little does Hiro know that this investigation will be their first step toward discovering a dangerous world previously unknown to mankind.<br>\n<br>\n(Source: MAL Rewrite)",
+    "episodesCount": 67,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageScore": 66,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137309-FY8EoCpLsbHJ.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137309-1TTkC932WbYn.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137309-1TTkC932WbYn.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137309-1TTkC932WbYn.jpg",
+      "color": "#78e443"
+    },
+    "hasDub": false,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - The Sewn - Mouth Man",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/01%20-%20The%20Sewn-Mouth%20Man.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/01%20-%20The%20Sewn-Mouth%20Man.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - The Mystery of the Museum",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/02%20-%20The%20Mystery%20of%20the%20Museum.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/02%20-%20The%20Mystery%20of%20the%20Museum.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - Scribbles",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/03%20-%20Scribbles.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/03%20-%20Scribbles.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - The Doll's Manor",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/04%20-%20The%20Doll's%20Manor.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/04%20-%20The%20Doll's%20Manor.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Divine Anger",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/05%20-%20Divine%20Anger.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/05%20-%20Divine%20Anger.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - The Cursed Song",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/06%20-%20The%20Cursed%20Song.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/06%20-%20The%20Cursed%20Song.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Birds",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/07%20-%20Birds.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/07%20-%20Birds.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Nightly Procession of Monsters",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/08%20-%20Nightly%20Procession%20of%20Monsters.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/08%20-%20Nightly%20Procession%20of%20Monsters.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Warped Time",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/09%20-%20Warped%20Time.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/09%20-%20Warped%20Time.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Game of Death",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/10%20-%20Game%20of%20Death.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/10%20-%20Game%20of%20Death.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Kamaitachi",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/11%20-%20Kamaitachi.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/11%20-%20Kamaitachi.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Chain Letter",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/12%20-%20Chain%20Letter.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/12%20-%20Chain%20Letter.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - Executioner",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/13%20-%20Executioner.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/13%20-%20Executioner.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - Zashiki - Warashi",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/14%20-%20Zashiki-Warashi.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/14%20-%20Zashiki-Warashi.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - The Fortuneteller's Manor",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/15%20-%20The%20Fortuneteller's%20Manor.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/15%20-%20The%20Fortuneteller's%20Manor.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - The Maneater's Forest",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/16%20-%20The%20Maneater's%20Forest.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/16%20-%20The%20Maneater's%20Forest.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Frozen Hell",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/17%20-%20Frozen%20Hell.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/17%20-%20Frozen%20Hell.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - The Land of Children",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/18%20-%20The%20Land%20of%20Children.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/18%20-%20The%20Land%20of%20Children.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - The Witching Hour",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/19%20-%20The%20Witching%20Hour.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/19%20-%20The%20Witching%20Hour.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - The Prison of Fire",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/20%20-%20The%20Prison%20of%20Fire.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/20%20-%20The%20Prison%20of%20Fire.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - The Spider's Lure",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/21%20-%20The%20Spider's%20Lure.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/21%20-%20The%20Spider's%20Lure.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - Nightmare",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/22%20-%20Nightmare.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/22%20-%20Nightmare.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Moaning Bug",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/23%20-%20Moaning%20Bug.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/23%20-%20Moaning%20Bug.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - Twisted Love",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/24%20-%20Twisted%20Love.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/24%20-%20Twisted%20Love.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - The Crimson Banquet",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/25%20-%20The%20Crimson%20Banquet.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/25%20-%20The%20Crimson%20Banquet.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - The Hungry House",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/26%20-%20The%20Hungry%20House.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/26%20-%20The%20Hungry%20House.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - Bewitching Beauty Serum",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/27%20-%20Bewitching%20Beauty%20Serum.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/27%20-%20Bewitching%20Beauty%20Serum.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - Face - Taker",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/28%20-%20Face-Taker.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/28%20-%20Face-Taker.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - Bewitching Pollen",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/29%20-%20Bewitching%20Pollen.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/29%20-%20Bewitching%20Pollen.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - Bad Friends",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/30%20-%20Bad%20Friends.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/30%20-%20Bad%20Friends.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Tsujigiri",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/31%20-%20Tsujigiri.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/31%20-%20Tsujigiri.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - Who Are You",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/32%20-%20Who%20Are%20You.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/32%20-%20Who%20Are%20You.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - Whispers of the Dead",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/33%20-%20Whispers%20of%20the%20Dead.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/33%20-%20Whispers%20of%20the%20Dead.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - Wall Crawlers",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/34%20-%20Wall%20Crawlers.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/34%20-%20Wall%20Crawlers.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - Werewolf",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/35%20-%20Werewolf.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/35%20-%20Werewolf.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - Labyrinth of Grief",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/36%20-%20Labyrinth%20of%20Grief.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/36%20-%20Labyrinth%20of%20Grief.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - Herd of the Dead",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/37%20-%20Herd%20of%20the%20Dead.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/37%20-%20Herd%20of%20the%20Dead.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - Onmyōji",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/38%20-%20Onmy%C5%8Dji.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/38%20-%20Onmy%C5%8Dji.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - Contagion Island",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/39%20-%20Contagion%20Island.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/39%20-%20Contagion%20Island.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - Spiral Beach",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/40%20-%20Spiral%20Beach.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/40%20-%20Spiral%20Beach.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - Clown",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/41%20-%20Clown.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/41%20-%20Clown.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - Human Hunting",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/42%20-%20Human%20Hunting.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/42%20-%20Human%20Hunting.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 - Red Eyes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/43%20-%20Red%20Eyes.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/43%20-%20Red%20Eyes.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 - Rust",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/44%20-%20Rust.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/44%20-%20Rust.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 - Ghost Newspaper",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/45%20-%20Ghost%20Newspaper.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/45%20-%20Ghost%20Newspaper.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 - The Queen's Dinner",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/46%20-%20The%20Queen's%20Dinner.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/46%20-%20The%20Queen's%20Dinner.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - Eternal Memory",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/47%20-%20Eternal%20Memory.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/47%20-%20Eternal%20Memory.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 - The White Bride",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/48%20-%20The%20White%20Bride.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/48%20-%20The%20White%20Bride.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 - The Crimson Harvest Festival",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/49%20-%20The%20Crimson%20Harvest%20Festival.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/49%20-%20The%20Crimson%20Harvest%20Festival.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 - Payback",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/50%20-%20Payback.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/50%20-%20Payback.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 - Headless",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/51%20-%20Headless.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/51%20-%20Headless.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 - Ghost Lake",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/52%20-%20Ghost%20Lake.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/52%20-%20Ghost%20Lake.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 - King of Knowledge",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/53%20-%20King%20of%20Knowledge.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/53%20-%20King%20of%20Knowledge.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 - Second Sight",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/54%20-%20Second%20Sight.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/54%20-%20Second%20Sight.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 - Bakeneko",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/55%20-%20Bakeneko.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/55%20-%20Bakeneko.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 - Impurity",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/56%20-%20Impurity.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/56%20-%20Impurity.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 - Ghost Taxi",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/57%20-%20Ghost%20Taxi.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/57%20-%20Ghost%20Taxi.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 - Pyramid",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/58%20-%20Pyramid.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/58%20-%20Pyramid.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 - Jiraiya",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/59%20-%20Jiraiya.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/59%20-%20Jiraiya.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 - Water Ghost",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/60%20-%20Water%20Ghost.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/60%20-%20Water%20Ghost.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 - Resurrection",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/61%20-%20Resurrection.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/61%20-%20Resurrection.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 - The Strange Floor",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/62%20-%20The%20Strange%20Floor.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/62%20-%20The%20Strange%20Floor.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 - Gluttony",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/63%20-%20Gluttony.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/63%20-%20Gluttony.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 - The Call",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/64%20-%20The%20Call.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/64%20-%20The%20Call.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 - The Black Zone of Death",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/65%20-%20The%20Black%20Zone%20of%20Death.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/65%20-%20The%20Black%20Zone%20of%20Death.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 - The Black Dragon of Destruction",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/66%20-%20The%20Black%20Dragon%20of%20Destruction.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/66%20-%20The%20Black%20Dragon%20of%20Destruction.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 - The Devourer of All",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/67%20-%20The%20Devourer%20of%20All.mp4",
+        "subUrl": "https://archive.org/download/digimon-ghost-game-complete-series/Digimon%20Ghost%20Game%20Complete%20Series/67%20-%20The%20Devourer%20of%20All.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Digimon Ghost Game complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 67 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 1453,
+    "title": {
+      "romaji": "Maison Ikkoku",
+      "english": "Maison Ikkoku",
+      "native": "めぞん一刻"
+    },
+    "description": "Maison Ikkoku is a romantic comedy series created by Rumiko Takahashi. The story centers around the development of the relationship between Kyoko Otonashi and Yusaku Godai. Kyoko is a recent widow who moves into the apartment house Ikkoku-kan where she becomes the manager. Godai is a wanna-be student (\"ronin\") struggling with college entrance exams.<br><br>\nWhen they meet, it's love at first sight&mdash;for Godai anyway. Along the way, the other tentants, the mysterious Yotsuya, the seemingly alcoholic Ichinose, and the brash Akemi, watch and occasionally take part to make their lives more interesting. To complicate matters further, the wealthy tennis coach Shun Mitaka has his eye on Kyoko, while Godai is pursued by both Nanao Kozue and Ibuki Yagami. Covering a wide range of emotions from hysterically funny to painfully sad, Maison Ikkoku&mdash;all 96 episodes&mdash;is well worth seeing.<br>",
+    "episodesCount": 94,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SPRING",
+    "seasonYear": 1986,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 78,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1453-sC5wVW5UoeHi.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1453-mghhMKzxEVcQ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1453-mghhMKzxEVcQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx1453-mghhMKzxEVcQ.jpg",
+      "color": "#e4a15d"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.1.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.1.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.1.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.2.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.2.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.2.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.3.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.3.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.3.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.4.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.4.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.4.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.5.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.5.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.5.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.6.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.6.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.6.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.7.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.7.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.7.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.8.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.8.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.8.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.9.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.9.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.9.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.10.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.10.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.10.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.11.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.11.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.11.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.12.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.12.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.12.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.13.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.13.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.13.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.14.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.14.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.14.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.15.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.15.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.15.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.16.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.16.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.16.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.17.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.17.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.17.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.18.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.18.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.18.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.19.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.19.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.19.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.20.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.20.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.20.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.21.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.21.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.21.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.22.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.22.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.22.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.23.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.23.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.23.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.24.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.24.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.24.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.25.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.25.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.25.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.26.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.26.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.26.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.27.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.27.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.27.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.28.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.28.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.28.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.29.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.29.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.29.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.30.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.30.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.30.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.31.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.31.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.31.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.32.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.32.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.32.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.33.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.33.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.33.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.34.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.34.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.34.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.35.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.35.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.35.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.36.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.36.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.36.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.37.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.37.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.37.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.38.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.38.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.38.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.39.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.39.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.39.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.40.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.40.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.40.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.41.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.41.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.41.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.42.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.42.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.42.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.43.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.43.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.43.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.44.480p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.44.480p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.44.480p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.45.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.45.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.45.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.46.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.46.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.46.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.47.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.47.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.47.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.48.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.48.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.48.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.49.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.49.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.49.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.50.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.50.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.50.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.51.480p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.51.480p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.51.480p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.52.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.52.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.52.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.53.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.53.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.53.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.54.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.54.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.54.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.56.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.56.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.56.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.57.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.57.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.57.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.58.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.58.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.58.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.59.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.59.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.59.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.60.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.60.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.60.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.61.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.61.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.61.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.62.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.62.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.62.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.63.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.63.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.63.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.64.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.64.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.64.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.66.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.66.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.66.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.67.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.67.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.67.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.68.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.68.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.68.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.69.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.69.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.69.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.70.480p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.70.480p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.70.480p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.71.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.71.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.71.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.72.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.72.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.72.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.73.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.73.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.73.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.74.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.74.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.74.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.75.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.75.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.75.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.76.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.76.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.76.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.77.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.77.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.77.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.78.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.78.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.78.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.79.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.79.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.79.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.80.480p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.80.480p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.80.480p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.81.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.81.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.81.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.82.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.82.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.82.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.83.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.83.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.83.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.84.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.84.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.84.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.85.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.85.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.85.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.86.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.86.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.86.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.87.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.87.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.87.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "Episode 86 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.88.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.88.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.88.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Episode 87 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.89.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.89.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.89.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Episode 88 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.90.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.90.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.90.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "Episode 89 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.91.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.91.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.91.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Episode 90 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.92.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.92.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.92.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Episode 91 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.93.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.93.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.93.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Episode 92 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.94.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.94.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.94.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Episode 93 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.95.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.95.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.95.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Episode 94 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.96.360p.mp4",
+        "dubUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.96.360p.mp4",
+        "subUrl": "https://archive.org/download/maison-ikkoku-english-dub/Maison%20Ikkoku/EP.96.360p.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Maison Ikkoku complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 94 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 19157,
+    "title": {
+      "romaji": "Youkai Watch",
+      "english": "Yo-kai Watch",
+      "native": "妖怪ウォッチ"
+    },
+    "description": "While going deeper into the woods one day, primary school student Keita Amano ('Nate' in the English localisation) notices a bizarre capsule toy machine who tells him to insert money which he obeyingly does. But after opening the capsule that came out, a ghostly creature named Whisper materialises. Whisper, who was sealed inside the capsule, rewards his liberator Keita by becoming his Yo-kai butler and gives him a Yo-kai Watch. Whoever wears the watch gains the ability to see supernatural creatures called Yo-kai, each type possessing different kinds of magical abilities, and which are normally invisible to humans. The Yo-kai Watch also allows the wearer to summon any Yo-kai they have befriended, enabling the wearer to make use of the Yo-kai's powers. Using it, Keita and Whisper encounter many mischievous Yo-kai around town, resolving the trouble they're causing and befriending many at the same time.",
+    "episodesCount": 34,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "WINTER",
+    "seasonYear": 2014,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "averageScore": 66,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19157-oKiF3uCValdH.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19157-icVAh6Qy6oT6.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19157-icVAh6Qy6oT6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19157-icVAh6Qy6oT6.jpg",
+      "color": "#e4ae50"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e01.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e01.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e01.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e02.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e02.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e02.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e03.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e03.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e03.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e04.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e04.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e04.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e05.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e05.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e05.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e06.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e06.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e06.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e07.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e07.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e07.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e08.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e08.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e08.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e09.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e09.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e09.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e10.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e10.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e10.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e11.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e11.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e11.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e12.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e12.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo.Kai.Watch.s01e12.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E13.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E13.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E13.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E14.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E14.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E14.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E15.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E15.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E15.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E16.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E16.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E16.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E17.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E17.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E17.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E18.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E18.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E18.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E19.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E19.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E19.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E20.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E20.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E20.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E21.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E21.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E21.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E22.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E22.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E22.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E23.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E23.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E23.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E24.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E24.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E24.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E25.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E25.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E25.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E26.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E26.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/YoKai-Watch%20S01E26.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E65.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E65.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E65.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E65.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E65.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E65.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E67.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E67.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E67.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E67.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E67.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E67.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E69.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E69.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E69.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E69.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E69.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E69.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E70.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E70.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E70.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E70.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E70.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E70.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E71.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E71.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E71.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E71.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E71.720p.DSNY.WEBRip.AAC2.0.x264-TVSmash%5Brarbg%5D/Yo-Kai.Watch.S01E71.720p.DSNY.WEB-DL.AAC2.0.x264-TVSmash.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E74.DUBBED.720p.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E74.DUBBED.720p.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E74.DUBBED.720p.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E75.DUBBED.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e75.dubbed.hdtv.x264-w4f.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E75.DUBBED.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e75.dubbed.hdtv.x264-w4f.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E75.DUBBED.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e75.dubbed.hdtv.x264-w4f.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E76.DUBBED.720p.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e76.dubbed.720p.hdtv.x264-w4f.mp4",
+        "dubUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E76.DUBBED.720p.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e76.dubbed.720p.hdtv.x264-w4f.mp4",
+        "subUrl": "https://archive.org/download/yo-kai.watch.s01e74.dubbed.720p.hdtv.x264-w4f/Yo-Kai%20Watch%20(2014)/Season%201/Yo-Kai.Watch.S01E76.DUBBED.720p.HDTV.x264-W4F%5Brarbg%5D/yo-kai.watch.s01e76.dubbed.720p.hdtv.x264-w4f.mp4",
+        "quality": "720p HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Yo-kai Watch complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 34 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 33,
+    "title": {
+      "romaji": "Kenpuu Denki Berserk",
+      "english": "Berserk",
+      "native": "剣風伝奇ベルセルク"
+    },
+    "description": "Set during a time that very much resembles Europe during the Middle Ages, <i>Berserk</i> is a story of revenge set in the castle town of Midland. Recently, the town has seen the rise of a wicked king, who uses demonic minions to control and victimise his subjects.<br>\n<br>\nHowever, when a lone soldier enters the town calling himself the Black Swordsman and armed to the teeth, many sense that the king's days of unchecked oppression are over. Soon, the Black Swordsman is plying his trade by hunting down the king's evil servants, giving no quarter, and preparing to exact his vengeance on the king.<br>\n<br>\n(Source: MVM Entertainment)",
+    "episodesCount": 25,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "averageScore": 84,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/33-g7HwYRVm0ZkN.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-PSwfE5B0gejI.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx33-PSwfE5B0gejI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx33-PSwfE5B0gejI.jpg",
+      "color": "#e49350"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - The Black Swordsman",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E01%20-%20The%20Black%20Swordsman.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E01%20-%20The%20Black%20Swordsman.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E01%20-%20The%20Black%20Swordsman.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - The Band of the Hawk",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E02%20-%20The%20Band%20of%20the%20Hawk.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E02%20-%20The%20Band%20of%20the%20Hawk.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E02%20-%20The%20Band%20of%20the%20Hawk.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - First Battle",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E03%20-%20First%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E03%20-%20First%20Battle.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E03%20-%20First%20Battle.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - The Hand of God",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E04%20-%20The%20Hand%20of%20God.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E04%20-%20The%20Hand%20of%20God.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E04%20-%20The%20Hand%20of%20God.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Sword and the Wind",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E05%20-%20Sword%20and%20the%20Wind.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E05%20-%20Sword%20and%20the%20Wind.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E05%20-%20Sword%20and%20the%20Wind.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - Zodd the Immortal",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E06%20-%20Zodd%20the%20Immortal.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E06%20-%20Zodd%20the%20Immortal.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E06%20-%20Zodd%20the%20Immortal.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - The Sword Master",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E07%20-%20The%20Sword%20Master.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E07%20-%20The%20Sword%20Master.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E07%20-%20The%20Sword%20Master.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Conspiracy",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E08%20-%20Conspiracy.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E08%20-%20Conspiracy.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E08%20-%20Conspiracy.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Assassination",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E09%20-%20Assassination.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E09%20-%20Assassination.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E09%20-%20Assassination.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Nobleman",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E10%20-%20Nobleman.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E10%20-%20Nobleman.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E10%20-%20Nobleman.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Battle Engagement",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E11%20-%20Battle%20Engagement.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E11%20-%20Battle%20Engagement.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E11%20-%20Battle%20Engagement.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Two People",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E12%20-%20Two%20People.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E12%20-%20Two%20People.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E12%20-%20Two%20People.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - Suicidal Act",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E13%20-%20Suicidal%20Act.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E13%20-%20Suicidal%20Act.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E13%20-%20Suicidal%20Act.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - Campfire of Dreams",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E14%20-%20Campfire%20of%20Dreams.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E14%20-%20Campfire%20of%20Dreams.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E14%20-%20Campfire%20of%20Dreams.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - The Decisive Battle",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E15%20-%20The%20Decisive%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E15%20-%20The%20Decisive%20Battle.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E15%20-%20The%20Decisive%20Battle.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - The Conqueror",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E16%20-%20The%20Conqueror.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E16%20-%20The%20Conqueror.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E16%20-%20The%20Conqueror.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Moment of Glory",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E17%20-%20Moment%20of%20Glory.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E17%20-%20Moment%20of%20Glory.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E17%20-%20Moment%20of%20Glory.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - Tombstone of Flames",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E18%20-%20Tombstone%20of%20Flames.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E18%20-%20Tombstone%20of%20Flames.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E18%20-%20Tombstone%20of%20Flames.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - Parting",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E19%20-%20Parting.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E19%20-%20Parting.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E19%20-%20Parting.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - The Spark",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E20%20-%20The%20Spark.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E20%20-%20The%20Spark.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E20%20-%20The%20Spark.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - Confession",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E21%20-%20Confession.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E21%20-%20Confession.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E21%20-%20Confession.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - The Infiltration",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E22%20-%20The%20Infiltration.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E22%20-%20The%20Infiltration.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E22%20-%20The%20Infiltration.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Eve of the Feast",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E23%20-%20Eve%20of%20the%20Feast.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E23%20-%20Eve%20of%20the%20Feast.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E23%20-%20Eve%20of%20the%20Feast.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - Eclipse",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E24%20-%20Eclipse.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E24%20-%20Eclipse.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E24%20-%20Eclipse.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - Perpetual Time",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E25%20-%20Perpetual%20Time.mp4",
+        "dubUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E25%20-%20Perpetual%20Time.mp4",
+        "subUrl": "https://archive.org/download/berserk-1997_202403/Berserk%20(1997)/Berserk%20(1997)%20S1E25%20-%20Perpetual%20Time.mp4",
+        "quality": "Remastered",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Berserk complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 25 EPS",
+    "isStaffPick": true
+  },
+  {
+    "id": 5081,
+    "title": {
+      "romaji": "Bakemonogatari",
+      "english": "Bakemonogatari",
+      "native": "化物語"
+    },
+    "description": "First season of the Monogatari Series, part 1/6. Contains the arcs Hitagi Crab, Mayoi Snail, Suruga Monkey, Nadeko Snake, and Tsubasa Cat from the Bakemonogatari light novels.<br><br>\nThanks to Meme Oshino, Koyomi Araragi, a high school student, is able to remain a human after coming across a female vampire... However, since the incident, Koyomi seems to meet girls who have an apparition-related issue. Hitagi Senjougahara doesn’t weigh anything, Suruga Kanbaru’s right arm becomes like that of a monkey’s, and a young girl, Mayoi, cannot find her way home no matter how many times she tries. Koyomi, a Mr. Nice Guy, ends up helping each and every girl solve her problem with the help of Meme Oshino.\n<br><br>\n(Source: Aniplex)<br><br>\n<i>Note: Only the first 12 episodes were broadcast on television; the remaining three episodes were distributed on the anime's website between November 3, 2009, and June 25, 2010.</i>",
+    "episodesCount": 15,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SUMMER",
+    "seasonYear": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 82,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n5081-0Zcn5GOFYHMc.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5081-9GocceQ5Z865.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-9GocceQ5Z865.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5081-9GocceQ5Z865.jpg",
+      "color": "#4393e4"
+    },
+    "hasDub": false,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_01_(BD_1080p_x264_FLAC)_(59E154A1)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_01_(BD_1080p_x264_FLAC)_(59E154A1)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_02_(BD_1080p_x264_FLAC)_(D7BB908F)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_02_(BD_1080p_x264_FLAC)_(D7BB908F)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_03_(BD_1080p_x264_FLAC)_(2E449F77)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_03_(BD_1080p_x264_FLAC)_(2E449F77)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_04_(BD_1080p_x264_FLAC)_(166C85A2)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_04_(BD_1080p_x264_FLAC)_(166C85A2)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_05_(BD_1080p_x264_FLAC)_(F8C0D2A8)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_05_(BD_1080p_x264_FLAC)_(F8C0D2A8)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_06_(BD_1080p_x264_FLAC)_(39EEE732)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_06_(BD_1080p_x264_FLAC)_(39EEE732)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_07_(BD_1080p_x264_FLAC)_(B2345F85)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_07_(BD_1080p_x264_FLAC)_(B2345F85)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_08_(BD_1080p_x264_FLAC)_(EB496C37)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_08_(BD_1080p_x264_FLAC)_(EB496C37)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_09_(BD_1080p_x264_FLAC)_(69EE5856)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_09_(BD_1080p_x264_FLAC)_(69EE5856)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_10_(BD_1080p_x264_FLAC)_(2D77EF2B)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_10_(BD_1080p_x264_FLAC)_(2D77EF2B)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_11_(BD_1080p_x264_FLAC)_(9DE7CCEC)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_11_(BD_1080p_x264_FLAC)_(9DE7CCEC)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_12_(BD_1080p_x264_FLAC)_(025477C7)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_12_(BD_1080p_x264_FLAC)_(025477C7)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_13_(BD_1080p_x264_FLAC)_(70E11151)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_13_(BD_1080p_x264_FLAC)_(70E11151)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_14_(BD_1080p_x264_FLAC)_(0FFB9E2B)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_14_(BD_1080p_x264_FLAC)_(0FFB9E2B)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (1080p BD Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_15_(BD_1080p_x264_FLAC)_(BB904735)_v2.mp4",
+        "subUrl": "https://archive.org/download/HotakaBakemonogatari0115BD1080pX264FLAC/(Hotaka)_Bakemonogatari_15_(BD_1080p_x264_FLAC)_(BB904735)_v2.mp4",
+        "quality": "1080p BD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Bakemonogatari complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 15 EPS",
+    "isStaffPick": true
+  },
+  {
+    "id": 20447,
+    "title": {
+      "romaji": "Noragami",
+      "english": "Noragami",
+      "native": "ノラガミ"
+    },
+    "description": "Minor god Yato is down on his luck. Fed up with his slacker lifestyle, his partner abruptly quits. He has no money, no worshippers, and no shrine to call home. But just when things are starting to seem hopeless, a bus accident forces him to cross paths with Hiyori Iki, a sweet and perky high school girl. After the accident, Hiyori's soul has a bad habit of slipping out of her body, and after enlisting Yato's help to get her back to normal, she begins to fall into the world of spirits and gods.<br>\n<br>\nBut Hiyori's not the only one who's keeping tabs on Yato. A god from Yato's past is back, and he's not interested in a friendly reunion.<br>\n<br>\n(Source: Funimation)",
+    "episodesCount": 12,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "WINTER",
+    "seasonYear": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20447-nlgQQzcgWbgw.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20447-EoQXeygHaVCK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20447-EoQXeygHaVCK.jpg",
+      "color": "#bbe4f1"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E01.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E01.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E01.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E02.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E02.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E02.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E03.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E03.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E03.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E04.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E04.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E04.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E05.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E05.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E05.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E06.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E06.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E06.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E07.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E07.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E07.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E08.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E08.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E08.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E09.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E09.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E09.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E10.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E10.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E10.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E11.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E11.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E11.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub & Sub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E12.mp4",
+        "dubUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E12.mp4",
+        "subUrl": "https://archive.org/download/noragami-s-1-/Noragami%20Temporada%201/Noragami%20S1E12.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Noragami complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 12 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 97863,
+    "title": {
+      "romaji": "Hajimete no Gal",
+      "english": "My First Girlfriend is a Gal",
+      "native": "はじめてのギャル"
+    },
+    "description": "Junichi Hashiba is nearing the end of high school and going into panic mode. His time here has not gone as expected: he has no girlfriend and worse yet—he’s still a virgin! Desperate to experience the big ‘first,’ his friends pressure him to approach the gyaru—a fashionable and boy-crazy gal—Yukana Yame for a good time. But his first mistake was thinking this gal would be an easy one!\n<br><br>\n(Source: Funimation)",
+    "episodesCount": 10,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SUMMER",
+    "seasonYear": 2017,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 59,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97863-dUQTCNacPxWL.png",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97863-79AXrUZ7VQa5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97863-79AXrUZ7VQa5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx97863-79AXrUZ7VQa5.jpg",
+      "color": "#43aef1"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%201.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%202.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%203.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%204.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%205.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%206.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%207.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%208.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%209.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/hajimete-no-gal-dub/Hajimete%20no%20Gal/Hajimete%20no%20Gal%20(Dub)%20Episode%2010.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "My First Girlfriend is a Gal complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 10 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 440,
+    "title": {
+      "romaji": "Shoujo Kakumei Utena",
+      "english": "Revolutionary Girl Utena",
+      "native": "少女革命ウテナ"
+    },
+    "description": "Just after Utena's parents died, she was consoled by a prince who gave her a ring with a rose crest on it. Utena was so impressed by the Prince that she vowed to become one herself one day. A few years later, Utena is attending Ohtori Academy where she gives all the teachers headaches because she dresses in a boy's uniform so she can be like the prince she met long ago. <br><br>\nAfter Utena's friend is insulted by a member of the Student Council, Utena fights in a duel for her friend's honor. Utena's rose crest allows her to enter the dueling arena, where Utena wins the duel and becomes engaged to the Rose Bride. Unknowingly, Utena is pulled into a series of duels with other members of the Student Council for the possession of the Rose Bride. As she becomes fond of Anthy, the Rose Bride, she must fight to keep her friend safe and to discover the horrifying secret behind Ohtori Academy.<br><br>\n(Source: Anime News Network)",
+    "episodesCount": 39,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SPRING",
+    "seasonYear": 1997,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological",
+      "Romance"
+    ],
+    "averageScore": 83,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/440-0Gzds5AlVDN6.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b440-r4l3N5WGgUOZ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b440-r4l3N5WGgUOZ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b440-r4l3N5WGgUOZ.jpg",
+      "color": "#f1ae5d"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - The Rose Bride",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2001%20The%20Rose%20Bride%20%5BC5369F9B%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2001%20The%20Rose%20Bride%20%5BC5369F9B%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2001%20The%20Rose%20Bride%20%5BC5369F9B%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - For Whom The Rose Smiles",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2002%20For%20Whom%20The%20Rose%20Smiles%20%5B55987F77%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2002%20For%20Whom%20The%20Rose%20Smiles%20%5B55987F77%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2002%20For%20Whom%20The%20Rose%20Smiles%20%5B55987F77%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - On The Night Of The Ball",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2003%20On%20The%20Night%20Of%20The%20Ball%20%5B4D7DD175%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2003%20On%20The%20Night%20Of%20The%20Ball%20%5B4D7DD175%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2003%20On%20The%20Night%20Of%20The%20Ball%20%5B4D7DD175%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - The Sunlit Garden Prelude",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2004%20The%20Sunlit%20Garden%20Prelude%20%5B8244AFEB%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2004%20The%20Sunlit%20Garden%20Prelude%20%5B8244AFEB%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2004%20The%20Sunlit%20Garden%20Prelude%20%5B8244AFEB%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - The Sunlit Garden Finale",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2005%20The%20Sunlit%20Garden%20Finale%20%5B96775F4E%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2005%20The%20Sunlit%20Garden%20Finale%20%5B96775F4E%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2005%20The%20Sunlit%20Garden%20Finale%20%5B96775F4E%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - Take Care, Miss Nanami",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2006%20Take%20Care%2C%20Miss%20Nanami%20%5BCB9512C6%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2006%20Take%20Care%2C%20Miss%20Nanami%20%5BCB9512C6%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2006%20Take%20Care%2C%20Miss%20Nanami%20%5BCB9512C6%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Unfulfilled Juri",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2007%20Unfulfilled%20Juri%20%5B6B388916%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2007%20Unfulfilled%20Juri%20%5B6B388916%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2007%20Unfulfilled%20Juri%20%5B6B388916%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Curried High Trip",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2008%20Curried%20High%20Trip%20%5B7DD58FFE%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2008%20Curried%20High%20Trip%20%5B7DD58FFE%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2008%20Curried%20High%20Trip%20%5B7DD58FFE%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - The Castle Said To Hold Eternity",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2009%20The%20Castle%20Said%20To%20Hold%20Eternity%20%5BD1F52828%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2009%20The%20Castle%20Said%20To%20Hold%20Eternity%20%5BD1F52828%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2009%20The%20Castle%20Said%20To%20Hold%20Eternity%20%5BD1F52828%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Nanami's Precious One",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2010%20Nanami's%20Precious%20One%20%5BDD6C364D%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2010%20Nanami's%20Precious%20One%20%5BDD6C364D%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2010%20Nanami's%20Precious%20One%20%5BDD6C364D%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Graceful And Ruthless; The One Who Picks The Flower",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2011%20Graceful%20And%20Ruthless%3B%20The%20One%20Who%20Picks%20The%20Flower%20%5B1F83E3A1%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2011%20Graceful%20And%20Ruthless%3B%20The%20One%20Who%20Picks%20The%20Flower%20%5B1F83E3A1%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2011%20Graceful%20And%20Ruthless%3B%20The%20One%20Who%20Picks%20The%20Flower%20%5B1F83E3A1%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - For Friendship, Perhaps",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2012%20For%20Friendship%2C%20Perhaps%20%5BD48A3487%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2012%20For%20Friendship%2C%20Perhaps%20%5BD48A3487%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2012%20For%20Friendship%2C%20Perhaps%20%5BD48A3487%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - Tracing A Path",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2013%20Tracing%20A%20Path%20%5BFBF4A2AB%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2013%20Tracing%20A%20Path%20%5BFBF4A2AB%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2013%20Tracing%20A%20Path%20%5BFBF4A2AB%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - The Boys Of The Black Rose",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2014%20The%20Boys%20Of%20The%20Black%20Rose%20%5B01EE29C2%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2014%20The%20Boys%20Of%20The%20Black%20Rose%20%5B01EE29C2%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2014%20The%20Boys%20Of%20The%20Black%20Rose%20%5B01EE29C2%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - The Landscape Framed By Kozue",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2015%20The%20Landscape%20Framed%20By%20Kozue%20%5B071B364E%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2015%20The%20Landscape%20Framed%20By%20Kozue%20%5B071B364E%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2015%20The%20Landscape%20Framed%20By%20Kozue%20%5B071B364E%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - Cowbell Of Happiness",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2016%20Cowbell%20Of%20Happiness%20%5BDD1B15F5%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2016%20Cowbell%20Of%20Happiness%20%5BDD1B15F5%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2016%20Cowbell%20Of%20Happiness%20%5BDD1B15F5%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Thorns Of Death",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2017%20Thorns%20Of%20Death%20%5B8186155D%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2017%20Thorns%20Of%20Death%20%5B8186155D%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2017%20Thorns%20Of%20Death%20%5B8186155D%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - Mitsuru's Growing Pains",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2018%20Mitsuru's%20Growing%20Pains%20%5B566AB7C0%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2018%20Mitsuru's%20Growing%20Pains%20%5B566AB7C0%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2018%20Mitsuru's%20Growing%20Pains%20%5B566AB7C0%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - The Song Of The Fallen Kingdom",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2019%20The%20Song%20Of%20The%20Fallen%20Kingdom%20%5B93042E3F%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2019%20The%20Song%20Of%20The%20Fallen%20Kingdom%20%5B93042E3F%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2019%20The%20Song%20Of%20The%20Fallen%20Kingdom%20%5B93042E3F%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - Wakaba Flourishing",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2020%20Wakaba%20Flourishing%20%5B42F75B59%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2020%20Wakaba%20Flourishing%20%5B42F75B59%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2020%20Wakaba%20Flourishing%20%5B42F75B59%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - Troublesome Insects",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2021%20Troublesome%20Insects%20%5BD13307EB%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2021%20Troublesome%20Insects%20%5BD13307EB%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2021%20Troublesome%20Insects%20%5BD13307EB%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - Nemuro Memorial Hall",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2022%20Nemuro%20Memorial%20Hall%20%5BAD2FE5FA%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2022%20Nemuro%20Memorial%20Hall%20%5BAD2FE5FA%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2022%20Nemuro%20Memorial%20Hall%20%5BAD2FE5FA%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Qualifications Of A Duelist",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2023%20Qualifications%20Of%20A%20Duelist%20%5BC7A1B482%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2023%20Qualifications%20Of%20A%20Duelist%20%5BC7A1B482%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2023%20Qualifications%20Of%20A%20Duelist%20%5BC7A1B482%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - The Secret Nanami Diary",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2024%20The%20Secret%20Nanami%20Diary%20%5BC7746D33%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2024%20The%20Secret%20Nanami%20Diary%20%5BC7746D33%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2024%20The%20Secret%20Nanami%20Diary%20%5BC7746D33%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - Their Eternal Apocalypse",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2025%20Their%20Eternal%20Apocalypse%20%5B798AF9A5%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2025%20Their%20Eternal%20Apocalypse%20%5B798AF9A5%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2025%20Their%20Eternal%20Apocalypse%20%5B798AF9A5%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - Miki's Nest Box The Sunlit Garden Arranged",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2026%20Miki's%20Nest%20Box%20The%20Sunlit%20Garden%20Arranged%20%5B0D1EA6C7%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2026%20Miki's%20Nest%20Box%20The%20Sunlit%20Garden%20Arranged%20%5B0D1EA6C7%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2026%20Miki's%20Nest%20Box%20The%20Sunlit%20Garden%20Arranged%20%5B0D1EA6C7%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - Nanami's Egg",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2027%20Nanami's%20Egg%20%5B3C654CF5%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2027%20Nanami's%20Egg%20%5B3C654CF5%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2027%20Nanami's%20Egg%20%5B3C654CF5%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - Whispers In The Dark",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2028%20Whispers%20In%20The%20Dark%20%5B7EDA30F9%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2028%20Whispers%20In%20The%20Dark%20%5B7EDA30F9%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2028%20Whispers%20In%20The%20Dark%20%5B7EDA30F9%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - Azure Paler Than The Sky",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2029%20Azure%20Paler%20Than%20The%20Sky%20%5B57E71C83%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2029%20Azure%20Paler%20Than%20The%20Sky%20%5B57E71C83%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2029%20Azure%20Paler%20Than%20The%20Sky%20%5B57E71C83%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - The Barefoot Girl",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2030%20The%20Barefoot%20Girl%20%5B4A8CFFB3%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2030%20The%20Barefoot%20Girl%20%5B4A8CFFB3%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2030%20The%20Barefoot%20Girl%20%5B4A8CFFB3%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Her Tragedy",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2031%20Her%20Tragedy%20%5B339C8D34%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2031%20Her%20Tragedy%20%5B339C8D34%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2031%20Her%20Tragedy%20%5B339C8D34%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - The Romance Of The Dancing Girls",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2032%20The%20Romance%20Of%20The%20Dancing%20Girls%20%5BA01CD17F%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2032%20The%20Romance%20Of%20The%20Dancing%20Girls%20%5BA01CD17F%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2032%20The%20Romance%20Of%20The%20Dancing%20Girls%20%5BA01CD17F%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - The Prince Who Runs Through The Night",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2033%20The%20Prince%20Who%20Runs%20Through%20The%20Night%20%5B55838616%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2033%20The%20Prince%20Who%20Runs%20Through%20The%20Night%20%5B55838616%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2033%20The%20Prince%20Who%20Runs%20Through%20The%20Night%20%5B55838616%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - The Rose Signet",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2034%20The%20Rose%20Signet%20%5BD145B6BC%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2034%20The%20Rose%20Signet%20%5BD145B6BC%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2034%20The%20Rose%20Signet%20%5BD145B6BC%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - The Love That Blossomed In Wintertime",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2035%20The%20Love%20That%20Blossomed%20In%20Wintertime%20%5B94CD9751%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2035%20The%20Love%20That%20Blossomed%20In%20Wintertime%20%5B94CD9751%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2035%20The%20Love%20That%20Blossomed%20In%20Wintertime%20%5B94CD9751%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - And The Doors Of Night Open",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2036%20And%20The%20Doors%20Of%20Night%20Open%20%5B3E7B4D0C%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2036%20And%20The%20Doors%20Of%20Night%20Open%20%5B3E7B4D0C%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2036%20And%20The%20Doors%20Of%20Night%20Open%20%5B3E7B4D0C%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - The One To Revolutionize The World",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2037%20The%20One%20To%20Revolutionize%20The%20World%20%5BC49813ED%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2037%20The%20One%20To%20Revolutionize%20The%20World%20%5BC49813ED%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2037%20The%20One%20To%20Revolutionize%20The%20World%20%5BC49813ED%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - The End Of The World",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2038%20The%20End%20Of%20The%20World%20%5BCB299E6B%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2038%20The%20End%20Of%20The%20World%20%5BCB299E6B%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2038%20The%20End%20Of%20The%20World%20%5BCB299E6B%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - Someday, We Will Shine Together",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2039%20Someday%2C%20We%20Will%20Shine%20Together%20%5BF5CC277C%5D.mp4",
+        "dubUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2039%20Someday%2C%20We%20Will%20Shine%20Together%20%5BF5CC277C%5D.mp4",
+        "subUrl": "https://archive.org/download/revolutionary-girl-utena/Revolutionary%20Girl%20Utena%20Episode%2039%20Someday%2C%20We%20Will%20Shine%20Together%20%5BF5CC277C%5D.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Revolutionary Girl Utena complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 39 EPS",
+    "isStaffPick": true
+  },
+  {
+    "id": 48,
+    "title": {
+      "romaji": ".hack//SIGN",
+      "english": ".hack//SIGN",
+      "native": ".hack//SIGN"
+    },
+    "description": "A young wavemaster, only known by the alias of Tsukasa, wakes up in an MMORPG called The World, with slight amnesia. He does not know what he has previously done before he woke up. In The World, he is suspected to be a hacker of the Crimson Knights, as he was seen accompanying a tweaked character in the form of a cat. Unable to log out from the game, he wanders around looking for answers, avoiding the knights and other players he meets along the way.<br><br>\nAs Tsukasa explores The World, he stumbles upon a magical item that takes the form of a 'guardian', which promises him protection from all harm. Subaru, the leader of the Crimson Knights, along with several other players who became acquainted with Tsukasa, set out to investigate why Tsukasa is unable to log out, and attempt to get to the bottom of the problem before it gets out of hand.<br><br>\n[Written by MAL Rewrite]",
+    "episodesCount": 28,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SPRING",
+    "seasonYear": 2002,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "averageScore": 66,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/48-IaBXY5cf1ZpE.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx48-1Jxw9YoMf8LZ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx48-1Jxw9YoMf8LZ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx48-1Jxw9YoMf8LZ.png",
+      "color": "#5d1ad6"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - Role Play",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%201%20Role%20Play.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%201%20Role%20Play.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%201%20Role%20Play.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - Guardian",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%202%20Guardian.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%202%20Guardian.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%202%20Guardian.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - Folklore",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%203%20Folklore.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%203%20Folklore.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%203%20Folklore.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - Wanted",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%204%20Wanted.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%204%20Wanted.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%204%20Wanted.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Captured",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%205%20Captured.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%205%20Captured.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%205%20Captured.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - Encounter",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%206%20Encounter.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%206%20Encounter.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%206%20Encounter.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Reason",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%207%20Reason.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%207%20Reason.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%207%20Reason.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Promise",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%208%20Promise.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%208%20Promise.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%208%20Promise.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Epitaph",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%209%20Epitaph.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%209%20Epitaph.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%209%20Epitaph.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Compensation",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2010%20Compensation.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2010%20Compensation.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2010%20Compensation.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Party",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2011%20Party.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2011%20Party.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2011%20Party.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Entanglement",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2012%20Entanglement.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2012%20Entanglement.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2012%20Entanglement.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - Twilight Eye",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2013%20Twilight%20Eye.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2013%20Twilight%20Eye.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2013%20Twilight%20Eye.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - Castle",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2014%20Castle.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2014%20Castle.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2014%20Castle.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - Depth",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2015%20Depth.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2015%20Depth.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2015%20Depth.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - Conflict",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2016%20Conflict.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2016%20Conflict.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2016%20Conflict.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Declaration",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2017%20Declaration.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2017%20Declaration.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2017%20Declaration.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - Recollection",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2018%20Recollection.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2018%20Recollection.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2018%20Recollection.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - Tempest",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2019%20Tempest.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2019%20Tempest.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2019%20Tempest.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - Despair",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2020%20Despair.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2020%20Despair.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2020%20Despair.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - Phantom",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2021%20Phantom.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2021%20Phantom.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2021%20Phantom.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - The Eve",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2022%20The%20Eve.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2022%20The%20Eve.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2022%20The%20Eve.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Net Slum",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2023%20Net%20Slum.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2023%20Net%20Slum.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2023%20Net%20Slum.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - Catastrophe",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2024%20Catastrophe.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2024%20Catastrophe.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2024%20Catastrophe.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - Return",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2025%20Return.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2025%20Return.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2025%20Return.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - Intermezzo",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2026%20Intermezzo.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2026%20Intermezzo.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2026%20Intermezzo.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - Evidence",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2027%20Evidence.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2027%20Evidence.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2027%20Evidence.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - Unison",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2028%20Unison.mp4",
+        "dubUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2028%20Unison.mp4",
+        "subUrl": "https://archive.org/download/hack-sign-episode-28-unison/Hack%20-%20Sign/hack--Sign%20Episode%2028%20Unison.mp4",
+        "quality": "DVD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": ".hack//SIGN complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 28 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 508,
+    "title": {
+      "romaji": "Tottoko Hamtarou",
+      "english": "Hamtaro",
+      "native": "とっとこハム太郎"
+    },
+    "description": "5th-grader Hiroko Haruna owns a hamster, and his name is Hamtarou. After moving into a new town, Hamtarou finds that he's in the company of lots of different hamsters, making up a group of hamster friends that go on crazy adventures through the city. Before they save Hiroko and other humans from nasty predicaments, however, they have to learn how to save themselves.\n<br><br>\n(Source: Anime News Network)",
+    "episodesCount": 105,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SUMMER",
+    "seasonYear": 2000,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": 67,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/508-XbM89R6MtL1O.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b508-jRcJzN1xbakv.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b508-jRcJzN1xbakv.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b508-jRcJzN1xbakv.png",
+      "color": "#e49335"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - Hamtaro",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/1%20-%20Hamtaro.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/1%20-%20Hamtaro.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/1%20-%20Hamtaro.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - The Ham-Ham Clubhouse",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/2%20-%20The%20Ham-Ham%20Clubhouse.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/2%20-%20The%20Ham-Ham%20Clubhouse.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/2%20-%20The%20Ham-Ham%20Clubhouse.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - Calling All Ham-Hams",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/3%20-%20Calling%20All%20Ham-Hams.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/3%20-%20Calling%20All%20Ham-Hams.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/3%20-%20Calling%20All%20Ham-Hams.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - Come Out, Bijou!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/4%20-%20Come%20Out%2C%20Bijou!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/4%20-%20Come%20Out%2C%20Bijou!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/4%20-%20Come%20Out%2C%20Bijou!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Diamonds of Sugar",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/5%20-%20Diamonds%20of%20Sugar.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/5%20-%20Diamonds%20of%20Sugar.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/5%20-%20Diamonds%20of%20Sugar.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - First Time at the Beach",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/6%20-%20First%20Time%20at%20the%20Beach.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/6%20-%20First%20Time%20at%20the%20Beach.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/6%20-%20First%20Time%20at%20the%20Beach.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - A Summer Festival Adventure",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/7%20-%20A%20Summer%20Festival%20Adventure.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/7%20-%20A%20Summer%20Festival%20Adventure.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/7%20-%20A%20Summer%20Festival%20Adventure.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - The Sunflower Field",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/8%20-%20The%20Sunflower%20Field.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/8%20-%20The%20Sunflower%20Field.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/8%20-%20The%20Sunflower%20Field.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Much Ado About School",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/9%20-%20Much%20Ado%20About%20School.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/9%20-%20Much%20Ado%20About%20School.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/9%20-%20Much%20Ado%20About%20School.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Jingle, the Wanderer",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/10%20-%20Jingle%2C%20the%20Wanderer.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/10%20-%20Jingle%2C%20the%20Wanderer.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/10%20-%20Jingle%2C%20the%20Wanderer.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - The Wise, Elder-Ham",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/11%20-%20The%20Wise%2C%20Elder-Ham.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/11%20-%20The%20Wise%2C%20Elder-Ham.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/11%20-%20The%20Wise%2C%20Elder-Ham.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Bijou's in Danger",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/12%20-%20Bijou's%20in%20Danger.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/12%20-%20Bijou's%20in%20Danger.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/12%20-%20Bijou's%20in%20Danger.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - Let's Dance, Sandy!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/13%20-%20Let's%20Dance%2C%20Sandy!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/13%20-%20Let's%20Dance%2C%20Sandy!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/13%20-%20Let's%20Dance%2C%20Sandy!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - Search For Sandy's Brother",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/14%20-%20Search%20For%20Sandy's%20Brother.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/14%20-%20Search%20For%20Sandy's%20Brother.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/14%20-%20Search%20For%20Sandy's%20Brother.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - Bijou's Favorite Ribbon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/15%20-%20Bijou's%20Favorite%20Ribbon.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/15%20-%20Bijou's%20Favorite%20Ribbon.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/15%20-%20Bijou's%20Favorite%20Ribbon.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - Get Well, Laura!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/16%20-%20Get%20Well%2C%20Laura!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/16%20-%20Get%20Well%2C%20Laura!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/16%20-%20Get%20Well%2C%20Laura!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Hamtaro, the Super Sleuth!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/17%20-%20Hamtaro%2C%20the%20Super%20Sleuth!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/17%20-%20Hamtaro%2C%20the%20Super%20Sleuth!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/17%20-%20Hamtaro%2C%20the%20Super%20Sleuth!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - The Slipper Chase",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/18%20-%20The%20Slipper%20Chase.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/18%20-%20The%20Slipper%20Chase.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/18%20-%20The%20Slipper%20Chase.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - Panda's Ham-Ham Fun Park",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/19%20-%20Panda's%20Ham-Ham%20Fun%20Park.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/19%20-%20Panda's%20Ham-Ham%20Fun%20Park.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/19%20-%20Panda's%20Ham-Ham%20Fun%20Park.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - The Snoozer Mystery",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/20%20-%20The%20Snoozer%20Mystery.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/20%20-%20The%20Snoozer%20Mystery.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/20%20-%20The%20Snoozer%20Mystery.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - Courage, Cappy!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/21%20-%20Courage%2C%20Cappy!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/21%20-%20Courage%2C%20Cappy!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/21%20-%20Courage%2C%20Cappy!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - Pashmina's Present",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/22%20-%20Pashmina's%20Present.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/22%20-%20Pashmina's%20Present.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/22%20-%20Pashmina's%20Present.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Maxwell's Big Scoop!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/23%20-%20Maxwell's%20Big%20Scoop!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/23%20-%20Maxwell's%20Big%20Scoop!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/23%20-%20Maxwell's%20Big%20Scoop!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - Hamtaro, Please Come Home!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/24%20-%20Hamtaro%2C%20Please%20Come%20Home!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/24%20-%20Hamtaro%2C%20Please%20Come%20Home!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/24%20-%20Hamtaro%2C%20Please%20Come%20Home!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - Merry Christmas!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/25%20-%20Merry%20Christmas!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/25%20-%20Merry%20Christmas!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/25%20-%20Merry%20Christmas!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - Legend of the Couragrous Hamtaro",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/26%20-%20Legend%20of%20the%20Couragrous%20Hamtaro.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/26%20-%20Legend%20of%20the%20Couragrous%20Hamtaro.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/26%20-%20Legend%20of%20the%20Couragrous%20Hamtaro.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - The Snowball Fight",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/27%20-%20The%20Snowball%20Fight.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/27%20-%20The%20Snowball%20Fight.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/27%20-%20The%20Snowball%20Fight.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - The Amazing Auntie Viv",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/28%20-%20The%20Amazing%20Auntie%20Viv.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/28%20-%20The%20Amazing%20Auntie%20Viv.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/28%20-%20The%20Amazing%20Auntie%20Viv.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - Search for Dad's Glasses",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/29%20-%20Search%20for%20Dad's%20Glasses.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/29%20-%20Search%20for%20Dad's%20Glasses.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/29%20-%20Search%20for%20Dad's%20Glasses.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - Boss is a Mom",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/31%20-%20Boss%20is%20a%20Mom.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/31%20-%20Boss%20is%20a%20Mom.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/31%20-%20Boss%20is%20a%20Mom.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Valentine's Day!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/32%20-%20Valentine's%20Day!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/32%20-%20Valentine's%20Day!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/32%20-%20Valentine's%20Day!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - Let's Cross the Rainbow!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/33%20-%20Let's%20Cross%20the%20Rainbow!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/33%20-%20Let's%20Cross%20the%20Rainbow!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/33%20-%20Let's%20Cross%20the%20Rainbow!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - Watching Over Cute Penelope",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/34%20-%20Watching%20Over%20Cute%20Penelope.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/34%20-%20Watching%20Over%20Cute%20Penelope.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/34%20-%20Watching%20Over%20Cute%20Penelope.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - Midnight Celebration",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/35%20-%20Midnight%20Celebration.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/35%20-%20Midnight%20Celebration.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/35%20-%20Midnight%20Celebration.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - Farewell Bijou!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/36%20-%20Farewell%20Bijou!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/36%20-%20Farewell%20Bijou!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/36%20-%20Farewell%20Bijou!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - Oxnard's Big Crush",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/37%20-%20Oxnard's%20Big%20Crush.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/37%20-%20Oxnard's%20Big%20Crush.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/37%20-%20Oxnard's%20Big%20Crush.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - The Precious Letter",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/38%20-%20The%20Precious%20Letter.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/38%20-%20The%20Precious%20Letter.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/38%20-%20The%20Precious%20Letter.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - The Flying Ham-Hams!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/39%20-%20The%20Flying%20Ham-Hams!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/39%20-%20The%20Flying%20Ham-Hams!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/39%20-%20The%20Flying%20Ham-Hams!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - The Blossom of Friendship",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/40%20-%20The%20Blossom%20of%20Friendship.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/40%20-%20The%20Blossom%20of%20Friendship.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/40%20-%20The%20Blossom%20of%20Friendship.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - The Scary Museum",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/41%20-%20The%20Scary%20Museum.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/41%20-%20The%20Scary%20Museum.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/41%20-%20The%20Scary%20Museum.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - Welcome Pepper!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/42%20-%20Welcome%20Pepper!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/42%20-%20Welcome%20Pepper!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/42%20-%20Welcome%20Pepper!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - The Great Chicken Chase",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/43%20-%20The%20Great%20Chicken%20Chase.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/43%20-%20The%20Great%20Chicken%20Chase.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/43%20-%20The%20Great%20Chicken%20Chase.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 - I Love My Grandpa!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/44%20-%20I%20Love%20My%20Grandpa!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/44%20-%20I%20Love%20My%20Grandpa!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/44%20-%20I%20Love%20My%20Grandpa!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 - Ham-Ham Gang at the Aquarium",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/45%20-%20Ham-Ham%20Gang%20at%20the%20Aquarium.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/45%20-%20Ham-Ham%20Gang%20at%20the%20Aquarium.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/45%20-%20Ham-Ham%20Gang%20at%20the%20Aquarium.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 - The Sports Festival",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/46%20-%20The%20Sports%20Festival.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/46%20-%20The%20Sports%20Festival.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/46%20-%20The%20Sports%20Festival.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 - Romancing the Roosters",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/47%20-%20Romancing%20the%20Roosters.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/47%20-%20Romancing%20the%20Roosters.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/47%20-%20Romancing%20the%20Roosters.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - Ham-Ham Clubhouse in Danger",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/48%20-%20Ham-Ham%20Clubhouse%20in%20Danger.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/48%20-%20Ham-Ham%20Clubhouse%20in%20Danger.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/48%20-%20Ham-Ham%20Clubhouse%20in%20Danger.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 - The Search for the Pendant",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/49%20-%20The%20Search%20for%20the%20Pendant.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/49%20-%20The%20Search%20for%20the%20Pendant.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/49%20-%20The%20Search%20for%20the%20Pendant.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 - Even the Ham-Hams get Seasick",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/50%20-%20Even%20the%20Ham-Hams%20get%20Seasick.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/50%20-%20Even%20the%20Ham-Hams%20get%20Seasick.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/50%20-%20Even%20the%20Ham-Hams%20get%20Seasick.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 - Stan and Sandy Make Up_arc",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/51%20-%20Stan%20and%20Sandy%20Make%20Up_arc.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/51%20-%20Stan%20and%20Sandy%20Make%20Up_arc.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/51%20-%20Stan%20and%20Sandy%20Make%20Up_arc.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 - It's Robin-Ham!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/52%20-%20It's%20Robin-Ham!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/52%20-%20It's%20Robin-Ham!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/52%20-%20It's%20Robin-Ham!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 - Peppers visit",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/53%20-%20Peppers%20visit.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/53%20-%20Peppers%20visit.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/53%20-%20Peppers%20visit.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 - Pop Star",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/54%20-%20Pop%20Star.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/54%20-%20Pop%20Star.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/54%20-%20Pop%20Star.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 - Laura is Really Gone",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/55%20-%20Laura%20is%20Really%20Gone.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/55%20-%20Laura%20is%20Really%20Gone.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/55%20-%20Laura%20is%20Really%20Gone.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 - Boss, the Cool Ham of the Sea!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/56%20-%20Boss%2C%20the%20Cool%20Ham%20of%20the%20Sea!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/56%20-%20Boss%2C%20the%20Cool%20Ham%20of%20the%20Sea!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/56%20-%20Boss%2C%20the%20Cool%20Ham%20of%20the%20Sea!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 - Ghost Mountain!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/57%20-%20Ghost%20Mountain!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/57%20-%20Ghost%20Mountain!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/57%20-%20Ghost%20Mountain!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 - The Fresh Summer Breeze!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/58%20-%20The%20Fresh%20Summer%20Breeze!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/58%20-%20The%20Fresh%20Summer%20Breeze!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/58%20-%20The%20Fresh%20Summer%20Breeze!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 - In A Pinch A Rival Appears",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/59%20-%20In%20A%20Pinch%20A%20Rival%20Appears.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/59%20-%20In%20A%20Pinch%20A%20Rival%20Appears.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/59%20-%20In%20A%20Pinch%20A%20Rival%20Appears.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 - The Chicken Contest",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/60%20-%20The%20Chicken%20Contest.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/60%20-%20The%20Chicken%20Contest.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/60%20-%20The%20Chicken%20Contest.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 - Treasure Hunting",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/61%20-%20Treasure%20Hunting.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/61%20-%20Treasure%20Hunting.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/61%20-%20Treasure%20Hunting.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 - Penelope Makes a Friend",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/62%20-%20Penelope%20Makes%20a%20Friend.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/62%20-%20Penelope%20Makes%20a%20Friend.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/62%20-%20Penelope%20Makes%20a%20Friend.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 - The Scary School Principal",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/63%20-%20The%20Scary%20School%20Principal.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/63%20-%20The%20Scary%20School%20Principal.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/63%20-%20The%20Scary%20School%20Principal.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 - The Reconciliation!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/64%20-%20The%20Reconciliation!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/64%20-%20The%20Reconciliation!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/64%20-%20The%20Reconciliation!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 - Mimi's Dream Park",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/65%20-%20Mimi's%20Dream%20Park.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/65%20-%20Mimi's%20Dream%20Park.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/65%20-%20Mimi's%20Dream%20Park.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 - The Sunflower Ferris Wheel",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/66%20-%20The%20Sunflower%20Ferris%20Wheel.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/66%20-%20The%20Sunflower%20Ferris%20Wheel.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/66%20-%20The%20Sunflower%20Ferris%20Wheel.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 - The Zoo Date",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/67%20-%20The%20Zoo%20Date.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/67%20-%20The%20Zoo%20Date.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/67%20-%20The%20Zoo%20Date.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 - The Haunting",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/68%20-%20The%20Haunting.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/68%20-%20The%20Haunting.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/68%20-%20The%20Haunting.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 - A Fortune Comes True!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/69%20-%20A%20Fortune%20Comes%20True!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/69%20-%20A%20Fortune%20Comes%20True!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/69%20-%20A%20Fortune%20Comes%20True!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 - The Baby Goat",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/70%20-%20The%20Baby%20Goat.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/70%20-%20The%20Baby%20Goat.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/70%20-%20The%20Baby%20Goat.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 - The Animal Hospital",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/71%20-%20The%20Animal%20Hospital.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/71%20-%20The%20Animal%20Hospital.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/71%20-%20The%20Animal%20Hospital.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 - The Knitting Craze",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/72%20-%20The%20Knitting%20Craze.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/72%20-%20The%20Knitting%20Craze.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/72%20-%20The%20Knitting%20Craze.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 - A Breath of Autumn!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/73%20-%20A%20Breath%20of%20Autumn!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/73%20-%20A%20Breath%20of%20Autumn!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/73%20-%20A%20Breath%20of%20Autumn!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 - Welcome Home Penelope!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/74%20-%20Welcome%20Home%20Penelope!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/74%20-%20Welcome%20Home%20Penelope!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/74%20-%20Welcome%20Home%20Penelope!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 - The Abominable Snow Woman",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/75%20-%20The%20Abominable%20Snow%20Woman.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/75%20-%20The%20Abominable%20Snow%20Woman.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/75%20-%20The%20Abominable%20Snow%20Woman.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 - Laura and the Seven Hamsters",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/76%20-%20Laura%20and%20the%20Seven%20Hamsters.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/76%20-%20Laura%20and%20the%20Seven%20Hamsters.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/76%20-%20Laura%20and%20the%20Seven%20Hamsters.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 - A Wonderful Santa Claus!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/77%20-%20A%20Wonderful%20Santa%20Claus!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/77%20-%20A%20Wonderful%20Santa%20Claus!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/77%20-%20A%20Wonderful%20Santa%20Claus!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 - The Little Bandits!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/78%20-%20The%20Little%20Bandits!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/78%20-%20The%20Little%20Bandits!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/78%20-%20The%20Little%20Bandits!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 - The New Year's Kite Adventure",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/79%20-%20The%20New%20Year's%20Kite%20Adventure.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/79%20-%20The%20New%20Year's%20Kite%20Adventure.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/79%20-%20The%20New%20Year's%20Kite%20Adventure.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 - Sunset Proposal",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/80%20-%20Sunset%20Proposal.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/80%20-%20Sunset%20Proposal.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/80%20-%20Sunset%20Proposal.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80 - Stucky's Tunnel",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/81%20-%20Stucky's%20Tunnel.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/81%20-%20Stucky's%20Tunnel.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/81%20-%20Stucky's%20Tunnel.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81 - Ham-Romance",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/82%20-%20Ham-Romance.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/82%20-%20Ham-Romance.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/82%20-%20Ham-Romance.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82 - The Kindergarten Monsters!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/83%20-%20The%20Kindergarten%20Monsters!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/83%20-%20The%20Kindergarten%20Monsters!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/83%20-%20The%20Kindergarten%20Monsters!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83 - Laura's Valentine",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/84%20-%20Laura's%20Valentine.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/84%20-%20Laura's%20Valentine.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/84%20-%20Laura's%20Valentine.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84 - Roberto's Ally",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/85%20-%20Roberto's%20Ally.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/85%20-%20Roberto's%20Ally.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/85%20-%20Roberto's%20Ally.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85 - Super Hamster Robo-joe",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/86%20-%20Super%20Hamster%20Robo-joe.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/86%20-%20Super%20Hamster%20Robo-joe.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/86%20-%20Super%20Hamster%20Robo-joe.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "Episode 86 - Maria's Birthday Party",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/87%20-%20Maria's%20Birthday%20Party.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/87%20-%20Maria's%20Birthday%20Party.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/87%20-%20Maria's%20Birthday%20Party.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Episode 87 - Nin-Ham the Ninja",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/88%20-%20Nin-Ham%20the%20Ninja.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/88%20-%20Nin-Ham%20the%20Ninja.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/88%20-%20Nin-Ham%20the%20Ninja.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Episode 88 - The Search for Spring",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/89%20-%20The%20Search%20for%20Spring.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/89%20-%20The%20Search%20for%20Spring.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/89%20-%20The%20Search%20for%20Spring.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "Episode 89 - Hamtaro and the SpaceShip!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/90%20-%20Hamtaro%20and%20the%20SpaceShip!.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/90%20-%20Hamtaro%20and%20the%20SpaceShip!.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/90%20-%20Hamtaro%20and%20the%20SpaceShip!.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Episode 90 - Boss Runs Away",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/91%20-%20Boss%20Runs%20Away.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/91%20-%20Boss%20Runs%20Away.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/91%20-%20Boss%20Runs%20Away.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Episode 91 - Auntie Viv and Elder Ham",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/92%20-%20Auntie%20Viv%20and%20Elder%20Ham.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/92%20-%20Auntie%20Viv%20and%20Elder%20Ham.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/92%20-%20Auntie%20Viv%20and%20Elder%20Ham.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Episode 92 - Hannah is in Love",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/93%20-%20Hannah%20is%20in%20Love.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/93%20-%20Hannah%20is%20in%20Love.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/93%20-%20Hannah%20is%20in%20Love.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Episode 93 - Doctor Lion",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/94%20-%20Doctor%20Lion.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/94%20-%20Doctor%20Lion.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/94%20-%20Doctor%20Lion.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Episode 94 - Dance Chef-Ham",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/95%20-%20Dance%20Chef-Ham.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/95%20-%20Dance%20Chef-Ham.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/95%20-%20Dance%20Chef-Ham.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "Episode 95 - The Flying Carp",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/96%20-%20The%20Flying%20Carp.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/96%20-%20The%20Flying%20Carp.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/96%20-%20The%20Flying%20Carp.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "Episode 96 - The Ham-Ham Express",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/97%20-%20The%20Ham-Ham%20Express.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/97%20-%20The%20Ham-Ham%20Express.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/97%20-%20The%20Ham-Ham%20Express.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "Episode 97 - Who Stole My Shoe",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/98%20-%20Who%20Stole%20My%20Shoe.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/98%20-%20Who%20Stole%20My%20Shoe.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/98%20-%20Who%20Stole%20My%20Shoe.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "Episode 98 - Keeping Promises",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/99%20-%20Keeping%20Promises.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/99%20-%20Keeping%20Promises.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/99%20-%20Keeping%20Promises.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "Episode 99 - The Very Best Present",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/100%20-%20The%20Very%20Best%20Present.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/100%20-%20The%20Very%20Best%20Present.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/100%20-%20The%20Very%20Best%20Present.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "Episode 100 - The Ham-Ham Wedding Rescue",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/101%20-%20The%20Ham-Ham%20Wedding%20Rescue.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/101%20-%20The%20Ham-Ham%20Wedding%20Rescue.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/101%20-%20The%20Ham-Ham%20Wedding%20Rescue.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "Episode 101 - Office Adventures",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/102%20-%20Office%20Adventures.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/102%20-%20Office%20Adventures.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/102%20-%20Office%20Adventures.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "Episode 102 - Ham-hams rescue Stan",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/103%20-%20Ham-hams%20rescue%20Stan.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/103%20-%20Ham-hams%20rescue%20Stan.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/103%20-%20Ham-hams%20rescue%20Stan.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "Episode 103 - The Tale of Princess Bijou",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/104%20-%20The%20Tale%20of%20Princess%20Bijou.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/104%20-%20The%20Tale%20of%20Princess%20Bijou.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/104%20-%20The%20Tale%20of%20Princess%20Bijou.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "Episode 104 - The Milky Way",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/105%20-%20The%20Milky%20Way.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/105%20-%20The%20Milky%20Way.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/105%20-%20The%20Milky%20Way.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 105,
+        "title": "Episode 105 - Ham-Ham Halloween",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/hamtaro_complete/106%20-%20Ham-Ham%20Halloween.mp4",
+        "dubUrl": "https://archive.org/download/hamtaro_complete/106%20-%20Ham-Ham%20Halloween.mp4",
+        "subUrl": "https://archive.org/download/hamtaro_complete/106%20-%20Ham-Ham%20Halloween.mp4",
+        "quality": "SD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Hamtaro complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 105 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 3972,
+    "title": {
+      "romaji": "Yu☆Gi☆Oh! 5D's",
+      "english": "Yu-Gi-Oh! 5D's",
+      "native": "遊☆戯☆王5D's（ファイブディーズ）"
+    },
+    "description": "Yu-Gi-Oh! 5D's is set in Neo Domino City some time after the events concerning Yugi Mutou (DM) and Judai Yuki (GX). A new form of dueling, \"Riding Duels\", now take place on motorcycles called \"D-Wheels\". While regular dueling still exists, Riding Duels have become a popular form of entertainment for spectators, who watch them in specially-designed stadiums.",
+    "episodesCount": 154,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "SPRING",
+    "seasonYear": 2008,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "averageScore": 73,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3972-4DZnJQsQWXpc.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3972-bSmlWKXrVvDv.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3972-bSmlWKXrVvDv.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3972-bSmlWKXrVvDv.png",
+      "color": "#5dc9e4"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20001%20DVD%20480P%20%5BD9BC2F55%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20001%20DVD%20480P%20%5BD9BC2F55%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20001%20DVD%20480P%20%5BD9BC2F55%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20002%20DVD%20480P%20%5B5B0A7879%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20002%20DVD%20480P%20%5B5B0A7879%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20002%20DVD%20480P%20%5B5B0A7879%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20003%20DVD%20480P%20%5BEC9AD797%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20003%20DVD%20480P%20%5BEC9AD797%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20003%20DVD%20480P%20%5BEC9AD797%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20004%20DVD%20480P%20%5BF27068B7%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20004%20DVD%20480P%20%5BF27068B7%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20004%20DVD%20480P%20%5BF27068B7%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20005%20DVD%20480P%20%5B61A49708%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20005%20DVD%20480P%20%5B61A49708%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20005%20DVD%20480P%20%5B61A49708%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20006%20DVD%20480P%20%5B8ADAA706%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20006%20DVD%20480P%20%5B8ADAA706%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20006%20DVD%20480P%20%5B8ADAA706%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20007%20DVD%20480P%20%5BA6EA39ED%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20007%20DVD%20480P%20%5BA6EA39ED%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20007%20DVD%20480P%20%5BA6EA39ED%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20008%20DVD%20480P%20%5B4ABD8B5D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20008%20DVD%20480P%20%5B4ABD8B5D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20008%20DVD%20480P%20%5B4ABD8B5D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20009%20DVD%20480P%20%5B27AE4886%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20009%20DVD%20480P%20%5B27AE4886%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20009%20DVD%20480P%20%5B27AE4886%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20010%20DVD%20480P%20%5B20A561B9%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20010%20DVD%20480P%20%5B20A561B9%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20010%20DVD%20480P%20%5B20A561B9%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20011%20DVD%20480P%20%5BDE291EDE%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20011%20DVD%20480P%20%5BDE291EDE%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20011%20DVD%20480P%20%5BDE291EDE%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20012%20DVD%20480P%20%5B4EE33A26%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20012%20DVD%20480P%20%5B4EE33A26%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20012%20DVD%20480P%20%5B4EE33A26%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20013%20DVD%20480P%20%5BF86D2BE0%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20013%20DVD%20480P%20%5BF86D2BE0%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20013%20DVD%20480P%20%5BF86D2BE0%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20014%20DVD%20480P%20%5BD0077CE9%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20014%20DVD%20480P%20%5BD0077CE9%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20014%20DVD%20480P%20%5BD0077CE9%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20015%20DVD%20480P%20%5B4CB8F963%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20015%20DVD%20480P%20%5B4CB8F963%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20015%20DVD%20480P%20%5B4CB8F963%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20016%20DVD%20480P%20%5B1BA16735%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20016%20DVD%20480P%20%5B1BA16735%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20016%20DVD%20480P%20%5B1BA16735%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20017%20DVD%20480P%20%5B1CADDAB1%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20017%20DVD%20480P%20%5B1CADDAB1%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20017%20DVD%20480P%20%5B1CADDAB1%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20018%20DVD%20480P%20%5BF20E9D5A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20018%20DVD%20480P%20%5BF20E9D5A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20018%20DVD%20480P%20%5BF20E9D5A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20019%20DVD%20480P%20%5B89466C23%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20019%20DVD%20480P%20%5B89466C23%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20019%20DVD%20480P%20%5B89466C23%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20020%20DVD%20480P%20%5B538FE774%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20020%20DVD%20480P%20%5B538FE774%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20020%20DVD%20480P%20%5B538FE774%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20021%20DVD%20480P%20%5BA0432CE4%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20021%20DVD%20480P%20%5BA0432CE4%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20021%20DVD%20480P%20%5BA0432CE4%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20022%20DVD%20480P%20%5B08ABF581%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20022%20DVD%20480P%20%5B08ABF581%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20022%20DVD%20480P%20%5B08ABF581%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20023%20DVD%20480P%20%5B2787F4EA%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20023%20DVD%20480P%20%5B2787F4EA%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20023%20DVD%20480P%20%5B2787F4EA%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20024%20DVD%20480P%20%5BDA7319C1%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20024%20DVD%20480P%20%5BDA7319C1%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20024%20DVD%20480P%20%5BDA7319C1%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20025%20DVD%20480P%20%5BA23B91A1%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20025%20DVD%20480P%20%5BA23B91A1%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20025%20DVD%20480P%20%5BA23B91A1%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20026%20DVD%20480P%20%5B6C34E2C4%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20026%20DVD%20480P%20%5B6C34E2C4%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20026%20DVD%20480P%20%5B6C34E2C4%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20027%20DVD%20480P%20%5BE2F5EBF8%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20027%20DVD%20480P%20%5BE2F5EBF8%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20027%20DVD%20480P%20%5BE2F5EBF8%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20028%20DVD%20480P%20%5B0860383B%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20028%20DVD%20480P%20%5B0860383B%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20028%20DVD%20480P%20%5B0860383B%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20029%20DVD%20480P%20%5B485B457D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20029%20DVD%20480P%20%5B485B457D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20029%20DVD%20480P%20%5B485B457D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20030%20DVD%20480P%20%5B90DFF5AD%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20030%20DVD%20480P%20%5B90DFF5AD%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20030%20DVD%20480P%20%5B90DFF5AD%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20031%20DVD%20480P%20%5BEE23E769%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20031%20DVD%20480P%20%5BEE23E769%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20031%20DVD%20480P%20%5BEE23E769%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20032%20DVD%20480P%20%5BFDE649E7%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20032%20DVD%20480P%20%5BFDE649E7%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20032%20DVD%20480P%20%5BFDE649E7%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20033%20DVD%20480P%20%5BC1A10DAC%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20033%20DVD%20480P%20%5BC1A10DAC%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20033%20DVD%20480P%20%5BC1A10DAC%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20034%20DVD%20480P%20%5BC2A65875%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20034%20DVD%20480P%20%5BC2A65875%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20034%20DVD%20480P%20%5BC2A65875%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20035%20DVD%20480P%20%5BD563C216%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20035%20DVD%20480P%20%5BD563C216%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20035%20DVD%20480P%20%5BD563C216%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20036%20DVD%20480P%20%5B50DB94B9%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20036%20DVD%20480P%20%5B50DB94B9%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20036%20DVD%20480P%20%5B50DB94B9%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20037%20DVD%20480P%20%5BD1D9DB13%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20037%20DVD%20480P%20%5BD1D9DB13%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20037%20DVD%20480P%20%5BD1D9DB13%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20038%20DVD%20480P%20%5BC495168A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20038%20DVD%20480P%20%5BC495168A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20038%20DVD%20480P%20%5BC495168A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20039%20DVD%20480P%20%5B2F132006%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20039%20DVD%20480P%20%5B2F132006%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20039%20DVD%20480P%20%5B2F132006%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20040%20DVD%20480P%20%5B0170AAC7%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20040%20DVD%20480P%20%5B0170AAC7%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20040%20DVD%20480P%20%5B0170AAC7%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20041%20DVD%20480P%20%5BA6E8B1E7%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20041%20DVD%20480P%20%5BA6E8B1E7%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20041%20DVD%20480P%20%5BA6E8B1E7%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20042%20DVD%20480P%20%5B36C11B09%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20042%20DVD%20480P%20%5B36C11B09%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20042%20DVD%20480P%20%5B36C11B09%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20043%20DVD%20480P%20%5BE0355B1B%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20043%20DVD%20480P%20%5BE0355B1B%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20043%20DVD%20480P%20%5BE0355B1B%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20044%20DVD%20480P%20%5B90C33B87%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20044%20DVD%20480P%20%5B90C33B87%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20044%20DVD%20480P%20%5B90C33B87%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20045%20DVD%20480P%20%5BE08D48AA%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20045%20DVD%20480P%20%5BE08D48AA%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20045%20DVD%20480P%20%5BE08D48AA%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20046%20DVD%20480P%20%5B6DB26E20%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20046%20DVD%20480P%20%5B6DB26E20%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20046%20DVD%20480P%20%5B6DB26E20%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20047%20DVD%20480P%20%5BC6B51252%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20047%20DVD%20480P%20%5BC6B51252%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20047%20DVD%20480P%20%5BC6B51252%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20048%20DVD%20480P%20%5B3867408E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20048%20DVD%20480P%20%5B3867408E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20048%20DVD%20480P%20%5B3867408E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20049%20DVD%20480P%20%5B596B4469%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20049%20DVD%20480P%20%5B596B4469%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20049%20DVD%20480P%20%5B596B4469%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20050%20DVD%20480P%20%5B85DF0280%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20050%20DVD%20480P%20%5B85DF0280%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20050%20DVD%20480P%20%5B85DF0280%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20051%20DVD%20480P%20%5B8C6CEBB6%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20051%20DVD%20480P%20%5B8C6CEBB6%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20051%20DVD%20480P%20%5B8C6CEBB6%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20052%20DVD%20480P%20%5BA7FFAA8A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20052%20DVD%20480P%20%5BA7FFAA8A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20052%20DVD%20480P%20%5BA7FFAA8A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20053%20DVD%20480P%20%5B12A42FA2%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20053%20DVD%20480P%20%5B12A42FA2%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20053%20DVD%20480P%20%5B12A42FA2%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20054%20DVD%20480P%20%5B7CF3F19D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20054%20DVD%20480P%20%5B7CF3F19D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20054%20DVD%20480P%20%5B7CF3F19D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20055%20DVD%20480P%20%5BC0030D90%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20055%20DVD%20480P%20%5BC0030D90%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20055%20DVD%20480P%20%5BC0030D90%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20056%20DVD%20480P%20%5BFD632628%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20056%20DVD%20480P%20%5BFD632628%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20056%20DVD%20480P%20%5BFD632628%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20057%20DVD%20480P%20%5B250426A6%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20057%20DVD%20480P%20%5B250426A6%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20057%20DVD%20480P%20%5B250426A6%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20058%20DVD%20480P%20%5B2AE5C2CB%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20058%20DVD%20480P%20%5B2AE5C2CB%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20058%20DVD%20480P%20%5B2AE5C2CB%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20059%20DVD%20480P%20%5B157782DE%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20059%20DVD%20480P%20%5B157782DE%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20059%20DVD%20480P%20%5B157782DE%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20060%20DVD%20480P%20%5B2EA8FC99%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20060%20DVD%20480P%20%5B2EA8FC99%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20060%20DVD%20480P%20%5B2EA8FC99%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20061%20DVD%20480P%20%5B2CC2984C%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20061%20DVD%20480P%20%5B2CC2984C%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20061%20DVD%20480P%20%5B2CC2984C%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20062%20DVD%20480P%20%5B717C3DBB%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20062%20DVD%20480P%20%5B717C3DBB%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20062%20DVD%20480P%20%5B717C3DBB%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20063%20DVD%20480P%20%5B2AB392D6%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20063%20DVD%20480P%20%5B2AB392D6%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20063%20DVD%20480P%20%5B2AB392D6%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20064%20DVD%20480P%20%5B5CD16884%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20064%20DVD%20480P%20%5B5CD16884%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20064%20DVD%20480P%20%5B5CD16884%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20065%20DVD%20480P%20%5B1DB37C3E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20065%20DVD%20480P%20%5B1DB37C3E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20065%20DVD%20480P%20%5B1DB37C3E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20066%20DVD%20480P%20%5B37C6941E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20066%20DVD%20480P%20%5B37C6941E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20066%20DVD%20480P%20%5B37C6941E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20067%20DVD%20480P%20%5BD57C8511%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20067%20DVD%20480P%20%5BD57C8511%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20067%20DVD%20480P%20%5BD57C8511%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20068%20DVD%20480P%20%5B6FA80837%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20068%20DVD%20480P%20%5B6FA80837%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20068%20DVD%20480P%20%5B6FA80837%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20069%20DVD%20480P%20%5BAC6B4F1D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20069%20DVD%20480P%20%5BAC6B4F1D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20069%20DVD%20480P%20%5BAC6B4F1D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20070%20DVD%20480P%20%5BBF7CF1AA%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20070%20DVD%20480P%20%5BBF7CF1AA%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20070%20DVD%20480P%20%5BBF7CF1AA%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20071%20DVD%20480P%20%5B2B416ECA%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20071%20DVD%20480P%20%5B2B416ECA%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20071%20DVD%20480P%20%5B2B416ECA%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20072%20DVD%20480P%20%5B743FE1FF%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20072%20DVD%20480P%20%5B743FE1FF%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20072%20DVD%20480P%20%5B743FE1FF%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20073%20DVD%20480P%20%5B8ADA8A46%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20073%20DVD%20480P%20%5B8ADA8A46%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20073%20DVD%20480P%20%5B8ADA8A46%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20074%20DVD%20480P%20%5B7ADBCDF6%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20074%20DVD%20480P%20%5B7ADBCDF6%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20074%20DVD%20480P%20%5B7ADBCDF6%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20075%20DVD%20480P%20%5B3C15B12C%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20075%20DVD%20480P%20%5B3C15B12C%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20075%20DVD%20480P%20%5B3C15B12C%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20076%20DVD%20480P%20%5BAB74E2B9%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20076%20DVD%20480P%20%5BAB74E2B9%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20076%20DVD%20480P%20%5BAB74E2B9%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20077%20DVD%20480P%20%5B86B2940E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20077%20DVD%20480P%20%5B86B2940E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20077%20DVD%20480P%20%5B86B2940E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20078%20DVD%20480P%20%5B89B48FE0%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20078%20DVD%20480P%20%5B89B48FE0%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20078%20DVD%20480P%20%5B89B48FE0%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20079%20DVD%20480P%20%5B069C2572%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20079%20DVD%20480P%20%5B069C2572%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20079%20DVD%20480P%20%5B069C2572%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20080%20DVD%20480P%20%5B41622931%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20080%20DVD%20480P%20%5B41622931%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20080%20DVD%20480P%20%5B41622931%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20081%20DVD%20480P%20%5BB04AA9EC%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20081%20DVD%20480P%20%5BB04AA9EC%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20081%20DVD%20480P%20%5BB04AA9EC%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20082%20DVD%20480P%20%5B07973431%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20082%20DVD%20480P%20%5B07973431%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20082%20DVD%20480P%20%5B07973431%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20083%20DVD%20480P%20%5B107555CA%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20083%20DVD%20480P%20%5B107555CA%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20083%20DVD%20480P%20%5B107555CA%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20084%20DVD%20480P%20%5B59DE7FCF%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20084%20DVD%20480P%20%5B59DE7FCF%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20084%20DVD%20480P%20%5B59DE7FCF%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20085%20DVD%20480P%20%5B1960EA17%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20085%20DVD%20480P%20%5B1960EA17%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20085%20DVD%20480P%20%5B1960EA17%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "Episode 86 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20086%20DVD%20480P%20%5BD9328840%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20086%20DVD%20480P%20%5BD9328840%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20086%20DVD%20480P%20%5BD9328840%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Episode 87 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20087%20DVD%20480P%20%5B14D8A51A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20087%20DVD%20480P%20%5B14D8A51A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20087%20DVD%20480P%20%5B14D8A51A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Episode 88 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20088%20DVD%20480P%20%5BAC272689%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20088%20DVD%20480P%20%5BAC272689%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20088%20DVD%20480P%20%5BAC272689%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "Episode 89 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20089%20DVD%20480P%20%5B8388A899%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20089%20DVD%20480P%20%5B8388A899%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20089%20DVD%20480P%20%5B8388A899%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Episode 90 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20090%20DVD%20480P%20%5B7146B069%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20090%20DVD%20480P%20%5B7146B069%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20090%20DVD%20480P%20%5B7146B069%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Episode 91 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20091%20DVD%20480P%20%5B72C346CE%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20091%20DVD%20480P%20%5B72C346CE%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20091%20DVD%20480P%20%5B72C346CE%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Episode 92 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20092%20DVD%20480P%20%5BF8CBAD66%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20092%20DVD%20480P%20%5BF8CBAD66%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20092%20DVD%20480P%20%5BF8CBAD66%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Episode 93 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20093%20DVD%20480P%20%5B4CF7762C%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20093%20DVD%20480P%20%5B4CF7762C%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20093%20DVD%20480P%20%5B4CF7762C%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Episode 94 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20094%20DVD%20480P%20%5B262CC35A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20094%20DVD%20480P%20%5B262CC35A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20094%20DVD%20480P%20%5B262CC35A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "Episode 95 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20095%20DVD%20480P%20%5BD74EBB4C%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20095%20DVD%20480P%20%5BD74EBB4C%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20095%20DVD%20480P%20%5BD74EBB4C%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "Episode 96 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20096%20DVD%20480P%20%5BEFAB4DC8%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20096%20DVD%20480P%20%5BEFAB4DC8%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20096%20DVD%20480P%20%5BEFAB4DC8%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "Episode 97 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20097%20DVD%20480P%20%5B9CA950F1%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20097%20DVD%20480P%20%5B9CA950F1%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20097%20DVD%20480P%20%5B9CA950F1%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "Episode 98 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20098%20DVD%20480P%20%5B64AA35F2%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20098%20DVD%20480P%20%5B64AA35F2%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20098%20DVD%20480P%20%5B64AA35F2%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "Episode 99 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20099%20DVD%20480P%20%5B1ECA708E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20099%20DVD%20480P%20%5B1ECA708E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20099%20DVD%20480P%20%5B1ECA708E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "Episode 100 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20100%20DVD%20480P%20%5BA4EA524E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20100%20DVD%20480P%20%5BA4EA524E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20100%20DVD%20480P%20%5BA4EA524E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "Episode 101 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20101%20DVD%20480P%20%5B078A2EA4%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20101%20DVD%20480P%20%5B078A2EA4%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20101%20DVD%20480P%20%5B078A2EA4%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "Episode 102 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20102%20DVD%20480P%20%5BE5DDB2F3%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20102%20DVD%20480P%20%5BE5DDB2F3%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20102%20DVD%20480P%20%5BE5DDB2F3%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "Episode 103 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20103%20DVD%20480P%20%5BBA2D89C3%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20103%20DVD%20480P%20%5BBA2D89C3%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20103%20DVD%20480P%20%5BBA2D89C3%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "Episode 104 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20104%20DVD%20480P%20%5BC26AA61A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20104%20DVD%20480P%20%5BC26AA61A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20104%20DVD%20480P%20%5BC26AA61A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 105,
+        "title": "Episode 105 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20105%20DVD%20480P%20%5B092970F9%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20105%20DVD%20480P%20%5B092970F9%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20105%20DVD%20480P%20%5B092970F9%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 106,
+        "title": "Episode 106 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20106%20DVD%20480P%20%5BCB1637BC%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20106%20DVD%20480P%20%5BCB1637BC%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20106%20DVD%20480P%20%5BCB1637BC%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 107,
+        "title": "Episode 107 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20107%20DVD%20480P%20%5BA4339BC4%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20107%20DVD%20480P%20%5BA4339BC4%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20107%20DVD%20480P%20%5BA4339BC4%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 108,
+        "title": "Episode 108 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20108%20DVD%20480P%20%5BEA128D03%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20108%20DVD%20480P%20%5BEA128D03%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20108%20DVD%20480P%20%5BEA128D03%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 109,
+        "title": "Episode 109 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20109%20DVD%20480P%20%5BB4E6A9A7%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20109%20DVD%20480P%20%5BB4E6A9A7%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20109%20DVD%20480P%20%5BB4E6A9A7%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 110,
+        "title": "Episode 110 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20110%20DVD%20480P%20%5B26E89694%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20110%20DVD%20480P%20%5B26E89694%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20110%20DVD%20480P%20%5B26E89694%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 111,
+        "title": "Episode 111 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20111%20DVD%20480P%20%5BC7E17C34%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20111%20DVD%20480P%20%5BC7E17C34%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20111%20DVD%20480P%20%5BC7E17C34%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 112,
+        "title": "Episode 112 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20112%20DVD%20480P%20%5B32912039%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20112%20DVD%20480P%20%5B32912039%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20112%20DVD%20480P%20%5B32912039%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 113,
+        "title": "Episode 113 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20113%20DVD%20480P%20%5BD4ADCB15%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20113%20DVD%20480P%20%5BD4ADCB15%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20113%20DVD%20480P%20%5BD4ADCB15%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 114,
+        "title": "Episode 114 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20114%20DVD%20480P%20%5B218D5B0B%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20114%20DVD%20480P%20%5B218D5B0B%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20114%20DVD%20480P%20%5B218D5B0B%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 115,
+        "title": "Episode 115 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20115%20DVD%20480P%20%5BD902CE4D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20115%20DVD%20480P%20%5BD902CE4D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20115%20DVD%20480P%20%5BD902CE4D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 116,
+        "title": "Episode 116 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20116%20DVD%20480P%20%5BA871C70D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20116%20DVD%20480P%20%5BA871C70D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20116%20DVD%20480P%20%5BA871C70D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 117,
+        "title": "Episode 117 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20117%20DVD%20480P%20%5BDA6D1DCC%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20117%20DVD%20480P%20%5BDA6D1DCC%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20117%20DVD%20480P%20%5BDA6D1DCC%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 118,
+        "title": "Episode 118 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20118%20DVD%20480P%20%5B3749CE85%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20118%20DVD%20480P%20%5B3749CE85%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20118%20DVD%20480P%20%5B3749CE85%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 119,
+        "title": "Episode 119 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20119%20DVD%20480P%20%5B76C0D836%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20119%20DVD%20480P%20%5B76C0D836%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20119%20DVD%20480P%20%5B76C0D836%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 120,
+        "title": "Episode 120 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20120%20DVD%20480P%20%5B7E588A42%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20120%20DVD%20480P%20%5B7E588A42%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20120%20DVD%20480P%20%5B7E588A42%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 121,
+        "title": "Episode 121 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20121%20DVD%20480P%20%5B8F57770D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20121%20DVD%20480P%20%5B8F57770D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20121%20DVD%20480P%20%5B8F57770D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 122,
+        "title": "Episode 122 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20122%20DVD%20480P%20%5B11D70B0C%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20122%20DVD%20480P%20%5B11D70B0C%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20122%20DVD%20480P%20%5B11D70B0C%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 123,
+        "title": "Episode 123 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20123%20DVD%20480P%20%5BEEA93B87%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20123%20DVD%20480P%20%5BEEA93B87%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20123%20DVD%20480P%20%5BEEA93B87%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 124,
+        "title": "Episode 124 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20124%20DVD%20480P%20%5B86B1258A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20124%20DVD%20480P%20%5B86B1258A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20124%20DVD%20480P%20%5B86B1258A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 125,
+        "title": "Episode 125 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20125%20DVD%20480P%20%5BC28193D5%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20125%20DVD%20480P%20%5BC28193D5%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20125%20DVD%20480P%20%5BC28193D5%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 126,
+        "title": "Episode 126 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20126%20DVD%20480P%20%5B2ED6B25A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20126%20DVD%20480P%20%5B2ED6B25A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20126%20DVD%20480P%20%5B2ED6B25A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 127,
+        "title": "Episode 127 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20127%20DVD%20480P%20%5B60175A19%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20127%20DVD%20480P%20%5B60175A19%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20127%20DVD%20480P%20%5B60175A19%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 128,
+        "title": "Episode 128 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20128%20DVD%20480P%20%5B481A9068%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20128%20DVD%20480P%20%5B481A9068%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20128%20DVD%20480P%20%5B481A9068%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 129,
+        "title": "Episode 129 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20129%20DVD%20480P%20%5B9FDB3A57%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20129%20DVD%20480P%20%5B9FDB3A57%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20129%20DVD%20480P%20%5B9FDB3A57%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 130,
+        "title": "Episode 130 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20130%20DVD%20480P%20%5BCCF00FBE%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20130%20DVD%20480P%20%5BCCF00FBE%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20130%20DVD%20480P%20%5BCCF00FBE%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 131,
+        "title": "Episode 131 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20131%20DVD%20480P%20%5B973B0E00%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20131%20DVD%20480P%20%5B973B0E00%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20131%20DVD%20480P%20%5B973B0E00%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 132,
+        "title": "Episode 132 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20132%20DVD%20480P%20%5BA9C8765D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20132%20DVD%20480P%20%5BA9C8765D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20132%20DVD%20480P%20%5BA9C8765D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 133,
+        "title": "Episode 133 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20133%20DVD%20480P%20%5B2F1A8F0F%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20133%20DVD%20480P%20%5B2F1A8F0F%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20133%20DVD%20480P%20%5B2F1A8F0F%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 134,
+        "title": "Episode 134 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20134%20DVD%20480P%20%5B55963B9E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20134%20DVD%20480P%20%5B55963B9E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20134%20DVD%20480P%20%5B55963B9E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 135,
+        "title": "Episode 135 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20135%20DVD%20480P%20%5BF45045ED%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20135%20DVD%20480P%20%5BF45045ED%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20135%20DVD%20480P%20%5BF45045ED%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 136,
+        "title": "Episode 136 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20136%20DVD%20480P%20%5B9F4B4936%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20136%20DVD%20480P%20%5B9F4B4936%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20136%20DVD%20480P%20%5B9F4B4936%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 137,
+        "title": "Episode 137 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20137%20DVD%20480P%20%5BA62E6877%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20137%20DVD%20480P%20%5BA62E6877%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20137%20DVD%20480P%20%5BA62E6877%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 138,
+        "title": "Episode 138 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20138%20DVD%20480P%20%5BBD253A41%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20138%20DVD%20480P%20%5BBD253A41%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20138%20DVD%20480P%20%5BBD253A41%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 139,
+        "title": "Episode 139 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20139%20DVD%20480P%20%5B4F77930A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20139%20DVD%20480P%20%5B4F77930A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20139%20DVD%20480P%20%5B4F77930A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 140,
+        "title": "Episode 140 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20140%20DVD%20480P%20%5BDCD8457A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20140%20DVD%20480P%20%5BDCD8457A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20140%20DVD%20480P%20%5BDCD8457A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 141,
+        "title": "Episode 141 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20141%20DVD%20480P%20%5B621FA0C0%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20141%20DVD%20480P%20%5B621FA0C0%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20141%20DVD%20480P%20%5B621FA0C0%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 142,
+        "title": "Episode 142 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20142%20DVD%20480P%20%5B19AF2653%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20142%20DVD%20480P%20%5B19AF2653%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20142%20DVD%20480P%20%5B19AF2653%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 143,
+        "title": "Episode 143 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20143%20DVD%20480P%20%5B799FFEBA%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20143%20DVD%20480P%20%5B799FFEBA%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20143%20DVD%20480P%20%5B799FFEBA%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 144,
+        "title": "Episode 144 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20144%20DVD%20480P%20%5BF23C4D64%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20144%20DVD%20480P%20%5BF23C4D64%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20144%20DVD%20480P%20%5BF23C4D64%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 145,
+        "title": "Episode 145 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20145%20DVD%20480P%20%5B502BDF3A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20145%20DVD%20480P%20%5B502BDF3A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20145%20DVD%20480P%20%5B502BDF3A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 146,
+        "title": "Episode 146 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20146%20DVD%20480P%20%5B4C2797FB%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20146%20DVD%20480P%20%5B4C2797FB%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20146%20DVD%20480P%20%5B4C2797FB%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 147,
+        "title": "Episode 147 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20147%20DVD%20480P%20%5B8E143B1A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20147%20DVD%20480P%20%5B8E143B1A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20147%20DVD%20480P%20%5B8E143B1A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 148,
+        "title": "Episode 148 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20148%20DVD%20480P%20%5B99A6D81A%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20148%20DVD%20480P%20%5B99A6D81A%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20148%20DVD%20480P%20%5B99A6D81A%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 149,
+        "title": "Episode 149 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20149%20DVD%20480P%20%5B7A37539E%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20149%20DVD%20480P%20%5B7A37539E%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20149%20DVD%20480P%20%5B7A37539E%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 150,
+        "title": "Episode 150 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20150%20DVD%20480P%20%5B4F0F75D0%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20150%20DVD%20480P%20%5B4F0F75D0%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20150%20DVD%20480P%20%5B4F0F75D0%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 151,
+        "title": "Episode 151 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20151%20DVD%20480P%20%5B5E5C7E1D%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20151%20DVD%20480P%20%5B5E5C7E1D%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20151%20DVD%20480P%20%5B5E5C7E1D%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 152,
+        "title": "Episode 152 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20152%20DVD%20480P%20%5B4B093D39%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20152%20DVD%20480P%20%5B4B093D39%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20152%20DVD%20480P%20%5B4B093D39%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 153,
+        "title": "Episode 153 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20153%20DVD%20480P%20%5B1DF03AE6%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20153%20DVD%20480P%20%5B1DF03AE6%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20153%20DVD%20480P%20%5B1DF03AE6%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 154,
+        "title": "Episode 154 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20154%20DVD%20480P%20%5B033FEB19%5D.mp4",
+        "dubUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20154%20DVD%20480P%20%5B033FEB19%5D.mp4",
+        "subUrl": "https://archive.org/download/yu-gi-oh-5ds_202604/%5BZichz%20Raws%5D%20Yu-Gi-Oh%205D's%20Episode%20154%20DVD%20480P%20%5B033FEB19%5D.mp4",
+        "quality": "DVD 480p",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Yu-Gi-Oh! 5D's complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 154 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 12191,
+    "title": {
+      "romaji": "Smile Precure!",
+      "english": "Glitter Force",
+      "native": "スマイルプリキュア"
+    },
+    "description": "Once upon a time, there was a kingdom of fairy tales called \"M&auml;rchenland\", where many fairy tale characters live together in joy. Suddenly, the evil emperor Pierrot made an invasion on M&auml;rchenland, sealing its Queen in the process. To revive the Queen, the symbol of happiness called Cure Decor, \"the Queen's scattered power of light of happiness\", is required. To collect the Cure Decor, a fairy named Candy searches for the Pretty Cures on Earth. There, Candy meets a girl, who decides to collect the Cure Decor. Now, will the world earn a \"happy ending\"?",
+    "episodesCount": 20,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "WINTER",
+    "seasonYear": 2012,
+    "genres": [
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "averageScore": 70,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12191-oUUT4xY215ad.jpg",
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12191-nWmjNC2appDV.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12191-nWmjNC2appDV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12191-nWmjNC2appDV.jpg",
+      "color": "#e4f143"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - An Exciting Beginning",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%201%20-%20An%20Exciting%20Beginning.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%201%20-%20An%20Exciting%20Beginning.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%201%20-%20An%20Exciting%20Beginning.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - Kelsey Gets a Makeover",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%202%20-%20Kelsey%20Gets%20a%20Makeover.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%202%20-%20Kelsey%20Gets%20a%20Makeover.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%202%20-%20Kelsey%20Gets%20a%20Makeover.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - We Want Peace! Glitter Peace!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%203%20-%20We%20Want%20Peace!%20Glitter%20Peace!.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%203%20-%20We%20Want%20Peace!%20Glitter%20Peace!.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%203%20-%20We%20Want%20Peace!%20Glitter%20Peace!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - Here Comes Glitter Spring!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%204%20-%20Here%20Comes%20Glitter%20Spring!.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%204%20-%20Here%20Comes%20Glitter%20Spring!.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%204%20-%20Here%20Comes%20Glitter%20Spring!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Glitter Breeze vs. The Witch",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%205%20-%20Glitter%20Breeze%20vs.%20The%20Witch.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%205%20-%20Glitter%20Breeze%20vs.%20The%20Witch.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%205%20-%20Glitter%20Breeze%20vs.%20The%20Witch.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - The Library of Legends",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%206%20-%20The%20Library%20of%20Legends.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%206%20-%20The%20Library%20of%20Legends.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%206%20-%20The%20Library%20of%20Legends.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - The Perfect Hideout",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%207%20-%20The%20Perfect%20Hideout.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%207%20-%20The%20Perfect%20Hideout.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%207%20-%20The%20Perfect%20Hideout.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Glitter Switchers!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%208%20-%20Glitter%20Switchers!.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%208%20-%20Glitter%20Switchers!.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%208%20-%20Glitter%20Switchers!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - April Fools!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%209%20-%20April%20Fools!.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%209%20-%20April%20Fools!.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%209%20-%20April%20Fools!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Shrink-a-Rooed!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2010%20-%20Shrink-a-Rooed!.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2010%20-%20Shrink-a-Rooed!.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2010%20-%20Shrink-a-Rooed!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Feeling Blue",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2011%20-%20Feeling%20Blue.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2011%20-%20Feeling%20Blue.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2011%20-%20Feeling%20Blue.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Emily's Unlucky Day",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2012%20-%20Emily's%20Unlucky%20Day.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2012%20-%20Emily's%20Unlucky%20Day.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2012%20-%20Emily's%20Unlucky%20Day.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - The Lost Girls",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2013%20-%20The%20Lost%20Girls.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2013%20-%20The%20Lost%20Girls.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2013%20-%20The%20Lost%20Girls.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - Mother's Day Crunch",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2014%20-%20Mother's%20Day%20Crunch.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2014%20-%20Mother's%20Day%20Crunch.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2014%20-%20Mother's%20Day%20Crunch.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - Chloe Quits",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2015%20-%20Chloe%20Quits.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2015%20-%20Chloe%20Quits.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2015%20-%20Chloe%20Quits.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - The Great Relay Race",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2016%20-%20The%20Great%20Relay%20Race.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2016%20-%20The%20Great%20Relay%20Race.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2016%20-%20The%20Great%20Relay%20Race.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - See-U-No-More",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2017%20-%20See-U-No-More.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2017%20-%20See-U-No-More.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2017%20-%20See-U-No-More.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - Wish Upon a Star",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2018%20-%20Wish%20Upon%20a%20Star.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2018%20-%20Wish%20Upon%20a%20Star.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2018%20-%20Wish%20Upon%20a%20Star.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - The Ultimate Choice",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2019%20-%20The%20Ultimate%20Choice.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2019%20-%20The%20Ultimate%20Choice.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2019%20-%20The%20Ultimate%20Choice.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - Into the Shadow Realm!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2020%20-%20Into%20the%20Shadow%20Realm!.mp4",
+        "dubUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2020%20-%20Into%20the%20Shadow%20Realm!.mp4",
+        "subUrl": "https://archive.org/download/GlitterForceArchive/Glitter%20Force%20S1%20Episode%2020%20-%20Into%20the%20Shadow%20Realm!.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Glitter Force complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 20 EPS",
+    "isStaffPick": false
+  },
+  {
+    "id": 990001,
+    "title": {
+      "english": "Chaotic",
+      "romaji": "Chaotic",
+      "native": "カオティック"
+    },
+    "description": "Tom Majors and his friend Kaz Kalinkas play the online virtual card game Chaotic. When Tom receives a special password scanner, he is transported to the real world of Chaotic, where creatures battle for supremacy in Perim.",
+    "episodesCount": 79,
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "seasonYear": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageScore": 78,
+    "bannerImage": "https://images.alphacoders.com/269/269389.jpg",
+    "coverImage": {
+      "extraLarge": "https://images2.alphacoders.com/269/thumb-1920-269389.jpg",
+      "large": "https://images2.alphacoders.com/269/thumb-1920-269389.jpg",
+      "color": "#f59e0b"
+    },
+    "hasDub": true,
+    "hasSub": true,
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - Welcome To Chaotic (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20001%20-%20Welcome%20To%20Chaotic%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20001%20-%20Welcome%20To%20Chaotic%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20001%20-%20Welcome%20To%20Chaotic%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - Welcome To Chaotic (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20002%20-%20Welcome%20To%20Chaotic%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20002%20-%20Welcome%20To%20Chaotic%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20002%20-%20Welcome%20To%20Chaotic%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - Unexpected",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20003%20-%20Unexpected%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20003%20-%20Unexpected%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20003%20-%20Unexpected%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - Over Under Rent Asunder",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20004%20-%20Over%20Under%20Rent%20Asunder%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20004%20-%20Over%20Under%20Rent%20Asunder%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20004%20-%20Over%20Under%20Rent%20Asunder%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Crash Course",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20005%20-%20Crash%20Course%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20005%20-%20Crash%20Course%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20005%20-%20Crash%20Course%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - The Thing About Bodal",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20006%20-%20The%20Thing%20About%20Bodal%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20006%20-%20The%20Thing%20About%20Bodal%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20006%20-%20The%20Thing%20About%20Bodal%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Buggin' Out",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20007%20-%20Buggin'%20Out%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20007%20-%20Buggin'%20Out%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20007%20-%20Buggin'%20Out%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Everything's In Flux",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20008%20-%20Everything's%20In%20Flux%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20008%20-%20Everything's%20In%20Flux%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20008%20-%20Everything's%20In%20Flux%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Castle Bodhran Or Bust (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20009%20-%20Castle%20Bodhran%20Or%20Bust%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20009%20-%20Castle%20Bodhran%20Or%20Bust%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20009%20-%20Castle%20Bodhran%20Or%20Bust%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Castle Bodhran Or Bust (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20010%20-%20Castle%20Bodhran%20Or%20Bust%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20010%20-%20Castle%20Bodhran%20Or%20Bust%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20010%20-%20Castle%20Bodhran%20Or%20Bust%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Lord Of Treachery",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20011%20-%20Lord%20Of%20Treachery%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20011%20-%20Lord%20Of%20Treachery%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20011%20-%20Lord%20Of%20Treachery%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Battledrome Of the Sexes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20012%20-%20Battledrome%20Of%20the%20Sexes%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20012%20-%20Battledrome%20Of%20the%20Sexes%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20012%20-%20Battledrome%20Of%20the%20Sexes%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 - Battle Lesson",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20013%20-%20Battle%20Lesson%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20013%20-%20Battle%20Lesson%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20013%20-%20Battle%20Lesson%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 - The Birth Of Borth-Majar",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20014%20-%20The%20Birth%20Of%20Borth-Majar%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20014%20-%20The%20Birth%20Of%20Borth-Majar%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20014%20-%20The%20Birth%20Of%20Borth-Majar%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 - Shifting Sands",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20015%20-%20Shifting%20Sands%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20015%20-%20Shifting%20Sands%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20015%20-%20Shifting%20Sands%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 - Fallen Hero",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20016%20-%20Fallen%20Hero%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20016%20-%20Fallen%20Hero%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20016%20-%20Fallen%20Hero%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 - Scavenger Scan",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20017%20-%20Scavenger%20Scan%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20017%20-%20Scavenger%20Scan%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20017%20-%20Scavenger%20Scan%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 - Allmageddon",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20018%20-%20Allmageddon%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20018%20-%20Allmageddon%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20018%20-%20Allmageddon%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 - A Fearsome Fate",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20019%20-%20A%20Fearsome%20Fate%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20019%20-%20A%20Fearsome%20Fate%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20019%20-%20A%20Fearsome%20Fate%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 - Maze Of Menace",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20020%20-%20Maze%20Of%20Menace%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20020%20-%20Maze%20Of%20Menace%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20020%20-%20Maze%20Of%20Menace%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 - Out In The Cold",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20021%20-%20Out%20In%20The%20Cold%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20021%20-%20Out%20In%20The%20Cold%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20021%20-%20Out%20In%20The%20Cold%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 - ChaotiKings",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20022%20-%20ChaotiKings%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20022%20-%20ChaotiKings%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20022%20-%20ChaotiKings%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 - Stelgar Strikes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20023%20-%20Stelgar%20Strikes%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20023%20-%20Stelgar%20Strikes%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20023%20-%20Stelgar%20Strikes%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 - The CodeMaster Chronicles (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20024%20-%20The%20CodeMaster%20Chronicles%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20024%20-%20The%20CodeMaster%20Chronicles%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20024%20-%20The%20CodeMaster%20Chronicles%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 - The CodeMaster Chronicles (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20025%20-%20The%20CodeMaster%20Chronicles%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20025%20-%20The%20CodeMaster%20Chronicles%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20025%20-%20The%20CodeMaster%20Chronicles%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 - The Ultimate Scan",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20026%20-%20The%20Ultimate%20Scan%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20026%20-%20The%20Ultimate%20Scan%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20026%20-%20The%20Ultimate%20Scan%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 - An Easy Win",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20027%20-%20An%20Easy%20Win%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20027%20-%20An%20Easy%20Win%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20027%20-%20An%20Easy%20Win%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 - A Flux To Far",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20028%20-%20A%20Flux%20To%20Far%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20028%20-%20A%20Flux%20To%20Far%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20028%20-%20A%20Flux%20To%20Far%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 - Chaotic Crisis",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20029%20-%20Chaotic%20Crisis%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20029%20-%20Chaotic%20Crisis%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20029%20-%20Chaotic%20Crisis%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 - The Curse Of Kor-bek",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20030%20-%20The%20Curse%20Of%20Kor-bek%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20030%20-%20The%20Curse%20Of%20Kor-bek%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20030%20-%20The%20Curse%20Of%20Kor-bek%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 - Fire Fighters",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20031%20-%20Fire%20Fighters%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20031%20-%20Fire%20Fighters%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20031%20-%20Fire%20Fighters%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 - Chasm Quest",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20032%20-%20Chasm%20Quest%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20032%20-%20Chasm%20Quest%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20032%20-%20Chasm%20Quest%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 - Train Wreck",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20033%20-%20Train%20Wreck%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20033%20-%20Train%20Wreck%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20033%20-%20Train%20Wreck%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 - Trading Cards",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20034%20-%20Trading%20Cards%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20034%20-%20Trading%20Cards%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20034%20-%20Trading%20Cards%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 - Dual Duel (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20035%20-%20Dual%20Duel%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20035%20-%20Dual%20Duel%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20035%20-%20Dual%20Duel%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 - Dual Duel (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20036%20-%20Dual%20Duel%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20036%20-%20Dual%20Duel%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20036%20-%20Dual%20Duel%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 - Going Under",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20037%20-%20Going%20Under%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20037%20-%20Going%20Under%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20037%20-%20Going%20Under%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 - Big Time",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20038%20-%20Big%20Time%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20038%20-%20Big%20Time%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20038%20-%20Big%20Time%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 - Eye Of The Maelstrom",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20039%20-%20Eye%20Of%20The%20Maelstrom%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20039%20-%20Eye%20Of%20The%20Maelstrom%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20039%20-%20Eye%20Of%20The%20Maelstrom%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 - Fighting Friendly",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20040%20-%20Fighting%20Friendly%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20040%20-%20Fighting%20Friendly%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%201/Chaotic%20-%20040%20-%20Fighting%20Friendly%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 - A Rare Hazard",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20041%20-%20A%20Rare%20Hazard%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20041%20-%20A%20Rare%20Hazard%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20041%20-%20A%20Rare%20Hazard%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 - Dangers Of Diplomacy",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20042%20-%20Dangers%20Of%20Diplomacy%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20042%20-%20Dangers%20Of%20Diplomacy%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20042%20-%20Dangers%20Of%20Diplomacy%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 - The Floundering Father",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20043%20-%20The%20Floundering%20Father%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20043%20-%20The%20Floundering%20Father%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20043%20-%20The%20Floundering%20Father%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 - Coloseum Showdown",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20044%20-%20Coloseum%20Showdown%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20044%20-%20Coloseum%20Showdown%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20044%20-%20Coloseum%20Showdown%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 - Rockwave And Roll",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20045%20-%20Rockwave%20And%20Roll%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20045%20-%20Rockwave%20And%20Roll%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20045%20-%20Rockwave%20And%20Roll%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 - Chaor's Commandos (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20046%20-%20Chaor's%20Commandos%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20046%20-%20Chaor's%20Commandos%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20046%20-%20Chaor's%20Commandos%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - Chaor's Commandos (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20047%20-%20Chaor's%20Commandos%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20047%20-%20Chaor's%20Commandos%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20047%20-%20Chaor's%20Commandos%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 - Mega Match",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20048%20-%20Mega%20Match%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20048%20-%20Mega%20Match%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20048%20-%20Mega%20Match%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 - Time's Up",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20049%20-%20Time's%20Up%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20049%20-%20Time's%20Up%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20049%20-%20Time's%20Up%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 - Gigantemtopolis",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20050%20-%20Gigantemtopolis%20%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20050%20-%20Gigantemtopolis%20%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20050%20-%20Gigantemtopolis%20%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 - War Beasts",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20051%20-%20War%20Beasts%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20051%20-%20War%20Beasts%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20051%20-%20War%20Beasts%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 - From The Deep (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20052%20-%20From%20The%20Deep%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20052%20-%20From%20The%20Deep%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20052%20-%20From%20The%20Deep%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 - From The Deep (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20053%20-%20From%20The%20Deep%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20053%20-%20From%20The%20Deep%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20053%20-%20From%20The%20Deep%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 - Tale Of Two Toms",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20054%20-%20Tale%20Of%20Two%20Toms.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20054%20-%20Tale%20Of%20Two%20Toms.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20054%20-%20Tale%20Of%20Two%20Toms.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 - Blight Fight",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20055%20-%20Blight%20Fight%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20055%20-%20Blight%20Fight%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20055%20-%20Blight%20Fight%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 - Newbie",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20056%20-%20Newbie%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20056%20-%20Newbie%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20056%20-%20Newbie%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 - Putting The Muge In Mugic",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20057%20-%20Putting%20The%20Muge%20In%20Mugic%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20057%20-%20Putting%20The%20Muge%20In%20Mugic%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20057%20-%20Putting%20The%20Muge%20In%20Mugic%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 - Mister E",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20058%20-%20Mister%20E%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20058%20-%20Mister%20E%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20058%20-%20Mister%20E%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 - When A Codemaster Calls",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20059%20-%20When%20A%20Codemaster%20Calls%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20059%20-%20When%20A%20Codemaster%20Calls%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20059%20-%20When%20A%20Codemaster%20Calls%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 - Earth To Kaz",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20060%20-%20Earth%20To%20Kaz%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20060%20-%20Earth%20To%20Kaz%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20060%20-%20Earth%20To%20Kaz%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 - Raznus Returns",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20061%20-%20Raznus%20Returns%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20061%20-%20Raznus%20Returns%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20061%20-%20Raznus%20Returns%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 - Warriors Of Eternity",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20062%20-%20Warriors%20Of%20Eternity%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20062%20-%20Warriors%20Of%20Eternity%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20062%20-%20Warriors%20Of%20Eternity%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 - Underworld Overthrown",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20063%20-%20Underworld%20Overthrown%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20063%20-%20Underworld%20Overthrown%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20063%20-%20Underworld%20Overthrown%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 - Triple Threat",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20064%20-%20Triple%20Threat%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20064%20-%20Triple%20Threat%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20064%20-%20Triple%20Threat%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 - Last Stand (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20065%20-%20Last%20Stand%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20065%20-%20Last%20Stand%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20065%20-%20Last%20Stand%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 - Last Stand (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20066%20-%20Last%20Stand%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20066%20-%20Last%20Stand%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20066%20-%20Last%20Stand%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 - Legions Of Aa'une",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20067%20-%20Legions%20Of%20Aa'une%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20067%20-%20Legions%20Of%20Aa'une%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%202%20-%20Marillian%20Invasion/Chaotic%20-%20067%20-%20Legions%20Of%20Aa'une%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 - Perithon!",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20068%20-%20Perithon!%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20068%20-%20Perithon!%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20068%20-%20Perithon!%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 - Worlds Apart",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20069%20-%20Worlds%20Apart%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20069%20-%20Worlds%20Apart%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20069%20-%20Worlds%20Apart%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 - Kickin' Bot",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20070%20-%20Kickin'%20Bot%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20070%20-%20Kickin'%20Bot%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20070%20-%20Kickin'%20Bot%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 - Hotekk's Challenge (Part 1)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20071%20-%20Hotekk's%20Challenge%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20071%20-%20Hotekk's%20Challenge%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20071%20-%20Hotekk's%20Challenge%20(Part%201)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 - Hotekk's Challenge (Part 2)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20072%20-%20Hotekk's%20Challenge%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20072%20-%20Hotekk's%20Challenge%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20072%20-%20Hotekk's%20Challenge%20(Part%202)%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 - Yesterday's Heroes",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20073%20-%20Yesterday's%20Heroes%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20073%20-%20Yesterday's%20Heroes%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20073%20-%20Yesterday's%20Heroes%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 - Loser's Circle",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20074%20-%20Loser's%20Circle%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20074%20-%20Loser's%20Circle%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20074%20-%20Loser's%20Circle%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 - A Gigantic Mission",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20075%20-%20A%20Gigantic%20Mission%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20075%20-%20A%20Gigantic%20Mission%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20075%20-%20A%20Gigantic%20Mission%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 - Threshold Of Destruction",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20076%20-%20Threshold%20Of%20Destruction%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20076%20-%20Threshold%20Of%20Destruction%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20076%20-%20Threshold%20Of%20Destruction%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 - A Peytonic Adventure",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20077%20-%20A%20Peytonic%20Adventure%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20077%20-%20A%20Peytonic%20Adventure%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20077%20-%20A%20Peytonic%20Adventure%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 - Elementary",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20078%20-%20Elementary%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20078%20-%20Elementary%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20078%20-%20Elementary%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 - Son Of The Spiritlands",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20079%20-%20Son%20Of%20The%20Spiritlands%20%20%20%5BDarkDream%5D.mp4",
+        "dubUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20079%20-%20Son%20Of%20The%20Spiritlands%20%20%20%5BDarkDream%5D.mp4",
+        "subUrl": "https://archive.org/download/torrent-C0CFA0EF4E444AE3D0C9D04FBC9AF3696AAD3505/Season%203%20-%20Secrets%20Of%20The%20Lost%20City/Chaotic%20-%20079%20-%20Son%20Of%20The%20Spiritlands%20%20%20%5BDarkDream%5D.mp4",
+        "quality": "HD",
+        "source": "AniSphere Direct"
+      }
+    ],
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Action Violence"
+    ],
+    "staffNotes": "Chaotic complete series in full native playback!",
+    "badgeText": "COMPLETE SERIES • 79 EPS",
+    "isStaffPick": false
   }
 ];

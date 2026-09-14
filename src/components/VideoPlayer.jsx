@@ -13,7 +13,9 @@ import {
   Zap,
   Tv,
   CheckCircle2,
-  Languages
+  Languages,
+  Server,
+  RefreshCw
 } from 'lucide-react';
 
 import { OUR_ANIME_CATALOG } from '../data/ourAnimeService';
@@ -44,8 +46,29 @@ export default function VideoPlayer({
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
-  const [volume, setVolume] = useState(1);
-  const [isMuted, setIsMuted] = useState(false);
+  const [volume, setVolume] = useState(() => {
+    try {
+      const saved = localStorage.getItem('anisphere_player_volume');
+      return saved !== null ? parseFloat(saved) : 1;
+    } catch (e) {
+      return 1;
+    }
+  });
+  const [isMuted, setIsMuted] = useState(() => {
+    try {
+      return localStorage.getItem('anisphere_player_muted') === 'true';
+    } catch (e) {
+      return false;
+    }
+  });
+  const [selectedServer, setSelectedServer] = useState(() => {
+    try {
+      return localStorage.getItem('anisphere_stream_server') || 'direct';
+    } catch (e) {
+      return 'direct';
+    }
+  });
+  const [hasAutoFailedOver, setHasAutoFailedOver] = useState(false);
   const [playbackSpeed, setPlaybackSpeed] = useState(1);
   const [showControls, setShowControls] = useState(true);
   const [isFullscreen, setIsFullscreen] = useState(false);
@@ -107,17 +130,30 @@ export default function VideoPlayer({
         ? 'dub'
         : 'sub';
 
-  const videoSrc = effectiveAudioLang === 'dub'
+  const rawVideoSrc = effectiveAudioLang === 'dub'
     ? (currentEpObj?.dubUrl || currentEpObj?.hdUrl || currentEpObj?.videoUrl)
     : (currentEpObj?.subUrl || currentEpObj?.hdUrl || currentEpObj?.videoUrl);
 
-  // Dynamic stream quality + source labels (no more fake hardcoded 1080p)
+  const videoSrc = React.useMemo(() => {
+    if (!rawVideoSrc) return '';
+    if (selectedServer === 'proxy') {
+      return `/mproxy?u=${encodeURIComponent(rawVideoSrc)}`;
+    }
+    return rawVideoSrc;
+  }, [rawVideoSrc, selectedServer]);
+
+  // Reset auto-failover flag when changing episodes or anime
+  useEffect(() => {
+    setHasAutoFailedOver(false);
+  }, [episode, anime?.id]);
+
+  // Dynamic stream quality + source labels
   const streamQuality = (() => {
     if (currentEpObj?.quality) return currentEpObj.quality;
     if (currentEpObj?.videoUrl?.includes('archive.org')) return 'HD';
     return 'HD';
   })();
-  const streamSource = currentEpObj?.source || 'AniSphere Direct';
+  const streamSource = selectedServer === 'proxy' ? 'Turbo Edge Proxy' : (currentEpObj?.source || 'Direct CDN');
 
   // Keep isFullscreen in sync with the browser fullscreen API
   useEffect(() => {
@@ -404,18 +440,26 @@ export default function VideoPlayer({
       videoRef.current.volume = val;
       videoRef.current.muted = val === 0;
     }
+    try {
+      localStorage.setItem('anisphere_player_volume', String(val));
+      localStorage.setItem('anisphere_player_muted', String(val === 0));
+    } catch (err) {}
   };
 
   const toggleMute = () => {
     if (!videoRef.current) return;
-    if (isMuted) {
+    const nextMuted = !isMuted;
+    if (nextMuted) {
+      videoRef.current.muted = true;
+      setIsMuted(true);
+    } else {
       videoRef.current.muted = false;
       videoRef.current.volume = volume || 1;
       setIsMuted(false);
-    } else {
-      videoRef.current.muted = true;
-      setIsMuted(true);
     }
+    try {
+      localStorage.setItem('anisphere_player_muted', String(nextMuted));
+    } catch (err) {}
   };
 
   const skipTime = (amount) => {
@@ -447,12 +491,66 @@ export default function VideoPlayer({
   };
 
   const handleWaiting = () => {
-    // Only surface the buffer overlay after a short grace period so
-    // brief network stalls don't flash the loader on and off
     if (bufferingTimerRef.current) clearTimeout(bufferingTimerRef.current);
     bufferingTimerRef.current = setTimeout(() => {
       setShowBuffering(true);
-    }, 700);
+      // Auto failover to Turbo Edge Proxy if direct server stalls for > 4.5 seconds
+      if (selectedServer === 'direct' && !hasAutoFailedOver) {
+        setHasAutoFailedOver(true);
+        if (videoRef.current) {
+          previousSeekRef.current = videoRef.current.currentTime || 0;
+        }
+        setSelectedServer('proxy');
+        try { localStorage.setItem('anisphere_stream_server', 'proxy'); } catch (e) {}
+        showToast('🚀 Turbo Edge Proxy activated for smoother buffer');
+      }
+    }, 4500);
+  };
+
+  const handleVideoError = () => {
+    console.warn('Video error on server:', selectedServer);
+    if (selectedServer === 'direct' && !hasAutoFailedOver) {
+      setHasAutoFailedOver(true);
+      if (videoRef.current) {
+        previousSeekRef.current = videoRef.current.currentTime || 0;
+      }
+      setSelectedServer('proxy');
+      try { localStorage.setItem('anisphere_stream_server', 'proxy'); } catch (e) {}
+      showToast('⚡ Auto-switched to Turbo Edge Proxy');
+      return;
+    }
+    setIsLoadingVideo(false);
+    setIsPlaying(false);
+  };
+
+  const switchServer = (srv) => {
+    if (srv === selectedServer) return;
+    if (videoRef.current) {
+      previousSeekRef.current = videoRef.current.currentTime || 0;
+    }
+    setSelectedServer(srv);
+    try { localStorage.setItem('anisphere_stream_server', srv); } catch (e) {}
+    showToast(`Switched to ${srv === 'proxy' ? 'Turbo Edge Proxy' : 'Direct CDN'}`);
+  };
+
+  const reloadStream = () => {
+    const video = videoRef.current;
+    if (!video) return;
+    previousSeekRef.current = video.currentTime || 0;
+    video.load();
+    showToast('🔄 Stream reloaded');
+  };
+
+  const togglePip = async () => {
+    try {
+      if (document.pictureInPictureElement) {
+        await document.exitPictureInPicture();
+      } else if (videoRef.current && document.pictureInPictureEnabled) {
+        await videoRef.current.requestPictureInPicture();
+      }
+    } catch (e) {
+      console.warn('PiP error:', e);
+    }
   };
 
   return (
@@ -480,6 +578,39 @@ export default function VideoPlayer({
         <div className="flex items-center gap-1.5 px-3 py-1.5 bg-emerald-500/20 text-emerald-300 border border-emerald-500/40 rounded-xl text-xs font-black shadow-sm">
           <Volume2 className="w-3.5 h-3.5 text-emerald-400" />
           <span>100% ENGLISH DUB</span>
+        </div>
+
+        {/* Server Selector Hub */}
+        <div className="flex items-center gap-1 bg-black/60 border border-white/10 rounded-xl p-1 text-xs shadow-inner">
+          <div className="flex items-center gap-1 px-1.5 text-[11px] font-bold text-gray-400">
+            <Server className="w-3 h-3 text-amber-400" />
+            <span className="hidden md:inline">Server:</span>
+          </div>
+          <button
+            type="button"
+            onClick={() => switchServer('direct')}
+            className={`px-2 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider transition-all ${
+              selectedServer === 'direct'
+                ? 'bg-amber-500 text-[#0a0f0c] shadow-md'
+                : 'text-gray-300 hover:text-white hover:bg-white/10'
+            }`}
+            title="Direct CDN: Fastest native stream with low latency"
+          >
+            Direct CDN
+          </button>
+          <button
+            type="button"
+            onClick={() => switchServer('proxy')}
+            className={`px-2 py-1 rounded-lg text-[10px] font-black uppercase tracking-wider transition-all flex items-center gap-1 ${
+              selectedServer === 'proxy'
+                ? 'bg-teal-400 text-[#0a0f0c] shadow-md'
+                : 'text-gray-300 hover:text-white hover:bg-white/10'
+            }`}
+            title="Turbo Edge Proxy: Cloudflare edge route with anti-buffering"
+          >
+            <Zap className="w-2.5 h-2.5" />
+            Turbo Proxy
+          </button>
         </div>
 
         {/* Episode Stepper & Fullscreen */}
@@ -551,10 +682,7 @@ export default function VideoPlayer({
                 setShowBuffering(false);
               }}
               onPause={() => setIsPlaying(false)}
-              onError={() => {
-                setIsLoadingVideo(false);
-                setIsPlaying(false);
-              }}
+              onError={handleVideoError}
               playsInline
               className="w-full h-full object-contain cursor-pointer"
             />
@@ -745,6 +873,28 @@ export default function VideoPlayer({
                     ))}
                   </div>
 
+                  {/* Reload Stream / Buffer Recovery Button */}
+                  <button
+                    type="button"
+                    onClick={reloadStream}
+                    className="p-2 rounded-xl bg-white/10 hover:bg-white/20 text-white transition-colors"
+                    title="Reload Stream (Buffer Recovery)"
+                  >
+                    <RefreshCw className="w-4 h-4" />
+                  </button>
+
+                  {/* Picture-in-Picture */}
+                  {typeof document !== 'undefined' && document.pictureInPictureEnabled && (
+                    <button
+                      type="button"
+                      onClick={togglePip}
+                      className="p-2 rounded-xl bg-white/10 hover:bg-white/20 text-white transition-colors hidden sm:flex items-center justify-center"
+                      title="Picture-in-Picture"
+                    >
+                      <Tv className="w-4 h-4" />
+                    </button>
+                  )}
+
                   {/* Fullscreen Button */}
                   <button
                     type="button"
@@ -776,8 +926,9 @@ export default function VideoPlayer({
         </div>
 
         <div className="flex items-center gap-3">
-          <span className="text-amber-300 font-semibold">
-            AniSphere Direct Stream • {streamQuality.toUpperCase()}
+          <span className={`font-semibold flex items-center gap-1.5 ${selectedServer === 'proxy' ? 'text-teal-300' : 'text-amber-300'}`}>
+            <span className={`w-1.5 h-1.5 rounded-full ${selectedServer === 'proxy' ? 'bg-teal-400' : 'bg-amber-400'} animate-pulse`} />
+            {streamSource} • {streamQuality.toUpperCase()}
           </span>
         </div>
       </div>

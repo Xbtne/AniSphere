@@ -1,3 +1,36 @@
+2026-09-14 — Ultra Streaming Services Upgrade & Massive Library Expansion (+17 Series, +918 Verified Episodes)
+
+### ⚡ Streaming Engine & Service Upgrades:
+- **Multi-Server Streaming Architecture**: Built-in Server Selector allows users to switch on-the-fly between **Server 1 (Direct CDN - lowest latency)** and **Server 2 (Turbo Edge Proxy - anti-throttling & edge cached)**.
+- **Intelligent Auto-Failover Engine**: If an Archive.org direct stream encounters network errors or stalls for > 4.5 seconds, the player automatically switches to the Cloudflare Turbo Edge Proxy, seamlessly resuming from the exact playback second.
+- **Cloudflare Edge Proxy Enhancement (`functions/mproxy.js`)**: Added HTTP Range header pass-through, edge caching (`public, max-age=14400, s-maxage=86400`), proper CORS headers, and browser user-agent spoofing to avoid ISP throttling.
+- **Buffer Recovery / Stream Reload**: Added one-click Stream Reload button in the player control bar to clear stalls instantly without page refreshing.
+- **Picture-in-Picture (PiP) Support**: Added native PiP button allowing viewers to multitask while enjoying episodes.
+- **Persistent Volume & Audio Settings**: Volume level and mute states now persist across episode transitions and reloads in `localStorage`.
+
+### 🌟 17 New Complete Anime Series Added (+918 Episodes):
+- **Yu-Gi-Oh! 5D's** (`id: 3972`): Complete Series (**154 Episodes**) in English Dub.
+- **Hamtaro** (`id: 508`): Complete Classic Series (**105 Episodes**) in English Dub.
+- **Maison Ikkoku** (`id: 1453`): Complete Classic Series (**94 Episodes**) in English Dub.
+- **Chaotic** (`id: 990001`): Complete Series (**79 Episodes**) in English Dub.
+- **Dragon Ball GT** (`id: 225`): Complete Remastered 1080p HD Series (**64 Episodes**) in English Dub.
+- **Digimon Adventure (2020)** (`id: 114811`): Complete Series (**67 Episodes**) in English Dub.
+- **Digimon Ghost Game** (`id: 137309`): Complete Series (**67 Episodes**) with full Subtitles.
+- **Digimon Fusion** (`id: 8624`): Complete Series (**54 Episodes**) in English Dub.
+- **Digimon Data Squad** (`id: 859`): Complete Series (**48 Episodes**) in English Dub.
+- **Revolutionary Girl Utena** (`id: 440`): Complete Series (**39 Episodes**) in English Dub.
+- **Yo-kai Watch** (`id: 19157`): Complete Season 1 (**34 Episodes**) in 720p HDTV English Dub.
+- **.hack//SIGN** (`id: 48`): Complete Series (**28 Episodes**) in English Dub.
+- **Berserk (1997)** (`id: 33`): Complete Remastered Series (**25 Episodes**) in English Dub.
+- **Glitter Force (Smile Precure!)** (`id: 12191`): Complete Series (**20 Episodes**) in English Dub.
+- **Bakemonogatari** (`id: 5081`): Complete 1080p BD Series (**15 Episodes**) with Subtitles.
+- **Noragami** (`id: 20447`): Complete Season 1 (**12 Episodes**) in English Dub.
+- **My First Girlfriend is a Gal** (`id: 97863`): Complete Season (**10 Episodes**) in English Dub.
+
+**Total AniSphere Catalog:** 137 Complete Anime | 5,952 Verified Native MP4 Streaming Episodes.
+
+---
+
 2026-09-14 — Mega Library Expansion (+15 Series, +748 Verified Episodes)
 
 ### 🌟 15 Major Complete Anime Series Added (+748 Episodes):

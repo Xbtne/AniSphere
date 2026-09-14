@@ -42,10 +42,11 @@ export async function onRequest(context) {
     if (range) proxyHeaders.set('Range', range);
     const ifRange = request.headers.get('if-range');
     if (ifRange) proxyHeaders.set('If-Range', ifRange);
-    const accept = request.headers.get('accept');
-    if (accept) proxyHeaders.set('Accept', accept);
-    const userAgent = request.headers.get('user-agent');
-    if (userAgent) proxyHeaders.set('User-Agent', userAgent);
+    const accept = request.headers.get('accept') || '*/*';
+    proxyHeaders.set('Accept', accept);
+    const userAgent = request.headers.get('user-agent') || 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
+    proxyHeaders.set('User-Agent', userAgent);
+    proxyHeaders.set('Referer', 'https://archive.org/');
 
     const upstream = await fetch(upstreamUrl.toString(), {
       method: request.method === 'HEAD' ? 'HEAD' : 'GET',
@@ -55,11 +56,17 @@ export async function onRequest(context) {
 
     const responsesHeaders = new Headers(upstream.headers);
     responsesHeaders.set('Access-Control-Allow-Origin', '*');
+    responsesHeaders.set('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS');
+    responsesHeaders.set('Access-Control-Allow-Headers', 'Range, If-Range, Content-Type');
     if (range) responsesHeaders.set('X-Forwarded-Range', range);
     responsesHeaders.set(
       'Access-Control-Expose-Headers',
       'Content-Range, Accept-Ranges, Content-Length, Content-Type'
     );
+    // Cache static media at edge for faster repeated seeks and smoother playback
+    if (upstream.status === 200 || upstream.status === 206) {
+      responsesHeaders.set('Cache-Control', 'public, max-age=14400, s-maxage=86400');
+    }
 
     return new Response(upstream.body, {
       status: upstream.status,
