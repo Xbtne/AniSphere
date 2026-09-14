@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 3586 verified English Dub streams across 100 complete anime!
+// Total: 4286 verified English Dub streams across 105 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -1357,7 +1357,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "SEASON 1 • 63 DUB EPS",
+    "badgeText": "COMPLETE SERIES • 366 DUB EPS",
     "isMature": false,
     "contentRating": "TV-14",
     "contentWarnings": [
@@ -1367,507 +1367,2931 @@ export const OUR_ANIME_CATALOG = [
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Episode 1: A Shinigami Is Born! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2001.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2001.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2001.mp4"
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E01.mp4"
       },
       {
         "episodeNumber": 2,
-        "title": "Episode 2: A Shinigami's Work (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2002.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2002.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2002.mp4"
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E02.mp4"
       },
       {
         "episodeNumber": 3,
-        "title": "Episode 3: The Older Brother's Wish, the Younger Sister's Wish (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2003.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2003.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2003.mp4"
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E03.mp4"
       },
       {
         "episodeNumber": 4,
-        "title": "Episode 4: Cursed Parakeet (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2004.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2004.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2004.mp4"
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E04.mp4"
       },
       {
         "episodeNumber": 5,
-        "title": "Episode 5: Beat the Invisible Enemy! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2005.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2005.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2005.mp4"
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E05.mp4"
       },
       {
         "episodeNumber": 6,
-        "title": "Episode 6: Fight to the Death! Ichigo vs. Ichigo (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2006.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2006.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2006.mp4"
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E06.mp4"
       },
       {
         "episodeNumber": 7,
-        "title": "Episode 7: Greetings from a Stuffed Lion (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2007.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2007.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2007.mp4"
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E07.mp4"
       },
       {
         "episodeNumber": 8,
-        "title": "Episode 8: June 17, Memories in the Rain (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2008.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2008.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2008.mp4"
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E08.mp4"
       },
       {
         "episodeNumber": 9,
-        "title": "Episode 9: Unbeatable Enemy (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2009.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2009.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2009.mp4"
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E09.mp4"
       },
       {
         "episodeNumber": 10,
-        "title": "Episode 10: Assault on Trip at Sacred Ground! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2010.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2010.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2010.mp4"
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E10.mp4"
       },
       {
         "episodeNumber": 11,
-        "title": "Episode 11: The Legendary Quincy (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2011.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2011.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2011.mp4"
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E11.mp4"
       },
       {
         "episodeNumber": 12,
-        "title": "Episode 12: A Gentle Right Arm (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2012.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2012.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2012.mp4"
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E12.mp4"
       },
       {
         "episodeNumber": 13,
-        "title": "Episode 13: Flower and Hollow (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2013.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2013.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2013.mp4"
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E13.mp4"
       },
       {
         "episodeNumber": 14,
-        "title": "Episode 14: Back to Back, a Fight to the Death! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2014.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2014.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2014.mp4"
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E14.mp4"
       },
       {
         "episodeNumber": 15,
-        "title": "Episode 15: Rukia's Great Plan (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2015.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2015.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2015.mp4"
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E15.mp4"
       },
       {
         "episodeNumber": 16,
-        "title": "Episode 16: The Right Arm of the Giant (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2016.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2016.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2016.mp4"
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E16.mp4"
       },
       {
         "episodeNumber": 17,
-        "title": "Episode 17: The Death of the Punk (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2017.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2017.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2017.mp4"
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E17.mp4"
       },
       {
         "episodeNumber": 18,
-        "title": "Episode 18: Reclaim! The Power of the Shinigami (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2018.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2018.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2018.mp4"
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E18.mp4"
       },
       {
         "episodeNumber": 19,
-        "title": "Episode 19: Ichigo, Becomes a Hollow! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2019.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2019.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2019.mp4"
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E19.mp4"
       },
       {
         "episodeNumber": 20,
-        "title": "Episode 20: Ichimaru Gin's Shadow (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2020.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2020.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2020.mp4"
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S01/Bleach%20-%20S01E20.mp4"
       },
       {
         "episodeNumber": 21,
-        "title": "Episode 21: Enter! The World of the Shinigami (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2021.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2021.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2021.mp4"
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E01.mp4"
       },
       {
         "episodeNumber": 22,
-        "title": "Episode 22: The Man Who Hates Shinigami (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2022.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2022.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2022.mp4"
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E02.mp4"
       },
       {
         "episodeNumber": 23,
-        "title": "Episode 23: 14 Days Before Rukia's Execution (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2023.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2023.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2023.mp4"
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E03.mp4"
       },
       {
         "episodeNumber": 24,
-        "title": "Episode 24: Assemble! The 13 Divisions (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2024.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2024.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2024.mp4"
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E04.mp4"
       },
       {
         "episodeNumber": 25,
-        "title": "Episode 25: Penetrate the Center with an Enormous Cannonball? (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2025.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2025.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2025.mp4"
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E05.mp4"
       },
       {
         "episodeNumber": 26,
-        "title": "Episode 26: Formation! The Worst Tag (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2026.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2026.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2026.mp4"
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E06.mp4"
       },
       {
         "episodeNumber": 27,
-        "title": "Episode 27: Release the Death Blow! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2027.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2027.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2027.mp4"
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E07.mp4"
       },
       {
         "episodeNumber": 28,
-        "title": "Episode 28: Orihime Targetted (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2028.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2028.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2028.mp4"
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E08.mp4"
       },
       {
         "episodeNumber": 29,
-        "title": "Episode 29: Breakthrough! The Shinigami's Encompassing Net (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2029.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2029.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2029.mp4"
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E09.mp4"
       },
       {
         "episodeNumber": 30,
-        "title": "Episode 30: Renji's Confrontation (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2030.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2030.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2030.mp4"
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E10.mp4"
       },
       {
         "episodeNumber": 31,
-        "title": "Episode 31: The Resolution to Kill (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2031.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2031.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2031.mp4"
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E11.mp4"
       },
       {
         "episodeNumber": 32,
-        "title": "Episode 32: Stars and the Stray (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2032.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2032.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2032.mp4"
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E12.mp4"
       },
       {
         "episodeNumber": 33,
-        "title": "Episode 33: Miracle! The Mysterious New Hero (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2033.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2033.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2033.mp4"
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E13.mp4"
       },
       {
         "episodeNumber": 34,
-        "title": "Episode 34: Tragedy of Dawn (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2034.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2034.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2034.mp4"
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E14.mp4"
       },
       {
         "episodeNumber": 35,
-        "title": "Episode 35: Aizen Assassinated! The Darkness which Approaches (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2035.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2035.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2035.mp4"
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E15.mp4"
       },
       {
         "episodeNumber": 36,
-        "title": "Episode 36: Zaraki Kenpachi Approaches! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2036.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2036.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2036.mp4"
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E16.mp4"
       },
       {
         "episodeNumber": 37,
-        "title": "Episode 37: Motive of the Fist (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2037.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2037.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2037.mp4"
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E17.mp4"
       },
       {
         "episodeNumber": 38,
-        "title": "Episode 38: Desperation! The Broken Zangetsu (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2038.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2038.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2038.mp4"
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E18.mp4"
       },
       {
         "episodeNumber": 39,
-        "title": "Episode 39: The Immortal Man (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2039.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2039.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2039.mp4"
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E19.mp4"
       },
       {
         "episodeNumber": 40,
-        "title": "Episode 40: The Shinigami whom Ganju Met (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2040.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2040.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2040.mp4"
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E20.mp4"
       },
       {
         "episodeNumber": 41,
-        "title": "Episode 41: Reunion, Ichigo and Rukia (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2041.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2041.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2041.mp4"
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S02/Bleach%20-%20S02E21.mp4"
       },
       {
         "episodeNumber": 42,
-        "title": "Episode 42: Yoruichi, God of Speed, Dances! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2042.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2042.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2042.mp4"
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E01.mp4"
       },
       {
         "episodeNumber": 43,
-        "title": "Episode 43: The Despicable Shinigami (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2043.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2043.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2043.mp4"
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E02.mp4"
       },
       {
         "episodeNumber": 44,
-        "title": "Episode 44: Ishida's Ultimate Power! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2044.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2044.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2044.mp4"
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E03.mp4"
       },
       {
         "episodeNumber": 45,
-        "title": "Episode 45: Overcoming Limits! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2045.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2045.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2045.mp4"
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E04.mp4"
       },
       {
         "episodeNumber": 46,
-        "title": "Episode 46: Authentic Records! School of Shinigami (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2046.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2046.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2046.mp4"
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E05.mp4"
       },
       {
         "episodeNumber": 47,
-        "title": "Episode 47: The Avengers (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2047.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2047.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2047.mp4"
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E06.mp4"
       },
       {
         "episodeNumber": 48,
-        "title": "Episode 48: Hitsugaya, Roars! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2048.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2048.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2048.mp4"
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E07.mp4"
       },
       {
         "episodeNumber": 49,
-        "title": "Episode 49: Rukia's Nightmare (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2049.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2049.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2049.mp4"
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E08.mp4"
       },
       {
         "episodeNumber": 50,
-        "title": "Episode 50: The Reviving Lion (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2050.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2050.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2050.mp4"
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E09.mp4"
       },
       {
         "episodeNumber": 51,
-        "title": "Episode 51: Morning of the Execution (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2051.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2051.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2051.mp4"
+        "title": "Episode 51 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E10.mp4"
       },
       {
         "episodeNumber": 52,
-        "title": "Episode 52: Renji, Oath of the Soul! Fierce Fight with Byakuya (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2052.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2052.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2052.mp4"
+        "title": "Episode 52 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E11.mp4"
       },
       {
         "episodeNumber": 53,
-        "title": "Episode 53: Gin Ichimaru's Temptation, Resolution of Destruction (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2053.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2053.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2053.mp4"
+        "title": "Episode 53 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E12.mp4"
       },
       {
         "episodeNumber": 54,
-        "title": "Episode 54: An Accomplished Oath! Get Back Rukia! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2054.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2054.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2054.mp4"
+        "title": "Episode 54 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E13.mp4"
       },
       {
         "episodeNumber": 55,
-        "title": "Episode 55: The Strongest Shinigami! Ultimate Confrontation Between Teacher and Students (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2055.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2055.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2055.mp4"
+        "title": "Episode 55 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E14.mp4"
       },
       {
         "episodeNumber": 56,
-        "title": "Episode 56: Supersonic Battle! Determine the Goddess of Battle (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2056.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2056.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2056.mp4"
+        "title": "Episode 56 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E15.mp4"
       },
       {
         "episodeNumber": 57,
-        "title": "Episode 57: Senbonzakura, Crushed! Zangetsu Thrusts Through the Sky (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2057.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2057.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2057.mp4"
+        "title": "Episode 57 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E16.mp4"
       },
       {
         "episodeNumber": 58,
-        "title": "Episode 58: Unseal! The Black Blade, the Miraculous Power (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2058.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2058.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2058.mp4"
+        "title": "Episode 58 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E17.mp4"
       },
       {
         "episodeNumber": 59,
-        "title": "Episode 59: Conclusion of the Death Match! White Pride and Black Desire (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2059.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2059.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2059.mp4"
+        "title": "Episode 59 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E18.mp4"
       },
       {
         "episodeNumber": 60,
-        "title": "Episode 60: Reality of the Despair, the Assassin's Dagger is Drawn (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2060.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2060.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2060.mp4"
+        "title": "Episode 60 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E19.mp4"
       },
       {
         "episodeNumber": 61,
-        "title": "Episode 61: Aizen Stands! Horrible Ambitions (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2061.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2061.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2061.mp4"
+        "title": "Episode 61 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E20.mp4"
       },
       {
         "episodeNumber": 62,
-        "title": "Episode 62: Gather Together! Group of the Strongest Shinigami! (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2062.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2062.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2062.mp4"
+        "title": "Episode 62 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E21.mp4"
       },
       {
         "episodeNumber": 63,
-        "title": "Episode 63: Rukia's Resolution, Ichigo's Feelings (English Dub)",
-        "duration": "23:40",
-        "videoUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2063.mp4",
-        "dubUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2063.mp4",
-        "subUrl": "https://archive.org/download/bleachenglish1-63/Bleach%20Episode%2063.mp4"
+        "title": "Episode 63 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S03/Bleach%20-%20S03E22.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E01.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E02.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E03.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E04.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E05.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E06.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E07.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E08.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E09.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E10.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E11.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E12.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E13.mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E14.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E15.mp4"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E16.mp4"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E17.mp4"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E18.mp4"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E19.mp4"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E20.mp4"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E21.mp4"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E22.mp4"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "Episode 86 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E23.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E23.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E23.mp4"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Episode 87 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E24.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E24.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E24.mp4"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Episode 88 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E25.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E25.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E25.mp4"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "Episode 89 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E26.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E26.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E26.mp4"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Episode 90 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E27.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E27.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E27.mp4"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Episode 91 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E28.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E28.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S04/Bleach%20-%20S04E28.mp4"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Episode 92 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E01.mp4"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Episode 93 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E02.mp4"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Episode 94 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E03.mp4"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "Episode 95 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E04.mp4"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "Episode 96 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E05.mp4"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "Episode 97 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E06.mp4"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "Episode 98 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E07.mp4"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "Episode 99 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E08.mp4"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "Episode 100 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E09.mp4"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "Episode 101 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E10.mp4"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "Episode 102 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E11.mp4"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "Episode 103 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E12.mp4"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "Episode 104 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E13.mp4"
+      },
+      {
+        "episodeNumber": 105,
+        "title": "Episode 105 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E14.mp4"
+      },
+      {
+        "episodeNumber": 106,
+        "title": "Episode 106 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E15.mp4"
+      },
+      {
+        "episodeNumber": 107,
+        "title": "Episode 107 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E16.mp4"
+      },
+      {
+        "episodeNumber": 108,
+        "title": "Episode 108 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E17.mp4"
+      },
+      {
+        "episodeNumber": 109,
+        "title": "Episode 109 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S05/Bleach%20-%20S05E18.mp4"
+      },
+      {
+        "episodeNumber": 110,
+        "title": "Episode 110 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E01.mp4"
+      },
+      {
+        "episodeNumber": 111,
+        "title": "Episode 111 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E02.mp4"
+      },
+      {
+        "episodeNumber": 112,
+        "title": "Episode 112 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E03.mp4"
+      },
+      {
+        "episodeNumber": 113,
+        "title": "Episode 113 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E04.mp4"
+      },
+      {
+        "episodeNumber": 114,
+        "title": "Episode 114 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E05.mp4"
+      },
+      {
+        "episodeNumber": 115,
+        "title": "Episode 115 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E06.mp4"
+      },
+      {
+        "episodeNumber": 116,
+        "title": "Episode 116 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E07.mp4"
+      },
+      {
+        "episodeNumber": 117,
+        "title": "Episode 117 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E08.mp4"
+      },
+      {
+        "episodeNumber": 118,
+        "title": "Episode 118 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E09.mp4"
+      },
+      {
+        "episodeNumber": 119,
+        "title": "Episode 119 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E10.mp4"
+      },
+      {
+        "episodeNumber": 120,
+        "title": "Episode 120 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E11.mp4"
+      },
+      {
+        "episodeNumber": 121,
+        "title": "Episode 121 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E12.mp4"
+      },
+      {
+        "episodeNumber": 122,
+        "title": "Episode 122 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E13.mp4"
+      },
+      {
+        "episodeNumber": 123,
+        "title": "Episode 123 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E14.mp4"
+      },
+      {
+        "episodeNumber": 124,
+        "title": "Episode 124 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E15.mp4"
+      },
+      {
+        "episodeNumber": 125,
+        "title": "Episode 125 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E16.mp4"
+      },
+      {
+        "episodeNumber": 126,
+        "title": "Episode 126 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E17.mp4"
+      },
+      {
+        "episodeNumber": 127,
+        "title": "Episode 127 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E18.mp4"
+      },
+      {
+        "episodeNumber": 128,
+        "title": "Episode 128 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E19.mp4"
+      },
+      {
+        "episodeNumber": 129,
+        "title": "Episode 129 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E20.mp4"
+      },
+      {
+        "episodeNumber": 130,
+        "title": "Episode 130 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E21.mp4"
+      },
+      {
+        "episodeNumber": 131,
+        "title": "Episode 131 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S06/Bleach%20-%20S06E22.mp4"
+      },
+      {
+        "episodeNumber": 132,
+        "title": "Episode 132 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E01.mp4"
+      },
+      {
+        "episodeNumber": 133,
+        "title": "Episode 133 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E02.mp4"
+      },
+      {
+        "episodeNumber": 134,
+        "title": "Episode 134 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E03.mp4"
+      },
+      {
+        "episodeNumber": 135,
+        "title": "Episode 135 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E04.mp4"
+      },
+      {
+        "episodeNumber": 136,
+        "title": "Episode 136 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E05.mp4"
+      },
+      {
+        "episodeNumber": 137,
+        "title": "Episode 137 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E06.mp4"
+      },
+      {
+        "episodeNumber": 138,
+        "title": "Episode 138 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E07.mp4"
+      },
+      {
+        "episodeNumber": 139,
+        "title": "Episode 139 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E08.mp4"
+      },
+      {
+        "episodeNumber": 140,
+        "title": "Episode 140 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E09.mp4"
+      },
+      {
+        "episodeNumber": 141,
+        "title": "Episode 141 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E10.mp4"
+      },
+      {
+        "episodeNumber": 142,
+        "title": "Episode 142 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E11.mp4"
+      },
+      {
+        "episodeNumber": 143,
+        "title": "Episode 143 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E12.mp4"
+      },
+      {
+        "episodeNumber": 144,
+        "title": "Episode 144 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E13.mp4"
+      },
+      {
+        "episodeNumber": 145,
+        "title": "Episode 145 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E14.mp4"
+      },
+      {
+        "episodeNumber": 146,
+        "title": "Episode 146 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E15.mp4"
+      },
+      {
+        "episodeNumber": 147,
+        "title": "Episode 147 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E16.mp4"
+      },
+      {
+        "episodeNumber": 148,
+        "title": "Episode 148 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E17.mp4"
+      },
+      {
+        "episodeNumber": 149,
+        "title": "Episode 149 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E18.mp4"
+      },
+      {
+        "episodeNumber": 150,
+        "title": "Episode 150 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E19.mp4"
+      },
+      {
+        "episodeNumber": 151,
+        "title": "Episode 151 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S07/Bleach%20-%20S07E20.mp4"
+      },
+      {
+        "episodeNumber": 152,
+        "title": "Episode 152 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E01.mp4"
+      },
+      {
+        "episodeNumber": 153,
+        "title": "Episode 153 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E02.mp4"
+      },
+      {
+        "episodeNumber": 154,
+        "title": "Episode 154 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E03.mp4"
+      },
+      {
+        "episodeNumber": 155,
+        "title": "Episode 155 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E04.mp4"
+      },
+      {
+        "episodeNumber": 156,
+        "title": "Episode 156 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E05.mp4"
+      },
+      {
+        "episodeNumber": 157,
+        "title": "Episode 157 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E06.mp4"
+      },
+      {
+        "episodeNumber": 158,
+        "title": "Episode 158 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E07.mp4"
+      },
+      {
+        "episodeNumber": 159,
+        "title": "Episode 159 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E08.mp4"
+      },
+      {
+        "episodeNumber": 160,
+        "title": "Episode 160 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E09.mp4"
+      },
+      {
+        "episodeNumber": 161,
+        "title": "Episode 161 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E10.mp4"
+      },
+      {
+        "episodeNumber": 162,
+        "title": "Episode 162 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E11.mp4"
+      },
+      {
+        "episodeNumber": 163,
+        "title": "Episode 163 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E12.mp4"
+      },
+      {
+        "episodeNumber": 164,
+        "title": "Episode 164 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E13.mp4"
+      },
+      {
+        "episodeNumber": 165,
+        "title": "Episode 165 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E14.mp4"
+      },
+      {
+        "episodeNumber": 166,
+        "title": "Episode 166 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E15.mp4"
+      },
+      {
+        "episodeNumber": 167,
+        "title": "Episode 167 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S08/Bleach%20-%20S08E16.mp4"
+      },
+      {
+        "episodeNumber": 168,
+        "title": "Episode 168 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E01.mp4"
+      },
+      {
+        "episodeNumber": 169,
+        "title": "Episode 169 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E02.mp4"
+      },
+      {
+        "episodeNumber": 170,
+        "title": "Episode 170 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E03.mp4"
+      },
+      {
+        "episodeNumber": 171,
+        "title": "Episode 171 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E04.mp4"
+      },
+      {
+        "episodeNumber": 172,
+        "title": "Episode 172 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E05.mp4"
+      },
+      {
+        "episodeNumber": 173,
+        "title": "Episode 173 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E06.mp4"
+      },
+      {
+        "episodeNumber": 174,
+        "title": "Episode 174 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E07.mp4"
+      },
+      {
+        "episodeNumber": 175,
+        "title": "Episode 175 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E08.mp4"
+      },
+      {
+        "episodeNumber": 176,
+        "title": "Episode 176 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E09.mp4"
+      },
+      {
+        "episodeNumber": 177,
+        "title": "Episode 177 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E10.mp4"
+      },
+      {
+        "episodeNumber": 178,
+        "title": "Episode 178 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E11.mp4"
+      },
+      {
+        "episodeNumber": 179,
+        "title": "Episode 179 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E12.mp4"
+      },
+      {
+        "episodeNumber": 180,
+        "title": "Episode 180 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E13.mp4"
+      },
+      {
+        "episodeNumber": 181,
+        "title": "Episode 181 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E14.mp4"
+      },
+      {
+        "episodeNumber": 182,
+        "title": "Episode 182 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E15.mp4"
+      },
+      {
+        "episodeNumber": 183,
+        "title": "Episode 183 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E16.mp4"
+      },
+      {
+        "episodeNumber": 184,
+        "title": "Episode 184 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E17.mp4"
+      },
+      {
+        "episodeNumber": 185,
+        "title": "Episode 185 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E18.mp4"
+      },
+      {
+        "episodeNumber": 186,
+        "title": "Episode 186 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E19.mp4"
+      },
+      {
+        "episodeNumber": 187,
+        "title": "Episode 187 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E20.mp4"
+      },
+      {
+        "episodeNumber": 188,
+        "title": "Episode 188 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E21.mp4"
+      },
+      {
+        "episodeNumber": 189,
+        "title": "Episode 189 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S09/Bleach%20-%20S09E22.mp4"
+      },
+      {
+        "episodeNumber": 190,
+        "title": "Episode 190 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E01.mp4"
+      },
+      {
+        "episodeNumber": 191,
+        "title": "Episode 191 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E02.mp4"
+      },
+      {
+        "episodeNumber": 192,
+        "title": "Episode 192 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E03.mp4"
+      },
+      {
+        "episodeNumber": 193,
+        "title": "Episode 193 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E04.mp4"
+      },
+      {
+        "episodeNumber": 194,
+        "title": "Episode 194 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E05.mp4"
+      },
+      {
+        "episodeNumber": 195,
+        "title": "Episode 195 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E06.mp4"
+      },
+      {
+        "episodeNumber": 196,
+        "title": "Episode 196 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E07.mp4"
+      },
+      {
+        "episodeNumber": 197,
+        "title": "Episode 197 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E08.mp4"
+      },
+      {
+        "episodeNumber": 198,
+        "title": "Episode 198 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E09.mp4"
+      },
+      {
+        "episodeNumber": 199,
+        "title": "Episode 199 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E10.mp4"
+      },
+      {
+        "episodeNumber": 200,
+        "title": "Episode 200 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E11.mp4"
+      },
+      {
+        "episodeNumber": 201,
+        "title": "Episode 201 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E12.mp4"
+      },
+      {
+        "episodeNumber": 202,
+        "title": "Episode 202 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E13.mp4"
+      },
+      {
+        "episodeNumber": 203,
+        "title": "Episode 203 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E14.mp4"
+      },
+      {
+        "episodeNumber": 204,
+        "title": "Episode 204 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E15.mp4"
+      },
+      {
+        "episodeNumber": 205,
+        "title": "Episode 205 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S10/Bleach%20-%20S10E16.mp4"
+      },
+      {
+        "episodeNumber": 206,
+        "title": "Episode 206 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E01.mp4"
+      },
+      {
+        "episodeNumber": 207,
+        "title": "Episode 207 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E02.mp4"
+      },
+      {
+        "episodeNumber": 208,
+        "title": "Episode 208 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E03.mp4"
+      },
+      {
+        "episodeNumber": 209,
+        "title": "Episode 209 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E04.mp4"
+      },
+      {
+        "episodeNumber": 210,
+        "title": "Episode 210 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E05.mp4"
+      },
+      {
+        "episodeNumber": 211,
+        "title": "Episode 211 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E06.mp4"
+      },
+      {
+        "episodeNumber": 212,
+        "title": "Episode 212 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S11/Bleach%20-%20S11E07.mp4"
+      },
+      {
+        "episodeNumber": 213,
+        "title": "Episode 213 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E01.mp4"
+      },
+      {
+        "episodeNumber": 214,
+        "title": "Episode 214 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E02.mp4"
+      },
+      {
+        "episodeNumber": 215,
+        "title": "Episode 215 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E03.mp4"
+      },
+      {
+        "episodeNumber": 216,
+        "title": "Episode 216 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E04.mp4"
+      },
+      {
+        "episodeNumber": 217,
+        "title": "Episode 217 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E05.mp4"
+      },
+      {
+        "episodeNumber": 218,
+        "title": "Episode 218 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E06.mp4"
+      },
+      {
+        "episodeNumber": 219,
+        "title": "Episode 219 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E07.mp4"
+      },
+      {
+        "episodeNumber": 220,
+        "title": "Episode 220 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E08.mp4"
+      },
+      {
+        "episodeNumber": 221,
+        "title": "Episode 221 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E09.mp4"
+      },
+      {
+        "episodeNumber": 222,
+        "title": "Episode 222 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E10.mp4"
+      },
+      {
+        "episodeNumber": 223,
+        "title": "Episode 223 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E11.mp4"
+      },
+      {
+        "episodeNumber": 224,
+        "title": "Episode 224 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E12.mp4"
+      },
+      {
+        "episodeNumber": 225,
+        "title": "Episode 225 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E13.mp4"
+      },
+      {
+        "episodeNumber": 226,
+        "title": "Episode 226 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E14.mp4"
+      },
+      {
+        "episodeNumber": 227,
+        "title": "Episode 227 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E15.mp4"
+      },
+      {
+        "episodeNumber": 228,
+        "title": "Episode 228 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E16.mp4"
+      },
+      {
+        "episodeNumber": 229,
+        "title": "Episode 229 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S12/Bleach%20-%20S12E17.mp4"
+      },
+      {
+        "episodeNumber": 230,
+        "title": "Episode 230 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E01.mp4"
+      },
+      {
+        "episodeNumber": 231,
+        "title": "Episode 231 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E02.mp4"
+      },
+      {
+        "episodeNumber": 232,
+        "title": "Episode 232 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E03.mp4"
+      },
+      {
+        "episodeNumber": 233,
+        "title": "Episode 233 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E04.mp4"
+      },
+      {
+        "episodeNumber": 234,
+        "title": "Episode 234 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E05.mp4"
+      },
+      {
+        "episodeNumber": 235,
+        "title": "Episode 235 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E06.mp4"
+      },
+      {
+        "episodeNumber": 236,
+        "title": "Episode 236 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E07.mp4"
+      },
+      {
+        "episodeNumber": 237,
+        "title": "Episode 237 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E08.mp4"
+      },
+      {
+        "episodeNumber": 238,
+        "title": "Episode 238 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E09.mp4"
+      },
+      {
+        "episodeNumber": 239,
+        "title": "Episode 239 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E10.mp4"
+      },
+      {
+        "episodeNumber": 240,
+        "title": "Episode 240 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E11.mp4"
+      },
+      {
+        "episodeNumber": 241,
+        "title": "Episode 241 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E12.mp4"
+      },
+      {
+        "episodeNumber": 242,
+        "title": "Episode 242 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E13.mp4"
+      },
+      {
+        "episodeNumber": 243,
+        "title": "Episode 243 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E14.mp4"
+      },
+      {
+        "episodeNumber": 244,
+        "title": "Episode 244 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E15.mp4"
+      },
+      {
+        "episodeNumber": 245,
+        "title": "Episode 245 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E16.mp4"
+      },
+      {
+        "episodeNumber": 246,
+        "title": "Episode 246 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E17.mp4"
+      },
+      {
+        "episodeNumber": 247,
+        "title": "Episode 247 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E18.mp4"
+      },
+      {
+        "episodeNumber": 248,
+        "title": "Episode 248 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E19.mp4"
+      },
+      {
+        "episodeNumber": 249,
+        "title": "Episode 249 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E20.mp4"
+      },
+      {
+        "episodeNumber": 250,
+        "title": "Episode 250 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E21.mp4"
+      },
+      {
+        "episodeNumber": 251,
+        "title": "Episode 251 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E22.mp4"
+      },
+      {
+        "episodeNumber": 252,
+        "title": "Episode 252 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E23.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E23.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E23.mp4"
+      },
+      {
+        "episodeNumber": 253,
+        "title": "Episode 253 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E24.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E24.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E24.mp4"
+      },
+      {
+        "episodeNumber": 254,
+        "title": "Episode 254 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E25.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E25.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E25.mp4"
+      },
+      {
+        "episodeNumber": 255,
+        "title": "Episode 255 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E26.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E26.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E26.mp4"
+      },
+      {
+        "episodeNumber": 256,
+        "title": "Episode 256 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E27.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E27.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E27.mp4"
+      },
+      {
+        "episodeNumber": 257,
+        "title": "Episode 257 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E28.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E28.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E28.mp4"
+      },
+      {
+        "episodeNumber": 258,
+        "title": "Episode 258 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E29.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E29.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E29.mp4"
+      },
+      {
+        "episodeNumber": 259,
+        "title": "Episode 259 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E30.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E30.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E30.mp4"
+      },
+      {
+        "episodeNumber": 260,
+        "title": "Episode 260 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E31.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E31.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E31.mp4"
+      },
+      {
+        "episodeNumber": 261,
+        "title": "Episode 261 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E32.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E32.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E32.mp4"
+      },
+      {
+        "episodeNumber": 262,
+        "title": "Episode 262 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E33.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E33.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E33.mp4"
+      },
+      {
+        "episodeNumber": 263,
+        "title": "Episode 263 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E34.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E34.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E34.mp4"
+      },
+      {
+        "episodeNumber": 264,
+        "title": "Episode 264 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E35.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E35.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E35.mp4"
+      },
+      {
+        "episodeNumber": 265,
+        "title": "Episode 265 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E36.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E36.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S13/Bleach%20-%20S13E36.mp4"
+      },
+      {
+        "episodeNumber": 266,
+        "title": "Episode 266 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E01.mp4"
+      },
+      {
+        "episodeNumber": 267,
+        "title": "Episode 267 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E02.mp4"
+      },
+      {
+        "episodeNumber": 268,
+        "title": "Episode 268 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E03.mp4"
+      },
+      {
+        "episodeNumber": 269,
+        "title": "Episode 269 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E04.mp4"
+      },
+      {
+        "episodeNumber": 270,
+        "title": "Episode 270 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E05.mp4"
+      },
+      {
+        "episodeNumber": 271,
+        "title": "Episode 271 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E06.mp4"
+      },
+      {
+        "episodeNumber": 272,
+        "title": "Episode 272 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E07.mp4"
+      },
+      {
+        "episodeNumber": 273,
+        "title": "Episode 273 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E08.mp4"
+      },
+      {
+        "episodeNumber": 274,
+        "title": "Episode 274 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E09.mp4"
+      },
+      {
+        "episodeNumber": 275,
+        "title": "Episode 275 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E10.mp4"
+      },
+      {
+        "episodeNumber": 276,
+        "title": "Episode 276 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E11.mp4"
+      },
+      {
+        "episodeNumber": 277,
+        "title": "Episode 277 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E12.mp4"
+      },
+      {
+        "episodeNumber": 278,
+        "title": "Episode 278 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E13.mp4"
+      },
+      {
+        "episodeNumber": 279,
+        "title": "Episode 279 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E14.mp4"
+      },
+      {
+        "episodeNumber": 280,
+        "title": "Episode 280 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E15.mp4"
+      },
+      {
+        "episodeNumber": 281,
+        "title": "Episode 281 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E16.mp4"
+      },
+      {
+        "episodeNumber": 282,
+        "title": "Episode 282 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E17.mp4"
+      },
+      {
+        "episodeNumber": 283,
+        "title": "Episode 283 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E18.mp4"
+      },
+      {
+        "episodeNumber": 284,
+        "title": "Episode 284 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E19.mp4"
+      },
+      {
+        "episodeNumber": 285,
+        "title": "Episode 285 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E20.mp4"
+      },
+      {
+        "episodeNumber": 286,
+        "title": "Episode 286 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E21.mp4"
+      },
+      {
+        "episodeNumber": 287,
+        "title": "Episode 287 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E22.mp4"
+      },
+      {
+        "episodeNumber": 288,
+        "title": "Episode 288 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E23.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E23.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E23.mp4"
+      },
+      {
+        "episodeNumber": 289,
+        "title": "Episode 289 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E24.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E24.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E24.mp4"
+      },
+      {
+        "episodeNumber": 290,
+        "title": "Episode 290 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E25.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E25.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E25.mp4"
+      },
+      {
+        "episodeNumber": 291,
+        "title": "Episode 291 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E26.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E26.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E26.mp4"
+      },
+      {
+        "episodeNumber": 292,
+        "title": "Episode 292 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E27.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E27.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E27.mp4"
+      },
+      {
+        "episodeNumber": 293,
+        "title": "Episode 293 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E28.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E28.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E28.mp4"
+      },
+      {
+        "episodeNumber": 294,
+        "title": "Episode 294 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E29.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E29.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E29.mp4"
+      },
+      {
+        "episodeNumber": 295,
+        "title": "Episode 295 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E30.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E30.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E30.mp4"
+      },
+      {
+        "episodeNumber": 296,
+        "title": "Episode 296 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E31.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E31.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E31.mp4"
+      },
+      {
+        "episodeNumber": 297,
+        "title": "Episode 297 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E32.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E32.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E32.mp4"
+      },
+      {
+        "episodeNumber": 298,
+        "title": "Episode 298 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E33.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E33.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E33.mp4"
+      },
+      {
+        "episodeNumber": 299,
+        "title": "Episode 299 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E34.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E34.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E34.mp4"
+      },
+      {
+        "episodeNumber": 300,
+        "title": "Episode 300 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E35.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E35.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E35.mp4"
+      },
+      {
+        "episodeNumber": 301,
+        "title": "Episode 301 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E36.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E36.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E36.mp4"
+      },
+      {
+        "episodeNumber": 302,
+        "title": "Episode 302 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E37.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E37.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E37.mp4"
+      },
+      {
+        "episodeNumber": 303,
+        "title": "Episode 303 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E38.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E38.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E38.mp4"
+      },
+      {
+        "episodeNumber": 304,
+        "title": "Episode 304 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E39.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E39.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E39.mp4"
+      },
+      {
+        "episodeNumber": 305,
+        "title": "Episode 305 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E40.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E40.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E40.mp4"
+      },
+      {
+        "episodeNumber": 306,
+        "title": "Episode 306 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E41.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E41.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E41.mp4"
+      },
+      {
+        "episodeNumber": 307,
+        "title": "Episode 307 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E42.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E42.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E42.mp4"
+      },
+      {
+        "episodeNumber": 308,
+        "title": "Episode 308 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E43.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E43.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E43.mp4"
+      },
+      {
+        "episodeNumber": 309,
+        "title": "Episode 309 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E44.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E44.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E44.mp4"
+      },
+      {
+        "episodeNumber": 310,
+        "title": "Episode 310 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E45.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E45.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E45.mp4"
+      },
+      {
+        "episodeNumber": 311,
+        "title": "Episode 311 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E46.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E46.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E46.mp4"
+      },
+      {
+        "episodeNumber": 312,
+        "title": "Episode 312 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E47.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E47.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E47.mp4"
+      },
+      {
+        "episodeNumber": 313,
+        "title": "Episode 313 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E48.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E48.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E48.mp4"
+      },
+      {
+        "episodeNumber": 314,
+        "title": "Episode 314 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E49.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E49.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E49.mp4"
+      },
+      {
+        "episodeNumber": 315,
+        "title": "Episode 315 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E50.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E50.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E50.mp4"
+      },
+      {
+        "episodeNumber": 316,
+        "title": "Episode 316 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E51.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E51.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S14/Bleach%20-%20S14E51.mp4"
+      },
+      {
+        "episodeNumber": 317,
+        "title": "Episode 317 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E01.mp4"
+      },
+      {
+        "episodeNumber": 318,
+        "title": "Episode 318 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E02.mp4"
+      },
+      {
+        "episodeNumber": 319,
+        "title": "Episode 319 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E03.mp4"
+      },
+      {
+        "episodeNumber": 320,
+        "title": "Episode 320 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E04.mp4"
+      },
+      {
+        "episodeNumber": 321,
+        "title": "Episode 321 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E05.mp4"
+      },
+      {
+        "episodeNumber": 322,
+        "title": "Episode 322 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E06.mp4"
+      },
+      {
+        "episodeNumber": 323,
+        "title": "Episode 323 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E07.mp4"
+      },
+      {
+        "episodeNumber": 324,
+        "title": "Episode 324 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E08.mp4"
+      },
+      {
+        "episodeNumber": 325,
+        "title": "Episode 325 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E09.mp4"
+      },
+      {
+        "episodeNumber": 326,
+        "title": "Episode 326 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E10.mp4"
+      },
+      {
+        "episodeNumber": 327,
+        "title": "Episode 327 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E11.mp4"
+      },
+      {
+        "episodeNumber": 328,
+        "title": "Episode 328 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E12.mp4"
+      },
+      {
+        "episodeNumber": 329,
+        "title": "Episode 329 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E13.mp4"
+      },
+      {
+        "episodeNumber": 330,
+        "title": "Episode 330 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E14.mp4"
+      },
+      {
+        "episodeNumber": 331,
+        "title": "Episode 331 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E15.mp4"
+      },
+      {
+        "episodeNumber": 332,
+        "title": "Episode 332 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E16.mp4"
+      },
+      {
+        "episodeNumber": 333,
+        "title": "Episode 333 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E17.mp4"
+      },
+      {
+        "episodeNumber": 334,
+        "title": "Episode 334 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E18.mp4"
+      },
+      {
+        "episodeNumber": 335,
+        "title": "Episode 335 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E19.mp4"
+      },
+      {
+        "episodeNumber": 336,
+        "title": "Episode 336 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E20.mp4"
+      },
+      {
+        "episodeNumber": 337,
+        "title": "Episode 337 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E21.mp4"
+      },
+      {
+        "episodeNumber": 338,
+        "title": "Episode 338 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E22.mp4"
+      },
+      {
+        "episodeNumber": 339,
+        "title": "Episode 339 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E23.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E23.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E23.mp4"
+      },
+      {
+        "episodeNumber": 340,
+        "title": "Episode 340 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E24.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E24.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E24.mp4"
+      },
+      {
+        "episodeNumber": 341,
+        "title": "Episode 341 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E25.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E25.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E25.mp4"
+      },
+      {
+        "episodeNumber": 342,
+        "title": "Episode 342 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E26.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E26.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S15/Bleach%20-%20S15E26.mp4"
+      },
+      {
+        "episodeNumber": 343,
+        "title": "Episode 343 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E01.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E01.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E01.mp4"
+      },
+      {
+        "episodeNumber": 344,
+        "title": "Episode 344 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E02.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E02.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E02.mp4"
+      },
+      {
+        "episodeNumber": 345,
+        "title": "Episode 345 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E03.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E03.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E03.mp4"
+      },
+      {
+        "episodeNumber": 346,
+        "title": "Episode 346 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E04.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E04.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E04.mp4"
+      },
+      {
+        "episodeNumber": 347,
+        "title": "Episode 347 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E05.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E05.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E05.mp4"
+      },
+      {
+        "episodeNumber": 348,
+        "title": "Episode 348 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E06.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E06.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E06.mp4"
+      },
+      {
+        "episodeNumber": 349,
+        "title": "Episode 349 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E07.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E07.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E07.mp4"
+      },
+      {
+        "episodeNumber": 350,
+        "title": "Episode 350 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E08.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E08.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E08.mp4"
+      },
+      {
+        "episodeNumber": 351,
+        "title": "Episode 351 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E09.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E09.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E09.mp4"
+      },
+      {
+        "episodeNumber": 352,
+        "title": "Episode 352 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E10.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E10.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E10.mp4"
+      },
+      {
+        "episodeNumber": 353,
+        "title": "Episode 353 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E11.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E11.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E11.mp4"
+      },
+      {
+        "episodeNumber": 354,
+        "title": "Episode 354 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E12.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E12.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E12.mp4"
+      },
+      {
+        "episodeNumber": 355,
+        "title": "Episode 355 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E13.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E13.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E13.mp4"
+      },
+      {
+        "episodeNumber": 356,
+        "title": "Episode 356 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E14.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E14.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E14.mp4"
+      },
+      {
+        "episodeNumber": 357,
+        "title": "Episode 357 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E15.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E15.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E15.mp4"
+      },
+      {
+        "episodeNumber": 358,
+        "title": "Episode 358 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E16.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E16.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E16.mp4"
+      },
+      {
+        "episodeNumber": 359,
+        "title": "Episode 359 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E17.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E17.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E17.mp4"
+      },
+      {
+        "episodeNumber": 360,
+        "title": "Episode 360 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E18.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E18.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E18.mp4"
+      },
+      {
+        "episodeNumber": 361,
+        "title": "Episode 361 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E19.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E19.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E19.mp4"
+      },
+      {
+        "episodeNumber": 362,
+        "title": "Episode 362 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E20.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E20.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E20.mp4"
+      },
+      {
+        "episodeNumber": 363,
+        "title": "Episode 363 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E21.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E21.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E21.mp4"
+      },
+      {
+        "episodeNumber": 364,
+        "title": "Episode 364 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E22.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E22.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E22.mp4"
+      },
+      {
+        "episodeNumber": 365,
+        "title": "Episode 365 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E23.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E23.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E23.mp4"
+      },
+      {
+        "episodeNumber": 366,
+        "title": "Episode 366 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E24.mp4",
+        "dubUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E24.mp4",
+        "subUrl": "https://archive.org/download/bleach-complete/Bleach/S16/Bleach%20-%20S16E24.mp4"
       }
     ]
   },
@@ -11071,6 +13495,206 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/my-hero-episode-1-season-1-dub/My%20hero_episode%2013_season%201.mp4",
         "dubUrl": "https://archive.org/download/my-hero-episode-1-season-1-dub/My%20hero_episode%2013_season%201.mp4",
         "subUrl": "https://archive.org/download/my-hero-episode-1-season-1-dub/My%20hero_episode%2013_season%201.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Season 2 Ep 1 - ThatsTheIdeaOchaco2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/1ThatsTheIdeaOchaco2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/1ThatsTheIdeaOchaco2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/1ThatsTheIdeaOchaco2.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Season 2 Ep 2 - RoaringSportsFestival2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/2RoaringSportsFestival2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/2RoaringSportsFestival2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/2RoaringSportsFestival2.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Season 2 Ep 3 - InTheirOwnQuirkyWays2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/3InTheirOwnQuirkyWays2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/3InTheirOwnQuirkyWays2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/3InTheirOwnQuirkyWays2.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Season 2 Ep 4 - StrategyStrategyStrategy2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/4StrategyStrategyStrategy2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/4StrategyStrategyStrategy2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/4StrategyStrategyStrategy2.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Season 2 Ep 5 - CavalryBattleFinale2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/5CavalryBattleFinale2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/5CavalryBattleFinale2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/5CavalryBattleFinale2.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Season 2 Ep 6 - TheBoyBornWithEverything2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/6TheBoyBornWithEverything2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/6TheBoyBornWithEverything2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/6TheBoyBornWithEverything2.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Season 2 Ep 7 - VictoryorDefeat2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/7VictoryorDefeat2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/7VictoryorDefeat2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/7VictoryorDefeat2.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Season 2 Ep 8 - BattleOnChallengers! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/8BattleOnChallengers!.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/8BattleOnChallengers!.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/8BattleOnChallengers!.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Season 2 Ep 9 - BakugoVSUraraka2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/9BakugoVSUraraka2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/9BakugoVSUraraka2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/9BakugoVSUraraka2.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Season 2 Ep 10 - ShotoTodorokiOrigin2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/10ShotoTodorokiOrigin2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/10ShotoTodorokiOrigin2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/10ShotoTodorokiOrigin2.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Season 2 Ep 11 - FightOnIida (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/11FightOnIida.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/11FightOnIida.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/11FightOnIida.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Season 2 Ep 12 - TodorokiVSBakugo2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/12TodorokiVSBakugo2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/12TodorokiVSBakugo2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/12TodorokiVSBakugo2.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Season 2 Ep 13 - TimetoPickSomeNames2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/13TimetoPickSomeNames2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/13TimetoPickSomeNames2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/13TimetoPickSomeNames2.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Season 2 Ep 14 - Bizarre!GranTorinoAppears2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/14Bizarre!GranTorinoAppears2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/14Bizarre!GranTorinoAppears2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/14Bizarre!GranTorinoAppears2.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Season 2 Ep 15 - MidoriyaandShigaraki2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/15MidoriyaandShigaraki2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/15MidoriyaandShigaraki2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/15MidoriyaandShigaraki2.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Season 2 Ep 16 - HeroKillerStainVSUAStudents2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/16HeroKillerStainVSUAStudents2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/16HeroKillerStainVSUAStudents2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/16HeroKillerStainVSUAStudents2.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Season 2 Ep 17 - Climax2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/17Climax2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/17Climax2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/17Climax2.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Season 2 Ep 18 - TheAftermathofHeroKillerStain2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/18TheAftermathofHeroKillerStain2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/18TheAftermathofHeroKillerStain2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/18TheAftermathofHeroKillerStain2.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Season 2 Ep 19 - EveryonesInternships2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/19EveryonesInternships2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/19EveryonesInternships2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/19EveryonesInternships2.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Season 2 Ep 20 - ListenUp!!ATalefromthePast2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/20ListenUp!!ATalefromthePast2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/20ListenUp!!ATalefromthePast2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/20ListenUp!!ATalefromthePast2.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Season 2 Ep 21 - GearUpforFinalExams2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/21GearUpforFinalExams2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/21GearUpforFinalExams2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/21GearUpforFinalExams2.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Season 2 Ep 22 - YaoyorozuRising2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/22YaoyorozuRising2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/22YaoyorozuRising2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/22YaoyorozuRising2.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Season 2 Ep 23 - StrippingtheVarnish2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/23StrippingtheVarnish2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/23StrippingtheVarnish2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/23StrippingtheVarnish2.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Season 2 Ep 24 - KatsukiBakugoOrigin2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/24KatsukiBakugoOrigin2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/24KatsukiBakugoOrigin2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/24KatsukiBakugoOrigin2.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Season 2 Ep 25 - Encounter2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/myheroacademiaseasontwo/25Encounter2.mp4",
+        "dubUrl": "https://archive.org/download/myheroacademiaseasontwo/25Encounter2.mp4",
+        "subUrl": "https://archive.org/download/myheroacademiaseasontwo/25Encounter2.mp4"
       }
     ],
     "isMature": false,
@@ -24439,27 +27063,27 @@ export const OUR_ANIME_CATALOG = [
     ]
   },
   {
-    "id": 21087,
+    "id": 21092,
     "title": {
-      "english": "One-Punch Man",
-      "romaji": "One Punch Man",
-      "native": "ワンパンマン"
+      "english": "Chivalry of a Failed Knight",
+      "romaji": "Rakudai Kishi no Cavalry",
+      "native": "落第騎士の英雄譚《キャバルリィ》"
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21087-B5DHjqZ3kW4b.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21087-B5DHjqZ3kW4b.jpg",
-      "color": "#e4ae5d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21092-1NML6TdngmBq.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21092-1NML6TdngmBq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21092-1NML6TdngmBq.jpg",
+      "color": "#d32f2f"
     },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21087-sHb9zUZFsHe1.jpg",
-    "description": "Saitama has a rather peculiar hobby, being a superhero, but despite his heroic deeds and superhuman abilities, a shadow looms over his life. He's become much too powerful, to the point that every opponent ends up defeated with a single punch.\n\nThe lack of challenge has driven him into a state of apathy, as he watches his life pass by having lost all enthusiasm, at least until he's unwillingly thrust in the role of being a mentor to the young and revenge-driven Genos.   \n\n",
-    "averageScore": 83,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21092-WTe5Lx5sLQy1.jpg",
+    "description": "In a world where magical blazers summon weapons called Devices from their souls, Ikki Kurogane is known as the Worst One — a knight with no apparent magical power. However, he challenges all odds when Stella Vermillion, an A-rank prodigy princess, challenges him to a duel.",
+    "averageScore": 74,
     "seasonYear": 2015,
     "genres": [
       "Action",
-      "Comedy",
-      "Sci-Fi",
-      "Supernatural"
+      "Ecchi",
+      "Fantasy",
+      "Romance"
     ],
     "format": "TV",
     "hasDub": true,
@@ -24469,7 +27093,7 @@ export const OUR_ANIME_CATALOG = [
     "contentRating": "TV-14",
     "contentWarnings": [
       "Fantasy Violence",
-      "Mild Language"
+      "Suggestive Themes"
     ],
     "episodes": [
       {
@@ -24700,28 +27324,31 @@ export const OUR_ANIME_CATALOG = [
     ]
   },
   {
-    "id": 98480,
+    "id": 98491,
     "title": {
-      "english": "Sexual Sacrifice",
-      "romaji": "Daraku Reijou THE ANIMATION: Hakoiri Ojousama Netorare Choukyou Kiroku",
-      "native": "堕落令嬢 THE ANIMATION 箱入りお嬢様寝取られ調教記録"
+      "english": "In Another World With My Smartphone",
+      "romaji": "Isekai wa Smartphone to Tomo ni.",
+      "native": "異世界はスマートフォンとともに。"
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98480-d52iCTMJ5rtB.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98480-d52iCTMJ5rtB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98480-d52iCTMJ5rtB.jpg",
-      "color": "#3b82f6"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98491-5vyX89aabiHz.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98491-5vyX89aabiHz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98491-5vyX89aabiHz.jpg",
+      "color": "#43a047"
     },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98480-dZ31ydoYsHTJ.jpg",
-    "description": "Ichijou Yurika is a pretty, popular girl at school who is also the daughter of the company president. She enjoys dating Yuusuke, whom she loves very much. However, everything changes when her father's company burns down, prompting him to indirectly sell his own daughter in order to save the company.\n\n(Source: Nekopoi, translated)",
-    "averageScore": 56,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98491-6ot86unqGUj4.jpg",
+    "description": "After being accidentally killed by God, Touya Mochizuki is reborn in a fantasy world with a boosted body and the smartphone he used in his past life. With newfound magic powers and his modern device, he sets out on an easygoing adventure through this new realm.",
+    "averageScore": 62,
     "seasonYear": 2017,
     "genres": [
-      "Hentai"
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
     ],
     "format": "OVA",
     "hasDub": true,
-    "badgeText": "24 DUB EPS • COMPLETE",
+    "badgeText": "SEASONS 1-2 • 24 DUB EPS",
     "isStaffPick": true,
     "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
     "isMature": false,
@@ -30910,7 +33537,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "HOT NEW 2023 • 3 DUB EPS",
+    "badgeText": "12 DUB EPS • COMPLETE",
     "isStaffPick": false,
     "isMature": false,
     "contentRating": "TV-14",
@@ -30923,25 +33550,97 @@ export const OUR_ANIME_CATALOG = [
         "episodeNumber": 1,
         "title": "Episode 1 (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-01.mp4",
-        "dubUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-01.mp4",
-        "subUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-01.mp4"
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/01%20-%20s1e1.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/01%20-%20s1e1.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/01%20-%20s1e1.mp4"
       },
       {
         "episodeNumber": 2,
         "title": "Episode 2 (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-11.mp4",
-        "dubUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-11.mp4",
-        "subUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime-11.mp4"
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/02%20-%20s1e2.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/02%20-%20s1e2.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/02%20-%20s1e2.mp4"
       },
       {
         "episodeNumber": 3,
         "title": "Episode 3 (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime.mp4",
-        "dubUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime.mp4",
-        "subUrl": "https://archive.org/download/farming-life-in-another-world_202408/Watch%20Farming%20Life%20in%20Another%20World%20online%20free%20on%209anime.mp4"
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/03%20-%20s1e3.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/03%20-%20s1e3.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/03%20-%20s1e3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/04%20-%20s1e4.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/04%20-%20s1e4.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/04%20-%20s1e4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/05%20-%20s1e5.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/05%20-%20s1e5.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/05%20-%20s1e5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/06%20-%20s1e6.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/06%20-%20s1e6.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/06%20-%20s1e6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/07%20-%20s1e7.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/07%20-%20s1e7.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/07%20-%20s1e7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/08%20-%20s1e8.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/08%20-%20s1e8.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/08%20-%20s1e8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/09%20-%20s1e9.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/09%20-%20s1e9.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/09%20-%20s1e9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/10%20-%20s1e10.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/10%20-%20s1e10.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/10%20-%20s1e10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/11%20-%20s1e11.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/11%20-%20s1e11.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/11%20-%20s1e11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/12%20-%20s1e12.mp4",
+        "dubUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/12%20-%20s1e12.mp4",
+        "subUrl": "https://archive.org/download/01-s-1e-1/Farming%20Life%20in%20Another%20World/s1/12%20-%20s1e12.mp4"
       }
     ]
   },
@@ -31481,7 +34180,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "10 DUB EPS • COMPLETE",
+    "badgeText": "SEASONS 1-2 • 21 DUB EPS",
     "isStaffPick": true,
     "staffNotes": "Staff Pick: Incredible English dub, stunning animation and captivating storyline!",
     "isMature": false,
@@ -31570,6 +34269,94 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/konosuba-1/K-10.mp4",
         "dubUrl": "https://archive.org/download/konosuba-1/K-10.mp4",
         "subUrl": "https://archive.org/download/konosuba-1/K-10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Season 2 Ep 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-01.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-01.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-01.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Season 2 Ep 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-02.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-02.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-02.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Season 2 Ep 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-03.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-03.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-03.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Season 2 Ep 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-04.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-04.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-04.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Season 2 Ep 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-05.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-05.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-05.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Season 2 Ep 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-06.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-06.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-06.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Season 2 Ep 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-07.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-07.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-07.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Season 2 Ep 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-08.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-08.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-08.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Season 2 Ep 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-09.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-09.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-09.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Season 2 Ep 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-10.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-10.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-10.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Season 2 OVA (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/k-2-ova/K2-Ova.mp4",
+        "dubUrl": "https://archive.org/download/k-2-ova/K2-Ova.mp4",
+        "subUrl": "https://archive.org/download/k-2-ova/K2-Ova.mp4"
       }
     ]
   },
@@ -31597,7 +34384,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "3 DUB EPS • COMPLETE",
+    "badgeText": "60 DUB EPS • SEASONS 1-5 COMPLETE",
     "isStaffPick": false,
     "isMature": false,
     "contentRating": "TV-14",
@@ -31608,27 +34395,491 @@ export const OUR_ANIME_CATALOG = [
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "BSD S1 Ep10 (English Dub)",
-        "duration": "25:00",
-        "videoUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep10.mp4",
-        "dubUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep10.mp4",
-        "subUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep10.mp4"
+        "title": "Fortune Is Unpredictable and Mutable (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2001%20-Fortune%20Is%20Unpredictable%20and%20Mutable.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2001%20-Fortune%20Is%20Unpredictable%20and%20Mutable.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2001%20-Fortune%20Is%20Unpredictable%20and%20Mutable.mp4"
       },
       {
         "episodeNumber": 2,
-        "title": "BSD S1 Ep8 (English Dub)",
-        "duration": "25:00",
-        "videoUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep8.mp4",
-        "dubUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep8.mp4",
-        "subUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep8.mp4"
+        "title": "A Certain Bomb (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2002%20-%20A%20Certain%20Bomb.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2002%20-%20A%20Certain%20Bomb.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2002%20-%20A%20Certain%20Bomb.mp4"
       },
       {
         "episodeNumber": 3,
-        "title": "BSD S1 Ep9 (English Dub)",
-        "duration": "25:00",
-        "videoUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep9.mp4",
-        "dubUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep9.mp4",
-        "subUrl": "https://archive.org/download/bsd-s-1-all-ep/BSD%20S1%20Ep9.mp4"
+        "title": "The Tragedy of the Fatalist (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2003%20-%20The%20Tragedy%20of%20the%20Fatalist.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2003%20-%20The%20Tragedy%20of%20the%20Fatalist.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2003%20-%20The%20Tragedy%20of%20the%20Fatalist.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "The Tragedy of the Fatalist (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2004%20-%20The%20Tragedy%20of%20the%20Fatalist.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2004%20-%20The%20Tragedy%20of%20the%20Fatalist.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2004%20-%20The%20Tragedy%20of%20the%20Fatalist.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Murder on D Street (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2005%20-%20Murder%20on%20D%20Street.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2005%20-%20Murder%20on%20D%20Street.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2005%20-%20Murder%20on%20D%20Street.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "The Azure Messenger (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2006%20-%20The%20Azure%20Messenger.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2006%20-%20The%20Azure%20Messenger.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2006%20-%20The%20Azure%20Messenger.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Love for the Disease Called Ideals (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2007%20-%20Love%20for%20the%20Disease%20Called%20Ideals.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2007%20-%20Love%20for%20the%20Disease%20Called%20Ideals.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2007%20-%20Love%20for%20the%20Disease%20Called%20Ideals.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Teaching Them to Kill, Then to Die (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2008%20-%20Teaching%20Them%20to%20Kill,%20Then%20to%20Die.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2008%20-%20Teaching%20Them%20to%20Kill,%20Then%20to%20Die.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2008%20-%20Teaching%20Them%20to%20Kill,%20Then%20to%20Die.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "The Beauty Is Quiet Like a Stone Statue (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2009%20-%20The%20Beauty%20Is%20Quiet%20Like%20a%20Stone%20Statue.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2009%20-%20The%20Beauty%20Is%20Quiet%20Like%20a%20Stone%20Statue.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2009%20-%20The%20Beauty%20Is%20Quiet%20Like%20a%20Stone%20Statue.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Rashomon and the Tiger (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2010%20-%20Rashomon%20and%20the%20Tiger.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2010%20-%20Rashomon%20and%20the%20Tiger.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2010%20-%20Rashomon%20and%20the%20Tiger.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "First, an Unsuitable Profession for Her. Second, an Ecstatic Detective Agency (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2011%20-%20First,%20an%20Unsuitable%20Profession%20for%20Her.%20Second,%20an%20Ecstatic%20Detective%20Agency.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2011%20-%20First,%20an%20Unsuitable%20Profession%20for%20Her.%20Second,%20an%20Ecstatic%20Detective%20Agency.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2011%20-%20First,%20an%20Unsuitable%20Profession%20for%20Her.%20Second,%20an%20Ecstatic%20Detective%20Agency.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Borne Back Ceaselessly into the Past (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2012%20-%20Borne%20Back%20Ceaselessly%20into%20the%20Past.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2012%20-%20Borne%20Back%20Ceaselessly%20into%20the%20Past.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2012%20-%20Borne%20Back%20Ceaselessly%20into%20the%20Past.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "The Dark Age (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2013%20-%20The%20Dark%20Age.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2013%20-%20The%20Dark%20Age.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2013%20-%20The%20Dark%20Age.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Nowhere to Return (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2014%20-%20Nowhere%20to%20Return.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2014%20-%20Nowhere%20to%20Return.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2014%20-%20Nowhere%20to%20Return.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "A Room Where We Can Someday See the Ocean (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2015%20-%20A%20Room%20Where%20We%20Can%20Someday%20See%20the%20Ocean.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2015%20-%20A%20Room%20Where%20We%20Can%20Someday%20See%20the%20Ocean.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2015%20-%20A%20Room%20Where%20We%20Can%20Someday%20See%20the%20Ocean.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Bungo Stray Dogs (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2016%20-%20Bungo%20Stray%20Dogs.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2016%20-%20Bungo%20Stray%20Dogs.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2016%20-%20Bungo%20Stray%20Dogs.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Three Companies Conflict (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2017%20-%20Three%20Companies%20Conflict.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2017%20-%20Three%20Companies%20Conflict.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2017%20-%20Three%20Companies%20Conflict.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "The Conflict of Strategy (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2018%20-%20The%20Conflict%20of%20Strategy.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2018%20-%20The%20Conflict%20of%20Strategy.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2018%20-%20The%20Conflict%20of%20Strategy.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Will of Tycoon (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2019%20-%20Will%20of%20Tycoon.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2019%20-%20Will%20of%20Tycoon.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2019%20-%20Will%20of%20Tycoon.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Though the Mind May Be Wrong (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2020%20-%20Though%20the%20Mind%20May%20Be%20Wrong.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2020%20-%20Though%20the%20Mind%20May%20Be%20Wrong.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2020%20-%20Though%20the%20Mind%20May%20Be%20Wrong.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Double Black (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2021%20-%20Double%20Black.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2021%20-%20Double%20Black.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2021%20-%20Double%20Black.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Poe and Rampo (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2022%20-%20Poe%20and%20Rampo.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2022%20-%20Poe%20and%20Rampo.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2022%20-%20Poe%20and%20Rampo.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Rashoumon, The Tiger, and The Last Emperor (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2023%20-%20Rashoumon,%20The%20Tiger,%20and%20The%20Last%20Emperor.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2023%20-%20Rashoumon,%20The%20Tiger,%20and%20The%20Last%20Emperor.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2023%20-%20Rashoumon,%20The%20Tiger,%20and%20The%20Last%20Emperor.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "If I May Shed Away My Burden Now (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2024%20-%20If%20I%20May%20Shed%20Away%20My%20Burden%20Now.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2024%20-%20If%20I%20May%20Shed%20Away%20My%20Burden%20Now.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2024%20-%20If%20I%20May%20Shed%20Away%20My%20Burden%20Now.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Dazai, Chūya, Fifteen Years Old. (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2026%20-%20Dazai,%20Ch%C5%ABya,%20Fifteen%20Years%20Old..mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2026%20-%20Dazai,%20Ch%C5%ABya,%20Fifteen%20Years%20Old..mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2026%20-%20Dazai,%20Ch%C5%ABya,%20Fifteen%20Years%20Old..mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Only a Diamond Can Polish a Diamond (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2027%20-%20Only%20a%20Diamond%20Can%20Polish%20a%20Diamond.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2027%20-%20Only%20a%20Diamond%20Can%20Polish%20a%20Diamond.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2027%20-%20Only%20a%20Diamond%20Can%20Polish%20a%20Diamond.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Right Now, God. (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2028%20-%20Right%20Now,%20God..mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2028%20-%20Right%20Now,%20God..mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2028%20-%20Right%20Now,%20God..mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "My Ill Deeds are The Work of God (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2029%20-%20My%20Ill%20Deeds%20are%20The%20Work%20of%20God.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2029%20-%20My%20Ill%20Deeds%20are%20The%20Work%20of%20God.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2029%20-%20My%20Ill%20Deeds%20are%20The%20Work%20of%20God.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Slap the Stick & Addict (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2030%20-%20Slap%20the%20Stick%20&%20Addict.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2030%20-%20Slap%20the%20Stick%20&%20Addict.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2030%20-%20Slap%20the%20Stick%20&%20Addict.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Herurisu Portrait of a Father (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2031%20-%20Herurisu%20Portrait%20of%20a%20Father.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2031%20-%20Herurisu%20Portrait%20of%20a%20Father.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2031%20-%20Herurisu%20Portrait%20of%20a%20Father.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Fitzgerald Rising (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2032%20-%20Fitzgerald%20Rising.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2032%20-%20Fitzgerald%20Rising.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2032%20-%20Fitzgerald%20Rising.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "The Masked Assassin (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2033%20-%20The%20Masked%20Assassin.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2033%20-%20The%20Masked%20Assassin.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2033%20-%20The%20Masked%20Assassin.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Cannibalism (Part One) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2034%20-%20Cannibalism%20(Part%20One).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2034%20-%20Cannibalism%20(Part%20One).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2034%20-%20Cannibalism%20(Part%20One).mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Cannibalism (Part Two) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2035%20-%20Cannibalism%20(Part%20Two).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2035%20-%20Cannibalism%20(Part%20Two).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2035%20-%20Cannibalism%20(Part%20Two).mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Cannibalism (Part Three) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2036%20-%20Cannibalism%20(Part%20Three).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2036%20-%20Cannibalism%20(Part%20Three).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2036%20-%20Cannibalism%20(Part%20Three).mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Echo (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2037%20-%20Echo.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2037%20-%20Echo.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2037%20-%20Echo.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "The Lone Swordsman and the Famous Detective (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2038%20-%20The%20Lone%20Swordsman%20and%20the%20Famous%20Detective.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2038%20-%20The%20Lone%20Swordsman%20and%20the%20Famous%20Detective.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2038%20-%20The%20Lone%20Swordsman%20and%20the%20Famous%20Detective.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "The Day Is a Dream, The Night Is Real (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2039%20-%20The%20Day%20Is%20a%20Dream,%20The%20Night%20Is%20Real.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2039%20-%20The%20Day%20Is%20a%20Dream,%20The%20Night%20Is%20Real.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2039%20-%20The%20Day%20Is%20a%20Dream,%20The%20Night%20Is%20Real.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "The Secret Founding of the Detective Agency (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2040%20-%20The%20Secret%20Founding%20of%20the%20Detective%20Agency.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2040%20-%20The%20Secret%20Founding%20of%20the%20Detective%20Agency.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2040%20-%20The%20Secret%20Founding%20of%20the%20Detective%20Agency.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "A Perfect Murder and Murderer (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2041%20-%20A%20Perfect%20Murder%20and%20Murderer%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2041%20-%20A%20Perfect%20Murder%20and%20Murderer%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2041%20-%20A%20Perfect%20Murder%20and%20Murderer%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "A Perfect Murder and Murderer (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2042%20-%20A%20Perfect%20Murder%20and%20Murderer%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2042%20-%20A%20Perfect%20Murder%20and%20Murderer%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2042%20-%20A%20Perfect%20Murder%20and%20Murderer%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Tragic Sunday (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2043%20-%20Tragic%20Sunday.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2043%20-%20Tragic%20Sunday.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2043%20-%20Tragic%20Sunday.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Dogs Hunt Dogs (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2044%20-%20Dogs%20Hunt%20Dogs.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2044%20-%20Dogs%20Hunt%20Dogs.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2044%20-%20Dogs%20Hunt%20Dogs.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "You a Child of Sin, I a Child of Sin (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2045%20-%20You%20a%20Child%20of%20Sin,%20I%20a%20Child%20of%20Sin.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2045%20-%20You%20a%20Child%20of%20Sin,%20I%20a%20Child%20of%20Sin.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2045%20-%20You%20a%20Child%20of%20Sin,%20I%20a%20Child%20of%20Sin.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "A Dream of Butterflies (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2046%20-%20A%20Dream%20of%20Butterflies.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2046%20-%20A%20Dream%20of%20Butterflies.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2046%20-%20A%20Dream%20of%20Butterflies.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "In Lament of My Wingless Body (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2047%20-%20In%20Lament%20of%20My%20Wingless%20Body.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2047%20-%20In%20Lament%20of%20My%20Wingless%20Body.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2047%20-%20In%20Lament%20of%20My%20Wingless%20Body.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Jailbreak (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2048%20-%20Jailbreak.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2048%20-%20Jailbreak.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2048%20-%20Jailbreak.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Bungo Hound Dogs (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2049%20-%20Bungo%20Hound%20Dogs.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2049%20-%20Bungo%20Hound%20Dogs.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2049%20-%20Bungo%20Hound%20Dogs.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Skyfall (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2050%20-%20Skyfall.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2050%20-%20Skyfall.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2050%20-%20Skyfall.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "The Strongest Man (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2051%20-%20The%20Strongest%20Man.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2051%20-%20The%20Strongest%20Man.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2051%20-%20The%20Strongest%20Man.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "The Answer to Everything (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2052%20-%20The%20Answer%20to%20Everything.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2052%20-%20The%20Answer%20to%20Everything.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2052%20-%20The%20Answer%20to%20Everything.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Hero vs. Criminal (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2053%20-%20Hero%20vs.%20Criminal.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2053%20-%20Hero%20vs.%20Criminal.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2053%20-%20Hero%20vs.%20Criminal.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Hero War, Gang War (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2054%20-%20Hero%20War,%20Gang%20War.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2054%20-%20Hero%20War,%20Gang%20War.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2054%20-%20Hero%20War,%20Gang%20War.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "At the Port in the Sky (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2055%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2055%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2055%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "At the Port in the Sky (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2056%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2056%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2056%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "At the Port in the Sky (Part 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2057%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%203).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2057%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%203).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2057%20-%20At%20the%20Port%20in%20the%20Sky%20(Part%203).mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Land of Inhuman Demons (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2058%20-%20Land%20of%20Inhuman%20Demons%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2058%20-%20Land%20of%20Inhuman%20Demons%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2058%20-%20Land%20of%20Inhuman%20Demons%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Land of Inhuman Demons (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2059%20-%20Land%20of%20Inhuman%20Demons%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2059%20-%20Land%20of%20Inhuman%20Demons%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2059%20-%20Land%20of%20Inhuman%20Demons%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Land of Inhuman Demons (Part 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2060%20-%20Land%20of%20Inhuman%20Demons%20(Part%203).mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2060%20-%20Land%20of%20Inhuman%20Demons%20(Part%203).mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2060%20-%20Land%20of%20Inhuman%20Demons%20(Part%203).mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Twilight Goodbye (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2061%20-%20Twilight%20Goodbye.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2061%20-%20Twilight%20Goodbye.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20-%2061%20-%20Twilight%20Goodbye.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Bungo Stray Dogs OVA - 25 - Walking Alone (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20OVA%20-%2025%20-%20Walking%20Alone.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20OVA%20-%2025%20-%20Walking%20Alone.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Bungo%20Stray%20Dogs%20OVA%20-%2025%20-%20Walking%20Alone.mp4"
       }
     ]
   },
@@ -31655,7 +34906,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "HOT NEW 2024 • 1 DUB EPS",
+    "badgeText": "HOT NEW 2024 • 12 DUB EPS",
     "isStaffPick": false,
     "isMature": false,
     "contentRating": "TV-14",
@@ -31666,11 +34917,99 @@ export const OUR_ANIME_CATALOG = [
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Kaiju No. 8 (1) (English Dub)",
-        "duration": "2:00",
-        "videoUrl": "https://archive.org/download/kaiju-no.-8-1/Kaiju%20No.%208%20(1).mp4",
-        "dubUrl": "https://archive.org/download/kaiju-no.-8-1/Kaiju%20No.%208%20(1).mp4",
-        "subUrl": "https://archive.org/download/kaiju-no.-8-1/Kaiju%20No.%208%20(1).mp4"
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2001%20(1080p)%20%5B4896D2A9%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2001%20(1080p)%20%5B4896D2A9%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2001%20(1080p)%20%5B4896D2A9%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2002%20(1080p)%20%5BBBD98394%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2002%20(1080p)%20%5BBBD98394%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2002%20(1080p)%20%5BBBD98394%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2003%20(1080p)%20%5BE2B82EB4%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2003%20(1080p)%20%5BE2B82EB4%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2003%20(1080p)%20%5BE2B82EB4%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2004%20(1080p)%20%5B6DF3F88F%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2004%20(1080p)%20%5B6DF3F88F%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2004%20(1080p)%20%5B6DF3F88F%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2005%20(1080p)%20%5B456AC602%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2005%20(1080p)%20%5B456AC602%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2005%20(1080p)%20%5B456AC602%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2006%20(1080p)%20%5B8DC24EA1%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2006%20(1080p)%20%5B8DC24EA1%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2006%20(1080p)%20%5B8DC24EA1%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2007%20(1080p)%20%5BFC4188E2%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2007%20(1080p)%20%5BFC4188E2%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2007%20(1080p)%20%5BFC4188E2%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2008%20(1080p)%20%5B6C5D0A3D%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2008%20(1080p)%20%5B6C5D0A3D%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2008%20(1080p)%20%5B6C5D0A3D%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2009%20(1080p)%20%5B0C157D9B%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2009%20(1080p)%20%5B0C157D9B%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2009%20(1080p)%20%5B0C157D9B%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2010%20(1080p)%20%5BE7C36E32%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2010%20(1080p)%20%5BE7C36E32%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2010%20(1080p)%20%5BE7C36E32%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2011%20(1080p)%20%5BBBF545C6%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2011%20(1080p)%20%5BBBF545C6%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2011%20(1080p)%20%5BBBF545C6%5D.mkv.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2012%20(1080p)%20%5B054FDD2E%5D.mkv.mp4",
+        "dubUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2012%20(1080p)%20%5B054FDD2E%5D.mkv.mp4",
+        "subUrl": "https://archive.org/download/kusathegrass-anime-kaiju-no-8-s1/%5BSubsPlease%5D%20Kaijuu%208-gou%20S1%20-%2012%20(1080p)%20%5B054FDD2E%5D.mkv.mp4"
       }
     ]
   },
@@ -31837,7 +35176,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "17 DUB EPS • COMPLETE",
+    "badgeText": "COMPLETE SERIES • 69 DUB EPS",
     "isStaffPick": false,
     "isMature": false,
     "contentRating": "TV-14",
@@ -31849,138 +35188,554 @@ export const OUR_ANIME_CATALOG = [
       {
         "episodeNumber": 1,
         "title": "Episode 1 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/1%20-%20Seven%20Years%20Later!%20Starting%20Today%2C%20Gohan%20Is%20a%20High%20School%20Student%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/1%20-%20Seven%20Years%20Later!%20Starting%20Today%2C%20Gohan%20Is%20a%20High%20School%20Student%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/1%20-%20Seven%20Years%20Later!%20Starting%20Today%2C%20Gohan%20Is%20a%20High%20School%20Student%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%201.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%201.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%201.mp4"
       },
       {
         "episodeNumber": 2,
         "title": "Episode 2 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/10%20-%20The%20Junior%20Champ%20Is%20Finally%20Decided!%20Who%20Will%20Fight%20Against%20Mr.%20Satan%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/10%20-%20The%20Junior%20Champ%20Is%20Finally%20Decided!%20Who%20Will%20Fight%20Against%20Mr.%20Satan%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/10%20-%20The%20Junior%20Champ%20Is%20Finally%20Decided!%20Who%20Will%20Fight%20Against%20Mr.%20Satan%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%202.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%202.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%202.mp4"
       },
       {
         "episodeNumber": 3,
         "title": "Episode 3 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/11%20-%20Restless%20Foreboding%20A%20Mysterious%20Warrior%20Appears!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/11%20-%20Restless%20Foreboding%20A%20Mysterious%20Warrior%20Appears!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/11%20-%20Restless%20Foreboding%20A%20Mysterious%20Warrior%20Appears!%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%203.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%203.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%203.mp4"
       },
       {
         "episodeNumber": 4,
         "title": "Episode 4 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/12%20-%20What%20Happened%2C%20Piccolo%20An%20Unexpected%20Outcome%20in%20the%20First%20Round%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/12%20-%20What%20Happened%2C%20Piccolo%20An%20Unexpected%20Outcome%20in%20the%20First%20Round%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/12%20-%20What%20Happened%2C%20Piccolo%20An%20Unexpected%20Outcome%20in%20the%20First%20Round%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%204.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%204.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%204.mp4"
       },
       {
         "episodeNumber": 5,
         "title": "Episode 5 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/13%20-%20An%20Eerie%20Entity%20Who%20Exactly%20Is%20Spopovitch%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/13%20-%20An%20Eerie%20Entity%20Who%20Exactly%20Is%20Spopovitch%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/13%20-%20An%20Eerie%20Entity%20Who%20Exactly%20Is%20Spopovitch%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%205.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%205.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%205.mp4"
       },
       {
         "episodeNumber": 6,
         "title": "Episode 6 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/14%20-%20Videl%20Battered-%20Gohan's%20Fury%20Reaches%20Its%20Limit!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/14%20-%20Videl%20Battered-%20Gohan's%20Fury%20Reaches%20Its%20Limit!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/14%20-%20Videl%20Battered-%20Gohan's%20Fury%20Reaches%20Its%20Limit!%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%206.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%206.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%206.mp4"
       },
       {
         "episodeNumber": 7,
         "title": "Episode 7 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/15%20-%20A%20Creeping%20Conspiracy!%20The%20Target%20Is%20Gohan%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/15%20-%20A%20Creeping%20Conspiracy!%20The%20Target%20Is%20Gohan%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/15%20-%20A%20Creeping%20Conspiracy!%20The%20Target%20Is%20Gohan%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%207.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%207.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%207.mp4"
       },
       {
         "episodeNumber": 8,
         "title": "Episode 8 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/16%20-%20The%20Terrifying%20Secret%20of%20the%20Majin.%20The%20Mastermind%20Revealed!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/16%20-%20The%20Terrifying%20Secret%20of%20the%20Majin.%20The%20Mastermind%20Revealed!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/16%20-%20The%20Terrifying%20Secret%20of%20the%20Majin.%20The%20Mastermind%20Revealed!%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%208.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%208.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%208.mp4"
       },
       {
         "episodeNumber": 9,
-        "title": "2 - A New Hero, Great Saiyaman, Is Born! 1080p (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/2%20-%20A%20New%20Hero%2C%20Great%20Saiyaman%2C%20Is%20Born!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/2%20-%20A%20New%20Hero%2C%20Great%20Saiyaman%2C%20Is%20Born!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/2%20-%20A%20New%20Hero%2C%20Great%20Saiyaman%2C%20Is%20Born!%201080p.mp4"
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%209.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%209.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%209.mp4"
       },
       {
         "episodeNumber": 10,
-        "title": "3 - Videl's Crisis Gohan's Urgent Call-Out! 1080p (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/3%20-%20Videl's%20Crisis%20Gohan's%20Urgent%20Call-Out!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/3%20-%20Videl's%20Crisis%20Gohan's%20Urgent%20Call-Out!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/3%20-%20Videl's%20Crisis%20Gohan's%20Urgent%20Call-Out!%201080p.mp4"
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2010.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2010.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2010.mp4"
       },
       {
         "episodeNumber": 11,
         "title": "Episode 11 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/4%20-%20A%20Monster%20Is%20Spirited%20Away!%20The%20Culprit%20Is%20Great%20Saiyaman%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/4%20-%20A%20Monster%20Is%20Spirited%20Away!%20The%20Culprit%20Is%20Great%20Saiyaman%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/4%20-%20A%20Monster%20Is%20Spirited%20Away!%20The%20Culprit%20Is%20Great%20Saiyaman%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2011.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2011.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2011.mp4"
       },
       {
         "episodeNumber": 12,
         "title": "Episode 12 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/5%20-%20Entering%20the%20World%20Martial%20Arts%20Tournament!%20Goten%20Shows%20Off%20His%20Explosive%20Power%20During%20Training!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/5%20-%20Entering%20the%20World%20Martial%20Arts%20Tournament!%20Goten%20Shows%20Off%20His%20Explosive%20Power%20During%20Training!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/5%20-%20Entering%20the%20World%20Martial%20Arts%20Tournament!%20Goten%20Shows%20Off%20His%20Explosive%20Power%20During%20Training!%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2012.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2012.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2012.mp4"
       },
       {
         "episodeNumber": 13,
         "title": "Episode 13 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/6%20-%20Gohan%20the%20Teacher!%20Videl's%20Flying%20Technique%20Tutorial%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/6%20-%20Gohan%20the%20Teacher!%20Videl's%20Flying%20Technique%20Tutorial%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/6%20-%20Gohan%20the%20Teacher!%20Videl's%20Flying%20Technique%20Tutorial%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2013.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2013.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2013.mp4"
       },
       {
         "episodeNumber": 14,
         "title": "Episode 14 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/7%20-%20The%20Dragon%20Team%20Fully%20Assembled!%20Goku%20Has%20Come%20Back!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/7%20-%20The%20Dragon%20Team%20Fully%20Assembled!%20Goku%20Has%20Come%20Back!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/7%20-%20The%20Dragon%20Team%20Fully%20Assembled!%20Goku%20Has%20Come%20Back!%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2014.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2014.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2014.mp4"
       },
       {
         "episodeNumber": 15,
         "title": "Episode 15 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/8%20-%20Who%20Is%20the%20World's%20Greatest%20The%20Tournament%20Preliminaries%20Begin!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/8%20-%20Who%20Is%20the%20World's%20Greatest%20The%20Tournament%20Preliminaries%20Begin!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/8%20-%20Who%20Is%20the%20World's%20Greatest%20The%20Tournament%20Preliminaries%20Begin!%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2015.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2015.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2015.mp4"
       },
       {
         "episodeNumber": 16,
         "title": "Episode 16 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/9%20-%20Everyone%20Is%20Surprised!%20Goten%20and%20Trunks'%20Super%20Battle!%201080p.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/9%20-%20Everyone%20Is%20Surprised!%20Goten%20and%20Trunks'%20Super%20Battle!%201080p.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/9%20-%20Everyone%20Is%20Surprised!%20Goten%20and%20Trunks'%20Super%20Battle!%201080p.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2016.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2016.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2016.mp4"
       },
       {
         "episodeNumber": 17,
         "title": "Episode 17 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/Dragon.Ball.Z.Kai.S06E03.DUBBED.720p.HDTV.x264-CRiMSON.mp4",
-        "dubUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/Dragon.Ball.Z.Kai.S06E03.DUBBED.720p.HDTV.x264-CRiMSON.mp4",
-        "subUrl": "https://archive.org/download/13-an-eerie-entity-who-exactly-is-spopovitch-1080p/Dragon.Ball.Z.Kai.S06E03.DUBBED.720p.HDTV.x264-CRiMSON.mp4"
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2017.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2017.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2017.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2018.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2018.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2018.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2019.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2019.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2019.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2020.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2020.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2020.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2021.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2021.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2021.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2022.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2022.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2022.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2023.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2023.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2023.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2024.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2024.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2024.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2025.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2025.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2025.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2026.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2026.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2026.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2027.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2027.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2027.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2028.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2028.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2028.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2029.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2029.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2029.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2030.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2030.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2030.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2031.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2031.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2031.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2032.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2032.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2032.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2033.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2033.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2033.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2034.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2034.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2034.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2035.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2035.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2035.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2036.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2036.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2036.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2037.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2037.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2037.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2038.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2038.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2038.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2039.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2039.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2039.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2040.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2040.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2040.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2041.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2041.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2041.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2042.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2042.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2042.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2043.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2043.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2043.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2044.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2044.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2044.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2045.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2045.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2045.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2046.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2046.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2046.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2047.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2047.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2047.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2048.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2048.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2048.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2049.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2049.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2049.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2050.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2050.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2050.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2051.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2051.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2051.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2052.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2052.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2052.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2053.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2053.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2053.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2054.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2054.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2054.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2055.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2055.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2055.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2056.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2056.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2056.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2057.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2057.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2057.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2058.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2058.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2058.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2059.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2059.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2059.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2060.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2060.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2060.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2061.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2061.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2061.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2062.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2062.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2062.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2063.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2063.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2063.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2064.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2064.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2064.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2065.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2065.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2065.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2066.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2066.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2066.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2067.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2067.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2067.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2068.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2068.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2068.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2069.mp4",
+        "dubUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2069.mp4",
+        "subUrl": "https://archive.org/download/dragon-ball-z-kai-episode-1/Dragon%20Ball%20Z%20Kai%20The%20Final%20Chapters%20Episode%2069.mp4"
       }
     ]
   },
@@ -32009,7 +35764,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "5 DUB EPS • COMPLETE",
+    "badgeText": "102 DUB EPS • COMPLETE ARCS",
     "isStaffPick": false,
     "isMature": false,
     "contentRating": "TV-14",
@@ -32021,42 +35776,818 @@ export const OUR_ANIME_CATALOG = [
       {
         "episodeNumber": 1,
         "title": "Episode 1 (English Dub)",
-        "duration": "22:00",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2001.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2001.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2002.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2002.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2003.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2003.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2004.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2004.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2005.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2005.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2005.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2006.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2006.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2006.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2007.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2007.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2008.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2008.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2009.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2009.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2010.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2010.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2011.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2011.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2012.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2012.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2012.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2013.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2013.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2013.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2014.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2014.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2014.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2015.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2015.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2015.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2016.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2016.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2016.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2017.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2017.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2017.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2018.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2018.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2018.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2019.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2019.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2019.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2020.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2020.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2020.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2021.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2021.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2021.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2022.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2022.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2022.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2023.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2023.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2023.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2024.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2024.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2024.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2025.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2025.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2025.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2026.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2026.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2026.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2027.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2027.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2027.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2028.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2028.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2028.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2029.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2029.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2029.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2030.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2030.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2030.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2031.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2031.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2031.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2032.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2032.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2032.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2033.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2033.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2033.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2034.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2034.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2034.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2035.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2035.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%2035.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 - SOS from the Future: A Dark New Enemy Appears! (English Dub)",
+        "duration": "24:00",
         "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/47%20-%20SOS%20from%20the%20Future%20A%20Dark%20New%20Enemy%20Appears!%20%5B1080p%5D%20%5BW4F%5D.mp4",
         "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/47%20-%20SOS%20from%20the%20Future%20A%20Dark%20New%20Enemy%20Appears!%20%5B1080p%5D%20%5BW4F%5D.mp4",
         "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/47%20-%20SOS%20from%20the%20Future%20A%20Dark%20New%20Enemy%20Appears!%20%5B1080p%5D%20%5BW4F%5D.mp4"
       },
       {
-        "episodeNumber": 2,
-        "title": "Episode 2 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present%2C%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4",
-        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present%2C%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4",
-        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present%2C%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4"
+        "episodeNumber": 48,
+        "title": "Episode 48 - HOPE!! Redux: Awaken in the Present, Trunks (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present,%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4",
+        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present,%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4",
+        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/48%20-%20Hope!!%20Redux%20Awaken%20in%20the%20Present,%20Trunks%20%5B1080p%5D%20%5BW4F%5D.mp4"
       },
       {
-        "episodeNumber": 3,
-        "title": "Episode 3 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E05.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
-        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E05.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
-        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E05.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4"
+        "episodeNumber": 67,
+        "title": "Episode 67 - With New Hope in His Heart - Farewell, Trunks (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20067%20With%20New%20Hope%20in%20His%20Heart%20-%20Farewell,%20Trunks.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20067%20With%20New%20Hope%20in%20His%20Heart%20-%20Farewell,%20Trunks.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20067%20With%20New%20Hope%20in%20His%20Heart%20-%20Farewell,%20Trunks.mp4"
       },
       {
-        "episodeNumber": 4,
-        "title": "Episode 4 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E06.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
-        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E06.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4",
-        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E06.DUBBED.720p.HDTV.x264-W4F%5Beztv%5D.mp4"
+        "episodeNumber": 68,
+        "title": "Episode 68 - Come Forth, Shenron! - Whose Wish Will Be Granted (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20068%20Come%20Forth,%20Shenron!%20-%20Whose%20Wish%20Will%20Be%20Granted.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20068%20Come%20Forth,%20Shenron!%20-%20Whose%20Wish%20Will%20Be%20Granted.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20068%20Come%20Forth,%20Shenron!%20-%20Whose%20Wish%20Will%20Be%20Granted.mp4"
       },
       {
-        "episodeNumber": 5,
-        "title": "Episode 5 (English Dub)",
-        "duration": "22:00",
-        "videoUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E09.DUBBED.720p.HDTV.x264-CRiMSON%5Beztv%5D.mp4",
-        "dubUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E09.DUBBED.720p.HDTV.x264-CRiMSON%5Beztv%5D.mp4",
-        "subUrl": "https://archive.org/download/48-hope-redux-awaken-in-the-present-trunks-1080p-w-4-f/Dragon.Ball.Super.S04E09.DUBBED.720p.HDTV.x264-CRiMSON%5Beztv%5D.mp4"
+        "episodeNumber": 69,
+        "title": "Episode 69 - Goku vs. Arale! - An Off-the-Wall Battle Spells the End of the Earth (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20069%20Goku%20vs.%20Arale!%20-%20An%20Off-the-Wall%20Battle%20Spells%20the%20End%20of%20the%20Earth.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20069%20Goku%20vs.%20Arale!%20-%20An%20Off-the-Wall%20Battle%20Spells%20the%20End%20of%20the%20Earth.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20069%20Goku%20vs.%20Arale!%20-%20An%20Off-the-Wall%20Battle%20Spells%20the%20End%20of%20the%20Earth.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 - A Challenge From Champa! - This Time, a Baseball Game! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20070%20A%20Challenge%20From%20Champa!%20-%20This%20Time,%20a%20Baseball%20Game!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20070%20A%20Challenge%20From%20Champa!%20-%20This%20Time,%20a%20Baseball%20Game!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20070%20A%20Challenge%20From%20Champa!%20-%20This%20Time,%20a%20Baseball%20Game!.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 - Goku Dies! - An Assassination That Must Be Executed (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20071%20Goku%20Dies!%20-%20An%20Assassination%20That%20Must%20Be%20Executed.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20071%20Goku%20Dies!%20-%20An%20Assassination%20That%20Must%20Be%20Executed.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20071%20Goku%20Dies!%20-%20An%20Assassination%20That%20Must%20Be%20Executed.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 - Will He Strike Back - The Unseen Killing Technique! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20072%20Will%20He%20Strike%20Back%20-%20The%20Unseen%20Killing%20Technique!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20072%20Will%20He%20Strike%20Back%20-%20The%20Unseen%20Killing%20Technique!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20072%20Will%20He%20Strike%20Back%20-%20The%20Unseen%20Killing%20Technique!.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 - Gohan's Plight! - The Preposterous Great Saiyaman Film Adaptation! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20073%20Gohan's%20Plight!%20-%20The%20Preposterous%20Great%20Saiyaman%20Film%20Adaptation!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20073%20Gohan's%20Plight!%20-%20The%20Preposterous%20Great%20Saiyaman%20Film%20Adaptation!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20073%20Gohan's%20Plight!%20-%20The%20Preposterous%20Great%20Saiyaman%20Film%20Adaptation!.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 - For My Beloved Ones! - The Indomitable Great Saiyaman! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20074%20For%20My%20Beloved%20Ones!%20-%20The%20Indomitable%20Great%20Saiyaman!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20074%20For%20My%20Beloved%20Ones!%20-%20The%20Indomitable%20Great%20Saiyaman!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20074%20For%20My%20Beloved%20Ones!%20-%20The%20Indomitable%20Great%20Saiyaman!.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 - Goku and Krillin - Back to the Old Familiar Training Ground! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20075%20Goku%20and%20Krillin%20-%20Back%20to%20the%20Old%20Familiar%20Training%20Ground!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20075%20Goku%20and%20Krillin%20-%20Back%20to%20the%20Old%20Familiar%20Training%20Ground!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20075%20Goku%20and%20Krillin%20-%20Back%20to%20the%20Old%20Familiar%20Training%20Ground!.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 - Conquer the Terrifying Foes! - Krillin's Fighting Spirit Rebounds! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20076%20Conquer%20the%20Terrifying%20Foes!%20-%20Krillin's%20Fighting%20Spirit%20Rebounds!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20076%20Conquer%20the%20Terrifying%20Foes!%20-%20Krillin's%20Fighting%20Spirit%20Rebounds!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20076%20Conquer%20the%20Terrifying%20Foes!%20-%20Krillin's%20Fighting%20Spirit%20Rebounds!.mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 - Let's Do It, Grand Zeno! - The Universes' Best Tournament!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20077%20Let's%20Do%20It,%20Grand%20Zeno!%20-%20The%20Universes'%20Best%20Tournament!!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20077%20Let's%20Do%20It,%20Grand%20Zeno!%20-%20The%20Universes'%20Best%20Tournament!!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20077%20Let's%20Do%20It,%20Grand%20Zeno!%20-%20The%20Universes'%20Best%20Tournament!!.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 - Even the Universes' Gods are Appalled! - The Lose-and-Perish Tournament of Power (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20078%20Even%20the%20Universes'%20Gods%20are%20Appalled!%20-%20The%20Lose-and-Perish%20Tournament%20of%20Power.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20078%20Even%20the%20Universes'%20Gods%20are%20Appalled!%20-%20The%20Lose-and-Perish%20Tournament%20of%20Power.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20078%20Even%20the%20Universes'%20Gods%20are%20Appalled!%20-%20The%20Lose-and-Perish%20Tournament%20of%20Power.mp4"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 - The 9th Universe's Kicking Basil - vs - The 7th Universe's Majin Buu!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20079%20The%209th%20Universe's%20Kicking%20Basil%20-%20vs%20-%20The%207th%20Universe's%20Majin%20Buu!!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20079%20The%209th%20Universe's%20Kicking%20Basil%20-%20vs%20-%20The%207th%20Universe's%20Majin%20Buu!!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20079%20The%209th%20Universe's%20Kicking%20Basil%20-%20vs%20-%20The%207th%20Universe's%20Majin%20Buu!!.mp4"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80 - Awaken Your Dormant Fighting Spirit! - Gohan's Fight! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20080%20Awaken%20Your%20Dormant%20Fighting%20Spirit!%20-%20Gohan's%20Fight!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20080%20Awaken%20Your%20Dormant%20Fighting%20Spirit!%20-%20Gohan's%20Fight!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20080%20Awaken%20Your%20Dormant%20Fighting%20Spirit!%20-%20Gohan's%20Fight!.mp4"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81 - Bergamo the Crusher vs. Goku! - Whose Strength Reaches the Wild Blue Yonder (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20081%20Bergamo%20the%20Crusher%20vs.%20Goku!%20-%20Whose%20Strength%20Reaches%20the%20Wild%20Blue%20Yonder.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20081%20Bergamo%20the%20Crusher%20vs.%20Goku!%20-%20Whose%20Strength%20Reaches%20the%20Wild%20Blue%20Yonder.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20081%20Bergamo%20the%20Crusher%20vs.%20Goku!%20-%20Whose%20Strength%20Reaches%20the%20Wild%20Blue%20Yonder.mp4"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82 - Goku Must Pay - The Warrior of Justice Top Barges In! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20082%20Goku%20Must%20Pay%20-%20The%20Warrior%20of%20Justice%20Top%20Barges%20In!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20082%20Goku%20Must%20Pay%20-%20The%20Warrior%20of%20Justice%20Top%20Barges%20In!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20082%20Goku%20Must%20Pay%20-%20The%20Warrior%20of%20Justice%20Top%20Barges%20In!.mp4"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83 - Field The All-7th-Universe Team! - Who Are The Mighty Ten (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20083%20Field%20The%20All-7th-Universe%20Team!%20-%20Who%20Are%20The%20Mighty%20Ten.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20083%20Field%20The%20All-7th-Universe%20Team!%20-%20Who%20Are%20The%20Mighty%20Ten.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20083%20Field%20The%20All-7th-Universe%20Team!%20-%20Who%20Are%20The%20Mighty%20Ten.mp4"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84 - Goku the Talent Scout - Recruit Krillin and Android 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20084%20Goku%20the%20Talent%20Scout%20-%20Recruit%20Krillin%20and%20Android%2018.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20084%20Goku%20the%20Talent%20Scout%20-%20Recruit%20Krillin%20and%20Android%2018.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20084%20Goku%20the%20Talent%20Scout%20-%20Recruit%20Krillin%20and%20Android%2018.mp4"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85 - The Universes Go Into Action - Each With Their Own Motives (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20085%20The%20Universes%20Go%20Into%20Action%20-%20Each%20With%20Their%20Own%20Motives.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20085%20The%20Universes%20Go%20Into%20Action%20-%20Each%20With%20Their%20Own%20Motives.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20085%20The%20Universes%20Go%20Into%20Action%20-%20Each%20With%20Their%20Own%20Motives.mp4"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "Episode 86 - First Time Exchanging Blows! - Android 17 vs. Goku!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20086%20First%20Time%20Exchanging%20Blows!%20-%20Android%2017%20vs.%20Goku!!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20086%20First%20Time%20Exchanging%20Blows!%20-%20Android%2017%20vs.%20Goku!!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20086%20First%20Time%20Exchanging%20Blows!%20-%20Android%2017%20vs.%20Goku!!.mp4"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Episode 87 - Hunt the Poaching Ring! - Goku and Android 17's Joint Struggle! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20087%20Hunt%20the%20Poaching%20Ring!%20-%20Goku%20and%20Android%2017's%20Joint%20Struggle!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20087%20Hunt%20the%20Poaching%20Ring!%20-%20Goku%20and%20Android%2017's%20Joint%20Struggle!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20087%20Hunt%20the%20Poaching%20Ring!%20-%20Goku%20and%20Android%2017's%20Joint%20Struggle!.mp4"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Episode 88 - Gohan and Piccolo - Master and Pupil Clash in Max Training! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20088%20Gohan%20and%20Piccolo%20-%20Master%20and%20Pupil%20Clash%20in%20Max%20Training!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20088%20Gohan%20and%20Piccolo%20-%20Master%20and%20Pupil%20Clash%20in%20Max%20Training!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20088%20Gohan%20and%20Piccolo%20-%20Master%20and%20Pupil%20Clash%20in%20Max%20Training!.mp4"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "Episode 89 - A Mysterious Beauty Appears! - The Enigma of the Tien Shin-Style Dojo (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20089%20A%20Mysterious%20Beauty%20Appears!%20-%20The%20Enigma%20of%20the%20Tien%20Shin-Style%20Dojo.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20089%20A%20Mysterious%20Beauty%20Appears!%20-%20The%20Enigma%20of%20the%20Tien%20Shin-Style%20Dojo.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20089%20A%20Mysterious%20Beauty%20Appears!%20-%20The%20Enigma%20of%20the%20Tien%20Shin-Style%20Dojo.mp4"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Episode 90 - Staring Down the Wall to be Overcome! - Goku vs. Gohan (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20090%20Staring%20Down%20the%20Wall%20to%20be%20Overcome!%20-%20Goku%20vs.%20Gohan.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20090%20Staring%20Down%20the%20Wall%20to%20be%20Overcome!%20-%20Goku%20vs.%20Gohan.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20090%20Staring%20Down%20the%20Wall%20to%20be%20Overcome!%20-%20Goku%20vs.%20Gohan.mp4"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Episode 91 - Which Universe Will Win Their Place - The Mighty Warriors Gradually Assemble! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20091%20Which%20Universe%20Will%20Win%20Their%20Place%20-%20The%20Mighty%20Warriors%20Gradually%20Assemble!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20091%20Which%20Universe%20Will%20Win%20Their%20Place%20-%20The%20Mighty%20Warriors%20Gradually%20Assemble!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20091%20Which%20Universe%20Will%20Win%20Their%20Place%20-%20The%20Mighty%20Warriors%20Gradually%20Assemble!.mp4"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Episode 92 - A State of Emergency! - Failure to Reach Ten Members! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20092%20A%20State%20of%20Emergency!%20-%20Failure%20to%20Reach%20Ten%20Members!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20092%20A%20State%20of%20Emergency!%20-%20Failure%20to%20Reach%20Ten%20Members!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20092%20A%20State%20of%20Emergency!%20-%20Failure%20to%20Reach%20Ten%20Members!.mp4"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Episode 93 - You're Our Tenth Warrior! - Goku Approaches Frieza!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20093%20You're%20Our%20Tenth%20Warrior!%20-%20Goku%20Approaches%20Frieza!!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20093%20You're%20Our%20Tenth%20Warrior!%20-%20Goku%20Approaches%20Frieza!!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20093%20You're%20Our%20Tenth%20Warrior!%20-%20Goku%20Approaches%20Frieza!!.mp4"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Episode 94 - The Evil Emperor Returns! - A Reception from Mysterious Assassins (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20094%20The%20Evil%20Emperor%20Returns!%20-%20A%20Reception%20from%20Mysterious%20Assassins.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20094%20The%20Evil%20Emperor%20Returns!%20-%20A%20Reception%20from%20Mysterious%20Assassins.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20094%20The%20Evil%20Emperor%20Returns!%20-%20A%20Reception%20from%20Mysterious%20Assassins.mp4"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "Episode 95 - Most Heinous! Most Evil! - Frieza's Wild Rampage! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20095%20Most%20Heinous!%20Most%20Evil!%20-%20Frieza's%20Wild%20Rampage!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20095%20Most%20Heinous!%20Most%20Evil!%20-%20Frieza's%20Wild%20Rampage!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20095%20Most%20Heinous!%20Most%20Evil!%20-%20Frieza's%20Wild%20Rampage!.mp4"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "Episode 96 - The Time Has Come! - To the Null Realm with the Universes on the Line! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20096%20The%20Time%20Has%20Come!%20-%20To%20the%20Null%20Realm%20with%20the%20Universes%20on%20the%20Line!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20096%20The%20Time%20Has%20Come!%20-%20To%20the%20Null%20Realm%20with%20the%20Universes%20on%20the%20Line!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20096%20The%20Time%20Has%20Come!%20-%20To%20the%20Null%20Realm%20with%20the%20Universes%20on%20the%20Line!.mp4"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "Episode 97 - Survive! - The Tournament of Power Begins at Last! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20097%20Survive!%20-%20The%20Tournament%20of%20Power%20Begins%20at%20Last!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20097%20Survive!%20-%20The%20Tournament%20of%20Power%20Begins%20at%20Last!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20097%20Survive!%20-%20The%20Tournament%20of%20Power%20Begins%20at%20Last!.mp4"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "Episode 98 - Ah, the Uncertainty! - A Universe Despairs! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20098%20Ah,%20the%20Uncertainty!%20-%20A%20Universe%20Despairs!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20098%20Ah,%20the%20Uncertainty!%20-%20A%20Universe%20Despairs!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20098%20Ah,%20the%20Uncertainty!%20-%20A%20Universe%20Despairs!.mp4"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "Episode 99 - Show Them! - Krillin's Underlying Strength! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20099%20Show%20Them!%20-%20Krillin's%20Underlying%20Strength!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20099%20Show%20Them!%20-%20Krillin's%20Underlying%20Strength!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20099%20Show%20Them!%20-%20Krillin's%20Underlying%20Strength!.mp4"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "Episode 100 - Rampage! - A Crazed Warrior's Savagery Awakens! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20100%20Rampage!%20-%20A%20Crazed%20Warrior's%20Savagery%20Awakens!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20100%20Rampage!%20-%20A%20Crazed%20Warrior's%20Savagery%20Awakens!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20100%20Rampage!%20-%20A%20Crazed%20Warrior's%20Savagery%20Awakens!.mp4"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "Episode 101 - Warriors of Justice Close In! - The Pride Troopers! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20101%20Warriors%20of%20Justice%20Close%20In!%20-%20The%20Pride%20Troopers!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20101%20Warriors%20of%20Justice%20Close%20In!%20-%20The%20Pride%20Troopers!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20101%20Warriors%20of%20Justice%20Close%20In!%20-%20The%20Pride%20Troopers!.mp4"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "Episode 102 - The Power of Love Explodes - The 2nd Universe's Witchy Warriors! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20102%20The%20Power%20of%20Love%20Explodes%20-%20The%202nd%20Universe's%20Witchy%20Warriors!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20102%20The%20Power%20of%20Love%20Explodes%20-%20The%202nd%20Universe's%20Witchy%20Warriors!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20102%20The%20Power%20of%20Love%20Explodes%20-%20The%202nd%20Universe's%20Witchy%20Warriors!.mp4"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "Episode 103 - Gohan, Get Ruthless! - Showdown with the 10th Universe! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20103%20Gohan,%20Get%20Ruthless!%20-%20Showdown%20with%20the%2010th%20Universe!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20103%20Gohan,%20Get%20Ruthless!%20-%20Showdown%20with%20the%2010th%20Universe!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20103%20Gohan,%20Get%20Ruthless!%20-%20Showdown%20with%20the%2010th%20Universe!.mp4"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "Episode 104 - A Transcendent Light-Speed Battle Erupts! - Goku and Hit's United Front! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20104%20A%20Transcendent%20Light-Speed%20Battle%20Erupts!%20-%20Goku%20and%20Hit's%20United%20Front!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20104%20A%20Transcendent%20Light-Speed%20Battle%20Erupts!%20-%20Goku%20and%20Hit's%20United%20Front!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20104%20A%20Transcendent%20Light-Speed%20Battle%20Erupts!%20-%20Goku%20and%20Hit's%20United%20Front!.mp4"
+      },
+      {
+        "episodeNumber": 105,
+        "title": "Episode 105 - A Valiant Fight! - Master Roshi's Blaze of Glory! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20105%20A%20Valiant%20Fight!%20-%20Master%20Roshi's%20Blaze%20of%20Glory!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20105%20A%20Valiant%20Fight!%20-%20Master%20Roshi's%20Blaze%20of%20Glory!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20105%20A%20Valiant%20Fight!%20-%20Master%20Roshi's%20Blaze%20of%20Glory!.mp4"
+      },
+      {
+        "episodeNumber": 106,
+        "title": "Episode 106 - Find them Out! - Deathmatch with a Furtive Attacker! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20106%20Find%20them%20Out!%20-%20Deathmatch%20with%20a%20Furtive%20Attacker!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20106%20Find%20them%20Out!%20-%20Deathmatch%20with%20a%20Furtive%20Attacker!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20106%20Find%20them%20Out!%20-%20Deathmatch%20with%20a%20Furtive%20Attacker!.mp4"
+      },
+      {
+        "episodeNumber": 107,
+        "title": "Episode 107 - Revenge F! - A Cunning Trap is Set (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20107%20Revenge%20F!%20-%20A%20Cunning%20Trap%20is%20Set.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20107%20Revenge%20F!%20-%20A%20Cunning%20Trap%20is%20Set.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20107%20Revenge%20F!%20-%20A%20Cunning%20Trap%20is%20Set.mp4"
+      },
+      {
+        "episodeNumber": 108,
+        "title": "Episode 108 - Frieza and Frost! - A Mutual Malevolence (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20108%20Frieza%20and%20Frost!%20-%20A%20Mutual%20Malevolence.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20108%20Frieza%20and%20Frost!%20-%20A%20Mutual%20Malevolence.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20108%20Frieza%20and%20Frost!%20-%20A%20Mutual%20Malevolence.mp4"
+      },
+      {
+        "episodeNumber": 109,
+        "title": "Episode 109 - The Mightiest Enemy Zeroes in on Goku! - Launch the Knockout Spirit Bomb Now! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20109%20The%20Mightiest%20Enemy%20Zeroes%20in%20on%20Goku!%20-%20Launch%20the%20Knockout%20Spirit%20Bomb%20Now!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20109%20The%20Mightiest%20Enemy%20Zeroes%20in%20on%20Goku!%20-%20Launch%20the%20Knockout%20Spirit%20Bomb%20Now!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20109%20The%20Mightiest%20Enemy%20Zeroes%20in%20on%20Goku!%20-%20Launch%20the%20Knockout%20Spirit%20Bomb%20Now!.mp4"
+      },
+      {
+        "episodeNumber": 110,
+        "title": "Episode 110 - Goku Enkindled! - The Awakened One's New Ultra Instinct! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20110%20Goku%20Enkindled!%20-%20The%20Awakened%20One's%20New%20Ultra%20Instinct!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20110%20Goku%20Enkindled!%20-%20The%20Awakened%20One's%20New%20Ultra%20Instinct!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20110%20Goku%20Enkindled!%20-%20The%20Awakened%20One's%20New%20Ultra%20Instinct!.mp4"
+      },
+      {
+        "episodeNumber": 111,
+        "title": "Episode 111 - An Extra-Dimensional Ultimate Battle! - Hit vs. Jiren! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20111%20An%20Extra-Dimensional%20Ultimate%20Battle!%20-%20Hit%20vs.%20Jiren!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20111%20An%20Extra-Dimensional%20Ultimate%20Battle!%20-%20Hit%20vs.%20Jiren!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20111%20An%20Extra-Dimensional%20Ultimate%20Battle!%20-%20Hit%20vs.%20Jiren!.mp4"
+      },
+      {
+        "episodeNumber": 112,
+        "title": "Episode 112 - A Saiyan Oath! - Vegeta's Resolve! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20112%20A%20Saiyan%20Oath!%20-%20Vegeta's%20Resolve!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20112%20A%20Saiyan%20Oath!%20-%20Vegeta's%20Resolve!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20112%20A%20Saiyan%20Oath!%20-%20Vegeta's%20Resolve!.mp4"
+      },
+      {
+        "episodeNumber": 113,
+        "title": "Episode 113 - With Great Joy! - The Fighting Freak Saiyans' Battle Rejoined! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20113%20With%20Great%20Joy!%20-%20The%20Fighting%20Freak%20Saiyans'%20Battle%20Rejoined!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20113%20With%20Great%20Joy!%20-%20The%20Fighting%20Freak%20Saiyans'%20Battle%20Rejoined!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20113%20With%20Great%20Joy!%20-%20The%20Fighting%20Freak%20Saiyans'%20Battle%20Rejoined!.mp4"
+      },
+      {
+        "episodeNumber": 114,
+        "title": "Episode 114 - Bloodcurdling! - The Explosive Birth of a New Super Warrior! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20114%20Bloodcurdling!%20-%20The%20Explosive%20Birth%20of%20a%20New%20Super%20Warrior!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20114%20Bloodcurdling!%20-%20The%20Explosive%20Birth%20of%20a%20New%20Super%20Warrior!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20114%20Bloodcurdling!%20-%20The%20Explosive%20Birth%20of%20a%20New%20Super%20Warrior!.mp4"
+      },
+      {
+        "episodeNumber": 115,
+        "title": "Episode 115 - Goku vs. Kefla! - Super Saiyan Blue Beaten (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20115%20Goku%20vs.%20Kefla!%20-%20Super%20Saiyan%20Blue%20Beaten.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20115%20Goku%20vs.%20Kefla!%20-%20Super%20Saiyan%20Blue%20Beaten.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20115%20Goku%20vs.%20Kefla!%20-%20Super%20Saiyan%20Blue%20Beaten.mp4"
+      },
+      {
+        "episodeNumber": 116,
+        "title": "Episode 116 - Signs of a Turnabout! - The Autonomous Ultra Instinct Erupts! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20116%20Signs%20of%20a%20Turnabout!%20-%20The%20Autonomous%20Ultra%20Instinct%20Erupts!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20116%20Signs%20of%20a%20Turnabout!%20-%20The%20Autonomous%20Ultra%20Instinct%20Erupts!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20116%20Signs%20of%20a%20Turnabout!%20-%20The%20Autonomous%20Ultra%20Instinct%20Erupts!.mp4"
+      },
+      {
+        "episodeNumber": 117,
+        "title": "Episode 117 - Showdown of Love! - The Androids vs the 2nd Universe! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20117%20Showdown%20of%20Love!%20-%20The%20Androids%20vs%20the%202nd%20Universe!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20117%20Showdown%20of%20Love!%20-%20The%20Androids%20vs%20the%202nd%20Universe!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20117%20Showdown%20of%20Love!%20-%20The%20Androids%20vs%20the%202nd%20Universe!.mp4"
+      },
+      {
+        "episodeNumber": 118,
+        "title": "Episode 118 - Accelerating Tragedy - Vanishing Universes (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20118%20Accelerating%20Tragedy%20-%20Vanishing%20Universes.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20118%20Accelerating%20Tragedy%20-%20Vanishing%20Universes.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20118%20Accelerating%20Tragedy%20-%20Vanishing%20Universes.mp4"
+      },
+      {
+        "episodeNumber": 119,
+        "title": "Episode 119 - Unavoidable - The Ferocity of a Stealth Attack! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20119%20Unavoidable%20-%20The%20Ferocity%20of%20a%20Stealth%20Attack!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20119%20Unavoidable%20-%20The%20Ferocity%20of%20a%20Stealth%20Attack!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20119%20Unavoidable%20-%20The%20Ferocity%20of%20a%20Stealth%20Attack!.mp4"
+      },
+      {
+        "episodeNumber": 120,
+        "title": "Episode 120 - A Perfect Survival Strategy! - The 3rd Universe's Menacing Assassin! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20120%20A%20Perfect%20Survival%20Strategy!%20-%20The%203rd%20Universe's%20Menacing%20Assassin!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20120%20A%20Perfect%20Survival%20Strategy!%20-%20The%203rd%20Universe's%20Menacing%20Assassin!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20120%20A%20Perfect%20Survival%20Strategy!%20-%20The%203rd%20Universe's%20Menacing%20Assassin!.mp4"
+      },
+      {
+        "episodeNumber": 121,
+        "title": "Episode 121 - All-Out War! - The Ultimate Four-Fold Union vs. the 7th Universe's Total Offensive! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20121%20All-Out%20War!%20-%20The%20Ultimate%20Four-Fold%20Union%20vs.%20the%207th%20Universe's%20Total%20Offensive!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20121%20All-Out%20War!%20-%20The%20Ultimate%20Four-Fold%20Union%20vs.%20the%207th%20Universe's%20Total%20Offensive!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20121%20All-Out%20War!%20-%20The%20Ultimate%20Four-Fold%20Union%20vs.%20the%207th%20Universe's%20Total%20Offensive!.mp4"
+      },
+      {
+        "episodeNumber": 122,
+        "title": "Episode 122 - With His Pride on the Line! - Vegeta's Challenge to Be the Strongest! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20122%20With%20His%20Pride%20on%20the%20Line!%20-%20Vegeta's%20Challenge%20to%20Be%20the%20Strongest!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20122%20With%20His%20Pride%20on%20the%20Line!%20-%20Vegeta's%20Challenge%20to%20Be%20the%20Strongest!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20122%20With%20His%20Pride%20on%20the%20Line!%20-%20Vegeta's%20Challenge%20to%20Be%20the%20Strongest!.mp4"
+      },
+      {
+        "episodeNumber": 123,
+        "title": "Episode 123 - Body, Soul and Power Unleashed! - Goku and Vegeta! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20123%20Body,%20Soul%20and%20Power%20Unleashed!%20-%20Goku%20and%20Vegeta!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20123%20Body,%20Soul%20and%20Power%20Unleashed!%20-%20Goku%20and%20Vegeta!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20123%20Body,%20Soul%20and%20Power%20Unleashed!%20-%20Goku%20and%20Vegeta!.mp4"
+      },
+      {
+        "episodeNumber": 124,
+        "title": "Episode 124 - A Storm-and-Stress Assault! - Gohan's Last Stand! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20124%20A%20Storm-and-Stress%20Assault!%20-%20Gohan's%20Last%20Stand!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20124%20A%20Storm-and-Stress%20Assault!%20-%20Gohan's%20Last%20Stand!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20124%20A%20Storm-and-Stress%20Assault!%20-%20Gohan's%20Last%20Stand!.mp4"
+      },
+      {
+        "episodeNumber": 125,
+        "title": "Episode 125 - A Commanding Presence! - The Advent of Top the Destroyer! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20125%20A%20Commanding%20Presence!%20-%20The%20Advent%20of%20Top%20the%20Destroyer!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20125%20A%20Commanding%20Presence!%20-%20The%20Advent%20of%20Top%20the%20Destroyer!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20125%20A%20Commanding%20Presence!%20-%20The%20Advent%20of%20Top%20the%20Destroyer!.mp4"
+      },
+      {
+        "episodeNumber": 126,
+        "title": "Episode 126 - Surpass Even a God! - Vegeta's Sacrifice Strike! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20126%20Surpass%20Even%20a%20God!%20-%20Vegeta's%20Sacrifice%20Strike!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20126%20Surpass%20Even%20a%20God!%20-%20Vegeta's%20Sacrifice%20Strike!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20126%20Surpass%20Even%20a%20God!%20-%20Vegeta's%20Sacrifice%20Strike!.mp4"
+      },
+      {
+        "episodeNumber": 127,
+        "title": "Episode 127 - The Approaching Wall! - A Hopeful Final Barrier (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20127%20The%20Approaching%20Wall!%20-%20A%20Hopeful%20Final%20Barrier.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20127%20The%20Approaching%20Wall!%20-%20A%20Hopeful%20Final%20Barrier.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20127%20The%20Approaching%20Wall!%20-%20A%20Hopeful%20Final%20Barrier.mp4"
+      },
+      {
+        "episodeNumber": 128,
+        "title": "Episode 128 - To the Noble, Proud End! - Vegeta Falls! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20128%20To%20the%20Noble,%20Proud%20End!%20-%20Vegeta%20Falls!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20128%20To%20the%20Noble,%20Proud%20End!%20-%20Vegeta%20Falls!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20128%20To%20the%20Noble,%20Proud%20End!%20-%20Vegeta%20Falls!.mp4"
+      },
+      {
+        "episodeNumber": 129,
+        "title": "Episode 129 - A Transcendent Limit Break! - Autonomous Ultra Instinct Mastered! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20129%20A%20Transcendent%20Limit%20Break!%20-%20Autonomous%20Ultra%20Instinct%20Mastered!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20129%20A%20Transcendent%20Limit%20Break!%20-%20Autonomous%20Ultra%20Instinct%20Mastered!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20129%20A%20Transcendent%20Limit%20Break!%20-%20Autonomous%20Ultra%20Instinct%20Mastered!.mp4"
+      },
+      {
+        "episodeNumber": 130,
+        "title": "Episode 130 - The Greatest Showdown of All Time! - The Ultimate Survival Battle! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20130%20The%20Greatest%20Showdown%20of%20All%20Time!%20-%20The%20Ultimate%20Survival%20Battle!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20130%20The%20Greatest%20Showdown%20of%20All%20Time!%20-%20The%20Ultimate%20Survival%20Battle!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20130%20The%20Greatest%20Showdown%20of%20All%20Time!%20-%20The%20Ultimate%20Survival%20Battle!.mp4"
+      },
+      {
+        "episodeNumber": 131,
+        "title": "Episode 131 - The Miraculous Conclusion! - Farewell Goku! Until We Meet Again! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20131%20The%20Miraculous%20Conclusion!%20-%20Farewell%20Goku!%20Until%20We%20Meet%20Again!.mp4",
+        "dubUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20131%20The%20Miraculous%20Conclusion!%20-%20Farewell%20Goku!%20Until%20We%20Meet%20Again!.mp4",
+        "subUrl": "https://archive.org/download/dragonballsuperdubb/5DargonBallSuper/Dragon%20Ball%20Super%20131%20The%20Miraculous%20Conclusion!%20-%20Farewell%20Goku!%20Until%20We%20Meet%20Again!.mp4"
       }
     ]
   },
@@ -32084,7 +36615,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "3 DUB EPS • COMPLETE",
+    "badgeText": "50 DUB EPS • 3 SEASONS COMPLETE",
     "isStaffPick": false,
     "isMature": false,
     "contentRating": "TV-14",
@@ -32095,27 +36626,1277 @@ export const OUR_ANIME_CATALOG = [
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Tokyo Revengers Toonami Promo 2 (English Dub)",
+        "title": "Episode 1 (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo%202.mp4",
-        "dubUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo%202.mp4",
-        "subUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo%202.mp4"
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E01_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E01_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E01_(Dual%20Audio_10bit_BD1080p_x265).mp4"
       },
       {
         "episodeNumber": 2,
-        "title": "Tokyo Revengers Toonami Promo (English Dub)",
-        "duration": "1:00",
-        "videoUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo.mp4",
-        "dubUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo.mp4",
-        "subUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Promo.mp4"
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E02_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E02_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E02_(Dual%20Audio_10bit_BD1080p_x265).mp4"
       },
       {
         "episodeNumber": 3,
-        "title": "Tokyo Revengers Toonami Short Promo 1 (English Dub)",
-        "duration": "1:00",
-        "videoUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Short%20Promo%201.mp4",
-        "dubUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Short%20Promo%201.mp4",
-        "subUrl": "https://archive.org/download/tokyo-revengers-toonami-promo/Promos/Tokyo%20Revengers%20Toonami%20Short%20Promo%201.mp4"
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E03_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E03_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E03_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E04_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E04_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E04_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E05_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E05_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E05_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E06_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E06_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E06_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E07_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E07_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E07_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E08_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E08_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E08_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E09_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E09_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E09_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E10_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E10_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E10_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E11_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E11_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E11_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E12_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E12_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E12_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E13_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E13_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E13_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E14_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E14_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E14_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E15_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E15_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E15_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E16_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E16_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E16_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E17_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E17_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E17_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E18_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E18_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E18_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E19_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E19_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E19_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E20_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E20_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E20_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E21_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E21_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E21_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E22_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E22_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E22_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E23_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E23_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E23_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E24_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E24_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E24_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E25_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E25_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E25_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E26_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E26_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E26_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E27_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E27_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20RevengersS01E27_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E28_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E28_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E28_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E29_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E29_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E29_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E30_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E30_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E30_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E31_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E31_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E31_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E32_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E32_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E32_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E33_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E33_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E33_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E34_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E34_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E34_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E35_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E35_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E35_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E36_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E36_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E36_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E37_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E37_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Seiya%20Kessen-henS01E37_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E38_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E38_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E38_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E39_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E39_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E39_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E40_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E40_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E40_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E41_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E41_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E41_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E42_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E42_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E42_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E43_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E43_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E43_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E44_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E44_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E44_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E45_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E45_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E45_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E46_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E46_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E46_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E47_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E47_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E47_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E48_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E48_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E48_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E49_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E49_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E49_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E50_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "dubUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E50_(Dual%20Audio_10bit_BD1080p_x265).mp4",
+        "subUrl": "https://archive.org/download/tokyo-revengers-complete/Tokyo%20Revengers%20Tenjiku-henS01E50_(Dual%20Audio_10bit_BD1080p_x265).mp4"
+      }
+    ]
+  },
+  {
+    "id": 1887,
+    "title": {
+      "english": "Lucky☆Star",
+      "romaji": "Lucky☆Star",
+      "native": "らき☆すた"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1887-P36Pucd4qKji.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1887-P36Pucd4qKji.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1887-P36Pucd4qKji.png",
+      "color": "#4cb1e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1887-wsvLo25cHip4.png",
+    "description": "Lucky☆Star follows the hilarious everyday lives of four cute high school girls: Konata Izumi, the lazy otaku; the Hiiragi twins, Tsukasa and Kagami; and Miyuki Takara, the polite smart girl. Together they navigate school life, otaku culture, food dilemmas, and fun discussions.",
+    "averageScore": 78,
+    "seasonYear": 2007,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 25 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Iconic Kyoto Animation classic! Hilarious slice-of-life humor and otaku pop culture.",
+    "isMature": false,
+    "contentRating": "TV-PG",
+    "contentWarnings": [
+      "Mild Humor"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2001%20(English%20Dub)%20(1080p)%20%5B4557EBF1%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2001%20(English%20Dub)%20(1080p)%20%5B4557EBF1%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2001%20(English%20Dub)%20(1080p)%20%5B4557EBF1%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2002%20(English%20Dub)%20(1080p)%20%5B74035C36%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2002%20(English%20Dub)%20(1080p)%20%5B74035C36%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2002%20(English%20Dub)%20(1080p)%20%5B74035C36%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2003%20(English%20Dub)%20(1080p)%20%5B1C4AE0B0%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2003%20(English%20Dub)%20(1080p)%20%5B1C4AE0B0%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2003%20(English%20Dub)%20(1080p)%20%5B1C4AE0B0%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2004%20(English%20Dub)%20(1080p)%20%5B1838B393%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2004%20(English%20Dub)%20(1080p)%20%5B1838B393%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2004%20(English%20Dub)%20(1080p)%20%5B1838B393%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2005%20(English%20Dub)%20(1080p)%20%5B8BE8A4DB%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2005%20(English%20Dub)%20(1080p)%20%5B8BE8A4DB%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2005%20(English%20Dub)%20(1080p)%20%5B8BE8A4DB%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2006%20(English%20Dub)%20(1080p)%20%5B37C8824D%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2006%20(English%20Dub)%20(1080p)%20%5B37C8824D%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2006%20(English%20Dub)%20(1080p)%20%5B37C8824D%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2007%20(English%20Dub)%20(1080p)%20%5BF7B2637D%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2007%20(English%20Dub)%20(1080p)%20%5BF7B2637D%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2007%20(English%20Dub)%20(1080p)%20%5BF7B2637D%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2008%20(English%20Dub)%20(1080p)%20%5BA3DB8C27%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2008%20(English%20Dub)%20(1080p)%20%5BA3DB8C27%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2008%20(English%20Dub)%20(1080p)%20%5BA3DB8C27%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2009%20(English%20Dub)%20(1080p)%20%5B3B4E4606%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2009%20(English%20Dub)%20(1080p)%20%5B3B4E4606%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2009%20(English%20Dub)%20(1080p)%20%5B3B4E4606%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2010%20(English%20Dub)%20(1080p)%20%5BC45946C3%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2010%20(English%20Dub)%20(1080p)%20%5BC45946C3%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2010%20(English%20Dub)%20(1080p)%20%5BC45946C3%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2011%20(English%20Dub)%20(1080p)%20%5BBC373324%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2011%20(English%20Dub)%20(1080p)%20%5BBC373324%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2011%20(English%20Dub)%20(1080p)%20%5BBC373324%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2012%20(English%20Dub)%20(1080p)%20%5BDC9DA42F%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2012%20(English%20Dub)%20(1080p)%20%5BDC9DA42F%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2012%20(English%20Dub)%20(1080p)%20%5BDC9DA42F%5D.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2013%20(English%20Dub)%20(1080p)%20%5B3E7D7463%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2013%20(English%20Dub)%20(1080p)%20%5B3E7D7463%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2013%20(English%20Dub)%20(1080p)%20%5B3E7D7463%5D.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2014%20(English%20Dub)%20(1080p)%20%5B44D75FC1%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2014%20(English%20Dub)%20(1080p)%20%5B44D75FC1%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2014%20(English%20Dub)%20(1080p)%20%5B44D75FC1%5D.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2015%20(English%20Dub)%20(1080p)%20%5B4119A4D9%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2015%20(English%20Dub)%20(1080p)%20%5B4119A4D9%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2015%20(English%20Dub)%20(1080p)%20%5B4119A4D9%5D.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2016%20(English%20Dub)%20(1080p)%20%5B402145D4%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2016%20(English%20Dub)%20(1080p)%20%5B402145D4%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2016%20(English%20Dub)%20(1080p)%20%5B402145D4%5D.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2017%20(English%20Dub)%20(1080p)%20%5B450582FE%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2017%20(English%20Dub)%20(1080p)%20%5B450582FE%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2017%20(English%20Dub)%20(1080p)%20%5B450582FE%5D.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2018%20(English%20Dub)%20(1080p)%20%5BC183C0A3%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2018%20(English%20Dub)%20(1080p)%20%5BC183C0A3%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2018%20(English%20Dub)%20(1080p)%20%5BC183C0A3%5D.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2019%20(English%20Dub)%20(1080p)%20%5B3B5148D0%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2019%20(English%20Dub)%20(1080p)%20%5B3B5148D0%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2019%20(English%20Dub)%20(1080p)%20%5B3B5148D0%5D.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2020%20(English%20Dub)%20(1080p)%20%5BE7F8A9E1%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2020%20(English%20Dub)%20(1080p)%20%5BE7F8A9E1%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2020%20(English%20Dub)%20(1080p)%20%5BE7F8A9E1%5D.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2021%20(English%20Dub)%20(1080p)%20%5B2EC43990%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2021%20(English%20Dub)%20(1080p)%20%5B2EC43990%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2021%20(English%20Dub)%20(1080p)%20%5B2EC43990%5D.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2022%20(English%20Dub)%20(1080p)%20%5BA42A2A65%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2022%20(English%20Dub)%20(1080p)%20%5BA42A2A65%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2022%20(English%20Dub)%20(1080p)%20%5BA42A2A65%5D.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2023%20(English%20Dub)%20(1080p)%20%5B4835F8B3%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2023%20(English%20Dub)%20(1080p)%20%5B4835F8B3%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2023%20(English%20Dub)%20(1080p)%20%5B4835F8B3%5D.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2024%20(English%20Dub)%20(1080p)%20%5B854DDA1C%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2024%20(English%20Dub)%20(1080p)%20%5B854DDA1C%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%2024%20(English%20Dub)%20(1080p)%20%5B854DDA1C%5D.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "OVA (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%20OVA%20(English%20Dub)%20(1080p)%20%5B4E1BA2E4%5D.mp4",
+        "dubUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%20OVA%20(English%20Dub)%20(1080p)%20%5B4E1BA2E4%5D.mp4",
+        "subUrl": "https://archive.org/download/virus123-lucky-star-english-dub-1080p/%5BVirus123%5D%20Lucky%20Star%20-%20OVA%20(English%20Dub)%20(1080p)%20%5B4E1BA2E4%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 16592,
+    "title": {
+      "english": "Danganronpa: The Animation",
+      "romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+      "native": "ダンガンロンパ 希望の学園と絶望の高校生 THE ANIMATION"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16592-mFn1gfMXlKtw.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16592-mFn1gfMXlKtw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx16592-mFn1gfMXlKtw.jpg",
+      "color": "#e42b75"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16592-tcRpZFHvgZjb.jpg",
+    "description": "Hope's Peak Academy gathers the nation's most elite students, but fifteen students find themselves trapped inside by a psychotic robotic bear named Monokuma. The only way to graduate is to murder a classmate and get away with it in the class trial!",
+    "averageScore": 72,
+    "seasonYear": 2013,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "13 DUB EPS • COMPLETE",
+    "isStaffPick": true,
+    "staffNotes": "Intense battle-of-wits courtroom mystery packed with thrills and dark comedy.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Violence",
+      "Blood",
+      "Psychological Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Welcome to Despair High School (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2001%20-%20Welcome%20to%20Despair%20High%20School.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2001%20-%20Welcome%20to%20Despair%20High%20School.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2001%20-%20Welcome%20to%20Despair%20High%20School.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "(Not) Normal Arc, Kill and Live (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2002%20-%20(Not)%20Normal%20Arc,%20Kill%20and%20Live.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2002%20-%20(Not)%20Normal%20Arc,%20Kill%20and%20Live.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2002%20-%20(Not)%20Normal%20Arc,%20Kill%20and%20Live.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Not Normal Arc Kill and Live (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2003%20-%20Not%20Normal%20Arc%20Kill%20and%20Live.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2003%20-%20Not%20Normal%20Arc%20Kill%20and%20Live.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2003%20-%20Not%20Normal%20Arc%20Kill%20and%20Live.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "(Not) Normal Arc, Weekly Shonen Despair Magazine (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2004%20-%20(Not)%20Normal%20Arc,%20Weekly%20Shonen%20Despair%20Magazine.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2004%20-%20(Not)%20Normal%20Arc,%20Weekly%20Shonen%20Despair%20Magazine.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2004%20-%20(Not)%20Normal%20Arc,%20Weekly%20Shonen%20Despair%20Magazine.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Not Normal Arc, Weekly Shonen Despair Magazine (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2005%20-%20Not%20Normal%20Arc,%20Weekly%20Shonen%20Despair%20Magazine.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2005%20-%20Not%20Normal%20Arc,%20Weekly%20Shonen%20Despair%20Magazine.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2005%20-%20Not%20Normal%20Arc,%20Weekly%20Shonen%20Despair%20Magazine.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "(Not) Normal Arc, Return of the New Century Galaxy Legend! O Armored Hero, Stand upon the Earth! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2006%20-%20(Not)%20Normal%20Arc,%20Return%20of%20the%20New%20Century%20Galaxy%20Legend!%20O%20Armored%20Hero,%20Stand%20upon%20the%20Earth!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2006%20-%20(Not)%20Normal%20Arc,%20Return%20of%20the%20New%20Century%20Galaxy%20Legend!%20O%20Armored%20Hero,%20Stand%20upon%20the%20Earth!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2006%20-%20(Not)%20Normal%20Arc,%20Return%20of%20the%20New%20Century%20Galaxy%20Legend!%20O%20Armored%20Hero,%20Stand%20upon%20the%20Earth!.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Not Normal Arc, Return of the New Century Galaxy Legend! O Armored Hero, Stand upon the Earth! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2007%20-%20Not%20Normal%20Arc,%20Return%20of%20the%20New%20Century%20Galaxy%20Legend!%20O%20Armored%20Hero,%20Stand%20upon%20the%20Earth!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2007%20-%20Not%20Normal%20Arc,%20Return%20of%20the%20New%20Century%20Galaxy%20Legend!%20O%20Armored%20Hero,%20Stand%20upon%20the%20Earth!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2007%20-%20Not%20Normal%20Arc,%20Return%20of%20the%20New%20Century%20Galaxy%20Legend!%20O%20Armored%20Hero,%20Stand%20upon%20the%20Earth!.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "(Not) Normal Arc, All All Apologies (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2008%20-%20(Not)%20Normal%20Arc,%20All%20All%20Apologies.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2008%20-%20(Not)%20Normal%20Arc,%20All%20All%20Apologies.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2008%20-%20(Not)%20Normal%20Arc,%20All%20All%20Apologies.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "All All Apologies II (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2009%20-%20All%20All%20Apologies%20II.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2009%20-%20All%20All%20Apologies%20II.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2009%20-%20All%20All%20Apologies%20II.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "(Not) Normal Arc, The Junk Food of Despair for Racing through Youth (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2010%20-%20(Not)%20Normal%20Arc,%20The%20Junk%20Food%20of%20Despair%20for%20Racing%20through%20Youth.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2010%20-%20(Not)%20Normal%20Arc,%20The%20Junk%20Food%20of%20Despair%20for%20Racing%20through%20Youth.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2010%20-%20(Not)%20Normal%20Arc,%20The%20Junk%20Food%20of%20Despair%20for%20Racing%20through%20Youth.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Not Normal Arc, The Junk Food of Despair for Racing through Youth (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2011%20-%20Not%20Normal%20Arc,%20The%20Junk%20Food%20of%20Despair%20for%20Racing%20through%20Youth.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2011%20-%20Not%20Normal%20Arc,%20The%20Junk%20Food%20of%20Despair%20for%20Racing%20through%20Youth.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2011%20-%20Not%20Normal%20Arc,%20The%20Junk%20Food%20of%20Despair%20for%20Racing%20through%20Youth.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "The Reason Super High School Level Bad Luck Attracted Super High School Level Murder, Super High School Level Execution and Super High School Level Despair (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2012%20-%20The%20Reason%20Super%20High%20School%20Level%20Bad%20Luck%20Attracted%20Super%20High%20School%20Level%20Murder,%20Super%20High%20School%20Level%20Execution%20and%20Super%20High%20School%20Level%20Despair.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2012%20-%20The%20Reason%20Super%20High%20School%20Level%20Bad%20Luck%20Attracted%20Super%20High%20School%20Level%20Murder,%20Super%20High%20School%20Level%20Execution%20and%20Super%20High%20School%20Level%20Despair.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2012%20-%20The%20Reason%20Super%20High%20School%20Level%20Bad%20Luck%20Attracted%20Super%20High%20School%20Level%20Murder,%20Super%20High%20School%20Level%20Execution%20and%20Super%20High%20School%20Level%20Despair.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Goodbye, Despair High School (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2013%20-%20Goodbye,%20Despair%20High%20School.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2013%20-%20Goodbye,%20Despair%20High%20School.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Danganronpa/Danganronpa%20-%2013%20-%20Goodbye,%20Despair%20High%20School.mp4"
+      }
+    ]
+  },
+  {
+    "id": 99424,
+    "title": {
+      "english": "SSSS.GRIDMAN",
+      "romaji": "SSSS.GRIDMAN",
+      "native": "SSSS.GRIDMAN"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99424-9bV9lbUhynar.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99424-9bV9lbUhynar.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx99424-9bV9lbUhynar.jpg",
+      "color": "#3f51b5"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99424-siL3zkjLWjUc.jpg",
+    "description": "Yuta Hibiki wakes up with amnesia and the ability to see things others can't. He meets Gridman inside an old computer, who tells him he has a calling. Soon, giant Kaiju attack the city, and Yuta merges with Gridman to protect everyone in exhilarating mecha battles!",
+    "averageScore": 72,
+    "seasonYear": 2018,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Sci-Fi Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 - Awakening (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%201%20-%20Awakening.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%201%20-%20Awakening.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%201%20-%20Awakening.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 - Restoration (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%202%20-%20Restoration.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%202%20-%20Restoration.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%202%20-%20Restoration.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 - Defeat (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%203%20-%20Defeat.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%203%20-%20Defeat.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%203%20-%20Defeat.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 - Suspicion (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%204%20-%20Suspicion.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%204%20-%20Suspicion.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%204%20-%20Suspicion.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 - Provocation (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%205%20-%20Provocation.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%205%20-%20Provocation.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%205%20-%20Provocation.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 - Contac (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%206%20-%20Contac.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%206%20-%20Contac.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%206%20-%20Contac.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 - Scheme (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%207%20-%20Scheme.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%207%20-%20Scheme.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%207%20-%20Scheme.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 - Confrontation (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%208%20-%20Confrontation.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%208%20-%20Confrontation.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%208%20-%20Confrontation.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 - Dream (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%209%20-%20Dream.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%209%20-%20Dream.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%209%20-%20Dream.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 - Collapse (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2010%20-%20Collapse.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2010%20-%20Collapse.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2010%20-%20Collapse.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 - Decisive Battle (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2011%20-%20Decisive%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2011%20-%20Decisive%20Battle.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2011%20-%20Decisive%20Battle.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 - Awakening - Final Episode (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2012%20-%20Awakening%20-%20Final%20Episode.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2012%20-%20Awakening%20-%20Final%20Episode.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/SSSS%20Gridman/Season%201/SSSS.Gridman%20-%2012%20-%20Awakening%20-%20Final%20Episode.mp4"
+      }
+    ]
+  },
+  {
+    "id": 10719,
+    "title": {
+      "english": "Haganai: I Don't Have Many Friends",
+      "romaji": "Boku wa Tomodachi ga Sukunai",
+      "native": "僕は友達が少ない"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10719-aNf9gOOw62Fs.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10719-aNf9gOOw62Fs.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10719-aNf9gOOw62Fs.png",
+      "color": "#f5a623"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10719-d6DYjUtuSmdg.jpg",
+    "description": "Kodaka Hasegawa is a transfer student who struggles to make friends due to his fierce blond hair and brown eyes. When he meets Yozora Mikazuki talking to her imaginary friend, they decide to form the Neighbor's Club — a club made specifically for people who have no friends!",
+    "averageScore": 70,
+    "seasonYear": 2011,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASONS 1-2 • 25 DUB EPS",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Suggestive Themes",
+      "Crude Humor"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "We Can't Make Friends (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2001%20-%20We%20Can't%20Make%20Friends.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2001%20-%20We%20Can't%20Make%20Friends.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2001%20-%20We%20Can't%20Make%20Friends.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "There's No God in the Electric World (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2002%20-%20There's%20No%20God%20in%20the%20Electric%20World.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2002%20-%20There's%20No%20God%20in%20the%20Electric%20World.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2002%20-%20There's%20No%20God%20in%20the%20Electric%20World.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "There Are No Flags at the Pool (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2003%20-%20There%20Are%20No%20Flags%20at%20the%20Pool.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2003%20-%20There%20Are%20No%20Flags%20at%20the%20Pool.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2003%20-%20There%20Are%20No%20Flags%20at%20the%20Pool.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Underclassmen Don't Know How to Hold Back (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2004%20-%20Underclassmen%20Don't%20Know%20How%20to%20Hold%20Back.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2004%20-%20Underclassmen%20Don't%20Know%20How%20to%20Hold%20Back.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2004%20-%20Underclassmen%20Don't%20Know%20How%20to%20Hold%20Back.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Now SAGA is Locked in Full-On Battle (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2005%20-%20Now%20SAGA%20is%20Locked%20in%20Full-On%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2005%20-%20Now%20SAGA%20is%20Locked%20in%20Full-On%20Battle.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2005%20-%20Now%20SAGA%20is%20Locked%20in%20Full-On%20Battle.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "The Karaoke Box Has Few Customers (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2006%20-%20The%20Karaoke%20Box%20Has%20Few%20Customers.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2006%20-%20The%20Karaoke%20Box%20Has%20Few%20Customers.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2006%20-%20The%20Karaoke%20Box%20Has%20Few%20Customers.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "My Cell Phone Has Few Phone Calls (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2007%20-%20My%20Cell%20Phone%20Has%20Few%20Phone%20Calls.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2007%20-%20My%20Cell%20Phone%20Has%20Few%20Phone%20Calls.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2007%20-%20My%20Cell%20Phone%20Has%20Few%20Phone%20Calls.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "No School Swimsuits this Time (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2008%20-%20No%20School%20Swimsuits%20this%20Time.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2008%20-%20No%20School%20Swimsuits%20this%20Time.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2008%20-%20No%20School%20Swimsuits%20this%20Time.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "The Board Chairman's Memories are Painful (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2009%20-%20The%20Board%20Chairman's%20Memories%20are%20Painful.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2009%20-%20The%20Board%20Chairman's%20Memories%20are%20Painful.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2009%20-%20The%20Board%20Chairman's%20Memories%20are%20Painful.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "No One Sleeps at Training Camp (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2010%20-%20No%20One%20Sleeps%20at%20Training%20Camp.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2010%20-%20No%20One%20Sleeps%20at%20Training%20Camp.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2010%20-%20No%20One%20Sleeps%20at%20Training%20Camp.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "You See, Girls Wearing Yukata Are Extremely Cute (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2011%20-%20You%20See,%20Girls%20Wearing%20Yukata%20Are%20Extremely%20Cute.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2011%20-%20You%20See,%20Girls%20Wearing%20Yukata%20Are%20Extremely%20Cute.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2011%20-%20You%20See,%20Girls%20Wearing%20Yukata%20Are%20Extremely%20Cute.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "We Have Few Friends (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2012%20-%20We%20Have%20Few%20Friends.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2012%20-%20We%20Have%20Few%20Friends.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2012%20-%20We%20Have%20Few%20Friends.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "I Think Something is Wrong With My Youth (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2014%20-%20I%20Think%20Something%20is%20Wrong%20With%20My%20Youth.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2014%20-%20I%20Think%20Something%20is%20Wrong%20With%20My%20Youth.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2014%20-%20I%20Think%20Something%20is%20Wrong%20With%20My%20Youth.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Homo Game Club (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2015%20-%20Homo%20Game%20Club.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2015%20-%20Homo%20Game%20Club.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2015%20-%20Homo%20Game%20Club.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "My Little Sisters Are This Cute (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2016%20-%20My%20Little%20Sisters%20Are%20This%20Cute.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2016%20-%20My%20Little%20Sisters%20Are%20This%20Cute.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2016%20-%20My%20Little%20Sisters%20Are%20This%20Cute.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "A Man Is Among Them! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2017%20-%20A%20Man%20Is%20Among%20Them!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2017%20-%20A%20Man%20Is%20Among%20Them!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2017%20-%20A%20Man%20Is%20Among%20Them!.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "You Can't Play Something Like That! My Idea of Reality Gets Screwed Up When I'm With You (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2018%20-%20You%20Can't%20Play%20Something%20Like%20That!%20My%20Idea%20of%20Reality%20Gets%20Screwed%20Up%20When%20I'm%20With%20You.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2018%20-%20You%20Can't%20Play%20Something%20Like%20That!%20My%20Idea%20of%20Reality%20Gets%20Screwed%20Up%20When%20I'm%20With%20You.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2018%20-%20You%20Can't%20Play%20Something%20Like%20That!%20My%20Idea%20of%20Reality%20Gets%20Screwed%20Up%20When%20I'm%20With%20You.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Unbreakable Weird Girl (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2019%20-%20Unbreakable%20Weird%20Girl.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2019%20-%20Unbreakable%20Weird%20Girl.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2019%20-%20Unbreakable%20Weird%20Girl.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "As Long As There's Love, It Doesn't Matter If I Get More Sisters, Right (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2020%20-%20As%20Long%20As%20There's%20Love,%20It%20Doesn't%20Matter%20If%20I%20Get%20More%20Sisters,%20Right.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2020%20-%20As%20Long%20As%20There's%20Love,%20It%20Doesn't%20Matter%20If%20I%20Get%20More%20Sisters,%20Right.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2020%20-%20As%20Long%20As%20There's%20Love,%20It%20Doesn't%20Matter%20If%20I%20Get%20More%20Sisters,%20Right.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "My Childhood Friends Fight Too Much (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2021%20-%20My%20Childhood%20Friends%20Fight%20Too%20Much.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2021%20-%20My%20Childhood%20Friends%20Fight%20Too%20Much.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2021%20-%20My%20Childhood%20Friends%20Fight%20Too%20Much.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Mayoi Neko Overheat (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2022%20-%20Mayoi%20Neko%20Overheat.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2022%20-%20Mayoi%20Neko%20Overheat.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2022%20-%20Mayoi%20Neko%20Overheat.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "The Sad-Case King and the Stone-Cold Story (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2023%20-%20The%20Sad-Case%20King%20and%20the%20Stone-Cold%20Story.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2023%20-%20The%20Sad-Case%20King%20and%20the%20Stone-Cold%20Story.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2023%20-%20The%20Sad-Case%20King%20and%20the%20Stone-Cold%20Story.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "I'm a Confused Chicken (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2024%20-%20I'm%20a%20Confused%20Chicken.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2024%20-%20I'm%20a%20Confused%20Chicken.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2024%20-%20I'm%20a%20Confused%20Chicken.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "I Have... Friends (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2025%20-%20I%20Have...%20Friends.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2025%20-%20I%20Have...%20Friends.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20-%2025%20-%20I%20Have...%20Friends.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "A Round-Robin Story's Ending Is Way Extreme (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20OVA%20-%2013%20-%20A%20Round-Robin%20Story's%20Ending%20Is%20Way%20Extreme.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20OVA%20-%2013%20-%20A%20Round-Robin%20Story's%20Ending%20Is%20Way%20Extreme.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Haganai%20I%20Don%60t%20Have%20Many%20Friends/Haganai%20I%20Don%60t%20Have%20Many%20Friends%20OVA%20-%2013%20-%20A%20Round-Robin%20Story's%20Ending%20Is%20Way%20Extreme.mp4"
+      }
+    ]
+  },
+  {
+    "id": 21639,
+    "title": {
+      "english": "Keijo!!!!!!!!",
+      "romaji": "Keijo!!!!!!!!",
+      "native": "競女!!!!!!!!"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21639-tdDGBK68CQk0.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21639-tdDGBK68CQk0.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21639-tdDGBK68CQk0.jpg",
+      "color": "#00bcd4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21639-4w5iH0RUYIL6.jpg",
+    "description": "Keijo is Japan's wildly popular competitive gambling sport where athletic young women stand on floating platforms and duel to knock each other into the water using only their hips and chests! Nozomi Kaminashi aims to conquer the sport and become the highest-earning player in the country.",
+    "averageScore": 68,
+    "seasonYear": 2016,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Sports"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "12 DUB EPS • COMPLETE",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Ecchi Humor",
+      "Fanservice"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Setouchi Keijo Training School!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%201%20-%20Setouchi%20Keijo%20Training%20School!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%201%20-%20Setouchi%20Keijo%20Training%20School!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%201%20-%20Setouchi%20Keijo%20Training%20School!!!!.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "The Hip Toss Brings Us Together!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%202%20-%20The%20Hip%20Toss%20Brings%20Us%20Together!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%202%20-%20The%20Hip%20Toss%20Brings%20Us%20Together!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%202%20-%20The%20Hip%20Toss%20Brings%20Us%20Together!!!!.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Vacuum Butt Cannon!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%203%20-%20Vacuum%20Butt%20Cannon!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%203%20-%20Vacuum%20Butt%20Cannon!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%203%20-%20Vacuum%20Butt%20Cannon!!!!.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "The Battle for the Fastest Butt!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%204%20-%20The%20Battle%20for%20the%20Fastest%20Butt!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%204%20-%20The%20Battle%20for%20the%20Fastest%20Butt!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%204%20-%20The%20Battle%20for%20the%20Fastest%20Butt!!!!.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Full-Auto Cerberus!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%205%20-%20Full-Auto%20Cerberus!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%205%20-%20Full-Auto%20Cerberus!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%205%20-%20Full-Auto%20Cerberus!!!!.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Alluring Kyoto Trip!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%206%20-%20Alluring%20Kyoto%20Trip!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%206%20-%20Alluring%20Kyoto%20Trip!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%206%20-%20Alluring%20Kyoto%20Trip!!!!.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Where the Turnips Lead!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%207%20-%20Where%20the%20Turnips%20Lead!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%207%20-%20Where%20the%20Turnips%20Lead!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%207%20-%20Where%20the%20Turnips%20Lead!!!!.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "The Dramatic East-West War!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%208%20-%20The%20Dramatic%20East-West%20War!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%208%20-%20The%20Dramatic%20East-West%20War!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%208%20-%20The%20Dramatic%20East-West%20War!!!!.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Ruler of the Jungle Gym!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%209%20-%20Ruler%20of%20the%20Jungle%20Gym!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%209%20-%20Ruler%20of%20the%20Jungle%20Gym!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%209%20-%20Ruler%20of%20the%20Jungle%20Gym!!!!.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "The Second East÷-West War Race!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2010%20-%20The%20Second%20East%C3%B7-West%20War%20Race!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2010%20-%20The%20Second%20East%C3%B7-West%20War%20Race!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2010%20-%20The%20Second%20East%C3%B7-West%20War%20Race!!!!.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "The Castle of the Final Match!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2011%20-%20The%20Castle%20of%20the%20Final%20Match!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2011%20-%20The%20Castle%20of%20the%20Final%20Match!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2011%20-%20The%20Castle%20of%20the%20Final%20Match!!!!.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "The Heated Battle's Rear-End!!!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2012%20-%20The%20Heated%20Battle's%20Rear-End!!!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2012%20-%20The%20Heated%20Battle's%20Rear-End!!!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2012%20-%20The%20Heated%20Battle's%20Rear-End!!!!.mp4"
       }
     ]
   }
