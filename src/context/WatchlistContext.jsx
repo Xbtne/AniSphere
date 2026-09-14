@@ -170,18 +170,28 @@ export function WatchlistProvider({ children }) {
 
   // Sitewide Broadcast Announcement
   const [announcement, setAnnouncement] = useState(() => {
+    const celebrationAnnouncement = {
+      active: true,
+      message: 'Celebrating 140 Anime! Over 6,050+ Verified English Dub Episodes with Direct Native Playback',
+      type: 'celebration',
+      badge: '140TH ANIME MILESTONE'
+    };
+
     try {
       const saved = localStorage.getItem('anisphere_announcement');
       if (saved) {
         const parsed = JSON.parse(saved);
-        if (parsed?.message && (parsed.message.includes('Login as Xron') || parsed.message.includes('66 Legendary Series'))) {
-          parsed.message = '✨ Welcome to AniSphere! 100 Legendary Series • 3,580+ 100% English Dub Episodes with Direct HD Streaming.';
+        // Automatically upgrade outdated messages to the 140th anime milestone celebration
+        if (!parsed?.message || !parsed.message.includes('140') || parsed.message.includes('100 Legendary') || parsed.message.includes('66 Legendary') || parsed.message.includes('Login as Xron')) {
+          localStorage.setItem('anisphere_announcement', JSON.stringify(celebrationAnnouncement));
+          return celebrationAnnouncement;
         }
         return parsed;
       }
-      return { active: true, message: '✨ Welcome to AniSphere! 100 Legendary Series • 3,580+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
+      localStorage.setItem('anisphere_announcement', JSON.stringify(celebrationAnnouncement));
+      return celebrationAnnouncement;
     } catch {
-      return { active: true, message: '✨ Welcome to AniSphere! 100 Legendary Series • 3,580+ 100% English Dub Episodes with Direct HD Streaming.', type: 'info' };
+      return celebrationAnnouncement;
     }
   });
 

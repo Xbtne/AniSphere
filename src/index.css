@@ -129,3 +129,46 @@
 .glow-teal {
   box-shadow: 0 0 35px -5px rgba(20, 184, 166, 0.4);
 }
+
+/* 140th Anime Celebration Animations */
+@keyframes celebration-gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-celebration-gradient {
+  background-size: 250% 250%;
+  animation: celebration-gradient 7s ease infinite;
+}
+
+@keyframes celebration-glow {
+  0%, 100% {
+    box-shadow: 0 0 25px rgba(245, 158, 11, 0.35), inset 0 1px 0 rgba(251, 191, 36, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 45px rgba(245, 158, 11, 0.65), inset 0 1px 0 rgba(251, 191, 36, 0.8);
+  }
+}
+
+.glow-celebration {
+  animation: celebration-glow 3s ease-in-out infinite;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.35; transform: scale(0.85) rotate(0deg); }
+  50% { opacity: 1; transform: scale(1.2) rotate(180deg); }
+}
+
+.animate-twinkle {
+  animation: twinkle 3s ease-in-out infinite;
+}
+
+@keyframes float-gentle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}
+
+.animate-float-gentle {
+  animation: float-gentle 2.5s ease-in-out infinite;
+}

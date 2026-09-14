@@ -22,6 +22,8 @@ import {
 import { useWatchlist } from '../context/WatchlistContext';
 import { useAuth } from '../context/AuthContext';
 import AuthModal from './AuthModal';
+import AnnouncementBar from './AnnouncementBar';
+import MilestoneCelebrationModal from './MilestoneCelebrationModal';
 
 export default function Navbar({
   onOpenSearch,
@@ -37,6 +39,7 @@ export default function Navbar({
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [announcementDismissed, setAnnouncementDismissed] = useState(false);
+  const [isCelebrationModalOpen, setIsCelebrationModalOpen] = useState(false);
   const { watchlist, announcement } = useWatchlist();
   const { user, logout, isAuthenticated, isAdmin } = useAuth();
 
@@ -67,32 +70,27 @@ export default function Navbar({
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-40 transition-all duration-500 ${
+      className={`fixed top-0 left-0 right-0 z-40 transition-all duration-500 flex flex-col ${
         scrolled
-          ? 'glass-nav py-2.5 shadow-2xl shadow-black/60'
-          : 'bg-gradient-to-b from-black/95 via-black/80 to-transparent py-3 sm:py-4'
+          ? 'glass-nav shadow-2xl shadow-black/60'
+          : 'bg-gradient-to-b from-black/95 via-black/80 to-transparent'
       }`}
     >
       {/* Sitewide Broadcast Announcement Bar */}
-      {announcement?.active && announcement?.message && !announcementDismissed && (
-        <div className="w-full bg-gradient-to-r from-amber-500 via-yellow-400 to-amber-500 text-[#0a0f0c] px-3 sm:px-4 py-1.5 sm:py-2 text-xs font-black shadow-lg border-b border-amber-400/60 mb-2 animate-fade-in">
-          <div className="w-full max-w-[1880px] mx-auto flex items-center justify-between gap-3">
-            <div className="flex-1 flex items-center justify-center gap-2 text-center overflow-hidden">
-              <Megaphone className="w-4 h-4 shrink-0 text-[#0a0f0c] animate-bounce" />
-              <span className="truncate">{announcement.message}</span>
-            </div>
-            <button
-              onClick={() => setAnnouncementDismissed(true)}
-              className="p-1 rounded-lg hover:bg-black/20 text-[#0a0f0c] transition-colors shrink-0"
-              title="Dismiss announcement"
-            >
-              <X className="w-3.5 h-3.5" />
-            </button>
-          </div>
-        </div>
+      {!announcementDismissed && (
+        <AnnouncementBar
+          announcement={announcement}
+          onDismiss={() => setAnnouncementDismissed(true)}
+          onNavigate={handleNavigate}
+          onOpenCelebrationModal={() => setIsCelebrationModalOpen(true)}
+        />
       )}
 
-      <div className="w-full max-w-[1880px] mx-auto px-2 sm:px-4 lg:px-6 flex items-center justify-between gap-2 xl:gap-3">
+      <div
+        className={`w-full max-w-[1880px] mx-auto px-2 sm:px-4 lg:px-6 flex items-center justify-between gap-2 xl:gap-3 transition-all duration-300 ${
+          scrolled ? 'py-2 sm:py-2.5' : 'py-3 sm:py-4'
+        }`}
+      >
         {/* Brand Logo */}
         <div
           onClick={() => handleNavigate('hero')}
@@ -341,6 +339,12 @@ export default function Navbar({
       )}
 
       <AuthModal isOpen={isAuthModalOpen} onClose={() => setIsAuthModalOpen(false)} />
+      <MilestoneCelebrationModal
+        isOpen={isCelebrationModalOpen}
+        onClose={() => setIsCelebrationModalOpen(false)}
+        onExploreCatalog={() => handleNavigate('featured')}
+        onRollRandom={onRollRandom}
+      />
     </header>
   );
 }

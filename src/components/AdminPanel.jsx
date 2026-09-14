@@ -15,7 +15,8 @@ import {
   Sparkles,
   ExternalLink,
   Edit3,
-  LogOut
+  LogOut,
+  PartyPopper
 } from 'lucide-react';
 import { useWatchlist } from '../context/WatchlistContext';
 import { useAuth } from '../context/AuthContext';
@@ -49,7 +50,8 @@ export default function AdminPanel({ isOpen, onClose }) {
   // Announcement state
   const [announceActive, setAnnounceActive] = useState(announcement?.active ?? true);
   const [announceMessage, setAnnounceMessage] = useState(announcement?.message ?? '');
-  const [announceType, setAnnounceType] = useState(announcement?.type ?? 'info');
+  const [announceType, setAnnounceType] = useState(announcement?.type ?? 'celebration');
+  const [announceBadge, setAnnounceBadge] = useState(announcement?.badge ?? '140TH ANIME MILESTONE');
   const [announceSaved, setAnnounceSaved] = useState(false);
 
   // Mature controls state
@@ -74,12 +76,32 @@ export default function AdminPanel({ isOpen, onClose }) {
 
   const staffPicksCount = Object.values(staffPicks).filter((p) => p.isStaffPick).length;
 
+  const handleApplyPreset = (presetKey) => {
+    if (presetKey === '140th') {
+      setAnnounceActive(true);
+      setAnnounceType('celebration');
+      setAnnounceBadge('140TH ANIME MILESTONE');
+      setAnnounceMessage('Celebrating 140 Anime! Over 6,050+ Verified English Dub Episodes with Direct Native Playback');
+    } else if (presetKey === 'new-dubs') {
+      setAnnounceActive(true);
+      setAnnounceType('celebration');
+      setAnnounceBadge('NEW DUBS ADDED');
+      setAnnounceMessage('✨ Fresh 2024 English dub releases added to the AniSphere catalog with 100% direct streams!');
+    } else if (presetKey === 'cdn') {
+      setAnnounceActive(true);
+      setAnnounceType('info');
+      setAnnounceBadge('SYSTEM UPDATE');
+      setAnnounceMessage('⚡ Direct high-speed CDN playback enabled across all 140 anime with zero buffering.');
+    }
+  };
+
   const handleSaveAnnouncement = (e) => {
     e.preventDefault();
     setBroadcastAnnouncement({
       active: announceActive,
       message: announceMessage,
-      type: announceType
+      type: announceType,
+      badge: announceBadge
     });
     setAnnounceSaved(true);
     setTimeout(() => setAnnounceSaved(false), 2500);
@@ -328,9 +350,44 @@ export default function AdminPanel({ isOpen, onClose }) {
 
           {/* 2. BROADCAST ANNOUNCEMENT */}
           {activeTab === 'announcement' && (
-            <div className="max-w-2xl space-y-6">
-              <div className="p-4 rounded-2xl bg-amber-500/10 border border-amber-500/20 text-xs text-amber-200">
-                Broadcast a live alert banner to all AniSphere users at the top of the homepage.
+            <div className="max-w-3xl space-y-6">
+              <div className="p-4 rounded-2xl bg-amber-500/10 border border-amber-500/20 text-xs text-amber-200 flex items-center justify-between gap-4">
+                <span>Broadcast a live alert banner to all AniSphere users at the top of the homepage.</span>
+                <span className="px-2 py-0.5 rounded-full bg-amber-400/20 text-amber-300 font-black text-[10px] uppercase tracking-wider">
+                  Live Sync
+                </span>
+              </div>
+
+              {/* Quick Celebration Presets */}
+              <div className="space-y-2">
+                <label className="block text-xs font-bold text-gray-400 uppercase tracking-wide">
+                  Quick Milestone & Broadcast Presets
+                </label>
+                <div className="flex flex-wrap gap-2">
+                  <button
+                    type="button"
+                    onClick={() => handleApplyPreset('140th')}
+                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-gradient-to-r from-amber-500/25 to-yellow-500/25 border border-amber-500/40 text-amber-300 text-xs font-bold hover:scale-105 active:scale-95 transition-all"
+                  >
+                    <PartyPopper className="w-3.5 h-3.5 text-amber-400" />
+                    <span>🎉 140th Anime Celebration</span>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => handleApplyPreset('new-dubs')}
+                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-teal-500/20 border border-teal-500/30 text-teal-300 text-xs font-bold hover:scale-105 active:scale-95 transition-all"
+                  >
+                    <Sparkles className="w-3.5 h-3.5 text-teal-400" />
+                    <span>✨ New Dub Releases</span>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => handleApplyPreset('cdn')}
+                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-blue-500/20 border border-blue-500/30 text-blue-300 text-xs font-bold hover:scale-105 active:scale-95 transition-all"
+                  >
+                    <span>⚡ CDN Performance</span>
+                  </button>
+                </div>
               </div>
 
               <form onSubmit={handleSaveAnnouncement} className="space-y-4">
@@ -347,6 +404,50 @@ export default function AdminPanel({ isOpen, onClose }) {
                   </label>
                 </div>
 
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                  <div className="sm:col-span-1">
+                    <label className="block text-xs font-bold text-gray-400 mb-2 uppercase tracking-wide">
+                      Badge Label
+                    </label>
+                    <input
+                      type="text"
+                      value={announceBadge}
+                      onChange={(e) => setAnnounceBadge(e.target.value)}
+                      className="w-full px-4 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white placeholder-gray-500 focus:outline-none focus:border-amber-500/50 text-sm font-bold"
+                      placeholder="e.g. 140TH ANIME MILESTONE"
+                    />
+                  </div>
+
+                  <div className="sm:col-span-2">
+                    <label className="block text-xs font-bold text-gray-400 mb-2 uppercase tracking-wide">
+                      Banner Style
+                    </label>
+                    <div className="flex flex-wrap gap-2">
+                      {[
+                        { key: 'celebration', label: '🎉 Celebration', color: 'from-amber-400 to-yellow-500 text-[#0a0f0c]' },
+                        { key: 'info', label: 'ℹ️ Info', color: 'bg-cyan-500 text-[#0a0f0c]' },
+                        { key: 'warning', label: '⚠️ Warning', color: 'bg-amber-600 text-white' },
+                        { key: 'alert', label: '🚨 Alert', color: 'bg-rose-600 text-white' }
+                      ].map((item) => (
+                        <button
+                          key={item.key}
+                          type="button"
+                          onClick={() => setAnnounceType(item.key)}
+                          className={`px-3.5 py-2 rounded-xl text-xs font-bold capitalize transition-all ${
+                            announceType === item.key
+                              ? item.key === 'celebration'
+                                ? 'bg-gradient-to-r from-amber-400 via-yellow-300 to-amber-500 text-[#070b09] shadow-lg shadow-amber-500/30 scale-105'
+                                : `${item.color} shadow-lg scale-105`
+                              : 'bg-white/5 text-gray-400 hover:text-white border border-white/5'
+                          }`}
+                        >
+                          {item.label}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+
                 <div>
                   <label className="block text-xs font-bold text-gray-400 mb-2 uppercase tracking-wide">
                     Banner Message
@@ -356,42 +457,58 @@ export default function AdminPanel({ isOpen, onClose }) {
                     onChange={(e) => setAnnounceMessage(e.target.value)}
                     rows={3}
                     className="w-full px-4 py-3 rounded-xl bg-white/5 border border-white/10 text-white placeholder-gray-500 focus:outline-none focus:border-amber-500/50 text-sm"
-                    placeholder="Enter broadcast message (e.g. New 2024 anime dubs added!)..."
+                    placeholder="Enter broadcast message..."
                     required
                   />
                 </div>
 
-                <div>
+                {/* Live Preview Section */}
+                <div className="pt-2">
                   <label className="block text-xs font-bold text-gray-400 mb-2 uppercase tracking-wide">
-                    Banner Style
+                    Live Banner Preview
                   </label>
-                  <div className="flex gap-3">
-                    {['info', 'warning', 'alert'].map((type) => (
-                      <button
-                        key={type}
-                        type="button"
-                        onClick={() => setAnnounceType(type)}
-                        className={`px-4 py-2 rounded-xl text-xs font-bold capitalize transition-all ${
-                          announceType === type
-                            ? 'bg-amber-500 text-[#0a0f0c]'
-                            : 'bg-white/5 text-gray-400 hover:text-white'
-                        }`}
-                      >
-                        {type}
-                      </button>
-                    ))}
+                  <div className="rounded-2xl border border-white/10 overflow-hidden bg-black/40 p-1">
+                    {announceActive ? (
+                      <div className={`p-3 rounded-xl flex items-center justify-between gap-3 text-xs ${
+                        announceType === 'celebration'
+                          ? 'bg-gradient-to-r from-[#141209] via-[#221c08] to-[#141209] border border-amber-500/40 text-amber-200'
+                          : announceType === 'info'
+                          ? 'bg-cyan-950/60 border border-cyan-500/30 text-cyan-200'
+                          : announceType === 'warning'
+                          ? 'bg-amber-950/60 border border-amber-500/30 text-amber-200'
+                          : 'bg-rose-950/60 border border-rose-500/30 text-rose-200'
+                      }`}>
+                        <div className="flex items-center gap-2">
+                          <span className={`px-2 py-0.5 rounded-full font-black text-[10px] uppercase tracking-wider ${
+                            announceType === 'celebration'
+                              ? 'bg-gradient-to-r from-amber-400 to-yellow-300 text-black shadow-md shadow-amber-500/40'
+                              : 'bg-white/10 border border-white/20 text-white'
+                          }`}>
+                            {announceBadge || 'MILESTONE'}
+                          </span>
+                          <span className="font-medium text-white truncate max-w-md">
+                            {announceMessage || 'Your message will appear here...'}
+                          </span>
+                        </div>
+                        <span className="text-[10px] text-gray-400 italic shrink-0">Live Preview</span>
+                      </div>
+                    ) : (
+                      <div className="p-3 text-xs text-gray-500 italic text-center">
+                        Announcement banner is currently disabled.
+                      </div>
+                    )}
                   </div>
                 </div>
 
                 {announceSaved && (
-                  <div className="flex items-center gap-2 p-3 rounded-xl bg-emerald-500/20 border border-emerald-500/30 text-emerald-300 text-xs font-bold">
+                  <div className="flex items-center gap-2 p-3 rounded-xl bg-emerald-500/20 border border-emerald-500/30 text-emerald-300 text-xs font-bold animate-fade-in">
                     <CheckCircle2 className="w-4 h-4" /> Announcement updated live!
                   </div>
                 )}
 
                 <button
                   type="submit"
-                  className="px-6 py-3 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 text-[#0a0f0c] font-black text-sm shadow-xl shadow-amber-600/30 hover:scale-[1.02] active:scale-[0.98] transition-all"
+                  className="px-6 py-3 rounded-xl bg-gradient-to-r from-amber-500 to-yellow-600 text-[#0a0f0c] font-black text-sm shadow-xl shadow-amber-600/30 hover:scale-[1.02] active:scale-[0.98] transition-all cursor-pointer"
                 >
                   Save & Broadcast
                 </button>
