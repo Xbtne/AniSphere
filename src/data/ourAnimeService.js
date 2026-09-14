@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 4286 verified English Dub streams across 105 complete anime!
+// Total: 5034 verified English Dub streams across 120 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -37897,6 +37897,6532 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2012%20-%20The%20Heated%20Battle's%20Rear-End!!!!.mp4",
         "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2012%20-%20The%20Heated%20Battle's%20Rear-End!!!!.mp4",
         "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Keijo!!!!!!!!/Keijo!!!!!!!!%20-%2012%20-%20The%20Heated%20Battle's%20Rear-End!!!!.mp4"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "title": {
+      "english": "Yu-Gi-Oh! GX",
+      "romaji": "Yu☆Gi☆Oh! Duel Monsters GX",
+      "native": "遊☆戯☆王デュエルモンスターズＧＸ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b482-c14JwoMTmKAU.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b482-c14JwoMTmKAU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b482-c14JwoMTmKAU.png",
+      "color": "#3593e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/482-3qmtAqhroz78.jpg",
+    "description": "Set a generation after the original Yu-Gi-Oh! series, Yu-Gi-Oh! GX follows Jaden Yuki, an energetic teenager who joins the elite Duel Academy founded by Seto Kaiba. Placed in the Slifer Red dorm, Jaden uses his Elemental HERO deck to take on rivals, shadow games, and sinister cosmic forces!",
+    "averageScore": 70,
+    "seasonYear": 2004,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 156 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Legendary dueling fun! Get your game on with Jaden and the Elemental HEROs.",
+    "isMature": false,
+    "contentRating": "TV-Y7-FV",
+    "contentWarnings": [
+      "Fantasy Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "The Next King Of Games (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/001%20-%20The%20Next%20King%20Of%20Games.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/001%20-%20The%20Next%20King%20Of%20Games.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/001%20-%20The%20Next%20King%20Of%20Games.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Welcome to Duel Academy (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/002%20-%20Welcome%20to%20Duel%20Academy.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/002%20-%20Welcome%20to%20Duel%20Academy.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/002%20-%20Welcome%20to%20Duel%20Academy.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "A Duel In Love (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/003%20-%20A%20Duel%20In%20Love.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/003%20-%20A%20Duel%20In%20Love.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/003%20-%20A%20Duel%20In%20Love.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Making the Grade (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/004%20-%20Making%20the%20Grade.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/004%20-%20Making%20the%20Grade.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/004%20-%20Making%20the%20Grade.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "The Shadow Duelist (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/005%20-%20The%20Shadow%20Duelist%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/005%20-%20The%20Shadow%20Duelist%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/005%20-%20The%20Shadow%20Duelist%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "The Shadow Duelist (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/006%20-%20The%20Shadow%20Duelist%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/006%20-%20The%20Shadow%20Duelist%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/006%20-%20The%20Shadow%20Duelist%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Duel and Unusual Punishment (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/007%20-%20Duel%20and%20Unusual%20Punishment.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/007%20-%20Duel%20and%20Unusual%20Punishment.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/007%20-%20Duel%20and%20Unusual%20Punishment.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "For the Sake of Syrus (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/008%20-%20For%20the%20Sake%20of%20Syrus.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/008%20-%20For%20the%20Sake%20of%20Syrus.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/008%20-%20For%20the%20Sake%20of%20Syrus.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Family Business (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/009%20-%20Family%20Business.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/009%20-%20Family%20Business.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/009%20-%20Family%20Business.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Tag Team Trial (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/010%20-%20Tag%20Team%20Trial%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/010%20-%20Tag%20Team%20Trial%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/010%20-%20Tag%20Team%20Trial%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Tag Team Trial (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/011%20-%20Tag%20Team%20Trial%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/011%20-%20Tag%20Team%20Trial%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/011%20-%20Tag%20Team%20Trial%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Formula for Success (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/012%20-%20Formula%20for%20Success.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/012%20-%20Formula%20for%20Success.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/012%20-%20Formula%20for%20Success.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Monkey Business (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/013%20-%20Monkey%20Business.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/013%20-%20Monkey%20Business.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/013%20-%20Monkey%20Business.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "A Spirit Summoned (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/014%20-%20A%20Spirit%20Summoned.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/014%20-%20A%20Spirit%20Summoned.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/014%20-%20A%20Spirit%20Summoned.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Courting Alexis (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/015%20-%20Courting%20Alexis.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/015%20-%20Courting%20Alexis.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/015%20-%20Courting%20Alexis.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "The Duel Giant (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/016%20-%20The%20Duel%20Giant.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/016%20-%20The%20Duel%20Giant.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/016%20-%20The%20Duel%20Giant.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Nature of the Draw (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/017%20-%20Nature%20of%20the%20Draw.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/017%20-%20Nature%20of%20the%20Draw.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/017%20-%20Nature%20of%20the%20Draw.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "The King of Copycats (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/018%20-%20The%20King%20of%20Copycats%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/018%20-%20The%20King%20of%20Copycats%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/018%20-%20The%20King%20of%20Copycats%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "The King of Copycats (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/019%20-%20The%20King%20of%20Copycats%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/019%20-%20The%20King%20of%20Copycats%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/019%20-%20The%20King%20of%20Copycats%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "The Maiden in Love (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/020%20-%20The%20Maiden%20in%20Love.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/020%20-%20The%20Maiden%20in%20Love.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/020%20-%20The%20Maiden%20in%20Love.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "The Duel Off (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/021%20-%20The%20Duel%20Off%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/021%20-%20The%20Duel%20Off%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/021%20-%20The%20Duel%20Off%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "The Duel Off (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/022%20-%20The%20Duel%20Off%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/022%20-%20The%20Duel%20Off%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/022%20-%20The%20Duel%20Off%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "The Little Belowski (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/023%20-%20The%20Little%20Belowski.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/023%20-%20The%20Little%20Belowski.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/023%20-%20The%20Little%20Belowski.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "The New Chaz (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/024%20-%20The%20New%20Chaz.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/024%20-%20The%20New%20Chaz.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/024%20-%20The%20New%20Chaz.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "The School Duel (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/025%20-%20The%20School%20Duel%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/025%20-%20The%20School%20Duel%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/025%20-%20The%20School%20Duel%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "The School Duel (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/026%20-%20The%20School%20Duel%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/026%20-%20The%20School%20Duel%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/026%20-%20The%20School%20Duel%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Grave Risk (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/027%20-%20Grave%20Risk%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/027%20-%20Grave%20Risk%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/027%20-%20Grave%20Risk%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Grave Risk (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/028%20-%20Grave%20Risk%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/028%20-%20Grave%20Risk%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/028%20-%20Grave%20Risk%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Doomsday Duel (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/029%20-%20Doomsday%20Duel%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/029%20-%20Doomsday%20Duel%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/029%20-%20Doomsday%20Duel%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Doomsday Duel (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/030%20-%20Doomsday%20Duel%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/030%20-%20Doomsday%20Duel%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/030%20-%20Doomsday%20Duel%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Field of Screams (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/031%20-%20Field%20of%20Screams%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/031%20-%20Field%20of%20Screams%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/031%20-%20Field%20of%20Screams%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Field of Screams (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/032%20-%20Field%20of%20Screams%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/032%20-%20Field%20of%20Screams%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/032%20-%20Field%20of%20Screams%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Field of Screams (Part 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/033%20-%20Field%20of%20Screams%20(Part%203).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/033%20-%20Field%20of%20Screams%20(Part%203).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/033%20-%20Field%20of%20Screams%20(Part%203).mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "The Fear Factor (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/034%20-%20The%20Fear%20Factor.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/034%20-%20The%20Fear%20Factor.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/034%20-%20The%20Fear%20Factor.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Sibling Rivalry (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/035%20-%20Sibling%20Rivalry.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/035%20-%20Sibling%20Rivalry.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/035%20-%20Sibling%20Rivalry.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Duel Distractions (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/036%20-%20Duel%20Distractions%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/036%20-%20Duel%20Distractions%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/036%20-%20Duel%20Distractions%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Duel Distractions (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/037%20-%20Duel%20Distractions%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/037%20-%20Duel%20Distractions%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/037%20-%20Duel%20Distractions%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Get Yarr Game On (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/038%20-%20Get%20Yarr%20Game%20On.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/038%20-%20Get%20Yarr%20Game%20On.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/038%20-%20Get%20Yarr%20Game%20On.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "The Dark Scorpions (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/039%20-%20The%20Dark%20Scorpions.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/039%20-%20The%20Dark%20Scorpions.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/039%20-%20The%20Dark%20Scorpions.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "A Lying Legend (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/040%20-%20A%20Lying%20Legend.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/040%20-%20A%20Lying%20Legend.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/040%20-%20A%20Lying%20Legend.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "A Reason to Win (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/041%20-%20A%20Reason%20to%20Win.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/041%20-%20A%20Reason%20to%20Win.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/041%20-%20A%20Reason%20to%20Win.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Duel Monster Spirit Day (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/042%20-%20Duel%20Monster%20Spirit%20Day.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/042%20-%20Duel%20Monster%20Spirit%20Day.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/042%20-%20Duel%20Monster%20Spirit%20Day.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Hearts Are Wild (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/043%20-%20Hearts%20Are%20Wild.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/043%20-%20Hearts%20Are%20Wild.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/043%20-%20Hearts%20Are%20Wild.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "The Seventh Shadow Rider (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/044%20-%20The%20Seventh%20Shadow%20Rider.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/044%20-%20The%20Seventh%20Shadow%20Rider.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/044%20-%20The%20Seventh%20Shadow%20Rider.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Amnael's Endgame (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/045%20-%20Amnael's%20Endgame%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/045%20-%20Amnael's%20Endgame%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/045%20-%20Amnael's%20Endgame%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Amnael's Endgame (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/046%20-%20Amnael's%20Endgame%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/046%20-%20Amnael's%20Endgame%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/046%20-%20Amnael's%20Endgame%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Chazz-anova (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/047%20-%20Chazz-anova.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/047%20-%20Chazz-anova.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/047%20-%20Chazz-anova.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Rise of the Sacred Beasts (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/048%20-%20Rise%20of%20the%20Sacred%20Beasts%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/048%20-%20Rise%20of%20the%20Sacred%20Beasts%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/048%20-%20Rise%20of%20the%20Sacred%20Beasts%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Rise of the Sacred Beasts (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/049%20-%20Rise%20of%20the%20Sacred%20Beasts%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/049%20-%20Rise%20of%20the%20Sacred%20Beasts%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/049%20-%20Rise%20of%20the%20Sacred%20Beasts%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Magna Chum Laude (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/050%20-%20Magna%20Chum%20Laude.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/050%20-%20Magna%20Chum%20Laude.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/050%20-%20Magna%20Chum%20Laude.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "The Graduation Match (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/051%20-%20The%20Graduation%20Match%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/051%20-%20The%20Graduation%20Match%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/051%20-%20The%20Graduation%20Match%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "The Graduation Match (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/052%20-%20The%20Graduation%20Match%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/052%20-%20The%20Graduation%20Match%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/052%20-%20The%20Graduation%20Match%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Back to Duel (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/053%20-%20Back%20to%20Duel.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/053%20-%20Back%20to%20Duel.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/053%20-%20Back%20to%20Duel.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Champion or Chazz-Been (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/054%20-%20Champion%20or%20Chazz-Been.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/054%20-%20Champion%20or%20Chazz-Been.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/054%20-%20Champion%20or%20Chazz-Been.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "A Hassleberry Hounding (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/055%20-%20A%20Hassleberry%20Hounding.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/055%20-%20A%20Hassleberry%20Hounding.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/055%20-%20A%20Hassleberry%20Hounding.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Sad But Truesdale (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/056%20-%20Sad%20But%20Truesdale.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/056%20-%20Sad%20But%20Truesdale.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/056%20-%20Sad%20But%20Truesdale.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "The Demon (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/057%20-%20The%20Demon.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/057%20-%20The%20Demon.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/057%20-%20The%20Demon.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "A New Breed of Hero (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/058%20-%20A%20New%20Breed%20of%20Hero%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/058%20-%20A%20New%20Breed%20of%20Hero%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/058%20-%20A%20New%20Breed%20of%20Hero%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "A New Breed of Hero (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/059%20-%20A%20New%20Breed%20of%20Hero%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/059%20-%20A%20New%20Breed%20of%20Hero%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/059%20-%20A%20New%20Breed%20of%20Hero%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Pop Goes the Duel (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/060%20-%20Pop%20Goes%20the%20Duel.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/060%20-%20Pop%20Goes%20the%20Duel.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/060%20-%20Pop%20Goes%20the%20Duel.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "I've Seen the Light (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/061%20-%20I've%20Seen%20the%20Light.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/061%20-%20I've%20Seen%20the%20Light.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/061%20-%20I've%20Seen%20the%20Light.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "A Greater Porpoise (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/062%20-%20A%20Greater%20Porpoise.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/062%20-%20A%20Greater%20Porpoise.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/062%20-%20A%20Greater%20Porpoise.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Curry Worries (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/063%20-%20Curry%20Worries.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/063%20-%20Curry%20Worries.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/063%20-%20Curry%20Worries.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Camaraderie Contest (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/064%20-%20Camaraderie%20Contest.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/064%20-%20Camaraderie%20Contest.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/064%20-%20Camaraderie%20Contest.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "No Pain - No Game (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/065%20-%20No%20Pain%20-%20No%20Game.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/065%20-%20No%20Pain%20-%20No%20Game.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/065%20-%20No%20Pain%20-%20No%20Game.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Going Bananas (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/066%20-%20Going%20Bananas.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/066%20-%20Going%20Bananas.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/066%20-%20Going%20Bananas.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Homecoming Duel (part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/067%20-%20Homecoming%20Duel%20(part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/067%20-%20Homecoming%20Duel%20(part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/067%20-%20Homecoming%20Duel%20(part%201).mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Homecoming Duel (part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/068%20-%20Homecoming%20Duel%20(part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/068%20-%20Homecoming%20Duel%20(part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/068%20-%20Homecoming%20Duel%20(part%202).mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Dormitory Demolition (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/069%20-%20Dormitory%20Demolition.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/069%20-%20Dormitory%20Demolition.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/069%20-%20Dormitory%20Demolition.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Obelisk White (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/070%20-%20Obelisk%20White.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/070%20-%20Obelisk%20White.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/070%20-%20Obelisk%20White.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "DuelFellas (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/071%20-%20DuelFellas.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/071%20-%20DuelFellas.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/071%20-%20DuelFellas.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Not Playing With a Full Deck (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/072%20-%20Not%20Playing%20With%20a%20Full%20Deck.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/072%20-%20Not%20Playing%20With%20a%20Full%20Deck.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/072%20-%20Not%20Playing%20With%20a%20Full%20Deck.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Source of Strength (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/073%20-%20Source%20of%20Strength.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/073%20-%20Source%20of%20Strength.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/073%20-%20Source%20of%20Strength.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Happily Never After (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/074%20-%20Happily%20Never%20After.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/074%20-%20Happily%20Never%20After.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/074%20-%20Happily%20Never%20After.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Taken By Storm (part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/075%20-%20Taken%20By%20Storm%20(part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/075%20-%20Taken%20By%20Storm%20(part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/075%20-%20Taken%20By%20Storm%20(part%201).mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Taken By Storm (part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/076%20-%20Taken%20By%20Storm%20(part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/076%20-%20Taken%20By%20Storm%20(part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/076%20-%20Taken%20By%20Storm%20(part%202).mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "J-Dawg and T-Bone (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/077%20-%20J-Dawg%20and%20T-Bone.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/077%20-%20J-Dawg%20and%20T-Bone.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/077%20-%20J-Dawg%20and%20T-Bone.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Mirror, Mirror (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/078%20-%20Mirror,%20Mirror%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/078%20-%20Mirror,%20Mirror%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/078%20-%20Mirror,%20Mirror%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Mirror, Mirror (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/079%20-%20Mirror,%20Mirror%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/079%20-%20Mirror,%20Mirror%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/079%20-%20Mirror,%20Mirror%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "What a Doll (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/080%20-%20What%20a%20Doll.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/080%20-%20What%20a%20Doll.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/080%20-%20What%20a%20Doll.mp4"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Lets Make A Duel (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/081%20-%20Lets%20Make%20A%20Duel.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/081%20-%20Lets%20Make%20A%20Duel.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/081%20-%20Lets%20Make%20A%20Duel.mp4"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Magnetic Personality (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/082%20-%20Magnetic%20Personality.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/082%20-%20Magnetic%20Personality.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/082%20-%20Magnetic%20Personality.mp4"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Schooling the Master (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/083%20-%20Schooling%20the%20Master.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/083%20-%20Schooling%20the%20Master.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/083%20-%20Schooling%20the%20Master.mp4"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Generation Next (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/084%20-%20Generation%20Next.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/084%20-%20Generation%20Next.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/084%20-%20Generation%20Next.mp4"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Rah, Rah, Ra! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/085%20-%20Rah,%20Rah,%20Ra!.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/085%20-%20Rah,%20Rah,%20Ra!.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/085%20-%20Rah,%20Rah,%20Ra!.mp4"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "The Art of the Duel (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/086%20-%20The%20Art%20of%20the%20Duel.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/086%20-%20The%20Art%20of%20the%20Duel.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/086%20-%20The%20Art%20of%20the%20Duel.mp4"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Blinded By The Light (part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/087%20-%20Blinded%20By%20The%20Light%20(part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/087%20-%20Blinded%20By%20The%20Light%20(part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/087%20-%20Blinded%20By%20The%20Light%20(part%201).mp4"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Blinded By The Light (part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/088%20-%20Blinded%20By%20The%20Light%20(part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/088%20-%20Blinded%20By%20The%20Light%20(part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/088%20-%20Blinded%20By%20The%20Light%20(part%202).mp4"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "The Darkness Within (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/089%20-%20The%20Darkness%20Within.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/089%20-%20The%20Darkness%20Within.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/089%20-%20The%20Darkness%20Within.mp4"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Pro-Dueling (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/090%20-%20Pro-Dueling.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/090%20-%20Pro-Dueling.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/090%20-%20Pro-Dueling.mp4"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Don't Fear the Reaper (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/091%20-%20Don't%20Fear%20the%20Reaper.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/091%20-%20Don't%20Fear%20the%20Reaper.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/091%20-%20Don't%20Fear%20the%20Reaper.mp4"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Duel for hire (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/092%20-%20Duel%20for%20hire.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/092%20-%20Duel%20for%20hire.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/092%20-%20Duel%20for%20hire.mp4"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Heart of Ice (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/093%20-%20Heart%20of%20Ice%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/093%20-%20Heart%20of%20Ice%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/093%20-%20Heart%20of%20Ice%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Heart of Ice (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/094%20-%20Heart%20of%20Ice%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/094%20-%20Heart%20of%20Ice%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/094%20-%20Heart%20of%20Ice%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "Tough Love (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/095%20-%20Tough%20Love.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/095%20-%20Tough%20Love.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/095%20-%20Tough%20Love.mp4"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "It's all Relative (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/096%20-%20It's%20all%20Relative.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/096%20-%20It's%20all%20Relative.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/096%20-%20It's%20all%20Relative.mp4"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "The Dark Light (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/097%20-%20The%20Dark%20Light.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/097%20-%20The%20Dark%20Light.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/097%20-%20The%20Dark%20Light.mp4"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "Ultimate Destiny (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/098%20-%20Ultimate%20Destiny.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/098%20-%20Ultimate%20Destiny.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/098%20-%20Ultimate%20Destiny.mp4"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "The Key Factor (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/099%20-%20The%20Key%20Factor.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/099%20-%20The%20Key%20Factor.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/099%20-%20The%20Key%20Factor.mp4"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "The Phoenix has Landed (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/100%20-%20The%20Phoenix%20has%20Landed%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/100%20-%20The%20Phoenix%20has%20Landed%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/100%20-%20The%20Phoenix%20has%20Landed%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "The Phoenix has Landed (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/101%20-%20The%20Phoenix%20has%20Landed%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/101%20-%20The%20Phoenix%20has%20Landed%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/101%20-%20The%20Phoenix%20has%20Landed%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "The Hands Of Justice (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/102%20-%20The%20Hands%20Of%20Justice%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/102%20-%20The%20Hands%20Of%20Justice%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/102%20-%20The%20Hands%20Of%20Justice%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "The Hands Of Justice (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/103%20-%20The%20Hands%20Of%20Justice%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/103%20-%20The%20Hands%20Of%20Justice%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/103%20-%20The%20Hands%20Of%20Justice%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "Future Changes (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/104%20-%20Future%20Changes.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/104%20-%20Future%20Changes.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/104%20-%20Future%20Changes.mp4"
+      },
+      {
+        "episodeNumber": 105,
+        "title": "Third Time's a Charm (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/105%20-%20Third%20Time's%20a%20Charm.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/105%20-%20Third%20Time's%20a%20Charm.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/105%20-%20Third%20Time's%20a%20Charm.mp4"
+      },
+      {
+        "episodeNumber": 106,
+        "title": "Jewel of a Duel (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/106%20-%20Jewel%20of%20a%20Duel%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/106%20-%20Jewel%20of%20a%20Duel%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/106%20-%20Jewel%20of%20a%20Duel%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 107,
+        "title": "Jewel of a Duel (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/107%20-%20Jewel%20of%20a%20Duel%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/107%20-%20Jewel%20of%20a%20Duel%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/107%20-%20Jewel%20of%20a%20Duel%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 108,
+        "title": "Hanging with Axel (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/108%20-%20Hanging%20with%20Axel%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/108%20-%20Hanging%20with%20Axel%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/108%20-%20Hanging%20with%20Axel%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 109,
+        "title": "Hanging with Axel (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/109%20-%20Hanging%20with%20Axel%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/109%20-%20Hanging%20with%20Axel%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/109%20-%20Hanging%20with%20Axel%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 110,
+        "title": "Primal Instinct (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/110%20-%20Primal%20Instinct.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/110%20-%20Primal%20Instinct.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/110%20-%20Primal%20Instinct.mp4"
+      },
+      {
+        "episodeNumber": 111,
+        "title": "Head in the Clouds (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/111%20-%20Head%20in%20the%20Clouds%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/111%20-%20Head%20in%20the%20Clouds%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/111%20-%20Head%20in%20the%20Clouds%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 112,
+        "title": "Head in the Clouds (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/112%20-%20Head%20in%20the%20Clouds%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/112%20-%20Head%20in%20the%20Clouds%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/112%20-%20Head%20in%20the%20Clouds%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 113,
+        "title": "Win Mr. Stein's Duel (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/113%20-%20Win%20Mr.%20Stein's%20Duel%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/113%20-%20Win%20Mr.%20Stein's%20Duel%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/113%20-%20Win%20Mr.%20Stein's%20Duel%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 114,
+        "title": "Win Mr. Stein's Duel (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/114%20-%20Win%20Mr.%20Stein's%20Duel%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/114%20-%20Win%20Mr.%20Stein's%20Duel%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/114%20-%20Win%20Mr.%20Stein's%20Duel%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 115,
+        "title": "Trapper Keeper (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/115%20-%20Trapper%20Keeper%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/115%20-%20Trapper%20Keeper%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/115%20-%20Trapper%20Keeper%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 116,
+        "title": "Trapper Keeper (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/116%20-%20Trapper%20Keeper%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/116%20-%20Trapper%20Keeper%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/116%20-%20Trapper%20Keeper%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 117,
+        "title": "A Snake in the Grass (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/117%20-%20A%20Snake%20in%20the%20Grass%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/117%20-%20A%20Snake%20in%20the%20Grass%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/117%20-%20A%20Snake%20in%20the%20Grass%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 118,
+        "title": "A Snake in the Grass (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/118%20-%20A%20Snake%20in%20the%20Grass%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/118%20-%20A%20Snake%20in%20the%20Grass%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/118%20-%20A%20Snake%20in%20the%20Grass%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 119,
+        "title": "A Snake in the Grass (Part 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/119%20-%20A%20Snake%20in%20the%20Grass%20(Part%203).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/119%20-%20A%20Snake%20in%20the%20Grass%20(Part%203).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/119%20-%20A%20Snake%20in%20the%20Grass%20(Part%203).mp4"
+      },
+      {
+        "episodeNumber": 120,
+        "title": "Inter-Dimension Detention (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/120%20-%20Inter-Dimension%20Detention.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/120%20-%20Inter-Dimension%20Detention.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/120%20-%20Inter-Dimension%20Detention.mp4"
+      },
+      {
+        "episodeNumber": 121,
+        "title": "Sub-Desert Duel (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/121%20-%20Sub-Desert%20Duel.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/121%20-%20Sub-Desert%20Duel.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/121%20-%20Sub-Desert%20Duel.mp4"
+      },
+      {
+        "episodeNumber": 122,
+        "title": "The Night of the Living Duelists (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/122%20-%20The%20Night%20of%20the%20Living%20Duelists.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/122%20-%20The%20Night%20of%20the%20Living%20Duelists.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/122%20-%20The%20Night%20of%20the%20Living%20Duelists.mp4"
+      },
+      {
+        "episodeNumber": 123,
+        "title": "School Ghoul Duels (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/123%20-%20School%20Ghoul%20Duels.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/123%20-%20School%20Ghoul%20Duels.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/123%20-%20School%20Ghoul%20Duels.mp4"
+      },
+      {
+        "episodeNumber": 124,
+        "title": "Triple Play (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/124%20-%20Triple%20Play%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/124%20-%20Triple%20Play%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/124%20-%20Triple%20Play%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 125,
+        "title": "Triple Play (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/125%20-%20Triple%20Play%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/125%20-%20Triple%20Play%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/125%20-%20Triple%20Play%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 126,
+        "title": "Return of the Sacred Beasts (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/126%20-%20Return%20of%20the%20Sacred%20Beasts.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/126%20-%20Return%20of%20the%20Sacred%20Beasts.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/126%20-%20Return%20of%20the%20Sacred%20Beasts.mp4"
+      },
+      {
+        "episodeNumber": 127,
+        "title": "Breaking of the Sacred Seal (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/127%20-%20Breaking%20of%20the%20Sacred%20Seal.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/127%20-%20Breaking%20of%20the%20Sacred%20Seal.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/127%20-%20Breaking%20of%20the%20Sacred%20Seal.mp4"
+      },
+      {
+        "episodeNumber": 128,
+        "title": "A Dimension Duel (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/128%20-%20A%20Dimension%20Duel.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/128%20-%20A%20Dimension%20Duel.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/128%20-%20A%20Dimension%20Duel.mp4"
+      },
+      {
+        "episodeNumber": 129,
+        "title": "Unleash the Dragon (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/129%20-%20Unleash%20the%20Dragon%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/129%20-%20Unleash%20the%20Dragon%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/129%20-%20Unleash%20the%20Dragon%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 130,
+        "title": "Unleash the Dragon (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/130%20-%20Unleash%20the%20Dragon%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/130%20-%20Unleash%20the%20Dragon%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/130%20-%20Unleash%20the%20Dragon%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 131,
+        "title": "All For One (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/131%20-%20All%20For%20One.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/131%20-%20All%20For%20One.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/131%20-%20All%20For%20One.mp4"
+      },
+      {
+        "episodeNumber": 132,
+        "title": "A New World Order (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/132%20-%20A%20New%20World%20Order.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/132%20-%20A%20New%20World%20Order.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/132%20-%20A%20New%20World%20Order.mp4"
+      },
+      {
+        "episodeNumber": 133,
+        "title": "Friend or Fiend (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/133%20-%20Friend%20or%20Fiend.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/133%20-%20Friend%20or%20Fiend.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/133%20-%20Friend%20or%20Fiend.mp4"
+      },
+      {
+        "episodeNumber": 134,
+        "title": "Dueling With The Dark Army (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/134%20-%20Dueling%20With%20The%20Dark%20Army.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/134%20-%20Dueling%20With%20The%20Dark%20Army.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/134%20-%20Dueling%20With%20The%20Dark%20Army.mp4"
+      },
+      {
+        "episodeNumber": 135,
+        "title": "Turning The Page (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/135%20-%20Turning%20The%20Page%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/135%20-%20Turning%20The%20Page%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/135%20-%20Turning%20The%20Page%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 136,
+        "title": "Turning The Page (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/136%20-%20Turning%20The%20Page%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/136%20-%20Turning%20The%20Page%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/136%20-%20Turning%20The%20Page%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 137,
+        "title": "The State of Syrus (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/137%20-%20The%20State%20of%20Syrus.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/137%20-%20The%20State%20of%20Syrus.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/137%20-%20The%20State%20of%20Syrus.mp4"
+      },
+      {
+        "episodeNumber": 138,
+        "title": "The Darkness is Revealed (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/138%20-%20The%20Darkness%20is%20Revealed.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/138%20-%20The%20Darkness%20is%20Revealed.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/138%20-%20The%20Darkness%20is%20Revealed.mp4"
+      },
+      {
+        "episodeNumber": 139,
+        "title": "A Sight Unseen (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/139%20-%20A%20Sight%20Unseen%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/139%20-%20A%20Sight%20Unseen%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/139%20-%20A%20Sight%20Unseen%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 140,
+        "title": "A Sight Unseen (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/140%20-%20A%20Sight%20Unseen%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/140%20-%20A%20Sight%20Unseen%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/140%20-%20A%20Sight%20Unseen%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 141,
+        "title": "What Lies Beneath (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/141%20-%20What%20Lies%20Beneath%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/141%20-%20What%20Lies%20Beneath%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/141%20-%20What%20Lies%20Beneath%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 142,
+        "title": "What Lies Beneath (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/142%20-%20What%20Lies%20Beneath%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/142%20-%20What%20Lies%20Beneath%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/142%20-%20What%20Lies%20Beneath%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 143,
+        "title": "What Lies Beneath (Part 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/143%20-%20What%20Lies%20Beneath%20(Part%203).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/143%20-%20What%20Lies%20Beneath%20(Part%203).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/143%20-%20What%20Lies%20Beneath%20(Part%203).mp4"
+      },
+      {
+        "episodeNumber": 144,
+        "title": "The Forbidden Ritual (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/144%20-%20The%20Forbidden%20Ritual%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/144%20-%20The%20Forbidden%20Ritual%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/144%20-%20The%20Forbidden%20Ritual%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 145,
+        "title": "The Forbidden Ritual (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/145%20-%20The%20Forbidden%20Ritual%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/145%20-%20The%20Forbidden%20Ritual%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/145%20-%20The%20Forbidden%20Ritual%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 146,
+        "title": "Conquering the Past (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/146%20-%20Conquering%20the%20Past%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/146%20-%20Conquering%20the%20Past%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/146%20-%20Conquering%20the%20Past%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 147,
+        "title": "Conquering the Past (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/147%20-%20Conquering%20the%20Past%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/147%20-%20Conquering%20the%20Past%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/147%20-%20Conquering%20the%20Past%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 148,
+        "title": "Conquering the Past (Part 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/148%20-%20Conquering%20the%20Past%20(Part%203).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/148%20-%20Conquering%20the%20Past%20(Part%203).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/148%20-%20Conquering%20the%20Past%20(Part%203).mp4"
+      },
+      {
+        "episodeNumber": 149,
+        "title": "The Ultimate Face-Off (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/149%20-%20The%20Ultimate%20Face-Off%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/149%20-%20The%20Ultimate%20Face-Off%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/149%20-%20The%20Ultimate%20Face-Off%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 150,
+        "title": "The Ultimate Face-Off (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/150%20-%20The%20Ultimate%20Face-Off%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/150%20-%20The%20Ultimate%20Face-Off%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/150%20-%20The%20Ultimate%20Face-Off%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 151,
+        "title": "The Power Within (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/151%20-%20The%20Power%20Within%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/151%20-%20The%20Power%20Within%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/151%20-%20The%20Power%20Within%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 152,
+        "title": "The Power Within (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/152%20-%20The%20Power%20Within%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/152%20-%20The%20Power%20Within%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/152%20-%20The%20Power%20Within%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 153,
+        "title": "Return of the Supreme King (Part 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/153%20-%20Return%20of%20the%20Supreme%20King%20(Part%201).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/153%20-%20Return%20of%20the%20Supreme%20King%20(Part%201).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/153%20-%20Return%20of%20the%20Supreme%20King%20(Part%201).mp4"
+      },
+      {
+        "episodeNumber": 154,
+        "title": "Return of the Supreme King (Part 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/154%20-%20Return%20of%20the%20Supreme%20King%20(Part%202).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/154%20-%20Return%20of%20the%20Supreme%20King%20(Part%202).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/154%20-%20Return%20of%20the%20Supreme%20King%20(Part%202).mp4"
+      },
+      {
+        "episodeNumber": 155,
+        "title": "Return of the Supreme King (Part 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/155%20-%20Return%20of%20the%20Supreme%20King%20(Part%203).mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/155%20-%20Return%20of%20the%20Supreme%20King%20(Part%203).mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/155%20-%20Return%20of%20the%20Supreme%20King%20(Part%203).mp4"
+      },
+      {
+        "episodeNumber": 156,
+        "title": "Judai Revived! A Brand New Journey (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/001-the-next-king-of-games_202502/156%20-%20Judai%20Revived!%20A%20Brand%20New%20Journey.mp4",
+        "dubUrl": "https://archive.org/download/001-the-next-king-of-games_202502/156%20-%20Judai%20Revived!%20A%20Brand%20New%20Journey.mp4",
+        "subUrl": "https://archive.org/download/001-the-next-king-of-games_202502/156%20-%20Judai%20Revived!%20A%20Brand%20New%20Journey.mp4"
+      }
+    ]
+  },
+  {
+    "id": 107660,
+    "title": {
+      "english": "BEASTARS",
+      "romaji": "BEASTARS",
+      "native": "BEASTARS"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107660-hgknnyaLchJW.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107660-hgknnyaLchJW.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107660-hgknnyaLchJW.png",
+      "color": "#e4a15d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107660-AxwrzHkXzYYN.jpg",
+    "description": "In a civilized society of anthropomorphic animals, an uneasy tension divides carnivores and herbivores. At Cherryton Academy, Legoshi the large gray wolf suppresses his predatory instincts while developing complicated romantic feelings for Haru, a dwarf rabbit.",
+    "averageScore": 77,
+    "seasonYear": 2019,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASONS 1-2 • 24 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Groundbreaking 3D CGI psychological drama packed with suspense and complex themes.",
+    "isMature": true,
+    "contentRating": "TV-MA",
+    "contentWarnings": [
+      "Violence",
+      "Mature Themes",
+      "Blood"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Season 1 Ep 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20001%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20001%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20001%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Season 1 Ep 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20002%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20002%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20002%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Season 1 Ep 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20003%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20003%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20003%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Season 1 Ep 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20004%20-English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20004%20-English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20004%20-English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Season 1 Ep 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20005%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20005%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20005%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Season 1 Ep 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20006%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20006%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20006%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Season 1 Ep 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20007%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20007%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20007%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Season 1 Ep 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20008%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20008%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20008%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Season 1 Ep 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20009%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20009%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20009%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Season 1 Ep 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20010%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20010%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20010%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Season 1 Ep 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20011%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20011%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20011%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Season 1 Ep 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20012%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20012%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES/BEASTARS%20-%20Episode%20012%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Season 2 Ep 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20001%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20001%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20001%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Season 2 Ep 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20002%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20002%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20002%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Season 2 Ep 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20003%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20003%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20003%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Season 2 Ep 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20004%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20004%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20004%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Season 2 Ep 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20005%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20005%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20005%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Season 2 Ep 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20006%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20006%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20006%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Season 2 Ep 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20007%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20007%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20007%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Season 2 Ep 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20008%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20008%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20008%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Season 2 Ep 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20009%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20009%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20009%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Season 2 Ep 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20010%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20010%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20010%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Season 2 Ep 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20011%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20011%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20011%20-%20English%20Dub.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Season 2 Ep 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20012%20-%20English%20Dub.mp4",
+        "dubUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20012%20-%20English%20Dub.mp4",
+        "subUrl": "https://archive.org/download/BEASTARS-DUBBED-EPISODES-SEASON-2/BEASTARS%20Season%202%20-%20Episode%20012%20-%20English%20Dub.mp4"
+      }
+    ]
+  },
+  {
+    "id": 1281,
+    "title": {
+      "english": "Ghost Stories",
+      "romaji": "Gakkou no Kaidan",
+      "native": "学校の怪談"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1281-1D6fuMnHwor0.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1281-1D6fuMnHwor0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1281-1D6fuMnHwor0.png",
+      "color": "#f1ae1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1281-QjxPqVZpNYDs.jpg",
+    "description": "Years ago, ghosts haunted the old school building until students sealed them away. Now, Satsuki and Keiichirou Miyanoshita discover the ghosts have awakened! With license to do whatever they wanted, the ADV English dub cast turned this show into an irreverent, riotously funny comedy masterpiece.",
+    "averageScore": 74,
+    "seasonYear": 2000,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "ADV ENGLISH DUB • 20 EPISODES",
+    "isStaffPick": true,
+    "staffNotes": "The most hilarious, legendary official comedy dub in anime history!",
+    "isMature": true,
+    "contentRating": "TV-MA",
+    "contentWarnings": [
+      "Crude Humor",
+      "Dark Satire",
+      "Strong Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2001%20(35060C64).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2001%20(35060C64).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2001%20(35060C64).mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2002%20(587DEF92).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2002%20(587DEF92).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2002%20(587DEF92).mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2003%20(0327D1BD).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2003%20(0327D1BD).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2003%20(0327D1BD).mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2004%20(5CC7BCB1).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2004%20(5CC7BCB1).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2004%20(5CC7BCB1).mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2005%20(F590D623).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2005%20(F590D623).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2005%20(F590D623).mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2006%20(6DA15E06).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2006%20(6DA15E06).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2006%20(6DA15E06).mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2007%20(2F37D6D6).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2007%20(2F37D6D6).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2007%20(2F37D6D6).mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2008%20(9AF097B2).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2008%20(9AF097B2).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2008%20(9AF097B2).mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2009%20(FBC27D77).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2009%20(FBC27D77).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2009%20(FBC27D77).mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2010%20(9FA7DCC0).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2010%20(9FA7DCC0).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2010%20(9FA7DCC0).mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2011%20(3B38E277).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2011%20(3B38E277).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2011%20(3B38E277).mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2012%20(ABE40789).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2012%20(ABE40789).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2012%20(ABE40789).mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2013%20(3961BF86).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2013%20(3961BF86).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2013%20(3961BF86).mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2014%20(C90ECDEE).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2014%20(C90ECDEE).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2014%20(C90ECDEE).mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2015%20(5CDEE988).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2015%20(5CDEE988).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2015%20(5CDEE988).mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2016%20(F641519C).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2016%20(F641519C).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2016%20(F641519C).mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2017%20(F23D49EB).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2017%20(F23D49EB).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2017%20(F23D49EB).mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2018%20(0C9A9C8E).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2018%20(0C9A9C8E).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2018%20(0C9A9C8E).mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2019%20(00940539).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2019%20(00940539).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2019%20(00940539).mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2020%20(F6CEA932).mp4",
+        "dubUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2020%20(F6CEA932).mp4",
+        "subUrl": "https://archive.org/download/ghost-stories-ADV/Ghost%20Stories%20(ADV%20ENGdub)/Ghost%20Stories%20Episode%2020%20(F6CEA932).mp4"
+      }
+    ]
+  },
+  {
+    "id": 20807,
+    "title": {
+      "english": "Prison School",
+      "romaji": "Prison School",
+      "native": "監獄学園〈プリズンスクール〉"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20807-8nFoO0AUdGsy.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20807-8nFoO0AUdGsy.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20807-8nFoO0AUdGsy.jpg",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20807-IHYC4Qby3dkT.jpg",
+    "description": "Hachimitsu Academy, a prestigious all-girls boarding school, decides to admit male students for the very first time. Only five boys enroll, and after an ill-fated attempt to peek at the girls' bath, they are imprisoned in the school's internal jail by the Underground Student Council!",
+    "averageScore": 73,
+    "seasonYear": 2015,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "UNCENSORED DUB • 12 DUB EPS",
+    "isStaffPick": false,
+    "isMature": true,
+    "contentRating": "TV-MA",
+    "contentWarnings": [
+      "Extreme Ecchi",
+      "Nudity",
+      "Crude Humor"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "The Peep Job (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2001%20-%20The%20Peep%20Job.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2001%20-%20The%20Peep%20Job.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2001%20-%20The%20Peep%20Job.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "The Man Who Viewed Too Much (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2002%20-%20The%20Man%20Who%20Viewed%20Too%20Much.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2002%20-%20The%20Man%20Who%20Viewed%20Too%20Much.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2002%20-%20The%20Man%20Who%20Viewed%20Too%20Much.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "A Mighty Spurt (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2003%20-%20A%20Mighty%20Spurt.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2003%20-%20A%20Mighty%20Spurt.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2003%20-%20A%20Mighty%20Spurt.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Take Me Out to the Sumoland (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2004%20-%20Take%20Me%20Out%20to%20the%20Sumoland.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2004%20-%20Take%20Me%20Out%20to%20the%20Sumoland.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2004%20-%20Take%20Me%20Out%20to%20the%20Sumoland.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "The School's Number One Most Treacherous Man (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2005%20-%20The%20School's%20Number%20One%20Most%20Treacherous%20Man.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2005%20-%20The%20School's%20Number%20One%20Most%20Treacherous%20Man.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2005%20-%20The%20School's%20Number%20One%20Most%20Treacherous%20Man.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Vengeance is Hana's (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2006%20-%20Vengeance%20is%20Hana's.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2006%20-%20Vengeance%20is%20Hana's.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2006%20-%20Vengeance%20is%20Hana's.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 07 Meiko's Delicious Restaurant (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2007%20Meiko's%20Delicious%20Restaurant.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2007%20Meiko's%20Delicious%20Restaurant.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2007%20Meiko's%20Delicious%20Restaurant.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "The Diary of Andre (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2008%20-%20The%20Diary%20of%20Andre.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2008%20-%20The%20Diary%20of%20Andre.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2008%20-%20The%20Diary%20of%20Andre.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Full of Bodily Fluids (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2009%20-%20Full%20of%20Bodily%20Fluids.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2009%20-%20Full%20of%20Bodily%20Fluids.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2009%20-%20Full%20of%20Bodily%20Fluids.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "It's a Bum-derful Life (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2010%20-%20It's%20a%20Bum-derful%20Life.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2010%20-%20It's%20a%20Bum-derful%20Life.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2010%20-%20It's%20a%20Bum-derful%20Life.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Eryngii Brockovich (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2011%20-%20Eryngii%20Brockovich.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2011%20-%20Eryngii%20Brockovich.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2011%20-%20Eryngii%20Brockovich.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Good Morning, Prison (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2012%20-%20Good%20Morning,%20Prison.mp4",
+        "dubUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2012%20-%20Good%20Morning,%20Prison.mp4",
+        "subUrl": "https://archive.org/download/Prison-School-/Prison%20School%20%5BDubbed%5D%20%5BUncensored%5D%20%5B720p%5D/Episode%2012%20-%20Good%20Morning,%20Prison.mp4"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "title": {
+      "english": "Zatch Bell!",
+      "romaji": "Konjiki no Gash Bell!!",
+      "native": "金色のガッシュベル!!"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b250-w0c2KefXfW2i.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b250-w0c2KefXfW2i.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b250-w0c2KefXfW2i.png",
+      "color": "#e4ae50"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/250-JpXhinXPqpNE.jpg",
+    "description": "Every one thousand years, one hundred Mamodo children are sent to Earth to compete in a battle to become king of the Mamodo world. Kiyo Takamine, a genius junior high student, is paired with Zatch Bell, an amnesiac lightning-wielding Mamodo who dreams of becoming a benevolent king.",
+    "averageScore": 73,
+    "seasonYear": 2003,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 104 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Classic shonen action and heartwarming brotherhood. Zaker!",
+    "isMature": false,
+    "contentRating": "TV-Y7-FV",
+    "contentWarnings": [
+      "Fantasy Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E01.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E01.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E02.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E02.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E02.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E03.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E03.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E03.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E04.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E04.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E04.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E05.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E05.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E05.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E06.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E06.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E06.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E07.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E07.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E07.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E08.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E08.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E08.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E09.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E09.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E09.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E10.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E10.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E11.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E11.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E12.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E12.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E13.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E13.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E14.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E14.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E15.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E15.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E16.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E16.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E17.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E17.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E18.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E18.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E19.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E19.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E20.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E20.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E21.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E21.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E22.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E22.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E23.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E23.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E24.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E24.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E24.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E25.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E25.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E25.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E26.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E26.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E26.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E27.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E27.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E27.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E28.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E28.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E28.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E29.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E29.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E29.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E30.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E30.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E30.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E31.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E31.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E31.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E32.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E32.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E32.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E33.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E33.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E33.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E34.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E34.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E34.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E35.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E35.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E35.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E36.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E36.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E36.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E37.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E37.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E37.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E38.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E38.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E38.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E39.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E39.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E39.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E40.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E40.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E40.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E41.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E41.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E41.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E42.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E42.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E42.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E43.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E43.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E43.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E44.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E44.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E44.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E45.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E45.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E45.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E46.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E46.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E46.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E47.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E47.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E47.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E48.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E48.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E48.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E49.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E49.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E49.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E50.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E50.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%201/Zatch%20Bell%20S01E50.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E01.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E01.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E01.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E02.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E02.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E02.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E03.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E03.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E03.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E04.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E04.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E04.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E05.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E05.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E05.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E06.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E06.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E06.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E07.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E07.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E07.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E08.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E08.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E08.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E09.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E09.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E09.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E10.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E10.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E10.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E11.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E11.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E11.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E12.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E12.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E12.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E13.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E13.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E13.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E14.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E14.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E14.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E15.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E15.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E15.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E16.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E16.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E16.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E17.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E17.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E17.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E18.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E18.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E18.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E19.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E19.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E19.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E20.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E20.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E20.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E21.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E21.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E21.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E22.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E22.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E22.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E23.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E23.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E23.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E24.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E24.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E24.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E25.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E25.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E25.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E26.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E26.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E26.mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E27.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E27.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E27.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E28.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E28.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E28.mp4"
+      },
+      {
+        "episodeNumber": 79,
+        "title": "Episode 79 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E29.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E29.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E29.mp4"
+      },
+      {
+        "episodeNumber": 80,
+        "title": "Episode 80 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E30.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E30.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E30.mp4"
+      },
+      {
+        "episodeNumber": 81,
+        "title": "Episode 81 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E31.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E31.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E31.mp4"
+      },
+      {
+        "episodeNumber": 82,
+        "title": "Episode 82 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E32.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E32.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E32.mp4"
+      },
+      {
+        "episodeNumber": 83,
+        "title": "Episode 83 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E33.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E33.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E33.mp4"
+      },
+      {
+        "episodeNumber": 84,
+        "title": "Episode 84 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E34.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E34.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E34.mp4"
+      },
+      {
+        "episodeNumber": 85,
+        "title": "Episode 85 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E35.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E35.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E35.mp4"
+      },
+      {
+        "episodeNumber": 86,
+        "title": "Episode 86 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E36.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E36.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E36.mp4"
+      },
+      {
+        "episodeNumber": 87,
+        "title": "Episode 87 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E37.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E37.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E37.mp4"
+      },
+      {
+        "episodeNumber": 88,
+        "title": "Episode 88 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E38.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E38.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E38.mp4"
+      },
+      {
+        "episodeNumber": 89,
+        "title": "Episode 89 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E39.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E39.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E39.mp4"
+      },
+      {
+        "episodeNumber": 90,
+        "title": "Episode 90 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E40.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E40.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E40.mp4"
+      },
+      {
+        "episodeNumber": 91,
+        "title": "Episode 91 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E41.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E41.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E41.mp4"
+      },
+      {
+        "episodeNumber": 92,
+        "title": "Episode 92 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E42.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E42.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E42.mp4"
+      },
+      {
+        "episodeNumber": 93,
+        "title": "Episode 93 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E43.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E43.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E43.mp4"
+      },
+      {
+        "episodeNumber": 94,
+        "title": "Episode 94 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E44.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E44.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E44.mp4"
+      },
+      {
+        "episodeNumber": 95,
+        "title": "Episode 95 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E45.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E45.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E45.mp4"
+      },
+      {
+        "episodeNumber": 96,
+        "title": "Episode 96 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E46.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E46.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E46.mp4"
+      },
+      {
+        "episodeNumber": 97,
+        "title": "Episode 97 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E47.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E47.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E47.mp4"
+      },
+      {
+        "episodeNumber": 98,
+        "title": "Episode 98 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E48.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E48.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E48.mp4"
+      },
+      {
+        "episodeNumber": 99,
+        "title": "Episode 99 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E49.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E49.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E49.mp4"
+      },
+      {
+        "episodeNumber": 100,
+        "title": "Episode 100 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E50.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E50.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%202/Zatch%20Bell%20S02E50.mp4"
+      },
+      {
+        "episodeNumber": 101,
+        "title": "Episode 101 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E01.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E01.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E01.mp4"
+      },
+      {
+        "episodeNumber": 102,
+        "title": "Episode 102 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E02.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E02.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E02.mp4"
+      },
+      {
+        "episodeNumber": 103,
+        "title": "Episode 103 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E03.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E03.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E03.mp4"
+      },
+      {
+        "episodeNumber": 104,
+        "title": "Episode 104 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E04.mp4",
+        "dubUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E04.mp4",
+        "subUrl": "https://archive.org/download/zatch-bell-collection/Zatch%20Bell/Season%203/Zatch%20Bell%20S03E04.mp4"
+      }
+    ]
+  },
+  {
+    "id": 1707,
+    "title": {
+      "english": "Ultimate Muscle",
+      "romaji": "Kinnikuman Nisei",
+      "native": "キン肉マンII世"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1707.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1707.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1707.jpg",
+      "color": "#e43578"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1707-7GnpRwi1Wylf.jpg",
+    "description": "Kid Muscle (Mantaro Kinniku), the cowardly and pampered son of legendary wrestling hero King Muscle, is summoned to Earth to defend the world against a new wave of evil dMp wrestlers. With the help of garlic and beef bowls, Kid Muscle unleashes the Ultimate Muscle!",
+    "averageScore": 68,
+    "seasonYear": 2002,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Sports"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 77 DUB EPS",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-Y7-FV",
+    "contentWarnings": [
+      "Wrestling Violence",
+      "Comedic Slapstick"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "A Legend Reborn (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X01%20-%20A%20Legend%20Reborn.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X01%20-%20A%20Legend%20Reborn.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X01%20-%20A%20Legend%20Reborn.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Generation--Next! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X02%20-%20Generation--Next!.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X02%20-%20Generation--Next!.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X02%20-%20Generation--Next!.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Making The Cut (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X03%20-%20Making%20The%20Cut.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X03%20-%20Making%20The%20Cut.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X03%20-%20Making%20The%20Cut.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Like Father, Like Son (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X04%20-%20Like%20Father,%20Like%20Son.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X04%20-%20Like%20Father,%20Like%20Son.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X04%20-%20Like%20Father,%20Like%20Son.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Dial Up Danger (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X05%20-%20Dial%20Up%20Danger.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X05%20-%20Dial%20Up%20Danger.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X05%20-%20Dial%20Up%20Danger.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Mask Of Terror (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X06%20-%20Mask%20Of%20Terror.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X06%20-%20Mask%20Of%20Terror.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X06%20-%20Mask%20Of%20Terror.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Call Waiting (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X07%20-%20Call%20Waiting.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X07%20-%20Call%20Waiting.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X07%20-%20Call%20Waiting.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Trouble Afoot (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X08%20-%20Trouble%20Afoot.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X08%20-%20Trouble%20Afoot.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X08%20-%20Trouble%20Afoot.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Fury Of The Scorned Shoe (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X09%20-%20Fury%20Of%20The%20Scorned%20Shoe.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X09%20-%20Fury%20Of%20The%20Scorned%20Shoe.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X09%20-%20Fury%20Of%20The%20Scorned%20Shoe.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Unmellow Yellow (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X10%20-%20Unmellow%20Yellow.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X10%20-%20Unmellow%20Yellow.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X10%20-%20Unmellow%20Yellow.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "The Hand That Bites You (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X11%20-%20The%20Hand%20That%20Bites%20You.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X11%20-%20The%20Hand%20That%20Bites%20You.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X11%20-%20The%20Hand%20That%20Bites%20You.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Cold War (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X12%20-%20Cold%20War.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X12%20-%20Cold%20War.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X12%20-%20Cold%20War.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Checkmate! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X13%20-%20Checkmate!.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X13%20-%20Checkmate!.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X13%20-%20Checkmate!.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Feeling No Pain (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X14%20-%20Feeling%20No%20Pain.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X14%20-%20Feeling%20No%20Pain.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X14%20-%20Feeling%20No%20Pain.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "The Student Rebellion (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X15%20-%20The%20Student%20Rebellion.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X15%20-%20The%20Student%20Rebellion.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X15%20-%20The%20Student%20Rebellion.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "The Final Move (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X16%20-%20The%20Final%20Move.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X16%20-%20The%20Final%20Move.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X16%20-%20The%20Final%20Move.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Roxanne Rocks! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X17%20-%20Roxanne%20Rocks!.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X17%20-%20Roxanne%20Rocks!.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X17%20-%20Roxanne%20Rocks!.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Cutting The Slack(1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X18%20-%20Cutting%20The%20Slack(1).mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X18%20-%20Cutting%20The%20Slack(1).mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X18%20-%20Cutting%20The%20Slack(1).mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "The Muscle League Vs. The Muscle League (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X19%20-%20The%20Muscle%20League%20Vs.%20The%20Muscle%20League.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X19%20-%20The%20Muscle%20League%20Vs.%20The%20Muscle%20League.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X19%20-%20The%20Muscle%20League%20Vs.%20The%20Muscle%20League.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Water Damage (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X20%20-%20Water%20Damage.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X20%20-%20Water%20Damage.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X20%20-%20Water%20Damage.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "A Bad Sign (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X21%20-%20A%20Bad%20Sign.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X21%20-%20A%20Bad%20Sign.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X21%20-%20A%20Bad%20Sign.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Road Rage (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X22%20-%20Road%20Rage.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X22%20-%20Road%20Rage.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X22%20-%20Road%20Rage.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "From Bad To Worse (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X23%20-%20From%20Bad%20To%20Worse.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X23%20-%20From%20Bad%20To%20Worse.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X23%20-%20From%20Bad%20To%20Worse.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Ultimate Courage (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X24%20-%20Ultimate%20Courage.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X24%20-%20Ultimate%20Courage.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X24%20-%20Ultimate%20Courage.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Ink Or Swim (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X25%20-%20Ink%20Or%20Swim.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X25%20-%20Ink%20Or%20Swim.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X25%20-%20Ink%20Or%20Swim.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "The Kid Vs. The Squid (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X26%20-%20The%20Kid%20Vs.%20The%20Squid.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X26%20-%20The%20Kid%20Vs.%20The%20Squid.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S01/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2001X26%20-%20The%20Kid%20Vs.%20The%20Squid.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Fight For The Finals (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X01%20-%20Fight%20For%20The%20Finals.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X01%20-%20Fight%20For%20The%20Finals.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X01%20-%20Fight%20For%20The%20Finals.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "A Generation Xed (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X02%20-%20A%20Generation%20Xed.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X02%20-%20A%20Generation%20Xed.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X02%20-%20A%20Generation%20Xed.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Eskara Vs. Kid Muscle (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X03%20-%20Eskara%20Vs.%20Kid%20Muscle.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X03%20-%20Eskara%20Vs.%20Kid%20Muscle.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X03%20-%20Eskara%20Vs.%20Kid%20Muscle.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Kinniku-Busted (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X04%20-%20Kinniku-Busted.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X04%20-%20Kinniku-Busted.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X04%20-%20Kinniku-Busted.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "A Desperate Situation (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X05%20-%20A%20Desperate%20Situation.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X05%20-%20A%20Desperate%20Situation.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X05%20-%20A%20Desperate%20Situation.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "The Champion Of Planet Earth (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X06%20-%20The%20Champion%20Of%20Planet%20Earth.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X06%20-%20The%20Champion%20Of%20Planet%20Earth.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X06%20-%20The%20Champion%20Of%20Planet%20Earth.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "The Ultimate Challenge (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X07%20-%20The%20Ultimate%20Challenge.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X07%20-%20The%20Ultimate%20Challenge.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X07%20-%20The%20Ultimate%20Challenge.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Checkmate Returns (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X08%20-%20Checkmate%20Returns.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X08%20-%20Checkmate%20Returns.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X08%20-%20Checkmate%20Returns.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Hanzo Vs. Ninja Ned (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X09%20-%20Hanzo%20Vs.%20Ninja%20Ned.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X09%20-%20Hanzo%20Vs.%20Ninja%20Ned.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X09%20-%20Hanzo%20Vs.%20Ninja%20Ned.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "The Ninja Alliance (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X10%20-%20The%20Ninja%20Alliance.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X10%20-%20The%20Ninja%20Alliance.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X10%20-%20The%20Ninja%20Alliance.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Tatami Or Not, Here I Come (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X11%20-%20Tatami%20Or%20Not,%20Here%20I%20Come.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X11%20-%20Tatami%20Or%20Not,%20Here%20I%20Come.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X11%20-%20Tatami%20Or%20Not,%20Here%20I%20Come.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Bone Cold Day In Paradise (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X12%20-%20Bone%20Cold%20Day%20In%20Paradise.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X12%20-%20Bone%20Cold%20Day%20In%20Paradise.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X12%20-%20Bone%20Cold%20Day%20In%20Paradise.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "For Meat`S Sake (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X13%20-%20For%20Meat%60S%20Sake.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X13%20-%20For%20Meat%60S%20Sake.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X13%20-%20For%20Meat%60S%20Sake.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "The Ultimate Victor(1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X14%20-%20The%20Ultimate%20Victor(1).mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X14%20-%20The%20Ultimate%20Victor(1).mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X14%20-%20The%20Ultimate%20Victor(1).mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "The Chojin Crown (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X15%20-%20The%20Chojin%20Crown.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X15%20-%20The%20Chojin%20Crown.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X15%20-%20The%20Chojin%20Crown.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "The Prince And The Pauper (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X16%20-%20The%20Prince%20And%20The%20Pauper.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X16%20-%20The%20Prince%20And%20The%20Pauper.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X16%20-%20The%20Prince%20And%20The%20Pauper.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Rock, Paper, Chojin (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X17%20-%20Rock,%20Paper,%20Chojin.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X17%20-%20Rock,%20Paper,%20Chojin.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X17%20-%20Rock,%20Paper,%20Chojin.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Three Feet Heat (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X18%20-%20Three%20Feet%20Heat.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X18%20-%20Three%20Feet%20Heat.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X18%20-%20Three%20Feet%20Heat.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "The Poison Six-Pack (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X19%20-%20The%20Poison%20Six-Pack.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X19%20-%20The%20Poison%20Six-Pack.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X19%20-%20The%20Poison%20Six-Pack.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Tag! You`Re It! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X20%20-%20Tag!%20You%60Re%20It!.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X20%20-%20Tag!%20You%60Re%20It!.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X20%20-%20Tag!%20You%60Re%20It!.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Cheek To Cheek (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X21%20-%20Cheek%20To%20Cheek.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X21%20-%20Cheek%20To%20Cheek.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X21%20-%20Cheek%20To%20Cheek.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "On Poison Pond (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X22%20-%20On%20Poison%20Pond.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X22%20-%20On%20Poison%20Pond.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X22%20-%20On%20Poison%20Pond.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "The Final Grudge Match (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X23%20-%20The%20Final%20Grudge%20Match.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X23%20-%20The%20Final%20Grudge%20Match.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X23%20-%20The%20Final%20Grudge%20Match.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Kid Muscle Max`D Out (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X24%20-%20Kid%20Muscle%20Max%60D%20Out.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X24%20-%20Kid%20Muscle%20Max%60D%20Out.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X24%20-%20Kid%20Muscle%20Max%60D%20Out.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Sleep Fighter (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X25%20-%20Sleep%20Fighter.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X25%20-%20Sleep%20Fighter.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S02/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2002X25%20-%20Sleep%20Fighter.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "The Chojin Crown Resumes (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X01%20-%20The%20Chojin%20Crown%20Resumes.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X01%20-%20The%20Chojin%20Crown%20Resumes.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X01%20-%20The%20Chojin%20Crown%20Resumes.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Finally The Finals! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X02%20-%20Finally%20The%20Finals!.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X02%20-%20Finally%20The%20Finals!.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X02%20-%20Finally%20The%20Finals!.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Kid Goes Hollywood (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X03%20-%20Kid%20Goes%20Hollywood.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X03%20-%20Kid%20Goes%20Hollywood.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X03%20-%20Kid%20Goes%20Hollywood.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "The Final Flush (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X04%20-%20The%20Final%20Flush.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X04%20-%20The%20Final%20Flush.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X04%20-%20The%20Final%20Flush.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "The Inner Light (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X05%20-%20The%20Inner%20Light.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X05%20-%20The%20Inner%20Light.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X05%20-%20The%20Inner%20Light.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Double Trouble (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X06%20-%20Double%20Trouble.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X06%20-%20Double%20Trouble.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X06%20-%20Double%20Trouble.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Biting The Hand That Needs Him (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X07%20-%20Biting%20The%20Hand%20That%20Needs%20Him.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X07%20-%20Biting%20The%20Hand%20That%20Needs%20Him.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X07%20-%20Biting%20The%20Hand%20That%20Needs%20Him.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Tackle That Twosome! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X08%20-%20Tackle%20That%20Twosome!.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X08%20-%20Tackle%20That%20Twosome!.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X08%20-%20Tackle%20That%20Twosome!.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "The Stealth Chojin (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X09%20-%20The%20Stealth%20Chojin.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X09%20-%20The%20Stealth%20Chojin.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X09%20-%20The%20Stealth%20Chojin.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Send In The Clones (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X10%20-%20Send%20In%20The%20Clones.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X10%20-%20Send%20In%20The%20Clones.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X10%20-%20Send%20In%20The%20Clones.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "He Who Laughs Last (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X11%20-%20He%20Who%20Laughs%20Last.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X11%20-%20He%20Who%20Laughs%20Last.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X11%20-%20He%20Who%20Laughs%20Last.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "The Beast Within (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X12%20-%20The%20Beast%20Within.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X12%20-%20The%20Beast%20Within.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X12%20-%20The%20Beast%20Within.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "The Face Of Evil (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X13%20-%20The%20Face%20Of%20Evil.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X13%20-%20The%20Face%20Of%20Evil.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X13%20-%20The%20Face%20Of%20Evil.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "A Cold Reception (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X14%20-%20A%20Cold%20Reception.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X14%20-%20A%20Cold%20Reception.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X14%20-%20A%20Cold%20Reception.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Electrolix (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X15%20-%20Electrolix.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X15%20-%20Electrolix.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X15%20-%20Electrolix.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "The Comeback Kid (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X16%20-%20The%20Comeback%20Kid.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X16%20-%20The%20Comeback%20Kid.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X16%20-%20The%20Comeback%20Kid.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "The Power Of Friendship (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X17%20-%20The%20Power%20Of%20Friendship.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X17%20-%20The%20Power%20Of%20Friendship.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X17%20-%20The%20Power%20Of%20Friendship.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Fear Of Flying (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X18%20-%20Fear%20Of%20Flying.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X18%20-%20Fear%20Of%20Flying.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X18%20-%20Fear%20Of%20Flying.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Maelstrom Power (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X19%20-%20Maelstrom%20Power.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X19%20-%20Maelstrom%20Power.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X19%20-%20Maelstrom%20Power.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Hola El Nino (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X20%20-%20Hola%20El%20Nino.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X20%20-%20Hola%20El%20Nino.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X20%20-%20Hola%20El%20Nino.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Like Father, Like Son (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X21%20-%20Like%20Father,%20Like%20Son.mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X21%20-%20Like%20Father,%20Like%20Son.mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X21%20-%20Like%20Father,%20Like%20Son.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "The Final Match (1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X22%20-%20The%20Final%20Match%20(1).mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X22%20-%20The%20Final%20Match%20(1).mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X22%20-%20The%20Final%20Match%20(1).mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Lifting The Mask (2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X23%20-%20Lifting%20The%20Mask%20(2).mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X23%20-%20Lifting%20The%20Mask%20(2).mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X23%20-%20Lifting%20The%20Mask%20(2).mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Honor Thy Family (3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X24%20-%20Honor%20Thy%20Family%20(3).mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X24%20-%20Honor%20Thy%20Family%20(3).mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X24%20-%20Honor%20Thy%20Family%20(3).mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Don`T Give Up (4) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X25%20-%20Don%60T%20Give%20Up%20(4).mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X25%20-%20Don%60T%20Give%20Up%20(4).mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X25%20-%20Don%60T%20Give%20Up%20(4).mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "And The Winner Is... (5) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X26%20-%20And%20The%20Winner%20Is...%20(5).mp4",
+        "dubUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X26%20-%20And%20The%20Winner%20Is...%20(5).mp4",
+        "subUrl": "https://archive.org/download/ultimate-muscle-the-complete-series/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20(2002)%20S03/Ultimate%20Muscle%20The%20Kinnikuman%20Legacy%20-%2003X26%20-%20And%20The%20Winner%20Is...%20(5).mp4"
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "title": {
+      "english": "Bobobo-bo Bo-bobo",
+      "romaji": "Bobobo-bo Bo-bobo",
+      "native": "ボボボーボ・ボーボボ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1050-qQAPEPu1kNKP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1050-qQAPEPu1kNKP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1050-qQAPEPu1kNKP.jpg",
+      "color": "#1abbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1050.jpg",
+    "description": "In the year 300X, the tyrannical Margarita Empire seeks to rob all mankind of their hair. Only one afro-clad hero possesses the power of Super Fist of the Nose Hair to stop them: Bobobo-bo Bo-bobo! Together with a band of eccentric rebels, he wages absolute nonsense warfare against baldness.",
+    "averageScore": 72,
+    "seasonYear": 2003,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 76 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Unrivaled absurdist comedy! Nose hair martial arts at its peak.",
+    "isMature": false,
+    "contentRating": "TV-PG",
+    "contentWarnings": [
+      "Cartoon Violence",
+      "Absurdist Humor"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Bo-nafide Soulful Bo-tector of Hair (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/01%20-%20Bo-nafide%20Soulful%20Bo-tector%20of%20Hair.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/01%20-%20Bo-nafide%20Soulful%20Bo-tector%20of%20Hair.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/01%20-%20Bo-nafide%20Soulful%20Bo-tector%20of%20Hair.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Let's Get Wiggy With It (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/02%20-%20Let's%20Get%20Wiggy%20With%20It.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/02%20-%20Let's%20Get%20Wiggy%20With%20It.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/02%20-%20Let's%20Get%20Wiggy%20With%20It.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Wacky Quacker Cooks His Own Goose (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/03%20-%20Wacky%20Quacker%20Cooks%20His%20Own%20Goose.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/03%20-%20Wacky%20Quacker%20Cooks%20His%20Own%20Goose.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/03%20-%20Wacky%20Quacker%20Cooks%20His%20Own%20Goose.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "BaBaBa-Ba Ba-BaBa! The Honorable King Nosehair (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/04%20-%20BaBaBa-Ba%20Ba-BaBa!%20The%20Honorable%20King%20Nosehair.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/04%20-%20BaBaBa-Ba%20Ba-BaBa!%20The%20Honorable%20King%20Nosehair.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/04%20-%20BaBaBa-Ba%20Ba-BaBa!%20The%20Honorable%20King%20Nosehair.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "To Be or Snot to Be (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/05%20-%20To%20Be%20or%20Snot%20to%20Be.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/05%20-%20To%20Be%20or%20Snot%20to%20Be.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/05%20-%20To%20Be%20or%20Snot%20to%20Be.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Pasta... the Perfect Food! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/06%20-%20Pasta...%20the%20Perfect%20Food!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/06%20-%20Pasta...%20the%20Perfect%20Food!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/06%20-%20Pasta...%20the%20Perfect%20Food!.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Queen Chicken Level and the Video Store of Dumb (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/07%20-%20Queen%20Chicken%20Level%20and%20the%20Video%20Store%20of%20Dumb.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/07%20-%20Queen%20Chicken%20Level%20and%20the%20Video%20Store%20of%20Dumb.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/07%20-%20Queen%20Chicken%20Level%20and%20the%20Video%20Store%20of%20Dumb.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "We All Scream for Ice Cream! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/08%20-%20We%20All%20Scream%20for%20Ice%20Cream!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/08%20-%20We%20All%20Scream%20for%20Ice%20Cream!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/08%20-%20We%20All%20Scream%20for%20Ice%20Cream!.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Gasser Up! I'm Ready to Drive! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/09%20-%20Gasser%20Up!%20I'm%20Ready%20to%20Drive!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/09%20-%20Gasser%20Up!%20I'm%20Ready%20to%20Drive!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/09%20-%20Gasser%20Up!%20I'm%20Ready%20to%20Drive!.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Protect the Environment... Something Stinks in Here (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/10%20-%20Protect%20the%20Environment...%20Something%20Stinks%20in%20Here.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/10%20-%20Protect%20the%20Environment...%20Something%20Stinks%20in%20Here.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/10%20-%20Protect%20the%20Environment...%20Something%20Stinks%20in%20Here.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "A Bird in the Hand Can Play Chicken, but Still Smells Fowl! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/11%20-%20A%20Bird%20in%20the%20Hand%20Can%20Play%20Chicken,%20but%20Still%20Smells%20Fowl!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/11%20-%20A%20Bird%20in%20the%20Hand%20Can%20Play%20Chicken,%20but%20Still%20Smells%20Fowl!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/11%20-%20A%20Bird%20in%20the%20Hand%20Can%20Play%20Chicken,%20but%20Still%20Smells%20Fowl!.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "The Weally Wobbly World of Bo-BoBo's Foe, General Jelly Jiggler! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/12%20-%20The%20Weally%20Wobbly%20World%20of%20Bo-BoBo's%20Foe,%20General%20Jelly%20Jiggler!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/12%20-%20The%20Weally%20Wobbly%20World%20of%20Bo-BoBo's%20Foe,%20General%20Jelly%20Jiggler!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/12%20-%20The%20Weally%20Wobbly%20World%20of%20Bo-BoBo's%20Foe,%20General%20Jelly%20Jiggler!.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Bo-BoBo's Rappin' Roller Coaster Ride (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/13%20-%20Bo-BoBo's%20Rappin'%20Roller%20Coaster%20Ride.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/13%20-%20Bo-BoBo's%20Rappin'%20Roller%20Coaster%20Ride.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/13%20-%20Bo-BoBo's%20Rappin'%20Roller%20Coaster%20Ride.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Haunted HollowBo-BoBo (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/14%20-%20Haunted%20HollowBo-BoBo.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/14%20-%20Haunted%20HollowBo-BoBo.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/14%20-%20Haunted%20HollowBo-BoBo.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "General Jelly Jiggler! Supreme Hair Enemy or Dastardly Dessert (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/15%20-%20General%20Jelly%20Jiggler!%20Supreme%20Hair%20Enemy%20or%20Dastardly%20Dessert.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/15%20-%20General%20Jelly%20Jiggler!%20Supreme%20Hair%20Enemy%20or%20Dastardly%20Dessert.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/15%20-%20General%20Jelly%20Jiggler!%20Supreme%20Hair%20Enemy%20or%20Dastardly%20Dessert.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Snot in my Neighborhood! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/16%20-%20Snot%20in%20my%20Neighborhood!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/16%20-%20Snot%20in%20my%20Neighborhood!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/16%20-%20Snot%20in%20my%20Neighborhood!.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "The Ducktail vs Afro Showdown (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/17%20-%20The%20Ducktail%20vs%20Afro%20Showdown.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/17%20-%20The%20Ducktail%20vs%20Afro%20Showdown.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/17%20-%20The%20Ducktail%20vs%20Afro%20Showdown.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Beauty is in the Eye of her Holder (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/18%20-%20Beauty%20is%20in%20the%20Eye%20of%20her%20Holder.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/18%20-%20Beauty%20is%20in%20the%20Eye%20of%20her%20Holder.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/18%20-%20Beauty%20is%20in%20the%20Eye%20of%20her%20Holder.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "The Entangled Nose Hair of Destiny - Who Will Pass the Test (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/19%20-%20The%20Entangled%20Nose%20Hair%20of%20Destiny%20-%20Who%20Will%20Pass%20the%20Test.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/19%20-%20The%20Entangled%20Nose%20Hair%20of%20Destiny%20-%20Who%20Will%20Pass%20the%20Test.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/19%20-%20The%20Entangled%20Nose%20Hair%20of%20Destiny%20-%20Who%20Will%20Pass%20the%20Test.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "World of Blabs-a-Lot! The Sappiest Place on Earth (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/20%20-%20World%20of%20Blabs-a-Lot!%20The%20Sappiest%20Place%20on%20Earth.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/20%20-%20World%20of%20Blabs-a-Lot!%20The%20Sappiest%20Place%20on%20Earth.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/20%20-%20World%20of%20Blabs-a-Lot!%20The%20Sappiest%20Place%20on%20Earth.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Good-Bye Bo-BoBo! The Final Showdown (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/21%20-%20Good-Bye%20Bo-BoBo!%20The%20Final%20Showdown.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/21%20-%20Good-Bye%20Bo-BoBo!%20The%20Final%20Showdown.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/21%20-%20Good-Bye%20Bo-BoBo!%20The%20Final%20Showdown.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Hatenko the Hunk Has the Key to Your Heart! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/22%20-%20Hatenko%20the%20Hunk%20Has%20the%20Key%20to%20Your%20Heart!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/22%20-%20Hatenko%20the%20Hunk%20Has%20the%20Key%20to%20Your%20Heart!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/22%20-%20Hatenko%20the%20Hunk%20Has%20the%20Key%20to%20Your%20Heart!.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Weddings, Wiggins, and Water Torture (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/23%20-%20Weddings,%20Wiggins,%20and%20Water%20Torture.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/23%20-%20Weddings,%20Wiggins,%20and%20Water%20Torture.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/23%20-%20Weddings,%20Wiggins,%20and%20Water%20Torture.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "The Terrifying Z-Block is Here! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/24%20-%20The%20Terrifying%20Z-Block%20is%20Here!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/24%20-%20The%20Terrifying%20Z-Block%20is%20Here!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/24%20-%20The%20Terrifying%20Z-Block%20is%20Here!.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "The New Bo-Bobo With the Old Bo-BoBody! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/25%20-%20The%20New%20Bo-Bobo%20With%20the%20Old%20Bo-BoBody!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/25%20-%20The%20New%20Bo-Bobo%20With%20the%20Old%20Bo-BoBody!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/25%20-%20The%20New%20Bo-Bobo%20With%20the%20Old%20Bo-BoBody!.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Dengaku Man, Pixie or Pitbull— He'll Love You or Hate You! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/26%20-%20Dengaku%20Man,%20Pixie%20or%20Pitbull%E2%80%94%20He'll%20Love%20You%20or%20Hate%20You!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/26%20-%20Dengaku%20Man,%20Pixie%20or%20Pitbull%E2%80%94%20He'll%20Love%20You%20or%20Hate%20You!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/26%20-%20Dengaku%20Man,%20Pixie%20or%20Pitbull%E2%80%94%20He'll%20Love%20You%20or%20Hate%20You!.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Luck Let a Wiggin' See... How Nice a Hanky Can Be! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/27%20-%20Luck%20Let%20a%20Wiggin'%20See...%20How%20Nice%20a%20Hanky%20Can%20Be!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/27%20-%20Luck%20Let%20a%20Wiggin'%20See...%20How%20Nice%20a%20Hanky%20Can%20Be!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/27%20-%20Luck%20Let%20a%20Wiggin'%20See...%20How%20Nice%20a%20Hanky%20Can%20Be!.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Mortal Match! Fist of Nose Hair vs Fist of Rice! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/28%20-%20Mortal%20Match!%20Fist%20of%20Nose%20Hair%20vs%20Fist%20of%20Rice!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/28%20-%20Mortal%20Match!%20Fist%20of%20Nose%20Hair%20vs%20Fist%20of%20Rice!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/28%20-%20Mortal%20Match!%20Fist%20of%20Nose%20Hair%20vs%20Fist%20of%20Rice!.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Instant Rice - Ready in Half an Hour (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/29%20-%20Instant%20Rice%20-%20Ready%20in%20Half%20an%20Hour.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/29%20-%20Instant%20Rice%20-%20Ready%20in%20Half%20an%20Hour.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/29%20-%20Instant%20Rice%20-%20Ready%20in%20Half%20an%20Hour.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Revenge is a Dish Best Served Cold with Shiitake Mushroom Sauce (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/30%20-%20Revenge%20is%20a%20Dish%20Best%20Served%20Cold%20with%20Shiitake%20Mushroom%20Sauce.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/30%20-%20Revenge%20is%20a%20Dish%20Best%20Served%20Cold%20with%20Shiitake%20Mushroom%20Sauce.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/30%20-%20Revenge%20is%20a%20Dish%20Best%20Served%20Cold%20with%20Shiitake%20Mushroom%20Sauce.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "The Ultimate Five Assassins vs Bo-BoBo All Stars! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/31%20-%20The%20Ultimate%20Five%20Assassins%20vs%20Bo-BoBo%20All%20Stars!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/31%20-%20The%20Ultimate%20Five%20Assassins%20vs%20Bo-BoBo%20All%20Stars!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/31%20-%20The%20Ultimate%20Five%20Assassins%20vs%20Bo-BoBo%20All%20Stars!.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Enter BoBoPatchiggler! Is That How It's Spelled (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/32%20-%20Enter%20BoBoPatchiggler!%20Is%20That%20How%20It's%20Spelled.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/32%20-%20Enter%20BoBoPatchiggler!%20Is%20That%20How%20It's%20Spelled.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/32%20-%20Enter%20BoBoPatchiggler!%20Is%20That%20How%20It's%20Spelled.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "It Ain't OVER 'Til the Fat Lady Sings! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/33%20-%20It%20Ain't%20OVER%20'Til%20the%20Fat%20Lady%20Sings!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/33%20-%20It%20Ain't%20OVER%20'Til%20the%20Fat%20Lady%20Sings!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/33%20-%20It%20Ain't%20OVER%20'Til%20the%20Fat%20Lady%20Sings!.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Torpedo Girl, Man or Myth or Mythes (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/34%20-%20Torpedo%20Girl,%20Man%20or%20Myth%20or%20Mythes.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/34%20-%20Torpedo%20Girl,%20Man%20or%20Myth%20or%20Mythes.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/34%20-%20Torpedo%20Girl,%20Man%20or%20Myth%20or%20Mythes.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "King Nose Hair Presents the Follicle Follies of the Future (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/35%20-%20King%20Nose%20Hair%20Presents%20the%20Follicle%20Follies%20of%20the%20Future.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/35%20-%20King%20Nose%20Hair%20Presents%20the%20Follicle%20Follies%20of%20the%20Future.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/35%20-%20King%20Nose%20Hair%20Presents%20the%20Follicle%20Follies%20of%20the%20Future.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Next Stop... Holy Guacamole Land! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/36%20-%20Next%20Stop...%20Holy%20Guacamole%20Land!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/36%20-%20Next%20Stop...%20Holy%20Guacamole%20Land!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/36%20-%20Next%20Stop...%20Holy%20Guacamole%20Land!.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Holy Guacamole Land Isn't Just for Breakfast Anymore! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/37%20-%20Holy%20Guacamole%20Land%20Isn't%20Just%20for%20Breakfast%20Anymore!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/37%20-%20Holy%20Guacamole%20Land%20Isn't%20Just%20for%20Breakfast%20Anymore!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/37%20-%20Holy%20Guacamole%20Land%20Isn't%20Just%20for%20Breakfast%20Anymore!.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Money Castle! Cash Only Please, Credit Cards Not Accepted (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/38%20-%20Money%20Castle!%20Cash%20Only%20Please,%20Credit%20Cards%20Not%20Accepted.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/38%20-%20Money%20Castle!%20Cash%20Only%20Please,%20Credit%20Cards%20Not%20Accepted.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/38%20-%20Money%20Castle!%20Cash%20Only%20Please,%20Credit%20Cards%20Not%20Accepted.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "The Terrible Triplets vs the Wiggin' Trio (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/39%20-%20The%20Terrible%20Triplets%20vs%20the%20Wiggin'%20Trio.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/39%20-%20The%20Terrible%20Triplets%20vs%20the%20Wiggin'%20Trio.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/39%20-%20The%20Terrible%20Triplets%20vs%20the%20Wiggin'%20Trio.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "The Fall of Halekulani! And the Winter of Discontent! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/40%20-%20The%20Fall%20of%20Halekulani!%20And%20the%20Winter%20of%20Discontent!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/40%20-%20The%20Fall%20of%20Halekulani!%20And%20the%20Winter%20of%20Discontent!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/40%20-%20The%20Fall%20of%20Halekulani!%20And%20the%20Winter%20of%20Discontent!.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "The Magical Battle Against Halekulani (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/41%20-%20The%20Magical%20Battle%20Against%20Halekulani.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/41%20-%20The%20Magical%20Battle%20Against%20Halekulani.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/41%20-%20The%20Magical%20Battle%20Against%20Halekulani.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Bo-BoBo Braves the Board Game That's Berry, Berry Bothersome (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/42%20-%20Bo-BoBo%20Braves%20the%20Board%20Game%20That's%20Berry,%20Berry%20Bothersome.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/42%20-%20Bo-BoBo%20Braves%20the%20Board%20Game%20That's%20Berry,%20Berry%20Bothersome.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/42%20-%20Bo-BoBo%20Braves%20the%20Board%20Game%20That's%20Berry,%20Berry%20Bothersome.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Ha-Le Oo-Pu Ah-Ah! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/43%20-%20Ha-Le%20Oo-Pu%20Ah-Ah!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/43%20-%20Ha-Le%20Oo-Pu%20Ah-Ah!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/43%20-%20Ha-Le%20Oo-Pu%20Ah-Ah!.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "The Seriously Circular Skirmish in Cyber City (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/44%20-%20The%20Seriously%20Circular%20Skirmish%20in%20Cyber%20City.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/44%20-%20The%20Seriously%20Circular%20Skirmish%20in%20Cyber%20City.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/44%20-%20The%20Seriously%20Circular%20Skirmish%20in%20Cyber%20City.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Begin the Bungee Battle! Last One Down is a Rotten Egg! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/45%20-%20Begin%20the%20Bungee%20Battle!%20Last%20One%20Down%20is%20a%20Rotten%20Egg!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/45%20-%20Begin%20the%20Bungee%20Battle!%20Last%20One%20Down%20is%20a%20Rotten%20Egg!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/45%20-%20Begin%20the%20Bungee%20Battle!%20Last%20One%20Down%20is%20a%20Rotten%20Egg!.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Libraries and Driving Tests! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/46%20-%20Libraries%20and%20Driving%20Tests!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/46%20-%20Libraries%20and%20Driving%20Tests!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/46%20-%20Libraries%20and%20Driving%20Tests!.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "A Battle of Skills and Wills With One Green Onion... Or Is It Garlic (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/47%20-%20A%20Battle%20of%20Skills%20and%20Wills%20With%20One%20Green%20Onion...%20Or%20Is%20It%20Garlic.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/47%20-%20A%20Battle%20of%20Skills%20and%20Wills%20With%20One%20Green%20Onion...%20Or%20Is%20It%20Garlic.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/47%20-%20A%20Battle%20of%20Skills%20and%20Wills%20With%20One%20Green%20Onion...%20Or%20Is%20It%20Garlic.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Silly Singing Saves the Show From a Sinister Scoundrel (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/48%20-%20Silly%20Singing%20Saves%20the%20Show%20From%20a%20Sinister%20Scoundrel.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/48%20-%20Silly%20Singing%20Saves%20the%20Show%20From%20a%20Sinister%20Scoundrel.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/48%20-%20Silly%20Singing%20Saves%20the%20Show%20From%20a%20Sinister%20Scoundrel.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "The Battle of Brains Begins! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/49%20-%20The%20Battle%20of%20Brains%20Begins!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/49%20-%20The%20Battle%20of%20Brains%20Begins!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/49%20-%20The%20Battle%20of%20Brains%20Begins!.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Giga Goes Gaga! Alarming Attacks with Aggressive Art (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/50%20-%20Giga%20Goes%20Gaga!%20Alarming%20Attacks%20with%20Aggressive%20Art.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/50%20-%20Giga%20Goes%20Gaga!%20Alarming%20Attacks%20with%20Aggressive%20Art.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/50%20-%20Giga%20Goes%20Gaga!%20Alarming%20Attacks%20with%20Aggressive%20Art.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "The Art of Art and the Fist of All Fists! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/51%20-%20The%20Art%20of%20Art%20and%20the%20Fist%20of%20All%20Fists!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/51%20-%20The%20Art%20of%20Art%20and%20the%20Fist%20of%20All%20Fists!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/51%20-%20The%20Art%20of%20Art%20and%20the%20Fist%20of%20All%20Fists!.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Gasser's Back! A Whole New Season, Same Old Stench! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/52%20-%20Gasser's%20Back!%20A%20Whole%20New%20Season,%20Same%20Old%20Stench!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/52%20-%20Gasser's%20Back!%20A%20Whole%20New%20Season,%20Same%20Old%20Stench!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/52%20-%20Gasser's%20Back!%20A%20Whole%20New%20Season,%20Same%20Old%20Stench!.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Dancin' and Trainin' for Quickly Attainin' the Enemies' Painin' (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/53%20-%20Dancin'%20and%20Trainin'%20for%20Quickly%20Attainin'%20the%20Enemies'%20Painin'.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/53%20-%20Dancin'%20and%20Trainin'%20for%20Quickly%20Attainin'%20the%20Enemies'%20Painin'.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/53%20-%20Dancin'%20and%20Trainin'%20for%20Quickly%20Attainin'%20the%20Enemies'%20Painin'.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "The War of the Roses... or Lilacs ...or Daffodils (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/54%20-%20The%20War%20of%20the%20Roses...%20or%20Lilacs%20...or%20Daffodils.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/54%20-%20The%20War%20of%20the%20Roses...%20or%20Lilacs%20...or%20Daffodils.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/54%20-%20The%20War%20of%20the%20Roses...%20or%20Lilacs%20...or%20Daffodils.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "The Gang's All Here! And Boy, Are They Weird! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/55%20-%20The%20Gang's%20All%20Here!%20And%20Boy,%20Are%20They%20Weird!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/55%20-%20The%20Gang's%20All%20Here!%20And%20Boy,%20Are%20They%20Weird!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/55%20-%20The%20Gang's%20All%20Here!%20And%20Boy,%20Are%20They%20Weird!.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "The Ultimate SF Battle! Supreme Fisticuffs or Certain Free-for-All (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/56%20-%20The%20Ultimate%20SF%20Battle!%20Supreme%20Fisticuffs%20or%20Certain%20Free-for-All.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/56%20-%20The%20Ultimate%20SF%20Battle!%20Supreme%20Fisticuffs%20or%20Certain%20Free-for-All.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/56%20-%20The%20Ultimate%20SF%20Battle!%20Supreme%20Fisticuffs%20or%20Certain%20Free-for-All.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "The Water Slide That's Bona Fide to Leave You Terrified! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/57%20-%20The%20Water%20Slide%20That's%20Bona%20Fide%20to%20Leave%20You%20Terrified!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/57%20-%20The%20Water%20Slide%20That's%20Bona%20Fide%20to%20Leave%20You%20Terrified!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/57%20-%20The%20Water%20Slide%20That's%20Bona%20Fide%20to%20Leave%20You%20Terrified!.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Face the Cold Hard Facts! It's Freezing in Here! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/58%20-%20Face%20the%20Cold%20Hard%20Facts!%20It's%20Freezing%20in%20Here!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/58%20-%20Face%20the%20Cold%20Hard%20Facts!%20It's%20Freezing%20in%20Here!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/58%20-%20Face%20the%20Cold%20Hard%20Facts!%20It's%20Freezing%20in%20Here!.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Enemy Cruisin' for a Bruisin' - Then Just Try Fusion! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/59%20-%20Enemy%20Cruisin'%20for%20a%20Bruisin'%20-%20Then%20Just%20Try%20Fusion!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/59%20-%20Enemy%20Cruisin'%20for%20a%20Bruisin'%20-%20Then%20Just%20Try%20Fusion!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/59%20-%20Enemy%20Cruisin'%20for%20a%20Bruisin'%20-%20Then%20Just%20Try%20Fusion!.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Blowing Your Savings on Bubbles - Is It Worth It (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/60%20-%20Blowing%20Your%20Savings%20on%20Bubbles%20-%20Is%20It%20Worth%20It.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/60%20-%20Blowing%20Your%20Savings%20on%20Bubbles%20-%20Is%20It%20Worth%20It.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/60%20-%20Blowing%20Your%20Savings%20on%20Bubbles%20-%20Is%20It%20Worth%20It.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "United We Stand, Divided We Also Stand, Just Further Apart! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/61%20-%20United%20We%20Stand,%20Divided%20We%20Also%20Stand,%20Just%20Further%20Apart!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/61%20-%20United%20We%20Stand,%20Divided%20We%20Also%20Stand,%20Just%20Further%20Apart!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/61%20-%20United%20We%20Stand,%20Divided%20We%20Also%20Stand,%20Just%20Further%20Apart!.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Good Night! Sleep Tight! And Don't Let the Bed Bugs Bug Ya! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/62%20-%20Good%20Night!%20Sleep%20Tight!%20And%20Don't%20Let%20the%20Bed%20Bugs%20Bug%20Ya!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/62%20-%20Good%20Night!%20Sleep%20Tight!%20And%20Don't%20Let%20the%20Bed%20Bugs%20Bug%20Ya!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/62%20-%20Good%20Night!%20Sleep%20Tight!%20And%20Don't%20Let%20the%20Bed%20Bugs%20Bug%20Ya!.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Our Dream Team Turns Bad Dreams to Bad Guys' Screams! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/63%20-%20Our%20Dream%20Team%20Turns%20Bad%20Dreams%20to%20Bad%20Guys'%20Screams!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/63%20-%20Our%20Dream%20Team%20Turns%20Bad%20Dreams%20to%20Bad%20Guys'%20Screams!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/63%20-%20Our%20Dream%20Team%20Turns%20Bad%20Dreams%20to%20Bad%20Guys'%20Screams!.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Geometry 101 - Painful Perplexing and Pungent Polygons! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/64%20-%20Geometry%20101%20-%20Painful%20Perplexing%20and%20Pungent%20Polygons!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/64%20-%20Geometry%20101%20-%20Painful%20Perplexing%20and%20Pungent%20Polygons!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/64%20-%20Geometry%20101%20-%20Painful%20Perplexing%20and%20Pungent%20Polygons!.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "The Unreal Meal That's a Major Ordeal for Real! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/65%20-%20The%20Unreal%20Meal%20That's%20a%20Major%20Ordeal%20for%20Real!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/65%20-%20The%20Unreal%20Meal%20That's%20a%20Major%20Ordeal%20for%20Real!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/65%20-%20The%20Unreal%20Meal%20That's%20a%20Major%20Ordeal%20for%20Real!.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Fishcake Frenzy! A Freeze Dried, French Fried, Freaked Out Fracas (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/66%20-%20Fishcake%20Frenzy!%20A%20Freeze%20Dried,%20French%20Fried,%20Freaked%20Out%20Fracas.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/66%20-%20Fishcake%20Frenzy!%20A%20Freeze%20Dried,%20French%20Fried,%20Freaked%20Out%20Fracas.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/66%20-%20Fishcake%20Frenzy!%20A%20Freeze%20Dried,%20French%20Fried,%20Freaked%20Out%20Fracas.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "The Pacifist That Packs a Punch Like a Pugilist (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/67%20-%20The%20Pacifist%20That%20Packs%20a%20Punch%20Like%20a%20Pugilist.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/67%20-%20The%20Pacifist%20That%20Packs%20a%20Punch%20Like%20a%20Pugilist.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/67%20-%20The%20Pacifist%20That%20Packs%20a%20Punch%20Like%20a%20Pugilist.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "The Battle of Baldy Bald - Buckle Up and Brace Yourself (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/68%20-%20The%20Battle%20of%20Baldy%20Bald%20-%20Buckle%20Up%20and%20Brace%20Yourself.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/68%20-%20The%20Battle%20of%20Baldy%20Bald%20-%20Buckle%20Up%20and%20Brace%20Yourself.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/68%20-%20The%20Battle%20of%20Baldy%20Bald%20-%20Buckle%20Up%20and%20Brace%20Yourself.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Yummy, Yummy, Yummy! Bo-BoBo's in My Tummy! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/69%20-%20Yummy,%20Yummy,%20Yummy!%20Bo-BoBo's%20in%20My%20Tummy!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/69%20-%20Yummy,%20Yummy,%20Yummy!%20Bo-BoBo's%20in%20My%20Tummy!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/69%20-%20Yummy,%20Yummy,%20Yummy!%20Bo-BoBo's%20in%20My%20Tummy!.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Baldy Bald Bottoms Out! Best of Luck, Be Well and Bye-Bye! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/70%20-%20Baldy%20Bald%20Bottoms%20Out!%20Best%20of%20Luck,%20Be%20Well%20and%20Bye-Bye!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/70%20-%20Baldy%20Bald%20Bottoms%20Out!%20Best%20of%20Luck,%20Be%20Well%20and%20Bye-Bye!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/70%20-%20Baldy%20Bald%20Bottoms%20Out!%20Best%20of%20Luck,%20Be%20Well%20and%20Bye-Bye!.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Funneled Into a Tunnel and Bamboozled by Noodles! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/71%20-%20Funneled%20Into%20a%20Tunnel%20and%20Bamboozled%20by%20Noodles!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/71%20-%20Funneled%20Into%20a%20Tunnel%20and%20Bamboozled%20by%20Noodles!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/71%20-%20Funneled%20Into%20a%20Tunnel%20and%20Bamboozled%20by%20Noodles!.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Si, Señor, It's No Bore! It's Hair Hunters Galore! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/72%20-%20Si,%20Se%C3%B1or,%20It's%20No%20Bore!%20It's%20Hair%20Hunters%20Galore!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/72%20-%20Si,%20Se%C3%B1or,%20It's%20No%20Bore!%20It's%20Hair%20Hunters%20Galore!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/72%20-%20Si,%20Se%C3%B1or,%20It's%20No%20Bore!%20It's%20Hair%20Hunters%20Galore!.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Take a Stance Against the Dance, Mr. Smarty-Pants! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/73%20-%20Take%20a%20Stance%20Against%20the%20Dance,%20Mr.%20Smarty-Pants!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/73%20-%20Take%20a%20Stance%20Against%20the%20Dance,%20Mr.%20Smarty-Pants!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/73%20-%20Take%20a%20Stance%20Against%20the%20Dance,%20Mr.%20Smarty-Pants!.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "The Bigger the Gasser, the Smellier the Gas! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/74%20-%20The%20Bigger%20the%20Gasser,%20the%20Smellier%20the%20Gas!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/74%20-%20The%20Bigger%20the%20Gasser,%20the%20Smellier%20the%20Gas!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/74%20-%20The%20Bigger%20the%20Gasser,%20the%20Smellier%20the%20Gas!.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Finally! The Final Fight of Finality! Except the Final One! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/75%20-%20Finally!%20The%20Final%20Fight%20of%20Finality!%20Except%20the%20Final%20One!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/75%20-%20Finally!%20The%20Final%20Fight%20of%20Finality!%20Except%20the%20Final%20One!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/75%20-%20Finally!%20The%20Final%20Fight%20of%20Finality!%20Except%20the%20Final%20One!.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Finally! The Final Fight of Finality! This Time We Mean It! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/bobobo-bo_bo-bobo/76%20-%20Finally!%20The%20Final%20Fight%20of%20Finality!%20This%20Time%20We%20Mean%20It!.mp4",
+        "dubUrl": "https://archive.org/download/bobobo-bo_bo-bobo/76%20-%20Finally!%20The%20Final%20Fight%20of%20Finality!%20This%20Time%20We%20Mean%20It!.mp4",
+        "subUrl": "https://archive.org/download/bobobo-bo_bo-bobo/76%20-%20Finally!%20The%20Final%20Fight%20of%20Finality!%20This%20Time%20We%20Mean%20It!.mp4"
+      }
+    ]
+  },
+  {
+    "id": 10033,
+    "title": {
+      "english": null,
+      "romaji": "Toriko",
+      "native": "トリコ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10033-V7xnlgAVtaVR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx10033-V7xnlgAVtaVR.jpg",
+      "color": "#50aef1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n10033-u9ROjiLizrd4.jpg",
+    "description": "In a world where the taste and texture of food are of paramount importance, Gourmet Hunter Toriko travels the globe in search of the rarest, most delicious ingredients to complete his ultimate Full-Course Meal of life!",
+    "averageScore": 69,
+    "seasonYear": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "50 DUB EPS • COMPLETE DUB",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "The Undiscovered Giant Beast Toriko, Capture a Gararagator (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/01%20-%20The%20Undiscovered%20Giant%20Beast%20Toriko,%20Capture%20a%20Gararagator.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/01%20-%20The%20Undiscovered%20Giant%20Beast%20Toriko,%20Capture%20a%20Gararagator.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/01%20-%20The%20Undiscovered%20Giant%20Beast%20Toriko,%20Capture%20a%20Gararagator.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "The Well Mellowed 7-Colored Fruit Juice, Pick the Rainbow Fruit (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/02%20-%20The%20Well%20Mellowed%207-Colored%20Fruit%20Juice,%20Pick%20the%20Rainbow%20Fruit.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/02%20-%20The%20Well%20Mellowed%207-Colored%20Fruit%20Juice,%20Pick%20the%20Rainbow%20Fruit.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/02%20-%20The%20Well%20Mellowed%207-Colored%20Fruit%20Juice,%20Pick%20the%20Rainbow%20Fruit.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Prepare It, The Poisonous Puffer Whale, The Heavenly King Coco Appears (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/03%20-%20Prepare%20It,%20The%20Poisonous%20Puffer%20Whale,%20The%20Heavenly%20King%20Coco%20Appears.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/03%20-%20Prepare%20It,%20The%20Poisonous%20Puffer%20Whale,%20The%20Heavenly%20King%20Coco%20Appears.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/03%20-%20Prepare%20It,%20The%20Poisonous%20Puffer%20Whale,%20The%20Heavenly%20King%20Coco%20Appears.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "The Deadly Cave Battle Fire, Five-Fold Spiked Punch (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/04%20-%20The%20Deadly%20Cave%20Battle%20Fire,%20Five-Fold%20Spiked%20Punch.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/04%20-%20The%20Deadly%20Cave%20Battle%20Fire,%20Five-Fold%20Spiked%20Punch.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/04%20-%20The%20Deadly%20Cave%20Battle%20Fire,%20Five-Fold%20Spiked%20Punch.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "The Knocking Master, Time to Taste the Puffer Whale (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/05%20-%20The%20Knocking%20Master,%20Time%20to%20Taste%20the%20Puffer%20Whale.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/05%20-%20The%20Knocking%20Master,%20Time%20to%20Taste%20the%20Puffer%20Whale.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/05%20-%20The%20Knocking%20Master,%20Time%20to%20Taste%20the%20Puffer%20Whale.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "The Strongest Wolf That Ever Lived, The Battle Wolf is Reborn (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/06%20-%20The%20Strongest%20Wolf%20That%20Ever%20Lived,%20The%20Battle%20Wolf%20is%20Reborn.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/06%20-%20The%20Strongest%20Wolf%20That%20Ever%20Lived,%20The%20Battle%20Wolf%20is%20Reborn.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/06%20-%20The%20Strongest%20Wolf%20That%20Ever%20Lived,%20The%20Battle%20Wolf%20is%20Reborn.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "The Threat Appears, Rumble at the Gourmet Colosseum (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/07%20-%20The%20Threat%20Appears,%20Rumble%20at%20the%20Gourmet%20Colosseum.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/07%20-%20The%20Threat%20Appears,%20Rumble%20at%20the%20Gourmet%20Colosseum.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/07%20-%20The%20Threat%20Appears,%20Rumble%20at%20the%20Gourmet%20Colosseum.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "That Which Is Passed Down, Activate, Gourmet Cells (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/08%20-%20That%20Which%20Is%20Passed%20Down,%20Activate,%20Gourmet%20Cells.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/08%20-%20That%20Which%20Is%20Passed%20Down,%20Activate,%20Gourmet%20Cells.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/08%20-%20That%20Which%20Is%20Passed%20Down,%20Activate,%20Gourmet%20Cells.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "The Man Who Has an Invincible Domain, His Name Is Sani (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/09%20-%20The%20Man%20Who%20Has%20an%20Invincible%20Domain,%20His%20Name%20Is%20Sani.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/09%20-%20The%20Man%20Who%20Has%20an%20Invincible%20Domain,%20His%20Name%20Is%20Sani.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/09%20-%20The%20Man%20Who%20Has%20an%20Invincible%20Domain,%20His%20Name%20Is%20Sani.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Regal Isle Dash, Search for the Jewel Meat (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/10%20-%20Regal%20Isle%20Dash,%20Search%20for%20the%20Jewel%20Meat.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/10%20-%20Regal%20Isle%20Dash,%20Search%20for%20the%20Jewel%20Meat.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/10%20-%20Regal%20Isle%20Dash,%20Search%20for%20the%20Jewel%20Meat.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "The Devil's Game, Clear the Devil's Playground (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/11%20-%20The%20Devil's%20Game,%20Clear%20the%20Devil's%20Playground.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/11%20-%20The%20Devil's%20Game,%20Clear%20the%20Devil's%20Playground.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/11%20-%20The%20Devil's%20Game,%20Clear%20the%20Devil's%20Playground.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "The Ultimate Backup Clash, Coco Vs. GT Robot (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/12%20-%20The%20Ultimate%20Backup%20Clash,%20Coco%20Vs.%20GT%20Robot.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/12%20-%20The%20Ultimate%20Backup%20Clash,%20Coco%20Vs.%20GT%20Robot.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/12%20-%20The%20Ultimate%20Backup%20Clash,%20Coco%20Vs.%20GT%20Robot.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "The Threat Of Deadly Poison, Coco's Formula For Victory (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/13%20-%20The%20Threat%20Of%20Deadly%20Poison,%20Coco's%20Formula%20For%20Victory.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/13%20-%20The%20Threat%20Of%20Deadly%20Poison,%20Coco's%20Formula%20For%20Victory.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/13%20-%20The%20Threat%20Of%20Deadly%20Poison,%20Coco's%20Formula%20For%20Victory.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "The Unyielding aesthetic, Sani's Manly Battle (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/14%20-%20The%20Unyielding%20aesthetic,%20Sani's%20Manly%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/14%20-%20The%20Unyielding%20aesthetic,%20Sani's%20Manly%20Battle.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/14%20-%20The%20Unyielding%20aesthetic,%20Sani's%20Manly%20Battle.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Rin's Final Wish Awaken, Super Toriko (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/15%20-%20Rin's%20Final%20Wish%20Awaken,%20Super%20Toriko.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/15%20-%20Rin's%20Final%20Wish%20Awaken,%20Super%20Toriko.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/15%20-%20Rin's%20Final%20Wish%20Awaken,%20Super%20Toriko.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Super Toriko, the Fist of Anger, This is the Strongest Spike Punch (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/16%20-%20Super%20Toriko,%20the%20Fist%20of%20Anger,%20This%20is%20the%20Strongest%20Spike%20Punch.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/16%20-%20Super%20Toriko,%20the%20Fist%20of%20Anger,%20This%20is%20the%20Strongest%20Spike%20Punch.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/16%20-%20Super%20Toriko,%20the%20Fist%20of%20Anger,%20This%20is%20the%20Strongest%20Spike%20Punch.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "The Taste Written In His DNA, Toriko Search For The Blue Blood Corn (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/17%20-%20The%20Taste%20Written%20In%20His%20DNA,%20Toriko%20Search%20For%20The%20Blue%20Blood%20Corn.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/17%20-%20The%20Taste%20Written%20In%20His%20DNA,%20Toriko%20Search%20For%20The%20Blue%20Blood%20Corn.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/17%20-%20The%20Taste%20Written%20In%20His%20DNA,%20Toriko%20Search%20For%20The%20Blue%20Blood%20Corn.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "The Talent of Battle Show Me, Terry, King in the Making (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/18%20-%20The%20Talent%20of%20Battle%20Show%20Me,%20Terry,%20King%20in%20the%20Making.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/18%20-%20The%20Talent%20of%20Battle%20Show%20Me,%20Terry,%20King%20in%20the%20Making.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/18%20-%20The%20Talent%20of%20Battle%20Show%20Me,%20Terry,%20King%20in%20the%20Making.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "For Terry’s Sake, Burst By Broiling Heat, BB Corn (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/19%20-%20For%20Terry%E2%80%99s%20Sake,%20Burst%20By%20Broiling%20Heat,%20BB%20Corn.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/19%20-%20For%20Terry%E2%80%99s%20Sake,%20Burst%20By%20Broiling%20Heat,%20BB%20Corn.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/19%20-%20For%20Terry%E2%80%99s%20Sake,%20Burst%20By%20Broiling%20Heat,%20BB%20Corn.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "The Gourmet Corps' Assassin, Toriko's Attack Instantaneously Evolves (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/20%20-%20The%20Gourmet%20Corps'%20Assassin,%20Toriko's%20Attack%20Instantaneously%20Evolves.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/20%20-%20The%20Gourmet%20Corps'%20Assassin,%20Toriko's%20Attack%20Instantaneously%20Evolves.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/20%20-%20The%20Gourmet%20Corps'%20Assassin,%20Toriko's%20Attack%20Instantaneously%20Evolves.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Pressure of Madness, Grinpatch vs. Toriko (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/21%20-%20Pressure%20of%20Madness,%20Grinpatch%20vs.%20Toriko.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/21%20-%20Pressure%20of%20Madness,%20Grinpatch%20vs.%20Toriko.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/21%20-%20Pressure%20of%20Madness,%20Grinpatch%20vs.%20Toriko.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "The Amusement Park of Eating, The Bellyfull City, Gourmet Town (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/22%20-%20The%20Amusement%20Park%20of%20Eating,%20The%20Bellyfull%20City,%20Gourmet%20Town.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/22%20-%20The%20Amusement%20Park%20of%20Eating,%20The%20Bellyfull%20City,%20Gourmet%20Town.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/22%20-%20The%20Amusement%20Park%20of%20Eating,%20The%20Bellyfull%20City,%20Gourmet%20Town.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "The Moment of Truth, Setsuno's Century Soup (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/23%20-%20The%20Moment%20of%20Truth,%20Setsuno's%20Century%20Soup.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/23%20-%20The%20Moment%20of%20Truth,%20Setsuno's%20Century%20Soup.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/23%20-%20The%20Moment%20of%20Truth,%20Setsuno's%20Century%20Soup.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Meeting at the Saloon, The Powerful and Numerous Gourmet Hunter (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/24%20-%20Meeting%20at%20the%20Saloon,%20The%20Powerful%20and%20Numerous%20Gourmet%20Hunter.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/24%20-%20Meeting%20at%20the%20Saloon,%20The%20Powerful%20and%20Numerous%20Gourmet%20Hunter.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/24%20-%20Meeting%20at%20the%20Saloon,%20The%20Powerful%20and%20Numerous%20Gourmet%20Hunter.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "The Gourtmet Hunter Troops' Challenge, Arrival in the Frigid Hell (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/25%20-%20The%20Gourtmet%20Hunter%20Troops'%20Challenge,%20Arrival%20in%20the%20Frigid%20Hell.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/25%20-%20The%20Gourtmet%20Hunter%20Troops'%20Challenge,%20Arrival%20in%20the%20Frigid%20Hell.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/25%20-%20The%20Gourtmet%20Hunter%20Troops'%20Challenge,%20Arrival%20in%20the%20Frigid%20Hell.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Hurry While It's Hot, A Survival Race on Ice (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/26%20-%20Hurry%20While%20It's%20Hot,%20A%20Survival%20Race%20on%20Ice.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/26%20-%20Hurry%20While%20It's%20Hot,%20A%20Survival%20Race%20on%20Ice.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/26%20-%20Hurry%20While%20It's%20Hot,%20A%20Survival%20Race%20on%20Ice.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "The Fiery Explosion Shakes the Iceberg, The Masked Man's True Form (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/27%20-%20The%20Fiery%20Explosion%20Shakes%20the%20Iceberg,%20The%20Masked%20Man's%20True%20Form.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/27%20-%20The%20Fiery%20Explosion%20Shakes%20the%20Iceberg,%20The%20Masked%20Man's%20True%20Form.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/27%20-%20The%20Fiery%20Explosion%20Shakes%20the%20Iceberg,%20The%20Masked%20Man's%20True%20Form.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Glorious Bug Tamer, Tommyrod vs. Toriko (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/28%20-%20Glorious%20Bug%20Tamer,%20Tommyrod%20vs.%20Toriko.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/28%20-%20Glorious%20Bug%20Tamer,%20Tommyrod%20vs.%20Toriko.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/28%20-%20Glorious%20Bug%20Tamer,%20Tommyrod%20vs.%20Toriko.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Gratitude and Pride, Takimaru's Full-Out Corkscrew Shot (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/29%20-%20Gratitude%20and%20Pride,%20Takimaru's%20Full-Out%20Corkscrew%20Shot.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/29%20-%20Gratitude%20and%20Pride,%20Takimaru's%20Full-Out%20Corkscrew%20Shot.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/29%20-%20Gratitude%20and%20Pride,%20Takimaru's%20Full-Out%20Corkscrew%20Shot.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Settled, Match and Takimaru's Desperate Attacks (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/30%20-%20Settled,%20Match%20and%20Takimaru's%20Desperate%20Attacks.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/30%20-%20Settled,%20Match%20and%20Takimaru's%20Desperate%20Attacks.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/30%20-%20Settled,%20Match%20and%20Takimaru's%20Desperate%20Attacks.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "The Gourmet Reviver and the Legendary Soup's Location (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/31%20-%20The%20Gourmet%20Reviver%20and%20the%20Legendary%20Soup's%20Location.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/31%20-%20The%20Gourmet%20Reviver%20and%20the%20Legendary%20Soup's%20Location.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/31%20-%20The%20Gourmet%20Reviver%20and%20the%20Legendary%20Soup's%20Location.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Head-on Fight, Fierce Battle, Toriko vs. Tommyrod (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/32%20-%20Head-on%20Fight,%20Fierce%20Battle,%20Toriko%20vs.%20Tommyrod.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/32%20-%20Head-on%20Fight,%20Fierce%20Battle,%20Toriko%20vs.%20Tommyrod.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/32%20-%20Head-on%20Fight,%20Fierce%20Battle,%20Toriko%20vs.%20Tommyrod.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Ultimate Desperation, Tommyrod's Full-Power Mode Explodes (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/33%20-%20Ultimate%20Desperation,%20Tommyrod's%20Full-Power%20Mode%20Explodes.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/33%20-%20Ultimate%20Desperation,%20Tommyrod's%20Full-Power%20Mode%20Explodes.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/33%20-%20Ultimate%20Desperation,%20Tommyrod's%20Full-Power%20Mode%20Explodes.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Wondrous Power, Gourmet Reviver Teppei Joins the Battle (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/34%20-%20Wondrous%20Power,%20Gourmet%20Reviver%20Teppei%20Joins%20the%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/34%20-%20Wondrous%20Power,%20Gourmet%20Reviver%20Teppei%20Joins%20the%20Battle.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/34%20-%20Wondrous%20Power,%20Gourmet%20Reviver%20Teppei%20Joins%20the%20Battle.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "The Last Drop, Who Will Get the Century Soup (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/35%20-%20The%20Last%20Drop,%20Who%20Will%20Get%20the%20Century%20Soup.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/35%20-%20The%20Last%20Drop,%20Who%20Will%20Get%20the%20Century%20Soup.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/35%20-%20The%20Last%20Drop,%20Who%20Will%20Get%20the%20Century%20Soup.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Farewell Ice Hell, Granny Setsu's Hidden Power (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/36%20-%20Farewell%20Ice%20Hell,%20Granny%20Setsu's%20Hidden%20Power.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/36%20-%20Farewell%20Ice%20Hell,%20Granny%20Setsu's%20Hidden%20Power.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/36%20-%20Farewell%20Ice%20Hell,%20Granny%20Setsu's%20Hidden%20Power.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Splendid Healing, Here Comes the Gourmet Reviver, Yosaku (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/37%20-%20Splendid%20Healing,%20Here%20Comes%20the%20Gourmet%20Reviver,%20Yosaku.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/37%20-%20Splendid%20Healing,%20Here%20Comes%20the%20Gourmet%20Reviver,%20Yosaku.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/37%20-%20Splendid%20Healing,%20Here%20Comes%20the%20Gourmet%20Reviver,%20Yosaku.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Race to Finish, Will It Be Toriko's Recovery, or Komatsu's Soup (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/38%20-%20Race%20to%20Finish,%20Will%20It%20Be%20Toriko's%20Recovery,%20or%20Komatsu's%20Soup.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/38%20-%20Race%20to%20Finish,%20Will%20It%20Be%20Toriko's%20Recovery,%20or%20Komatsu's%20Soup.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/38%20-%20Race%20to%20Finish,%20Will%20It%20Be%20Toriko's%20Recovery,%20or%20Komatsu's%20Soup.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "To the World of Ultimate Bliss, Taste the Century Soup (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/39%20-%20To%20the%20World%20of%20Ultimate%20Bliss,%20Taste%20the%20Century%20Soup.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/39%20-%20To%20the%20World%20of%20Ultimate%20Bliss,%20Taste%20the%20Century%20Soup.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/39%20-%20To%20the%20World%20of%20Ultimate%20Bliss,%20Taste%20the%20Century%20Soup.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Housewarming Party, Everyone Gather at the Sweets House (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/40%20-%20Housewarming%20Party,%20Everyone%20Gather%20at%20the%20Sweets%20House.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/40%20-%20Housewarming%20Party,%20Everyone%20Gather%20at%20the%20Sweets%20House.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/40%20-%20Housewarming%20Party,%20Everyone%20Gather%20at%20the%20Sweets%20House.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "The Gourmet King Championship, Search for the Ultimate Sweets (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/41%20-%20The%20Gourmet%20King%20Championship,%20Search%20for%20the%20Ultimate%20Sweets.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/41%20-%20The%20Gourmet%20King%20Championship,%20Search%20for%20the%20Ultimate%20Sweets.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/41%20-%20The%20Gourmet%20King%20Championship,%20Search%20for%20the%20Ultimate%20Sweets.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Bonding Dish, Partners Are Forever (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/42%20-%20Bonding%20Dish,%20Partners%20Are%20Forever.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/42%20-%20Bonding%20Dish,%20Partners%20Are%20Forever.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/42%20-%20Bonding%20Dish,%20Partners%20Are%20Forever.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "White Hot, Toriko vs. the IGO President (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/43%20-%20White%20Hot,%20Toriko%20vs.%20the%20IGO%20President.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/43%20-%20White%20Hot,%20Toriko%20vs.%20the%20IGO%20President.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/43%20-%20White%20Hot,%20Toriko%20vs.%20the%20IGO%20President.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Vegetable Garden in the Heavens, Vegetable Sky (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/44%20-%20Vegetable%20Garden%20in%20the%20Heavens,%20Vegetable%20Sky.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/44%20-%20Vegetable%20Garden%20in%20the%20Heavens,%20Vegetable%20Sky.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/44%20-%20Vegetable%20Garden%20in%20the%20Heavens,%20Vegetable%20Sky.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Discovery, The King of Vegetables, Ozone Grass (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/45%20-%20Discovery,%20The%20King%20of%20Vegetables,%20Ozone%20Grass.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/45%20-%20Discovery,%20The%20King%20of%20Vegetables,%20Ozone%20Grass.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/45%20-%20Discovery,%20The%20King%20of%20Vegetables,%20Ozone%20Grass.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Confession in the Heavens, The Formation of the Invincible Duo (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/46%20-%20Confession%20in%20the%20Heavens,%20The%20Formation%20of%20the%20Invincible%20Duo.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/46%20-%20Confession%20in%20the%20Heavens,%20The%20Formation%20of%20the%20Invincible%20Duo.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/46%20-%20Confession%20in%20the%20Heavens,%20The%20Formation%20of%20the%20Invincible%20Duo.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Shocking Encounter, A Mysterious Life Form Appears (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/47%20-%20Shocking%20Encounter,%20A%20Mysterious%20Life%20Form%20Appears.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/47%20-%20Shocking%20Encounter,%20A%20Mysterious%20Life%20Form%20Appears.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/47%20-%20Shocking%20Encounter,%20A%20Mysterious%20Life%20Form%20Appears.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Toriko Rushes in, The Truth of the Gourmet World (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/48%20-%20Toriko%20Rushes%20in,%20The%20Truth%20of%20the%20Gourmet%20World.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/48%20-%20Toriko%20Rushes%20in,%20The%20Truth%20of%20the%20Gourmet%20World.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/48%20-%20Toriko%20Rushes%20in,%20The%20Truth%20of%20the%20Gourmet%20World.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Enter the Astounding Ringer, The True Meaning of a Partner (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/49%20-%20Enter%20the%20Astounding%20Ringer,%20The%20True%20Meaning%20of%20a%20Partner.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/49%20-%20Enter%20the%20Astounding%20Ringer,%20The%20True%20Meaning%20of%20a%20Partner.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/49%20-%20Enter%20the%20Astounding%20Ringer,%20The%20True%20Meaning%20of%20a%20Partner.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Shock! The Broken Kitchen Knife and Cutler Melk! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/50%20-%20Shock!%20The%20Broken%20Kitchen%20Knife%20and%20Cutler%20Melk!.mp4",
+        "dubUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/50%20-%20Shock!%20The%20Broken%20Kitchen%20Knife%20and%20Cutler%20Melk!.mp4",
+        "subUrl": "https://archive.org/download/toriko-english-dub/Toriko%20English%20Dub/50%20-%20Shock!%20The%20Broken%20Kitchen%20Knife%20and%20Cutler%20Melk!.mp4"
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "title": {
+      "english": "Sgt. Frog",
+      "romaji": "Keroro Gunsou",
+      "native": "ケロロ軍曹"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx516-ofBmeR4TcbKb.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx516-ofBmeR4TcbKb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx516-ofBmeR4TcbKb.jpg",
+      "color": "#e4e41a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/516-kgoFaO4d13bt.jpg",
+    "description": "Sergeant Keroro, an alien frog from planet Keron, is sent to conquer Earth (Pekopon) but gets abandoned by his invasion force! Taken in by the Hinata family, Keroro ends up doing chores, building Gundam model kits, and concocting hilarious failed invasion schemes.",
+    "averageScore": 74,
+    "seasonYear": 2004,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 78 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Legendary Funimation comedy dub featuring endless pop-culture parodies and Gunpla obsession.",
+    "isMature": false,
+    "contentRating": "TV-PG",
+    "contentWarnings": [
+      "Comedic Slapstick",
+      "Mild Language"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-1-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-1-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-1-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-2-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-2-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-2-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-3-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-3-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-3-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-4-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-4-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-4-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-5-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-5-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-5-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-6-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-6-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-6-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-7-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-7-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-7-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-8-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-8-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-8-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-9-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-9-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-9-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-10-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-10-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-10-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-11-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-11-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-11-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-12-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-12-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-12-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-13-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-13-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-13-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-14-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-14-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-14-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-15-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-15-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-15-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-16-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-16-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-16-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-17-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-17-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-17-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-18-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-18-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-18-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-19-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-19-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-19-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-20-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-20-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-20-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-21-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-21-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-21-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-22-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-22-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-22-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-23-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-23-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-23-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-24-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-24-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-24-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-25-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-25-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-25-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-26-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-26-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-26-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-27-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-27-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-27-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-28-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-28-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-28-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-29-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-29-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-29-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-30-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-30-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-30-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-31-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-31-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-31-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-32-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-32-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-32-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-33-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-33-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-33-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-34-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-34-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-34-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-35-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-35-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-35-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-36-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-36-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-36-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-37-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-37-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-37-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-38-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-38-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-38-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-39-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-39-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-39-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-40-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-40-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-40-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-41-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-41-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-41-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-42-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-42-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-42-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-43-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-43-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-43-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-44-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-44-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-44-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-45-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-45-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-45-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-46-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-46-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-46-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-47-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-47-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-47-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-48-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-48-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-48-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-49-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-49-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-49-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-50-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-50-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-50-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-51-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-51-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-51-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-52-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-52-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-52-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 53,
+        "title": "Episode 53 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-53-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-53-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-53-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 54,
+        "title": "Episode 54 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-54-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-54-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-54-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 55,
+        "title": "Episode 55 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-55-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-55-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-55-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 56,
+        "title": "Episode 56 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-56-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-56-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-56-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 57,
+        "title": "Episode 57 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-57-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-57-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-57-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 58,
+        "title": "Episode 58 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-58-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-58-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-58-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 59,
+        "title": "Episode 59 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-59-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-59-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-59-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 60,
+        "title": "Episode 60 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-60-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-60-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-60-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 61,
+        "title": "Episode 61 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-61-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-61-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-61-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 62,
+        "title": "Episode 62 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-62-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-62-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-62-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 63,
+        "title": "Episode 63 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-63-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-63-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-63-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 64,
+        "title": "Episode 64 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-64-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-64-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-64-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 65,
+        "title": "Episode 65 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-65-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-65-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-65-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 66,
+        "title": "Episode 66 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-66-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-66-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-66-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 67,
+        "title": "Episode 67 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-67-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-67-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-67-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 68,
+        "title": "Episode 68 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-68-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-68-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-68-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 69,
+        "title": "Episode 69 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-69-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-69-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-69-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 70,
+        "title": "Episode 70 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-70-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-70-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-70-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 71,
+        "title": "Episode 71 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-71-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-71-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-71-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 72,
+        "title": "Episode 72 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-72-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-72-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-72-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 73,
+        "title": "Episode 73 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-73-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-73-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-73-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 74,
+        "title": "Episode 74 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-74-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-74-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-74-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 75,
+        "title": "Episode 75 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-75-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-75-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-75-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 76,
+        "title": "Episode 76 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-76-english-dubbed-.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-76-english-dubbed-.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-76-english-dubbed-.mp4"
+      },
+      {
+        "episodeNumber": 77,
+        "title": "Episode 77 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-77-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-77-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-77-english-dubbed.mp4"
+      },
+      {
+        "episodeNumber": 78,
+        "title": "Episode 78 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-78-english-dubbed.mp4",
+        "dubUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-78-english-dubbed.mp4",
+        "subUrl": "https://archive.org/download/sgt-frog-english-dubbed/sgt-frog-episode-78-english-dubbed.mp4"
+      }
+    ]
+  },
+  {
+    "id": 1221,
+    "title": {
+      "english": "Powerpuff Girls Z",
+      "romaji": "Demashitaa! Powerpuff Girls Z",
+      "native": "出ましたっ！パワパフガールズZ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1221-hJK26wo9VEGP.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1221-hJK26wo9VEGP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1221-hJK26wo9VEGP.png",
+      "color": "#f1bb1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1221.jpg",
+    "description": "When Chemical Z rays strike Tokyo City, three ordinary middle school girls — Momoko, Miyako, and Kaoru — transform into the magical heroines Hyper Blossom, Rolling Bubbles, and Powered Buttercup to defend Tokyo against villains infected by black Z-rays!",
+    "averageScore": 62,
+    "seasonYear": 2006,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mahou Shoujo",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 52 DUB EPS",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-Y7",
+    "contentWarnings": [
+      "Fantasy Action"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2001.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2001.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2002.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2002.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2003.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2003.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2004.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2004.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2005.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2005.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2005.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2006.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2006.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2006.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2007.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2007.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2008.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2008.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2009.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2009.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2010.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2010.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2011.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2011.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2012.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2012.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2012.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2013.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2013.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2013.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2014.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2014.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2014.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2015.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2015.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2015.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2016.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2016.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2016.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2017.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2017.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2017.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2018.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2018.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2018.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2019.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2019.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2019.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2020.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2020.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2020.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2021.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2021.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2021.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2022.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2022.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2022.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2023.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2023.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2023.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2024.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2024.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2024.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2025.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2025.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2025.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2026.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2026.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%201-26/Powerpuff%20Girls%20Z%20Ep.%2026.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2027%20Make'em%20and%20Eat'em!%20Sushi%20Monster!%20-%20Peach%20and%20Sapphire.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2027%20Make'em%20and%20Eat'em!%20Sushi%20Monster!%20-%20Peach%20and%20Sapphire.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2027%20Make'em%20and%20Eat'em!%20Sushi%20Monster!%20-%20Peach%20and%20Sapphire.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2028%20Ladies%20Tag%20Team%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2028%20Ladies%20Tag%20Team%20Battle.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2028%20Ladies%20Tag%20Team%20Battle.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2029%20Harmed%20to%20the%20Teeth%20-%20Beware%20the%20Hair.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2029%20Harmed%20to%20the%20Teeth%20-%20Beware%20the%20Hair.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2029%20Harmed%20to%20the%20Teeth%20-%20Beware%20the%20Hair.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2030%20Whats%20with%20Him.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2030%20Whats%20with%20Him.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2030%20Whats%20with%20Him.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2031%20Dunga%20Din%20%20-%20The%20Beanie%20Meanie.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2031%20Dunga%20Din%20%20-%20The%20Beanie%20Meanie.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2031%20Dunga%20Din%20%20-%20The%20Beanie%20Meanie.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2032%20Two%20Burguer-Bots%20and%20a%20side%20of%20Fries.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2032%20Two%20Burguer-Bots%20and%20a%20side%20of%20Fries.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2032%20Two%20Burguer-Bots%20and%20a%20side%20of%20Fries.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2033%20There's%20no%20l%20in%20Powerpuff%20-%20Keane%20Kong.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2033%20There's%20no%20l%20in%20Powerpuff%20-%20Keane%20Kong.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2033%20There's%20no%20l%20in%20Powerpuff%20-%20Keane%20Kong.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2034%20Cleanliness%20is%20Next%20to%20Ghostliness.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2034%20Cleanliness%20is%20Next%20to%20Ghostliness.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2034%20Cleanliness%20is%20Next%20to%20Ghostliness.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2035%20Weeding%20out%20the%20Monsters%20-%20The%20Dog%20Days%20of%20New%20Townsville.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2035%20Weeding%20out%20the%20Monsters%20-%20The%20Dog%20Days%20of%20New%20Townsville.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2035%20Weeding%20out%20the%20Monsters%20-%20The%20Dog%20Days%20of%20New%20Townsville.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2036%20Its%20all%20Because%20of%20Him.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2036%20Its%20all%20Because%20of%20Him.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2036%20Its%20all%20Because%20of%20Him.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2037%20Super%20Tough%20Girls%20-%20Powerpuff%20Boys%20Z.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2037%20Super%20Tough%20Girls%20-%20Powerpuff%20Boys%20Z.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2037%20Super%20Tough%20Girls%20-%20Powerpuff%20Boys%20Z.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2038%20Enter%20the%20Entourage.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2038%20Enter%20the%20Entourage.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2038%20Enter%20the%20Entourage.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2039%20Little%20Ken's%20Big%20Wish%20-%20Wild%20Moon%20Chase.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2039%20Little%20Ken's%20Big%20Wish%20-%20Wild%20Moon%20Chase.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2039%20Little%20Ken's%20Big%20Wish%20-%20Wild%20Moon%20Chase.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2040%20Babes%20in%20TV%20Land.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2040%20Babes%20in%20TV%20Land.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2040%20Babes%20in%20TV%20Land.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2041%20The%20Mighty%20Morbucks%20-%20Trading%20Faces.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2041%20The%20Mighty%20Morbucks%20-%20Trading%20Faces.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2041%20The%20Mighty%20Morbucks%20-%20Trading%20Faces.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2042%20The%20RowdyRuff%20Girls.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2042%20The%20RowdyRuff%20Girls.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2042%20The%20RowdyRuff%20Girls.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2043%20The%20Professor%20gets%20his%20Cut%20-%20Who%20is%20Lucas%20Clark.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2043%20The%20Professor%20gets%20his%20Cut%20-%20Who%20is%20Lucas%20Clark.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2043%20The%20Professor%20gets%20his%20Cut%20-%20Who%20is%20Lucas%20Clark.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2044%20Buttercup's%20New%20Moves.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2044%20Buttercup's%20New%20Moves.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2044%20Buttercup's%20New%20Moves.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2045%20Hoppily%20Ever%20After%20-%20Vamp%20on%20Campus.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2045%20Hoppily%20Ever%20After%20-%20Vamp%20on%20Campus.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2045%20Hoppily%20Ever%20After%20-%20Vamp%20on%20Campus.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2046%20Return%20of%20Him.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2046%20Return%20of%20Him.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2046%20Return%20of%20Him.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2047%20Keane%20For%20a%20Break%20-%20Like%20Giving%20Candy%20to%20a%20Baby.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2047%20Keane%20For%20a%20Break%20-%20Like%20Giving%20Candy%20to%20a%20Baby.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2047%20Keane%20For%20a%20Break%20-%20Like%20Giving%20Candy%20to%20a%20Baby.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2048%20Bubbles%20and%20the%20Beast.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2048%20Bubbles%20and%20the%20Beast.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2048%20Bubbles%20and%20the%20Beast.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2049%20The%20Happy%20Thought%20Blaster%20-%20Nurse%20Curse.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2049%20The%20Happy%20Thought%20Blaster%20-%20Nurse%20Curse.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2049%20The%20Happy%20Thought%20Blaster%20-%20Nurse%20Curse.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2050%20Him's%20Big%20Plan.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2050%20Him's%20Big%20Plan.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2050%20Him's%20Big%20Plan.mp4"
+      },
+      {
+        "episodeNumber": 51,
+        "title": "Episode 51 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2051%20Only%20a%20Matter%20of%20Time.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2051%20Only%20a%20Matter%20of%20Time.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2051%20Only%20a%20Matter%20of%20Time.mp4"
+      },
+      {
+        "episodeNumber": 52,
+        "title": "Episode 52 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2052%20The%20Final%20Battle.mp4",
+        "dubUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2052%20The%20Final%20Battle.mp4",
+        "subUrl": "https://archive.org/download/powerpuff-girls-z-complete-series-dub/Powerpuff%20Girls%20Z%20Complete%20(DUB)/Powerpuff%20Girls%20Z%2027-52/Powerpuff%20Girls%20Z%2052%20The%20Final%20Battle.mp4"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "title": {
+      "english": "Magical DoReMi",
+      "romaji": "Ojamajo Doremi",
+      "native": "おジャ魔女どれみ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx350-iRi1NOntsTnG.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx350-iRi1NOntsTnG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx350-iRi1NOntsTnG.jpg",
+      "color": "#e4ae43"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/350-oGY6MInyVjpO.jpg",
+    "description": "DoReMi Harukaze stumbles upon a mysterious magic shop and discovers that its owner is an actual witch! When DoReMi accidentally exposes her, she becomes a witch apprentice and embarks on magical adventures with her friends Hazuki and Aiko.",
+    "averageScore": 74,
+    "seasonYear": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "4KIDS DUB • 50 EPISODES",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-Y7",
+    "contentWarnings": [
+      "Comedic Fantasy"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2001.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2001.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2002.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2002.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2003.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2003.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2004.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2004.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2005.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2005.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2005.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2006.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2006.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2006.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2007.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2007.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2008.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2008.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2009.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2009.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2010.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2010.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2011.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2011.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2012.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2012.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2012.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2013.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2013.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2013.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2014.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2014.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2014.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2015.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2015.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2015.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2016.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2016.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2016.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2017.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2017.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2017.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2018.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2018.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2018.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2019.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2019.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2019.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2020.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2020.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2020.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2021.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2021.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2021.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2022.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2022.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2022.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2023.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2023.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2023.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2024.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2024.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2024.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2025.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2025.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2025.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2026.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2026.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2026.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2027.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2027.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2027.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2028.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2028.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2028.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2029.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2029.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2029.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2031.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2031.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2031.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2032.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2032.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2032.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2033.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2033.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2033.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2034.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2034.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2034.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2035.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2035.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2035.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2036.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2036.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2036.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2037.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2037.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2037.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2038.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2038.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2038.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2039.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2039.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2039.mp4"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2040.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2040.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2040.mp4"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2041.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2041.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2041.mp4"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2042.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2042.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2042.mp4"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2043.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2043.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2043.mp4"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2044.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2044.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2044.mp4"
+      },
+      {
+        "episodeNumber": 44,
+        "title": "Episode 44 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2045.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2045.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2045.mp4"
+      },
+      {
+        "episodeNumber": 45,
+        "title": "Episode 45 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2046.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2046.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2046.mp4"
+      },
+      {
+        "episodeNumber": 46,
+        "title": "Episode 46 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2047.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2047.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2047.mp4"
+      },
+      {
+        "episodeNumber": 47,
+        "title": "Episode 47 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2048.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2048.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2048.mp4"
+      },
+      {
+        "episodeNumber": 48,
+        "title": "Episode 48 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2049.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2049.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2049.mp4"
+      },
+      {
+        "episodeNumber": 49,
+        "title": "Episode 49 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2050.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2050.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2050.mp4"
+      },
+      {
+        "episodeNumber": 50,
+        "title": "Episode 50 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2051.mp4",
+        "dubUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2051.mp4",
+        "subUrl": "https://archive.org/download/magicaldoremi/Magical%20DoReMi%20-%2051.mp4"
+      }
+    ]
+  },
+  {
+    "id": 15451,
+    "title": {
+      "english": null,
+      "romaji": "High School DxD NEW",
+      "native": "ハイスクールD×D NEW"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx15451-A5T54vmxUq9t.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx15451-A5T54vmxUq9t.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx15451-A5T54vmxUq9t.jpg",
+      "color": "#f14335"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15451-QH910C0685l8.png",
+    "description": "Issei Hyoudou continues his devilish high school journey under the command of crimson-haired Rias Gremory. With fallen angels, holy swords, and leaders of the Three Factions arriving at Kuoh Academy, Issei must train harder than ever to protect his friends and his harem dreams!",
+    "averageScore": 71,
+    "seasonYear": 2013,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 2 • 12 DUB EPS",
+    "isStaffPick": false,
+    "isMature": true,
+    "contentRating": "TV-MA",
+    "contentWarnings": [
+      "Nudity",
+      "Ecchi Themes",
+      "Fantasy Violence"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2001.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2001.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2002.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2002.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2003.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2003.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2004.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2004.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2005.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2005.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2005.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2006.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2006.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2006.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2007.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2007.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2008.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2008.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2009.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2009.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2010.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2010.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2011.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2011.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2012%20END.mp4",
+        "dubUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2012%20END.mp4",
+        "subUrl": "https://archive.org/download/high-school-dxd-new-s2/High%20School%20DxD%20S2%2012%20END.mp4"
+      }
+    ]
+  },
+  {
+    "id": 98437,
+    "title": {
+      "english": "Overlord II",
+      "romaji": "Overlord II",
+      "native": "オーバーロードⅡ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98437-5q0GWqHhNAgJ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98437-5q0GWqHhNAgJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98437-5q0GWqHhNAgJ.jpg",
+      "color": "#285d78"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98437-yZXtJz59UMAo.jpg",
+    "description": "Ainz Ooal Gown continues his conquest of the New World from the Great Tomb of Nazarick. While testing the strength of the Lizardman tribes and investigating underground syndicates in the Re-Estize Kingdom, the Supreme One displays overwhelming power!",
+    "averageScore": 76,
+    "seasonYear": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 2 • 13 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Overpowered dark fantasy greatness! Glory to the Sorcerer King.",
+    "isMature": true,
+    "contentRating": "TV-MA",
+    "contentWarnings": [
+      "Violence",
+      "Dark Fantasy Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/01.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/01.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/02.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/02.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/02.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/03.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/03.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/03.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/04.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/04.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/04.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/05.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/05.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/05.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/06.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/06.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/06.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/07.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/07.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/07.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/08.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/08.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/08.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/09.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/09.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/09.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/10.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/10.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/11.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/11.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/12.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/12.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/OverlordSeason2/13.mp4",
+        "dubUrl": "https://archive.org/download/OverlordSeason2/13.mp4",
+        "subUrl": "https://archive.org/download/OverlordSeason2/13.mp4"
+      }
+    ]
+  },
+  {
+    "id": 7817,
+    "title": {
+      "english": "Yamada's First Time: B Gata H Kei",
+      "romaji": "B Gata H Kei",
+      "native": "B型H系"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx7817-6kYE5LRNoL97.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7817-6kYE5LRNoL97.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx7817-6kYE5LRNoL97.jpg",
+      "color": "#e45093"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n7817-ktqkezf9CKH8.jpg",
+    "description": "Yamada is an ambitious high school girl who has made it her personal goal to have 100 casual partners. She chooses the mild-mannered Takashi Kosuda to be her very first, but her extreme pride and hilarious misunderstandings turn her quest into an endless comedic struggle.",
+    "averageScore": 64,
+    "seasonYear": 2010,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "COMPLETE SERIES • 12 DUB EPS",
+    "isStaffPick": false,
+    "isMature": true,
+    "contentRating": "TV-MA",
+    "contentWarnings": [
+      "Ecchi Humor",
+      "Sexual Innuendo"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Boy Meets Girl. Please Give Me Your 'First Time'!! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2001%20-%20Boy%20Meets%20Girl.%20Please%20Give%20Me%20Your%20'First%20Time'!!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2001%20-%20Boy%20Meets%20Girl.%20Please%20Give%20Me%20Your%20'First%20Time'!!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2001%20-%20Boy%20Meets%20Girl.%20Please%20Give%20Me%20Your%20'First%20Time'!!.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "I Know! Let's Go to the Pool. You Want to See My Swimsuit Don't You! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2002%20-%20I%20Know!%20Let's%20Go%20to%20the%20Pool.%20You%20Want%20to%20See%20My%20Swimsuit%20Don't%20You!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2002%20-%20I%20Know!%20Let's%20Go%20to%20the%20Pool.%20You%20Want%20to%20See%20My%20Swimsuit%20Don't%20You!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2002%20-%20I%20Know!%20Let's%20Go%20to%20the%20Pool.%20You%20Want%20to%20See%20My%20Swimsuit%20Don't%20You!.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Quickie in the Dark Room! Somewhat Dangerous Club Activities! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2003%20-%20Quickie%20in%20the%20Dark%20Room!%20Somewhat%20Dangerous%20Club%20Activities!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2003%20-%20Quickie%20in%20the%20Dark%20Room!%20Somewhat%20Dangerous%20Club%20Activities!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2003%20-%20Quickie%20in%20the%20Dark%20Room!%20Somewhat%20Dangerous%20Club%20Activities!.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Throbbing Christmas Eve. What Does a First Kiss Taste Like (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2004%20-%20Throbbing%20Christmas%20Eve.%20What%20Does%20a%20First%20Kiss%20Taste%20Like.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2004%20-%20Throbbing%20Christmas%20Eve.%20What%20Does%20a%20First%20Kiss%20Taste%20Like.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2004%20-%20Throbbing%20Christmas%20Eve.%20What%20Does%20a%20First%20Kiss%20Taste%20Like.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "A Valentine of Sweat and Tears! Love From Yamada is Put Into It (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2005%20-%20A%20Valentine%20of%20Sweat%20and%20Tears!%20Love%20From%20Yamada%20is%20Put%20Into%20It.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2005%20-%20A%20Valentine%20of%20Sweat%20and%20Tears!%20Love%20From%20Yamada%20is%20Put%20Into%20It.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2005%20-%20A%20Valentine%20of%20Sweat%20and%20Tears!%20Love%20From%20Yamada%20is%20Put%20Into%20It.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Kanejō Arrives! That Dazzle is Unforgivable! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2006%20-%20Kanej%C5%8D%20Arrives!%20That%20Dazzle%20is%20Unforgivable!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2006%20-%20Kanej%C5%8D%20Arrives!%20That%20Dazzle%20is%20Unforgivable!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2006%20-%20Kanej%C5%8D%20Arrives!%20That%20Dazzle%20is%20Unforgivable!.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "A Huge Duel with School Swimsuits! I Definitely Won’t to Lose to You! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2007%20-%20A%20Huge%20Duel%20with%20School%20Swimsuits!%20I%20Definitely%20Won%E2%80%99t%20to%20Lose%20to%20You!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2007%20-%20A%20Huge%20Duel%20with%20School%20Swimsuits!%20I%20Definitely%20Won%E2%80%99t%20to%20Lose%20to%20You!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2007%20-%20A%20Huge%20Duel%20with%20School%20Swimsuits!%20I%20Definitely%20Won%E2%80%99t%20to%20Lose%20to%20You!.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Yay, Field Trip! But We’re Not Alone Together (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2008%20-%20Yay,%20Field%20Trip!%20But%20We%E2%80%99re%20Not%20Alone%20Together.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2008%20-%20Yay,%20Field%20Trip!%20But%20We%E2%80%99re%20Not%20Alone%20Together.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2008%20-%20Yay,%20Field%20Trip!%20But%20We%E2%80%99re%20Not%20Alone%20Together.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "No Way! In Front of Everyone to See... I Never Said I Hate You (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2009%20-%20No%20Way!%20In%20Front%20of%20Everyone%20to%20See...%20I%20Never%20Said%20I%20Hate%20You.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2009%20-%20No%20Way!%20In%20Front%20of%20Everyone%20to%20See...%20I%20Never%20Said%20I%20Hate%20You.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2009%20-%20No%20Way!%20In%20Front%20of%20Everyone%20to%20See...%20I%20Never%20Said%20I%20Hate%20You.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "The Kanejō Family. The Celebrity Brother’s Dazzling Secret! (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2010%20-%20The%20Kanej%C5%8D%20Family.%20The%20Celebrity%20Brother%E2%80%99s%20Dazzling%20Secret!.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2010%20-%20The%20Kanej%C5%8D%20Family.%20The%20Celebrity%20Brother%E2%80%99s%20Dazzling%20Secret!.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2010%20-%20The%20Kanej%C5%8D%20Family.%20The%20Celebrity%20Brother%E2%80%99s%20Dazzling%20Secret!.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Year 2 Class H's Christmas Party. Take Me to the Bed (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2011%20-%20Year%202%20Class%20H's%20Christmas%20Party.%20Take%20Me%20to%20the%20Bed.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2011%20-%20Year%202%20Class%20H's%20Christmas%20Party.%20Take%20Me%20to%20the%20Bed.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2011%20-%20Year%202%20Class%20H's%20Christmas%20Party.%20Take%20Me%20to%20the%20Bed.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "The World Revolves Around Us. Goodbye... B-Type H-Style (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2012%20-%20The%20World%20Revolves%20Around%20Us.%20Goodbye...%20B-Type%20H-Style.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2012%20-%20The%20World%20Revolves%20Around%20Us.%20Goodbye...%20B-Type%20H-Style.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/B%20Gata%20H%20Kei%20Yamda's%20First%20Time/B%20Gata%20H%20Kei%20Yamda's%20First%20Time%20-%2012%20-%20The%20World%20Revolves%20Around%20Us.%20Goodbye...%20B-Type%20H-Style.mp4"
+      }
+    ]
+  },
+  {
+    "id": 100722,
+    "title": {
+      "english": "Date A Live III",
+      "romaji": "Date A Live III",
+      "native": "デート・ア・ライブⅢ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100722-M5nXzDkuGOLC.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100722-M5nXzDkuGOLC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx100722-M5nXzDkuGOLC.png",
+      "color": "#d6ae78"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100722-dppmox9jqbx5.jpg",
+    "description": "Shido Itsuka continues his mission to save the world by dating extraterrestrial Spirits and sealing their destructive powers with a kiss! In Season 3, the appearance of the witch Natsumi and Origami's tragic past push Ratatoskr and Shido to their limits.",
+    "averageScore": 70,
+    "seasonYear": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SEASON 3 • 12 DUB EPS",
+    "isStaffPick": false,
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Fantasy Violence",
+      "Suggestive Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Date A Live III - 01 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2001.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2001.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Date A Live III - 02 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2002.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2002.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Date A Live III - 03 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2003.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2003.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Date A Live III - 04 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2004.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2004.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Date A Live III - 05 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2005.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2005.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2005.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Date A Live III - 06 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2006.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2006.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2006.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Date A Live III - 07 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2007.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2007.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Date A Live III - 08 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2008.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2008.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Date A Live III - 09 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2009.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2009.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Date A Live III - 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2010.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2010.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Date A Live III - 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2011.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2011.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Date A Live III - 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2012.mp4",
+        "dubUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2012.mp4",
+        "subUrl": "https://archive.org/download/yamada-and-the-seven-witches-03/Date%20A%20Live%20III%20-%2012.mp4"
       }
     ]
   }
