@@ -454,7 +454,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "PSYCHOLOGICAL • 12 DUB EPS",
+    "badgeText": "COMPLETE SERIES • 38 DUB EPS",
     "isStaffPick": true,
     "staffNotes": "Calculated psychological battles where everyone has a hidden agenda.",
     "isMature": false,
@@ -559,6 +559,214 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4",
         "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4",
         "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s1/12%20-%20s1e12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/01%20-%20s2e1.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/02%20-%20s2e2.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/02%20-%20s2e2.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/02%20-%20s2e2.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/03%20-%20s2e3.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/03%20-%20s2e3.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/03%20-%20s2e3.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/04%20-%20s2e4.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/05%20-%20s2e5.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/05%20-%20s2e5.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/05%20-%20s2e5.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/06%20-%20s2e6.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/06%20-%20s2e6.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/06%20-%20s2e6.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/07%20-%20s2e7.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/07%20-%20s2e7.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/07%20-%20s2e7.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/08%20-%20s2e8.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/08%20-%20s2e8.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/08%20-%20s2e8.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/09%20-%20s2e9.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/09%20-%20s2e9.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/09%20-%20s2e9.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/10%20-%20s2e10.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/10%20-%20s2e10.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/10%20-%20s2e10.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/11%20-%20s2e11.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/11%20-%20s2e11.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/11%20-%20s2e11.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/12%20-%20s2e12.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/12%20-%20s2e12.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/12%20-%20s2e12.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/13%20s2e13.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/13%20s2e13.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s2/13%20s2e13.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/01%20-%20s3e1.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/02%20-%20s3e2.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/02%20-%20s3e2.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/02%20-%20s3e2.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/03%20-%20s3e3.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/03%20-%20s3e3.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/03%20-%20s3e3.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/04%20-%20s3e4.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/04%20-%20s3e4.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/04%20-%20s3e4.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/05%20-%20s3e5.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/05%20-%20s3e5.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/05%20-%20s3e5.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/06%20-%20s3e6.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/06%20-%20s3e6.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/06%20-%20s3e6.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/07%20-%20s3e7.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/07%20-%20s3e7.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/07%20-%20s3e7.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/08%20-%20s3e8.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/08%20-%20s3e8.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/08%20-%20s3e8.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/09%20-%20s3e9.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/09%20-%20s3e9.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/09%20-%20s3e9.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/10%20-%20s3e10.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/10%20-%20s3e10.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/10%20-%20s3e10.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/11%20-%20s3e11.mp4"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/12%20-%20s3e12.mp4"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
+        "dubUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4",
+        "subUrl": "https://archive.org/download/11-s-1e-11/Classroom%20of%20the%20Elite/s3/13%20-%20s3e13.mp4"
       }
     ]
   },
