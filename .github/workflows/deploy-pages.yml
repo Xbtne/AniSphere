@@ -24,13 +24,7 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      - run: npm run build -- --base=/AniSphere/
-      - name: Prepare client build for Pages
-        run: |
-          if [ -d "dist/client" ]; then
-            cp -r dist/client/* dist/
-          fi
-          touch dist/.nojekyll
+      - run: npm run build
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:

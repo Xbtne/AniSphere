@@ -48,8 +48,34 @@ export async function onRequest(context) {
     proxyHeaders.set('User-Agent', userAgent);
     proxyHeaders.set('Referer', 'https://archive.org/');
 
-    const upstream = await fetch(upstreamUrl.toString(), {
-      method: request.method === 'HEAD' ? 'HEAD' : 'GET',
+    // archive.org's /download/ 302-redirects to a CDN node; fetch's
+    // automatic redirect-follow drops the Range header on the redirect,
+    // so we resolve the redirect manually and then fetch the CDN URL
+    // with full Range headers intact.
+    let resolvedUrl = upstreamUrl.toString();
+    const firstResp = await fetch(resolvedUrl, {
+      method: 'GET',
+      headers: proxyHeaders,
+      redirect: 'manual',
+    });
+    const location = firstResp.headers.get('location');
+    if (location && (firstResp.status === 301 || firstResp.status === 302 || firstResp.status === 307 || firstResp.status === 308)) {
+      try {
+        resolvedUrl = new URL(location, resolvedUrl).toString();
+      } catch {
+        // if location is absolute it's fine, if relative and broken just use original
+      }
+    } else {
+      // no redirect — use the original response directly
+      const respHeaders = new Headers(firstResp.headers);
+      respHeaders.set('Access-Control-Allow-Origin', '*');
+      if (range) respHeaders.set('X-Forwarded-Range', range);
+      respHeaders.set('Access-Control-Expose-Headers', 'Content-Range, Accept-Ranges, Content-Length, Content-Type');
+      return new Response(firstResp.body, { status: firstResp.status, headers: respHeaders });
+    }
+
+    const upstream = await fetch(resolvedUrl, {
+      method: 'GET',
       headers: proxyHeaders,
       redirect: 'follow',
     });
