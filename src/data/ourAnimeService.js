@@ -55921,12 +55921,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "HUNTER×HUNTER"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sA9iUrbtgqJe.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-sA9iUrbtgqJe.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11061-sA9iUrbtgqJe.png",
-    "color": "#43a047"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-vFpfcugt8tN5.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/6448/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/6448/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/6448/large.jpg",
+          "color": "#43a047"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/cover_images/6448/large.jpg",
   "description": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends Killua, Kurapika, and Leorio, Gon embarks on a perilous quest through the grueling Hunter Exam and the treacherous underworld of Nen combat.",
   "averageScore": 90,
   "seasonYear": 2011,
@@ -56357,12 +56357,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "ソードアート・オンライン"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-Q9P2zjCPnDqu.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-Q9P2zjCPnDqu.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11757-Q9P2zjCPnDqu.png",
-    "color": "#00bcd4"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11757-m6q9T7Vb8sU5.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/6979/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/6979/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/6979/large.jpg",
+          "color": "#00bcd4"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/poster_images/6979/large.jpg",
   "description": "In the year 2022, virtual reality gaming has advanced by leaps and bounds with the NerveGear. When 10,000 players log into the revolutionary MMORPG Sword Art Online, they discover that they cannot log out—and death in the game means death in the real world.",
   "averageScore": 72,
   "seasonYear": 2012,
@@ -56571,12 +56571,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "アカメが斬る！"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-kQ2O01WvHqD6.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20613-kQ2O01WvHqD6.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20613-kQ2O01WvHqD6.jpg",
-    "color": "#e53935"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20613-568Z7vP58Lh3.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/8334/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/8334/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/8334/large.jpg",
+          "color": "#e53935"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/poster_images/8334/large.jpg",
   "description": "Tatsumi is a fighter who sets off to the Capital to raise money for his impoverished village, only to discover the horrific corruption of the Empire. He is recruited by Night Raid, a covert squad of assassins wielding Imperial Arms to overthrow the tyranny.",
   "averageScore": 75,
   "seasonYear": 2014,
@@ -56800,12 +56800,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "キルラキル"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18679-b1dZ4Xo1QyWJ.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18679-b1dZ4Xo1QyWJ.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx18679-b1dZ4Xo1QyWJ.jpg",
-    "color": "#d32f2f"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18679-6bK8OQ58kXf2.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/7822/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/7822/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/7822/large.jpg",
+          "color": "#d32f2f"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/cover_images/7822/large.jpg",
   "description": "Ryuko Matoi roams from place to place searching for clues to the murder of her father with the Scissor Blade. She arrives at Honnouji Academy, ruled by the iron fist of student council president Satsuki Kiryuin and Goku Uniforms powered by Life Fibers.",
   "averageScore": 80,
   "seasonYear": 2013,
@@ -57029,12 +57029,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "CLANNAD"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-eYv97X8ZgG4H.png",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2167-eYv97X8ZgG4H.png",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2167-eYv97X8ZgG4H.png",
-    "color": "#ff9800"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2167-s09GZ0uY1Xm4.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/1932/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/1932/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/1932/large.jpg",
+          "color": "#ff9800"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/poster_images/1932/large.jpg",
   "description": "Tomoya Okazaki is a delinquent who finds life dull and believes he'll never amount to anything. Along with his friend Youhei Sunohara, he wastes his high school days away. One fateful morning on his way to school, Tomoya meets Nagisa Furukawa.",
   "averageScore": 80,
   "seasonYear": 2007,
@@ -57251,12 +57251,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "バッカーノ！"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2251-54N2LgYmGkP8.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2251-54N2LgYmGkP8.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2251-54N2LgYmGkP8.jpg",
-    "color": "#795548"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2251-mY2N9Zq9rP1X.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/2026/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/2026/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/2026/large.jpg",
+          "color": "#795548"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/cover_images/2026/large.jpg",
   "description": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, begins its legendary journey that will leave a trail of blood across the country. In New York, the ambitious scientist Szilard and his unwilling aide Ennis search for missing bottles of the immortality elixir.",
   "averageScore": 83,
   "seasonYear": 2007,
@@ -57416,12 +57416,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "メイドインアビス"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-7K5vP2O0w7J1.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-7K5vP2O0w7J1.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx97986-7K5vP2O0w7J1.jpg",
-    "color": "#8d6e63"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97986-9m2GqX56aL7H.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/13212/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/13212/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/13212/large.jpg",
+          "color": "#8d6e63"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/poster_images/13212/large.jpg",
   "description": "An enormous pit and cave system called the 'Abyss' is the only unexplored place in the world. Strange and wonderful creatures reside in its depths, along with precious relics. Riko, an orphan girl living in Orth, dreams of exploring the depths like her mother.",
   "averageScore": 86,
   "seasonYear": 2017,
@@ -57559,12 +57559,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "エルフェンリート"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx226-5bF84W26o4J9.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx226-5bF84W26o4J9.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx226-5bF84W26o4J9.jpg",
-    "color": "#c2185b"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/226-8jO0q4K9lX2B.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/203/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/203/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/203/large.jpg",
+          "color": "#c2185b"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/cover_images/203/large.jpg",
   "description": "Lucy is a special breed of human referred to as a 'Diclonius', born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation. However, once circumstances present her an opportunity to escape, Lucy unleashes a torrent of bloodshed.",
   "averageScore": 74,
   "seasonYear": 2004,
@@ -57711,12 +57711,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "約束のネバーランド"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-NhSwCoGsPuo9.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-NhSwCoGsPuo9.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101759-NhSwCoGsPuo9.jpg",
-    "color": "#e65100"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101759-6L66O3P9ZtY8.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/41370/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/41370/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/41370/large.jpg",
+          "color": "#e65100"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/cover_images/41370/large.jpg",
   "description": "At Grace Field House, life couldn't be better for the orphans. Though they have no parents, together with the other kids and a kind 'Mama', they form one big, happy family. However, all the illusions of their peaceful life are shattered when Emma and Norman uncover the sinister reality behind their orphanage.",
   "averageScore": 84,
   "seasonYear": 2019,
@@ -57845,12 +57845,12 @@ export const OUR_ANIME_CATALOG = [
     "native": "Angel Beats!"
   },
   "coverImage": {
-    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-kU4gK2bWp4M3.jpg",
-    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6547-kU4gK2bWp4M3.jpg",
-    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6547-kU4gK2bWp4M3.jpg",
-    "color": "#0288d1"
-  },
-  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6547-4Vb05h6b7Xm1.jpg",
+          "extraLarge": "https://media.kitsu.app/anime/poster_images/5176/large.jpg",
+          "large": "https://media.kitsu.app/anime/poster_images/5176/large.jpg",
+          "medium": "https://media.kitsu.app/anime/poster_images/5176/large.jpg",
+          "color": "#0288d1"
+    },
+  "bannerImage": "https://media.kitsu.app/anime/cover_images/5176/large.jpg",
   "description": "Otonashi awakens only to learn he is dead. A rifle-toting girl named Yuri explains that they are in the afterlife, and Otonashi realizes the only thing he can remember about himself is his name. Yuri tells him that she leads the Shinda Sekai Sensen (Afterlife Battlefront) and wages war against a girl named Tenshi.",
   "averageScore": 78,
   "seasonYear": 2010,
