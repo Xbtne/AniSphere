@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 6529+ verified English Dub streams across 167 complete anime!
+// Total: 6523+ verified English Dub streams across 167 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -24778,131 +24778,83 @@ export const OUR_ANIME_CATALOG = [
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Episode 1 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E1-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E1-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E1-1080p.mp4"
+        "title": "Episode 1: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2001%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2001%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2001%20UNCUT.mp4"
       },
       {
         "episodeNumber": 2,
-        "title": "Episode 2 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E2-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E2-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E2-1080p.mp4"
+        "title": "Episode 2: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2002%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2002%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2002%20UNCUT.mp4"
       },
       {
         "episodeNumber": 3,
-        "title": "Episode 3 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E3-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E3-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E3-1080p.mp4"
+        "title": "Episode 3: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2003%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2003%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2003%20UNCUT.mp4"
       },
       {
         "episodeNumber": 4,
-        "title": "Episode 4 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E4-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E4-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E4-1080p.mp4"
+        "title": "Episode 4: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2004%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2004%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2004%20UNCUT.mp4"
       },
       {
         "episodeNumber": 5,
-        "title": "Episode 5 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E5-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E5-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E5-1080p.mp4"
+        "title": "Episode 5: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2005%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2005%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2005%20UNCUT.mp4"
       },
       {
         "episodeNumber": 6,
-        "title": "Episode 6 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E6-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E6-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E6-1080p.mp4"
+        "title": "Episode 6: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2006%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2006%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2006%20UNCUT.mp4"
       },
       {
         "episodeNumber": 7,
-        "title": "Episode 7 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E7-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E7-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E7-1080p.mp4"
+        "title": "Episode 7: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2007%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2007%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2007%20UNCUT.mp4"
       },
       {
         "episodeNumber": 8,
-        "title": "Episode 8 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E8-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E8-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E8-1080p.mp4"
+        "title": "Episode 8: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2008%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2008%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2008%20UNCUT.mp4"
       },
       {
         "episodeNumber": 9,
-        "title": "Episode 9 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E9-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E9-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E9-1080p.mp4"
+        "title": "Episode 9: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2009%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2009%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2009%20UNCUT.mp4"
       },
       {
         "episodeNumber": 10,
-        "title": "Episode 10 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E10-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E10-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E10-1080p.mp4"
-      },
-      {
-        "episodeNumber": 11,
-        "title": "Episode 11 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E11-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E11-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E11-1080p.mp4"
-      },
-      {
-        "episodeNumber": 12,
-        "title": "Episode 12 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E12-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E12-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E12-1080p.mp4"
-      },
-      {
-        "episodeNumber": 13,
-        "title": "Episode 13 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E13-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E13-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E13-1080p.mp4"
-      },
-      {
-        "episodeNumber": 14,
-        "title": "Episode 14 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E14-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E14-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E14-1080p.mp4"
-      },
-      {
-        "episodeNumber": 15,
-        "title": "Episode 15 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E15-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E15-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E15-1080p.mp4"
-      },
-      {
-        "episodeNumber": 16,
-        "title": "Episode 16 (English Dub)",
-        "duration": "24:00",
-        "videoUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E16-1080p.mp4",
-        "dubUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E16-1080p.mp4",
-        "subUrl": "https://archive.org/download/shingeki-no-kyojin_aot/season-finale-pt-1_DUB-1080p/Attack_on_Titan_Final_Season%2C_Part_1-E16-1080p.mp4"
+        "title": "Episode 10: Final Season Arc (Uncut)",
+        "duration": "45:00",
+        "videoUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2010%20UNCUT.mp4",
+        "dubUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2010%20UNCUT.mp4",
+        "subUrl": "https://archive.org/download/attack-on-titan-chronology-SEASON-0-uncut/Attack%20on%20Titan%20CHRONOLOGY%20Episode%2010%20UNCUT.mp4"
       }
     ]
   },
