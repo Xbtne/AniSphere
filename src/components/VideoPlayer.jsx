@@ -419,23 +419,34 @@ export default function VideoPlayer({
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [volume, isMuted, isPlaying, duration]);
 
-  // Controls hide timeout on mouse idle
-  const handleMouseMove = () => {
+  // Controls hide timeout on mouse idle (auto-hides cursor & HUD in fullscreen/playback)
+  const resetControlsTimeout = () => {
     setShowControls(true);
     if (controlsTimeoutRef.current) clearTimeout(controlsTimeoutRef.current);
     controlsTimeoutRef.current = setTimeout(() => {
-      if (isPlaying) setShowControls(false);
-    }, 2800);
+      if (isPlaying) {
+        setShowControls(false);
+      }
+    }, 2500);
+  };
+
+  const handleMouseMove = () => {
+    resetControlsTimeout();
   };
 
   const togglePlay = (e) => {
     if (e) e.stopPropagation();
     if (!videoRef.current) return;
     if (videoRef.current.paused) {
-      videoRef.current.play().then(() => setIsPlaying(true)).catch(() => {});
+      videoRef.current.play().then(() => {
+        setIsPlaying(true);
+        resetControlsTimeout();
+      }).catch(() => {});
     } else {
       videoRef.current.pause();
       setIsPlaying(false);
+      setShowControls(true);
+      if (controlsTimeoutRef.current) clearTimeout(controlsTimeoutRef.current);
     }
   };
 
@@ -725,9 +736,13 @@ export default function VideoPlayer({
       {/* Main Video Viewport (100% Native HTML5 Video) */}
       <div
         ref={viewportRef}
-        className={`relative bg-black flex items-center justify-center overflow-hidden ${
+        onMouseMove={resetControlsTimeout}
+        onPointerMove={resetControlsTimeout}
+        onMouseEnter={resetControlsTimeout}
+        onTouchStart={resetControlsTimeout}
+        className={`relative bg-black flex items-center justify-center overflow-hidden transition-all duration-300 ${
           isFullscreen ? 'w-screen h-screen' : 'w-full aspect-video'
-        }`}
+        } ${!showControls && isPlaying ? 'cursor-none' : 'cursor-default'}`}
       >
         {videoSrc ? (
           <>
@@ -752,7 +767,7 @@ export default function VideoPlayer({
               onPause={() => setIsPlaying(false)}
               onError={handleVideoError}
               playsInline
-              className="w-full h-full object-contain cursor-pointer"
+              className={`w-full h-full object-contain ${!showControls && isPlaying ? 'cursor-none' : 'cursor-pointer'}`}
             />
 
             {/* Loading Spinner */}
@@ -775,7 +790,9 @@ export default function VideoPlayer({
               <button
                 type="button"
                 onClick={handleSkipIntro}
-                className="absolute right-4 top-4 z-30 flex items-center gap-2 rounded-full border border-amber-300/60 bg-black/70 px-3 py-2 text-sm font-black text-amber-200 shadow-[0_0_28px_rgba(240,180,41,0.35)] backdrop-blur-md transition hover:bg-amber-500/90 hover:text-[#0a0f0c]"
+                className={`absolute right-4 top-4 z-30 flex items-center gap-2 rounded-full border border-amber-300/60 bg-black/70 px-3 py-2 text-sm font-black text-amber-200 shadow-[0_0_28px_rgba(240,180,41,0.35)] backdrop-blur-md transition-all duration-300 hover:bg-amber-500/90 hover:text-[#0a0f0c] ${
+                  showControls || !isPlaying ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+                }`}
               >
                 <SkipForward className="h-4 w-4" />
                 Skip Intro
@@ -796,8 +813,8 @@ export default function VideoPlayer({
 
             {/* Top Info HUD Bar */}
             <div
-              className={`absolute top-3 left-4 right-4 z-20 flex items-center justify-between pointer-events-none transition-opacity duration-300 ${
-                showControls || !isPlaying ? 'opacity-100' : 'opacity-0'
+              className={`absolute top-3 left-4 right-4 z-20 flex items-center justify-between transition-all duration-300 ${
+                showControls || !isPlaying ? 'opacity-100 translate-y-0 pointer-events-auto' : 'opacity-0 -translate-y-2 pointer-events-none'
               }`}
             >
               <div className="flex items-center gap-2 flex-wrap">
@@ -871,8 +888,8 @@ export default function VideoPlayer({
 
             {/* Custom Control Bar Overlay */}
             <div
-              className={`absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/95 via-black/70 to-transparent z-20 transition-opacity duration-300 flex flex-col gap-2 ${
-                showControls || !isPlaying ? 'opacity-100' : 'opacity-0'
+              className={`absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/95 via-black/75 to-transparent z-20 transition-all duration-300 flex flex-col gap-2 ${
+                showControls || !isPlaying ? 'opacity-100 translate-y-0 pointer-events-auto' : 'opacity-0 translate-y-2 pointer-events-none'
               }`}
             >
               {/* Scrubbing Timeline Slider */}

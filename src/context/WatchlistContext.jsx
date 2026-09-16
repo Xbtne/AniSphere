@@ -192,28 +192,28 @@ export function WatchlistProvider({ children }) {
 
   // Sitewide Broadcast Announcement
   const [announcement, setAnnouncement] = useState(() => {
-    const celebrationAnnouncement = {
+    const defaultAnnouncement = {
       active: true,
-      message: 'Celebrating 140 Anime! Over 6,050+ Verified English Dub Episodes with Direct Native Playback',
-      type: 'celebration',
-      badge: '140TH ANIME MILESTONE'
+      message: 'AniSphere Direct Streaming Cloud: 150 Complete Anime • 6,300+ Verified Native English Dub Episodes',
+      type: 'info',
+      badge: 'DIRECT STREAMING'
     };
 
     try {
       const saved = localStorage.getItem('anisphere_announcement');
       if (saved) {
         const parsed = JSON.parse(saved);
-        // Automatically upgrade outdated messages to the 140th anime milestone celebration
-        if (!parsed?.message || !parsed.message.includes('140') || parsed.message.includes('100 Legendary') || parsed.message.includes('66 Legendary') || parsed.message.includes('Login as Xron')) {
-          localStorage.setItem('anisphere_announcement', JSON.stringify(celebrationAnnouncement));
-          return celebrationAnnouncement;
+        // Clear out old 140th milestone or outdated celebration messages
+        if (!parsed?.message || parsed.message.includes('140') || parsed.badge?.includes('140') || parsed.type === 'celebration' || parsed.message.includes('100 Legendary') || parsed.message.includes('66 Legendary') || parsed.message.includes('Login as Xron')) {
+          localStorage.setItem('anisphere_announcement', JSON.stringify(defaultAnnouncement));
+          return defaultAnnouncement;
         }
         return parsed;
       }
-      localStorage.setItem('anisphere_announcement', JSON.stringify(celebrationAnnouncement));
-      return celebrationAnnouncement;
+      localStorage.setItem('anisphere_announcement', JSON.stringify(defaultAnnouncement));
+      return defaultAnnouncement;
     } catch {
-      return celebrationAnnouncement;
+      return defaultAnnouncement;
     }
   });
 

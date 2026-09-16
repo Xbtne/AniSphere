@@ -50,15 +50,14 @@ export default function AdminPanel({ isOpen, onClose }) {
   // Announcement state
   const [announceActive, setAnnounceActive] = useState(announcement?.active ?? true);
   const [announceMessage, setAnnounceMessage] = useState(announcement?.message ?? '');
-  const [announceType, setAnnounceType] = useState(announcement?.type ?? 'celebration');
-  const [announceBadge, setAnnounceBadge] = useState(announcement?.badge ?? '140TH ANIME MILESTONE');
+  const [announceType, setAnnounceType] = useState(announcement?.type ?? 'info');
+  const [announceBadge, setAnnounceBadge] = useState(announcement?.badge ?? 'DIRECT STREAMING');
   const [announceSaved, setAnnounceSaved] = useState(false);
 
   // Mature controls state
   const [matureSearch, setMatureSearch] = useState('');
   const [editingMatureId, setEditingMatureId] = useState(null);
   const [selectedRating, setSelectedRating] = useState('TV-MA');
-  const [selectedWarnings, setSelectedWarnings] = useState('Intense action, mature themes');
 
   if (!isOpen) return null;
 
@@ -77,21 +76,21 @@ export default function AdminPanel({ isOpen, onClose }) {
   const staffPicksCount = Object.values(staffPicks).filter((p) => p.isStaffPick).length;
 
   const handleApplyPreset = (presetKey) => {
-    if (presetKey === '140th') {
+    if (presetKey === '150-catalog') {
       setAnnounceActive(true);
-      setAnnounceType('celebration');
-      setAnnounceBadge('140TH ANIME MILESTONE');
-      setAnnounceMessage('Celebrating 140 Anime! Over 6,050+ Verified English Dub Episodes with Direct Native Playback');
+      setAnnounceType('info');
+      setAnnounceBadge('CATALOG EXPANDED');
+      setAnnounceMessage('AniSphere Direct Streaming Cloud: 150 Complete Anime with 6,300+ Verified English Dub Episodes!');
     } else if (presetKey === 'new-dubs') {
       setAnnounceActive(true);
-      setAnnounceType('celebration');
+      setAnnounceType('info');
       setAnnounceBadge('NEW DUBS ADDED');
-      setAnnounceMessage('✨ Fresh 2024 English dub releases added to the AniSphere catalog with 100% direct streams!');
+      setAnnounceMessage('✨ Fresh English dub releases added to the AniSphere catalog with 100% direct streams!');
     } else if (presetKey === 'cdn') {
       setAnnounceActive(true);
       setAnnounceType('info');
       setAnnounceBadge('SYSTEM UPDATE');
-      setAnnounceMessage('⚡ Direct high-speed CDN playback enabled across all 140 anime with zero buffering.');
+      setAnnounceMessage('⚡ Direct high-speed CDN playback enabled across all 150 anime with zero buffering.');
     }
   };
 
@@ -366,11 +365,11 @@ export default function AdminPanel({ isOpen, onClose }) {
                 <div className="flex flex-wrap gap-2">
                   <button
                     type="button"
-                    onClick={() => handleApplyPreset('140th')}
-                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-gradient-to-r from-amber-500/25 to-yellow-500/25 border border-amber-500/40 text-amber-300 text-xs font-bold hover:scale-105 active:scale-95 transition-all"
+                    onClick={() => handleApplyPreset('150-catalog')}
+                    className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-gradient-to-r from-emerald-500/25 to-teal-500/25 border border-emerald-500/40 text-emerald-300 text-xs font-bold hover:scale-105 active:scale-95 transition-all"
                   >
-                    <PartyPopper className="w-3.5 h-3.5 text-amber-400" />
-                    <span>🎉 140th Anime Celebration</span>
+                    <Sparkles className="w-3.5 h-3.5 text-emerald-400" />
+                    <span>🚀 150 Complete Catalog</span>
                   </button>
                   <button
                     type="button"
@@ -414,7 +413,7 @@ export default function AdminPanel({ isOpen, onClose }) {
                       value={announceBadge}
                       onChange={(e) => setAnnounceBadge(e.target.value)}
                       className="w-full px-4 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white placeholder-gray-500 focus:outline-none focus:border-amber-500/50 text-sm font-bold"
-                      placeholder="e.g. 140TH ANIME MILESTONE"
+                      placeholder="e.g. DIRECT STREAMING"
                     />
                   </div>
 

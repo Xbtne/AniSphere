@@ -23,7 +23,6 @@ import { useWatchlist } from '../context/WatchlistContext';
 import { useAuth } from '../context/AuthContext';
 import AuthModal from './AuthModal';
 import AnnouncementBar from './AnnouncementBar';
-import MilestoneCelebrationModal from './MilestoneCelebrationModal';
 
 export default function Navbar({
   onOpenSearch,
@@ -39,7 +38,6 @@ export default function Navbar({
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [announcementDismissed, setAnnouncementDismissed] = useState(false);
-  const [isCelebrationModalOpen, setIsCelebrationModalOpen] = useState(false);
   const { watchlist, announcement } = useWatchlist();
   const { user, logout, isAuthenticated, isAdmin } = useAuth();
 
@@ -82,7 +80,6 @@ export default function Navbar({
           announcement={announcement}
           onDismiss={() => setAnnouncementDismissed(true)}
           onNavigate={handleNavigate}
-          onOpenCelebrationModal={() => setIsCelebrationModalOpen(true)}
         />
       )}
 
@@ -339,12 +336,6 @@ export default function Navbar({
       )}
 
       <AuthModal isOpen={isAuthModalOpen} onClose={() => setIsAuthModalOpen(false)} />
-      <MilestoneCelebrationModal
-        isOpen={isCelebrationModalOpen}
-        onClose={() => setIsCelebrationModalOpen(false)}
-        onExploreCatalog={() => handleNavigate('featured')}
-        onRollRandom={onRollRandom}
-      />
     </header>
   );
 }

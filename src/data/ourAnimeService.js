@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 6053 verified English Dub streams across 140 complete anime!
+// Total: 6,264+ verified English Dub streams across 150 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -55912,5 +55912,2070 @@ export const OUR_ANIME_CATALOG = [
         "source": "AniSphere Direct"
       }
     ]
-  }
+  },
+{
+  "id": 11061,
+  "title": {
+    "english": "Hunter x Hunter (2011)",
+    "romaji": "HUNTER×HUNTER (2011)",
+    "native": "HUNTER×HUNTER"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sA9iUrbtgqJe.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-sA9iUrbtgqJe.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11061-sA9iUrbtgqJe.png",
+    "color": "#43a047"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-vFpfcugt8tN5.jpg",
+  "description": "Gon Freecss aspires to become a Hunter, an exceptional being capable of greatness. With his friends Killua, Kurapika, and Leorio, Gon embarks on a perilous quest through the grueling Hunter Exam and the treacherous underworld of Nen combat.",
+  "averageScore": 90,
+  "seasonYear": 2011,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "LEGENDARY SHONEN • 50 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "Togashi's masterpiece shonen adventure with unrivaled Nen battle strategy!",
+  "isMature": false,
+  "contentRating": "TV-14",
+  "contentWarnings": [
+    "Martial Arts Action",
+    "Fantasy Violence"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2001%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2001%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2001%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2002%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2002%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2002%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2003%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2003%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2003%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2004%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2004%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2004%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2005%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2005%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2005%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2006%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2006%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2006%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2007%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2007%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2007%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2008%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2008%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2008%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2009%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2009%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2009%5D%20%5BBD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2010%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2010%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2010%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2011%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2011%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2011%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2012%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2012%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2012%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2013%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2013%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2013%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Episode 14: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2014%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2014%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2014%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Episode 15: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2015%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2015%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2015%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Episode 16: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2016%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2016%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2016%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Episode 17: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2017%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2017%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2017%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Episode 18: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2018%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2018%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2018%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Episode 19: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2019%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2019%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2019%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Episode 20: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2020%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2020%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2020%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Episode 21: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2021%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2021%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2021%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Episode 22: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2022%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2022%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2022%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Episode 23: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2023%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2023%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2023%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Episode 24: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2024%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2024%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2024%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 25,
+      "title": "Episode 25: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2025%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2025%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2025%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 26,
+      "title": "Episode 26: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2026%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2026%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2026%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 27,
+      "title": "Episode 27: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2027%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2027%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2027%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 28,
+      "title": "Episode 28: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2028%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2028%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2028%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 29,
+      "title": "Episode 29: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2029%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2029%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2029%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 30,
+      "title": "Episode 30: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2030%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2030%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2030%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 31,
+      "title": "Episode 31: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2031%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2031%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2031%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 32,
+      "title": "Episode 32: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2032%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2032%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2032%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 33,
+      "title": "Episode 33: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2033%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2033%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2033%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 34,
+      "title": "Episode 34: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2034%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2034%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2034%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 35,
+      "title": "Episode 35: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2035%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2035%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2035%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 36,
+      "title": "Episode 36: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2036%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2036%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2036%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 37,
+      "title": "Episode 37: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2037%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2037%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2037%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 38,
+      "title": "Episode 38: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2038%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2038%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2038%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 39,
+      "title": "Episode 39: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2039%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2039%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2039%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 40,
+      "title": "Episode 40: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2040%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2040%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2040%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 41,
+      "title": "Episode 41: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2041%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2041%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2041%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 42,
+      "title": "Episode 42: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2042%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2042%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2042%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 43,
+      "title": "Episode 43: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2043%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2043%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2043%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 44,
+      "title": "Episode 44: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2044%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2044%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2044%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 45,
+      "title": "Episode 45: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2045%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2045%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2045%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 46,
+      "title": "Episode 46: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2046%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2046%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2046%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 47,
+      "title": "Episode 47: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2047%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2047%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2047%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 48,
+      "title": "Episode 48: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2048%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2048%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2048%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 49,
+      "title": "Episode 49: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2049%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2049%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2049%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 50,
+      "title": "Episode 50: Hunter x Hunter 2011 (English Dub)",
+      "duration": "23:45",
+      "videoUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2050%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2050%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/U.U.THunterXHunter2011Ep01-50_720pUPByDarkSniper/%5BU.T%5D%20%5BHunter%20X%20Hunter%202011%20Ep%2050%5D%20%5BHD_720p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    }
+  ]
+},
+{
+  "id": 11757,
+  "title": {
+    "english": "Sword Art Online",
+    "romaji": "Sword Art Online",
+    "native": "ソードアート・オンライン"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-Q9P2zjCPnDqu.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-Q9P2zjCPnDqu.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11757-Q9P2zjCPnDqu.png",
+    "color": "#00bcd4"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11757-m6q9T7Vb8sU5.jpg",
+  "description": "In the year 2022, virtual reality gaming has advanced by leaps and bounds with the NerveGear. When 10,000 players log into the revolutionary MMORPG Sword Art Online, they discover that they cannot log out—and death in the game means death in the real world.",
+  "averageScore": 72,
+  "seasonYear": 2012,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "VRMMO PHENOMENON • 25 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "The iconic VRMMO death game that defined a generation of isekai and fantasy anime.",
+  "isMature": false,
+  "contentRating": "TV-14",
+  "contentWarnings": [
+    "Fantasy Violence",
+    "Mild Language"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2001%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2001%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2001%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2002%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2002%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2002%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2003%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2003%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2003%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2004%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2004%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2004%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2005%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2005%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2005%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2006%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2006%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2006%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2007%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2007%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2007%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2008%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2008%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2008%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2009%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2009%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2009%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2010%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2010%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2010%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2011%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2011%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2011%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2012%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2012%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2012%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2013%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2013%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2013%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Episode 14: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2014%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2014%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2014%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Episode 15: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2015%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2015%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2015%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Episode 16: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2016%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2016%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2016%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Episode 17: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2017%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2017%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2017%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Episode 18: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2018%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2018%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2018%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Episode 19: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2019%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2019%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2019%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Episode 20: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2020%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2020%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2020%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Episode 21: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2021%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2021%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2021%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Episode 22: Sword Art Online S1 (English Dub)",
+      "duration": "23:40",
+      "videoUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2025%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "dubUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2025%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4",
+      "subUrl": "https://archive.org/download/SAOS1AllEps_BD1080pUPByDarkSniper_201501/%5BU.T%5D%20%5BSword%20Art%20Online%20S1%20Ep%2025%5D%5BBD_1080p%5D%20UP%20By%20Dark%20Sniper.mp4"
+    }
+  ]
+},
+{
+  "id": 20613,
+  "title": {
+    "english": "Akame ga Kill!",
+    "romaji": "Akame ga Kill!",
+    "native": "アカメが斬る！"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-kQ2O01WvHqD6.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20613-kQ2O01WvHqD6.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20613-kQ2O01WvHqD6.jpg",
+    "color": "#e53935"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20613-568Z7vP58Lh3.jpg",
+  "description": "Tatsumi is a fighter who sets off to the Capital to raise money for his impoverished village, only to discover the horrific corruption of the Empire. He is recruited by Night Raid, a covert squad of assassins wielding Imperial Arms to overthrow the tyranny.",
+  "averageScore": 75,
+  "seasonYear": 2014,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Thriller"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "DARK FANTASY • 24 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "Ruthless assassin action with high stakes Imperial Arms warfare!",
+  "isMature": true,
+  "contentRating": "TV-MA",
+  "contentWarnings": [
+    "Graphic Violence",
+    "Blood & Gore"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_01_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_01_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_01_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_02_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_02_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_02_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_03_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_03_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_03_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_04_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_04_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_04_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_05_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_05_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_05_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_06_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_06_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_06_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_07_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_07_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_07_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_08_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_08_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_08_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_09_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_09_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_09_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_10_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_10_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_10_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_11_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_11_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_11_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_12_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_12_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_12_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_13_BD_720p_FFF%20-%20Copy.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_13_BD_720p_FFF%20-%20Copy.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_13_BD_720p_FFF%20-%20Copy.mp4"
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Episode 14: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_14_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_14_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_14_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Episode 15: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_15_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_15_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_15_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Episode 16: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_16_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_16_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_16_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Episode 17: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_17_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_17_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_17_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Episode 18: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_18_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_18_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_18_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Episode 19: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_19_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_19_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_19_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Episode 20: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_20_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_20_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_20_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Episode 21: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_21_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_21_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_21_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Episode 22: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_22_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_22_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_22_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Episode 23: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_23_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_23_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_23_BD_720p_FFF.mp4"
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Episode 24: Akame ga Kill! (English Dub)",
+      "duration": "23:30",
+      "videoUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_24_BD_720p_FFF.mp4",
+      "dubUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_24_BD_720p_FFF.mp4",
+      "subUrl": "https://archive.org/download/anime-pahe-akame-ga-kill-16-bd-720p-fff_202506/AnimePahe_Akame_ga_Kill_-_24_BD_720p_FFF.mp4"
+    }
+  ]
+},
+{
+  "id": 18679,
+  "title": {
+    "english": "Kill la Kill",
+    "romaji": "Kill la Kill",
+    "native": "キルラキル"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18679-b1dZ4Xo1QyWJ.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18679-b1dZ4Xo1QyWJ.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx18679-b1dZ4Xo1QyWJ.jpg",
+    "color": "#d32f2f"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18679-6bK8OQ58kXf2.jpg",
+  "description": "Ryuko Matoi roams from place to place searching for clues to the murder of her father with the Scissor Blade. She arrives at Honnouji Academy, ruled by the iron fist of student council president Satsuki Kiryuin and Goku Uniforms powered by Life Fibers.",
+  "averageScore": 80,
+  "seasonYear": 2013,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "TRIGGER MASTERPIECE • 24 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "Hyper-stylized action, explosive soundtrack by Hiroyuki Sawano, and pure adrenaline.",
+  "isMature": true,
+  "contentRating": "TV-MA",
+  "contentWarnings": [
+    "Ecchi Themes",
+    "Intense Action Violence"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2001%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2001%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2001%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2002%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2002%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2002%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2003%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2003%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2003%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2004%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2004%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2004%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2005%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2005%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2005%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2006%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2006%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2006%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2007%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2007%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2007%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2008%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2008%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2008%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2009%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2009%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2009%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2010%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2010%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2010%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2011%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2011%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2011%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2012%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2012%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2012%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2013%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2013%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2013%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Episode 14: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2014%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2014%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2014%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Episode 15: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2015%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2015%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2015%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Episode 16: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2016%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2016%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2016%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Episode 17: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2017%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2017%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2017%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Episode 18: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2018%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2018%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2018%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Episode 19: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2019%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2019%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2019%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Episode 20: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2020%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2020%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2020%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Episode 21: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2021%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2021%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2021%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Episode 22: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2022%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2022%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2022%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Episode 23: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2023%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2023%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2023%20%5B1080p%5D.mp4"
+    },
+    {
+      "episodeNumber": 24,
+      "title": "Episode 24: Kill la Kill (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2024%20%5B1080p%5D.mp4",
+      "dubUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2024%20%5B1080p%5D.mp4",
+      "subUrl": "https://archive.org/download/horrible-subs-kill-la-kill-17-1080p_202512/%5BHorribleSubs%5D%20Kill%20la%20Kill%20-%2024%20%5B1080p%5D.mp4"
+    }
+  ]
+},
+{
+  "id": 2167,
+  "title": {
+    "english": "Clannad",
+    "romaji": "CLANNAD",
+    "native": "CLANNAD"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2167-eYv97X8ZgG4H.png",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2167-eYv97X8ZgG4H.png",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2167-eYv97X8ZgG4H.png",
+    "color": "#ff9800"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2167-s09GZ0uY1Xm4.jpg",
+  "description": "Tomoya Okazaki is a delinquent who finds life dull and believes he'll never amount to anything. Along with his friend Youhei Sunohara, he wastes his high school days away. One fateful morning on his way to school, Tomoya meets Nagisa Furukawa.",
+  "averageScore": 80,
+  "seasonYear": 2007,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "EMOTIONAL MASTERPIECE • 23 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "Kyoto Animation's legendary heart-wrenching emotional journey of family and bonds.",
+  "isMature": false,
+  "contentRating": "TV-PG",
+  "contentWarnings": [
+    "Emotional Themes",
+    "Mild Drama"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2001%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2001%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2001%20.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2002%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2002%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2002%20.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2003%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2003%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2003%20.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2004%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2004%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2004%20.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2005%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2005%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2005%20.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2006%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2006%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2006%20.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2007%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2007%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2007%20.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2008%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2008%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2008%20.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2009%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2009%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2009%20.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2010%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2010%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2010%20.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2011%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2011%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2011%20.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2012%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2012%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2012%20.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2013%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2013%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2013%20.mp4"
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Episode 14: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2014%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2014%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2014%20.mp4"
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Episode 15: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2015%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2015%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2015%20.mp4"
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Episode 16: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2016%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2016%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2016%20.mp4"
+    },
+    {
+      "episodeNumber": 17,
+      "title": "Episode 17: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2017%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2017%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2017%20.mp4"
+    },
+    {
+      "episodeNumber": 18,
+      "title": "Episode 18: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2018%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2018%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2018%20.mp4"
+    },
+    {
+      "episodeNumber": 19,
+      "title": "Episode 19: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2019%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2019%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2019%20.mp4"
+    },
+    {
+      "episodeNumber": 20,
+      "title": "Episode 20: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2020%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2020%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2020%20.mp4"
+    },
+    {
+      "episodeNumber": 21,
+      "title": "Episode 21: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2021%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2021%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2021%20.mp4"
+    },
+    {
+      "episodeNumber": 22,
+      "title": "Episode 22: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2022%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2022%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2022%20.mp4"
+    },
+    {
+      "episodeNumber": 23,
+      "title": "Episode 23: Clannad (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2023%20.mp4",
+      "dubUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2023%20.mp4",
+      "subUrl": "https://archive.org/download/Clannad-Season-1/%5BNep_Blanc%5D%20Clannad%2023%20.mp4"
+    }
+  ]
+},
+{
+  "id": 2251,
+  "title": {
+    "english": "Baccano!",
+    "romaji": "Baccano!",
+    "native": "バッカーノ！"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2251-54N2LgYmGkP8.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2251-54N2LgYmGkP8.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2251-54N2LgYmGkP8.jpg",
+    "color": "#795548"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2251-mY2N9Zq9rP1X.jpg",
+  "description": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, begins its legendary journey that will leave a trail of blood across the country. In New York, the ambitious scientist Szilard and his unwilling aide Ennis search for missing bottles of the immortality elixir.",
+  "averageScore": 83,
+  "seasonYear": 2007,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mystery",
+    "Supernatural"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "PROHIBITION CRIME • 16 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "One of the greatest English dubs in anime history. Pure 1930s gangster chaos.",
+  "isMature": true,
+  "contentRating": "TV-MA",
+  "contentWarnings": [
+    "Violent Gang Warfare",
+    "Blood"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep1.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep1.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep1.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep2.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep2.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep2.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep3.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep3.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep3.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep4.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep4.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep4.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep5.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep5.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep5.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep6.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep6.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep6.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep7.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep7.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep7.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep8.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep8.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep8.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep9.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep9.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep9.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep10.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep10.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep10.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep11.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep11.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep11.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep12.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep12.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep12.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep13.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep13.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep13.mp4"
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Episode 14: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep14.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep14.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep14.mp4"
+    },
+    {
+      "episodeNumber": 15,
+      "title": "Episode 15: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep15.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep15.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep15.mp4"
+    },
+    {
+      "episodeNumber": 16,
+      "title": "Episode 16: Baccano! (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep16.mp4",
+      "dubUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep16.mp4",
+      "subUrl": "https://archive.org/download/baccano-ep-13/Baccano%20ep16.mp4"
+    }
+  ]
+},
+{
+  "id": 97986,
+  "title": {
+    "english": "Made in Abyss",
+    "romaji": "Made in Abyss",
+    "native": "メイドインアビス"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-7K5vP2O0w7J1.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-7K5vP2O0w7J1.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx97986-7K5vP2O0w7J1.jpg",
+    "color": "#8d6e63"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97986-9m2GqX56aL7H.jpg",
+  "description": "An enormous pit and cave system called the 'Abyss' is the only unexplored place in the world. Strange and wonderful creatures reside in its depths, along with precious relics. Riko, an orphan girl living in Orth, dreams of exploring the depths like her mother.",
+  "averageScore": 86,
+  "seasonYear": 2017,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "DARK EXPEDITION • 13 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "Visually stunning worldbuilding coupled with profound psychological dread.",
+  "isMature": true,
+  "contentRating": "TV-MA",
+  "contentWarnings": [
+    "Body Horror",
+    "Disturbing Themes",
+    "Graphic Suffering"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep01.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep01.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep01.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep02.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep02.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep02.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep03.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep03.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep03.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep04.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep04.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep04.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep05.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep05.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep05.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep06.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep06.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep06.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep07.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep07.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep07.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep08.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep08.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep08.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep09.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep09.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep09.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep10.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep10.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep10.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep11.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep11.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep11.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep12.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep12.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep12.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: Made in Abyss (English Dub)",
+      "duration": "25:00",
+      "videoUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep13.mp4",
+      "dubUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep13.mp4",
+      "subUrl": "https://archive.org/download/made-in-abyss-xiczcix/(xiczcix)_made_in_abyss_ep13.mp4"
+    }
+  ]
+},
+{
+  "id": 226,
+  "title": {
+    "english": "Elfen Lied",
+    "romaji": "Elfen Lied",
+    "native": "エルフェンリート"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx226-5bF84W26o4J9.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx226-5bF84W26o4J9.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx226-5bF84W26o4J9.jpg",
+    "color": "#c2185b"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/226-8jO0q4K9lX2B.jpg",
+  "description": "Lucy is a special breed of human referred to as a 'Diclonius', born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation. However, once circumstances present her an opportunity to escape, Lucy unleashes a torrent of bloodshed.",
+  "averageScore": 74,
+  "seasonYear": 2004,
+  "genres": [
+    "Action",
+    "Drama",
+    "Horror",
+    "Psychological",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "SCI-FI HORROR CLASSIC • 14 DUB EPS",
+  "isStaffPick": false,
+  "staffNotes": "Legendary cult classic sci-fi horror that influenced modern western thrillers.",
+  "isMature": true,
+  "contentRating": "TV-MA",
+  "contentWarnings": [
+    "Extreme Gore",
+    "Nudity",
+    "Psychological Horror"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: 1. A Chance Encounter ~ Begegnung (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F1.%20A%20Chance%20Encounter%20~%20Begegnung.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F1.%20A%20Chance%20Encounter%20~%20Begegnung.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F1.%20A%20Chance%20Encounter%20~%20Begegnung.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: 2. Annihilation ~ Vernichtung (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F2.%20Annihilation%20~%20Vernichtung.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F2.%20Annihilation%20~%20Vernichtung.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F2.%20Annihilation%20~%20Vernichtung.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: 3. Deep Feelings ~ Im Innersten (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F3.%20Deep%20Feelings%20~%20Im%20Innersten.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F3.%20Deep%20Feelings%20~%20Im%20Innersten.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F3.%20Deep%20Feelings%20~%20Im%20Innersten.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: 4. Attack ~ Aufeinandertreffen (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F4.%20Attack%20~%20Aufeinandertreffen.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F4.%20Attack%20~%20Aufeinandertreffen.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F4.%20Attack%20~%20Aufeinandertreffen.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: 5. Receipt ~ Empfang (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F5.%20Receipt%20~%20Empfang.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F5.%20Receipt%20~%20Empfang.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F5.%20Receipt%20~%20Empfang.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: 6. Innermost Feelings ~ Herzenswärme (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F6.%20Innermost%20Feelings%20~%20Herzensw%C3%A4rme.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F6.%20Innermost%20Feelings%20~%20Herzensw%C3%A4rme.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F6.%20Innermost%20Feelings%20~%20Herzensw%C3%A4rme.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: 7. Confrontation ~ Zufällige Begegnung (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F7.%20Confrontation%20~%20Zuf%C3%A4llige%20Begegnung.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F7.%20Confrontation%20~%20Zuf%C3%A4llige%20Begegnung.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F7.%20Confrontation%20~%20Zuf%C3%A4llige%20Begegnung.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: 8. The Beginning ~ Beginn (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F8.%20The%20Beginning%20~%20Beginn.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F8.%20The%20Beginning%20~%20Beginn.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F8.%20The%20Beginning%20~%20Beginn.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: 9. Reminiscence ~ Schöne Erinnerung (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F9.%20Reminiscence%20~%20Sch%C3%B6ne%20Erinnerung.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F9.%20Reminiscence%20~%20Sch%C3%B6ne%20Erinnerung.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F9.%20Reminiscence%20~%20Sch%C3%B6ne%20Erinnerung.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: 10. Infant ~ Säugling (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F10.%20Infant%20~%20S%C3%A4ugling.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F10.%20Infant%20~%20S%C3%A4ugling.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F10.%20Infant%20~%20S%C3%A4ugling.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: 10.5 In the rain, or, how can a girl have reached such feelings (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F10.5%20In%20the%20rain%2C%20or%2C%20how%20can%20a%20girl%20have%20reached%20such%20feelings.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F10.5%20In%20the%20rain%2C%20or%2C%20how%20can%20a%20girl%20have%20reached%20such%20feelings.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F10.5%20In%20the%20rain%2C%20or%2C%20how%20can%20a%20girl%20have%20reached%20such%20feelings.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: 11. Complication ~ Vermischung (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F11.%20Complication%20~%20Vermischung.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F11.%20Complication%20~%20Vermischung.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F11.%20Complication%20~%20Vermischung.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: 12. Quagmire ~ Taumeln (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F12.%20Quagmire%20~%20Taumeln.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F12.%20Quagmire%20~%20Taumeln.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F12.%20Quagmire%20~%20Taumeln.mp4"
+    },
+    {
+      "episodeNumber": 14,
+      "title": "Episode 14: 13. No Return ~ Erleuchtung (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F13.%20No%20Return%20~%20Erleuchtung.mp4",
+      "dubUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F13.%20No%20Return%20~%20Erleuchtung.mp4",
+      "subUrl": "https://archive.org/download/2.-annihilation-vernichtung/Elfen%20Lied%201-13%20all%2F13.%20No%20Return%20~%20Erleuchtung.mp4"
+    }
+  ]
+},
+{
+  "id": 101759,
+  "title": {
+    "english": "The Promised Neverland",
+    "romaji": "Yakusoku no Neverland",
+    "native": "約束のネバーランド"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-NhSwCoGsPuo9.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-NhSwCoGsPuo9.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101759-NhSwCoGsPuo9.jpg",
+    "color": "#e65100"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101759-6L66O3P9ZtY8.jpg",
+  "description": "At Grace Field House, life couldn't be better for the orphans. Though they have no parents, together with the other kids and a kind 'Mama', they form one big, happy family. However, all the illusions of their peaceful life are shattered when Emma and Norman uncover the sinister reality behind their orphanage.",
+  "averageScore": 84,
+  "seasonYear": 2019,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "PSYCHOLOGICAL ESCAPE • 12 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "Masterclass mind games and heart-pounding suspense from beginning to end.",
+  "isMature": false,
+  "contentRating": "TV-14",
+  "contentWarnings": [
+    "Intense Psychological Suspense",
+    "Mild Horror Themes"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2001.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2001.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2001.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2002.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2002.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2002.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2003.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2003.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2003.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2004.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2004.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2004.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2005.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2005.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2005.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2006.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2006.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2006.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2007.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2007.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2007.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2008.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2008.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2008.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2009.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2009.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2009.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2010.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2010.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2010.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2011.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2011.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2011.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: The Promised Neverland Season 1 (English Dub)",
+      "duration": "22:50",
+      "videoUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2012.mp4",
+      "dubUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2012.mp4",
+      "subUrl": "https://archive.org/download/the-promised-neverland_202510_202510/The%20Promised%20Neverland%20Episode%2012.mp4"
+    }
+  ]
+},
+{
+  "id": 6547,
+  "title": {
+    "english": "Angel Beats!",
+    "romaji": "Angel Beats!",
+    "native": "Angel Beats!"
+  },
+  "coverImage": {
+    "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6547-kU4gK2bWp4M3.jpg",
+    "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6547-kU4gK2bWp4M3.jpg",
+    "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6547-kU4gK2bWp4M3.jpg",
+    "color": "#0288d1"
+  },
+  "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6547-4Vb05h6b7Xm1.jpg",
+  "description": "Otonashi awakens only to learn he is dead. A rifle-toting girl named Yuri explains that they are in the afterlife, and Otonashi realizes the only thing he can remember about himself is his name. Yuri tells him that she leads the Shinda Sekai Sensen (Afterlife Battlefront) and wages war against a girl named Tenshi.",
+  "averageScore": 78,
+  "seasonYear": 2010,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Supernatural"
+  ],
+  "format": "TV",
+  "hasDub": true,
+  "badgeText": "AFTERLIFE ACTION • 13 DUB EPS",
+  "isStaffPick": true,
+  "staffNotes": "Legendary blend of explosive slapstick comedy, battle action, and tearjerker drama.",
+  "isMature": false,
+  "contentRating": "TV-14",
+  "contentWarnings": [
+    "Fantasy Gunfight Violence",
+    "Emotional Themes"
+  ],
+  "episodes": [
+    {
+      "episodeNumber": 1,
+      "title": "Episode 1: angle beats 1 departure (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/angle%20beats%201%20departure%20.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/angle%20beats%201%20departure%20.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/angle%20beats%201%20departure%20.mp4"
+    },
+    {
+      "episodeNumber": 2,
+      "title": "Episode 2: ep 2 guild (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%202%20guild%20.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%202%20guild%20.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%202%20guild%20.mp4"
+    },
+    {
+      "episodeNumber": 3,
+      "title": "Episode 3: ep 3 my song (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%203%20my%20song.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%203%20my%20song.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%203%20my%20song.mp4"
+    },
+    {
+      "episodeNumber": 4,
+      "title": "Episode 4: ep 4 game day (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%204%20game%20day.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%204%20game%20day.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%204%20game%20day.mp4"
+    },
+    {
+      "episodeNumber": 5,
+      "title": "Episode 5: ep 5 favorite flavor (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%205%20favorite%20flavor%20.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%205%20favorite%20flavor%20.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%205%20favorite%20flavor%20.mp4"
+    },
+    {
+      "episodeNumber": 6,
+      "title": "Episode 6: family affairs ep6 (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/family%20affairs%20ep6.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/family%20affairs%20ep6.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/family%20affairs%20ep6.mp4"
+    },
+    {
+      "episodeNumber": 7,
+      "title": "Episode 7: ep 7 alive (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%207%20alive%20.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%207%20alive%20.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%207%20alive%20.mp4"
+    },
+    {
+      "episodeNumber": 8,
+      "title": "Episode 8: dancer in the dark ep8 (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/dancer%20in%20the%20dark%20ep8.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/dancer%20in%20the%20dark%20ep8.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/dancer%20in%20the%20dark%20ep8.mp4"
+    },
+    {
+      "episodeNumber": 9,
+      "title": "Episode 9: ep 9 in your  memory (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%209%20in%20your%20%20memory%20.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%209%20in%20your%20%20memory%20.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%209%20in%20your%20%20memory%20.mp4"
+    },
+    {
+      "episodeNumber": 10,
+      "title": "Episode 10: ep 10 good bye days (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%2010%20good%20bye%20days.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%2010%20good%20bye%20days.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%2010%20good%20bye%20days.mp4"
+    },
+    {
+      "episodeNumber": 11,
+      "title": "Episode 11: ep 11 changing the world (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%2011%20changing%20the%20world%20.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%2011%20changing%20the%20world%20.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%2011%20changing%20the%20world%20.mp4"
+    },
+    {
+      "episodeNumber": 12,
+      "title": "Episode 12: ep 12 knocking on  heavens door (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep%2012%20knocking%20on%20%20heavens%20door.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep%2012%20knocking%20on%20%20heavens%20door.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep%2012%20knocking%20on%20%20heavens%20door.mp4"
+    },
+    {
+      "episodeNumber": 13,
+      "title": "Episode 13: ep13 graduation (English Dub)",
+      "duration": "24:00",
+      "videoUrl": "https://archive.org/download/angle-beats/ep13%20graduation%20.mp4",
+      "dubUrl": "https://archive.org/download/angle-beats/ep13%20graduation%20.mp4",
+      "subUrl": "https://archive.org/download/angle-beats/ep13%20graduation%20.mp4"
+    }
+  ]
+}
 ];
