@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 6523+ verified English Dub streams across 167 complete anime!
+// Total: 6535+ verified English Dub streams across 167 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -31,7 +31,7 @@ export const OUR_ANIME_CATALOG = [
     ],
     "format": "TV",
     "hasDub": true,
-    "badgeText": "HOT NEW 2024 • 12 DUB EPS",
+    "badgeText": "HOT NEW 2024 • 24 DUB EPS",
     "isStaffPick": true,
     "staffNotes": "Supernatural alien chaos with mind-blowing animation and comedy!",
     "isMature": false,
@@ -43,99 +43,195 @@ export const OUR_ANIME_CATALOG = [
     "episodes": [
       {
         "episodeNumber": 1,
-        "title": "Episode 1 (English Dub)",
+        "title": "Episode 1: That's How Love Starts, Ya Know! (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/1-%20That's%20How%20Love%20Starts,%20Ya%20Know!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/1-%20That's%20How%20Love%20Starts,%20Ya%20Know!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/1-%20That's%20How%20Love%20Starts,%20Ya%20Know!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E01.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E01.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E01.mp4"
       },
       {
         "episodeNumber": 2,
-        "title": "Episode 2 (English Dub)",
+        "title": "Episode 2: That's a Space Alien, Ain't It! (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/2%20-%20That's%20a%20Space%20Alien,%20Ain't%20It!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/2%20-%20That's%20a%20Space%20Alien,%20Ain't%20It!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/2%20-%20That's%20a%20Space%20Alien,%20Ain't%20It!%20%5B1080p%5D%20%5BHDTV%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E02.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E02.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E02.mp4"
       },
       {
         "episodeNumber": 3,
-        "title": "Episode 3 (English Dub)",
+        "title": "Episode 3: It's a Granny vs. Granny Clash! (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/3%20-%20It's%20a%20Granny%20vs.%20Granny%20Clash!%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/3%20-%20It's%20a%20Granny%20vs.%20Granny%20Clash!%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/3%20-%20It's%20a%20Granny%20vs.%20Granny%20Clash!%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E03.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E03.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E03.mp4"
       },
       {
         "episodeNumber": 4,
-        "title": "Episode 4 (English Dub)",
+        "title": "Episode 4: Kicking Turbo Granny's Ass (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/4%20-%20%20Kicking%20Turbo%20Granny's%20Ass%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/4%20-%20%20Kicking%20Turbo%20Granny's%20Ass%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/4%20-%20%20Kicking%20Turbo%20Granny's%20Ass%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E04.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E04.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E04.mp4"
       },
       {
         "episodeNumber": 5,
-        "title": "Episode 5 (English Dub)",
+        "title": "Episode 5: Like, Where Are Your Balls! (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/5%20-%20Like,%20Where%20Are%20Your%20Balls!%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/5%20-%20Like,%20Where%20Are%20Your%20Balls!%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/5%20-%20Like,%20Where%20Are%20Your%20Balls!%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E05.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E05.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E05.mp4"
       },
       {
         "episodeNumber": 6,
-        "title": "Episode 6 (English Dub)",
+        "title": "Episode 6: A Dangerous Woman Arrives (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/6%20-%20A%20Dangerous%20Woman%20Arrives%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/6%20-%20A%20Dangerous%20Woman%20Arrives%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/6%20-%20A%20Dangerous%20Woman%20Arrives%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E06.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E06.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E06.mp4"
       },
       {
         "episodeNumber": 7,
-        "title": "Episode 7 (English Dub)",
+        "title": "Episode 7: To a Kinder World (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E07.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E07.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E07.mp4"
       },
       {
         "episodeNumber": 8,
-        "title": "Episode 8 (English Dub)",
+        "title": "Episode 8: I've Got This Funny Feeling (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/7%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E08.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E08.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E08.mp4"
       },
       {
         "episodeNumber": 9,
-        "title": "Episode 9 (English Dub)",
+        "title": "Episode 9: Merge! Serpo Dover Demon Nessie! (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20I've%20Got%20This%20Funny%20Feeling%20%5BAS-DL%5D%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E09.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E09.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E09.mp4"
       },
       {
         "episodeNumber": 10,
-        "title": "Episode 10 (English Dub)",
+        "title": "Episode 10: Have You Ever Seen a Cattle Mutilation? (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/8%20-%20To%20a%20Kinder%20World%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E10.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E10.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E10.mp4"
       },
       {
         "episodeNumber": 11,
-        "title": "Episode 11 (English Dub)",
+        "title": "Episode 11: First Love (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/9%20-%20Merge!%20Serpo%20Dover%20Demon%20Nessie!%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/9%20-%20Merge!%20Serpo%20Dover%20Demon%20Nessie!%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/9%20-%20Merge!%20Serpo%20Dover%20Demon%20Nessie!%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E11.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E11.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E11.mp4"
       },
       {
         "episodeNumber": 12,
-        "title": "Episode 12 (English Dub)",
+        "title": "Episode 12: Let's Go to the Cursed House (English Dub)",
         "duration": "24:00",
-        "videoUrl": "https://archive.org/download/toonami-dan-da-dan-promo/10%20-%20Have%20You%20Ever%20Seen%20a%20Cattle%20Mutilation%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "dubUrl": "https://archive.org/download/toonami-dan-da-dan-promo/10%20-%20Have%20You%20Ever%20Seen%20a%20Cattle%20Mutilation%20%5B1080p%5D%20%5BShinny%5D.mp4",
-        "subUrl": "https://archive.org/download/toonami-dan-da-dan-promo/10%20-%20Have%20You%20Ever%20Seen%20a%20Cattle%20Mutilation%20%5B1080p%5D%20%5BShinny%5D.mp4"
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E12.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E12.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S01-E12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13: Episode 13 (Season 2 Ep 1) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E01.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E01.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E01.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14: Episode 14 (Season 2 Ep 2) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E02.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E02.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E02.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15: Episode 15 (Season 2 Ep 3) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E03.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E03.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E03.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16: Episode 16 (Season 2 Ep 4) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E04.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E04.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E04.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17: Episode 17 (Season 2 Ep 5) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E05.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E05.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E05.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18: Episode 18 (Season 2 Ep 6) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E06.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E06.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E06.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19: Episode 19 (Season 2 Ep 7) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E07.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E07.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E07.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20: Episode 20 (Season 2 Ep 8) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E08.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E08.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E08.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21: Episode 21 (Season 2 Ep 9) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E09.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E09.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E09.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22: Episode 22 (Season 2 Ep 10) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E10.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E10.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E10.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23: Episode 23 (Season 2 Ep 11) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E11.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E11.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E11.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24: Episode 24 (Season 2 Ep 12) (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E12.mp4",
+        "dubUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E12.mp4",
+        "subUrl": "https://archive.org/download/dan-da-dan-seasons-1-2/Dan%20Da%20Dan%2Fdandadan_S02-E12.mp4"
       }
     ]
   },
