@@ -1,7 +1,7 @@
 // OUR DIRECT STREAMING SERVICE ANIME CATALOG
 // Built exclusively for AniSphere — 100% native HTML5 video playback
 // 100% ENGLISH DUB ONLY — Every series and movie speaks English!
-// Total: 6,264+ verified English Dub streams across 150 complete anime!
+// Total: 6584+ verified English Dub streams across 167 complete anime!
 
 export const OUR_ANIME_CATALOG = [
   {
@@ -57976,6 +57976,2885 @@ export const OUR_ANIME_CATALOG = [
         "videoUrl": "https://archive.org/download/angle-beats/ep13%20graduation%20.mp4",
         "dubUrl": "https://archive.org/download/angle-beats/ep13%20graduation%20.mp4",
         "subUrl": "https://archive.org/download/angle-beats/ep13%20graduation%20.mp4"
+      }
+    ]
+  },
+  {
+    "id": 7054,
+    "title": {
+      "english": "Maid-Sama!",
+      "romaji": "Kaichou wa Maid-sama!",
+      "native": "会長はメイド様!"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7054-GW4D7VAZG19W.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7054-GW4D7VAZG19W.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7054-GW4D7VAZG19W.png",
+      "color": "#780d28"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7054-iTfiX8juTvRV.jpg",
+    "description": "Being the first female student council president isn't easy, especially when your school just transitioned from an all boys high school to a co-ed one. Aptly nicknamed \"Demon President\" by the boys for her strict disciplinary style, Misaki Ayuzawa is not afraid to use her mastery of Aikido techniques to cast judgment onto the hordes of misbehaving boys and defend the girls at Seika High School.\n\nYet even the perfect Ayuzawa has an embarrassing secret—she works part-time as a maid at a maid café to help her struggling family pay the bills. She has managed to keep her job hidden from her fellow students and maintained her flawless image as a stellar student until one day, Takumi Usui, the most popular boy in school, walks into the maid café. He could destroy her reputation with her secret... or he could twist the student council president around his little finger and use her secret as an opportunity to get closer to her.\n(Source: MAL Rewrite)",
+    "averageScore": 78,
+    "seasonYear": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "ROMANCE CLASSIC • 26 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Iconic high school romantic comedy with witty banter and unforgettable chemistry!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%201%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%201%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%201%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%202%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%202%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%202%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%203%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%203%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid-sama%20Episode%203%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%204%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%204%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%204%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%205%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%205%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%205%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%206%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%206%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%206%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%207%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%207%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%207%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%208%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%208%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%208%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%209%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%209%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%209%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2010%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2010%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2010%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2011%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2011%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2011%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2012%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2012%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2012%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2013%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2013%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2013%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2014%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2014%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2014%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2015%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2015%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2015%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2016%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2016%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2016%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2017%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2017%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2017%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2018%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2018%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2018%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2019%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2019%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2019%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2020%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2020%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2020%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2021%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2021%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2021%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2022%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2022%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2022%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2023%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2023%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2023%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2024%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2024%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2024%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2025%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2025%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2025%20English%20Dubbed.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2026%20English%20Dubbed.mp4",
+        "dubUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2026%20English%20Dubbed.mp4",
+        "subUrl": "https://archive.org/download/kaichou-wa-maid-sama-animax/Kaichou%20wa%20Maid%20sama%20Episode%2026%20English%20Dubbed.mp4"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": {
+      "english": "Fruits Basket",
+      "romaji": "Fruits Basket",
+      "native": "フルーツバスケット"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120-Z5i1sw1xboQP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120-Z5i1sw1xboQP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120-Z5i1sw1xboQP.jpg",
+      "color": "#e4861a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120-PautbsS8uEAe.jpg",
+    "description": "Tohru Honda is 16 year old orphaned girl who gets invited to live in the house of her classmate, the handsome boy Sohma Yuki, and his cousins, 16 year old Kyo and 27 year old Shigure. However, these young men and parts of the rest of their family (both close and distant) hold a curse; if they are hugged by the opposite gender, they transform into animals of the Chinese Zodiac. Everyday is an adventure for sweet Tohru, as she gets to know everyone in the large family better (especially Yuki and Kyo), in both common and bizarre situations. But, the Sohma Family curse is certainly no laughing matter... it also holds horrible cruelty and heartbreak.",
+    "averageScore": 75,
+    "seasonYear": 2001,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "TIMELESS ROMANCE • 26 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Tohru Honda and the cursed Soma zodiac family in an emotional romantic journey.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E01.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E01.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E02.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E02.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E02.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E03.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E03.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E03.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E04.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E04.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E04.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E05.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E05.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E05.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E06.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E06.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E06.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E07.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E07.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E07.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E08.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E08.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E08.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E09.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E09.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E09.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E10.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E10.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E11.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E11.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E12.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E12.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E13.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E13.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E14.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E14.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E15.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E15.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E16.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E16.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E17.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E17.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E18.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E18.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E19.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E19.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E20.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E20.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E21.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E21.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E22.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E22.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E23.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E23.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E24.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E24.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E24.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E25.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E25.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E25.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E26.mp4",
+        "dubUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E26.mp4",
+        "subUrl": "https://archive.org/download/fruits-basket-e-20/Fruits_Basket_E26.mp4"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": {
+      "english": "His and Her Circumstances",
+      "romaji": "Kareshi Kanojo no Jijou",
+      "native": "彼氏彼女の事情"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145-vcSv07afgy6c.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145-vcSv07afgy6c.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145-vcSv07afgy6c.png",
+      "color": "#f1e4c9"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145-RQJdx77yqxnq.jpg",
+    "description": "Miyazawa Yukino is the perfect student. Kind, intelligent, pretty and modest, it's unbelievable that such a person could exist. Little did everyone know Yukino's perfection was just a facade. An act to fulfill her desire for praise and admiration. Her life took a turn however, as a newcomer to their school Arima Soichiro topped the exam rankings. Arima is more than just intelligent, he's also kind, handsome and modest, an unbelievable person who can actually exist. Even worse luck, Arima found out Yukino's secret, blackmailing her to help him out. Their odd relationship soon develops into friendship and eventually into love. But can their love prevail through the many problems that come their way?",
+    "averageScore": 76,
+    "seasonYear": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "STUDIO GAINAX • 26 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Hideaki Anno directed classic romance between two top high school rivals.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)_1.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)_1.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)_1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__2.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__2.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__3.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__3.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__4.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__4.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__5.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__5.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__6.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__6.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__7.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__7.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__8.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__8.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__9.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__9.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__10.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__10.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__11.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__11.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__12.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__12.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__13.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__13.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__14.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__14.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__15.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__15.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__16.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__16.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__17.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__17.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__18.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__18.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__19.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__19.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__20.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__20.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__21.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__21.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__22.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__22.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__23.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__23.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__24.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__24.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__24.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__25.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__25.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__25.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__26.mp4",
+        "dubUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__26.mp4",
+        "subUrl": "https://archive.org/download/kareshi-kanojo-no-jijou-dub/KARESHI%20KANOJO%20NO%20JIJOU%20(DUB)__26.mp4"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "title": {
+      "english": "Love Hina",
+      "romaji": "Love Hina",
+      "native": "ラブひな"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189-ybxKAazvr7cH.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189-ybxKAazvr7cH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189-ybxKAazvr7cH.png",
+      "color": "#e4ae5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189-GKJY2UPwRIqi.jpg",
+    "description": "Keitaro Urashima promised a girl when he was young that they would meet up again at Tokyo University in the future. Sadly, in the National Practice Exam, Keitaro ranked 27th from the bottom. Knowing his grandmother owned a hotel, Keitaro intended to stay there while continuing his studies for Tokyo U, only to find out the hotel had long been transformed into an all-girls dormitory. Through an odd twist of fate, Keitaro eventually became the manager of the dorm, beginning his life of living with 5 other girls.",
+    "averageScore": 66,
+    "seasonYear": 2000,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "LEGENDARY HAREM ROM-COM • 25 DUB EPS",
+    "isStaffPick": false,
+    "staffNotes": "Keitaro must fulfill a childhood promise at the Hinata Inn.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2001.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2001.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2001.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2002.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2002.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2002.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2003.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2003.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2003.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2004.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2004.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2004.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2005.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2005.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2005.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2006.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2006.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2006.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2007.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2007.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2007.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2008.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2008.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2008.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2009.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2009.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2009.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2010.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2010.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2010.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2011.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2011.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2011.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2012.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2012.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2012.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2013.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2013.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2013.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2014.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2014.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2014.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2015.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2015.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2015.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2016.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2016.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2016.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2017.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2017.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2017.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2018.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2018.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2018.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2019.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2019.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2019.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2020.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2020.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2020.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2021.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2021.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2021.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2022.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2022.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2022.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2023.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2023.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2023.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2024.mp4",
+        "dubUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2024.mp4",
+        "subUrl": "https://archive.org/download/fansub_Love_Hina/Love%20Hina%20-%2024.mp4"
+      }
+    ]
+  },
+  {
+    "id": 11887,
+    "title": {
+      "english": "Kokoro Connect",
+      "romaji": "Kokoro Connect",
+      "native": "ココロコネクト"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11887-ypZTwcRqopiL.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11887-ypZTwcRqopiL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11887-ypZTwcRqopiL.jpg",
+      "color": "#e4a150"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11887-DWtqKSd0DBFF.jpg",
+    "description": "The five members of the Cultural Research Club - Taichi Yaegashi, Iori Nagase, Himeko Inaba, Yui Kiriyama, and Yoshifumi Aoki - encounter a bizarre phenomenon one day when Aoki and Yui switch bodies without warning. The same begins to happen to the other club members, throwing their daily lives into disarray.\r\nAt first the five students find some amusement amidst the confusion, but this unwarranted connection also exposes the painful scars hidden within their hearts. As their calm lives are shattered, the relationships between the five students also begin to change...\r\n(Source: Crunchyroll, edited)",
+    "averageScore": 75,
+    "seasonYear": 2012,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "BODY SWAP ROMANCE • 17 DUB EPS",
+    "isStaffPick": true,
+    "staffNotes": "Five high school friends explore romance and trauma through supernatural phenomenon.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2001.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2001.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2001.ia.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2001.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2001.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2001.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2002.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2002.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2002.ia.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2002.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2002.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2002.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2003.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2003.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2003.ia.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2003.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2003.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2003.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2004.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2004.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2004.ia.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2004.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2004.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2004.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2005.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2005.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2005.ia.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2005.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2005.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2005.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2006.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2006.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2006.ia.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2006.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2006.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2006.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2007.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2007.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2007.ia.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2007.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2007.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2007.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2008.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2008.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2008.ia.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2008.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2008.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2008.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2009.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2009.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2009.ia.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2009.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2009.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2009.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2010.ia.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2010.ia.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2010.ia.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2010.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2010.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2010.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2011.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2011.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2011.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2012.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2012.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2012.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2013.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2013.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2013.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2014.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2014.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2014.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2015.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2015.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2015.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2016.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2016.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2016.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2017.mp4",
+        "dubUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2017.mp4",
+        "subUrl": "https://archive.org/download/kokoro-connect-/Kokoro%20Connect%2017.mp4"
+      }
+    ]
+  },
+  {
+    "id": 2034,
+    "title": {
+      "english": "Lovely Complex",
+      "romaji": "Lovely★Complex",
+      "native": "ラブ★コン"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2034-erjg6gzDetAp.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2034-erjg6gzDetAp.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2034-erjg6gzDetAp.png",
+      "color": "#e4d65d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2034-AL1Xtj5GqKu3.jpg",
+    "description": "Love is unusual for Koizumi Risa and Ootani Atsushi, who are both striving to find their ideal partner in high school—172 cm tall Koizumi is much taller than the average girl, and Ootani is much shorter than the average guy at 156 cm. To add to their plights, their crushes fall in love with each other, leaving Koizumi and Ootani comically flustered and heartbroken. To make matters worse, they're even labeled as a comedy duo by their homeroom teacher due to their personalities and the stark difference in their heights, and their classmates even think of their arguments as sketches.\n\nLovely★Complex follows Koizumi and Ootani as they encourage each other in finding love and become close friends. Apart from their ridiculous antics, they soon find out an unexpected similarity in their music and fashion tastes. Maybe they possess a chemistry yet unknown, but could love ever bloom between the mismatched pair?\n\n(Source: MAL Rewrite)",
+    "averageScore": 78,
+    "seasonYear": 2007,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "ROM-COM MASTERPIECE • 24 EPS",
+    "isStaffPick": true,
+    "staffNotes": "The tall girl and short boy duo in one of anime’s greatest romantic comedies.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E18%20-%20The%20Best%20Birthday%20in%20History.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E18%20-%20The%20Best%20Birthday%20in%20History.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E18%20-%20The%20Best%20Birthday%20in%20History.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E19%20-%20Sudden%20Downturn!!%20The%20First%20Date%20Is%20the%20Beginning%20of%20Disaster.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E19%20-%20Sudden%20Downturn!!%20The%20First%20Date%20Is%20the%20Beginning%20of%20Disaster.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E19%20-%20Sudden%20Downturn!!%20The%20First%20Date%20Is%20the%20Beginning%20of%20Disaster.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E20%20-%20Declaration%20of%20War!!%20The%20Dangerous%20Beauty%20Burns%20with%20Envy!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E20%20-%20Declaration%20of%20War!!%20The%20Dangerous%20Beauty%20Burns%20with%20Envy!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E20%20-%20Declaration%20of%20War!!%20The%20Dangerous%20Beauty%20Burns%20with%20Envy!!.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E21%20-%20Premonition%20of%20Separation!%20Risa%20and%20%C5%8Ctani%20Walk%20Separate%20Paths.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E21%20-%20Premonition%20of%20Separation!%20Risa%20and%20%C5%8Ctani%20Walk%20Separate%20Paths.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E21%20-%20Premonition%20of%20Separation!%20Risa%20and%20%C5%8Ctani%20Walk%20Separate%20Paths.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E22%20-%20A%20Catastrophic%20Declaration%20from%20%C5%8Ctani!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E22%20-%20A%20Catastrophic%20Declaration%20from%20%C5%8Ctani!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E22%20-%20A%20Catastrophic%20Declaration%20from%20%C5%8Ctani!!.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E23%20-%20Various%20Paths!!%20Everyone%20Embraces%20Their%20Own%20Circumstances.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E23%20-%20Various%20Paths!!%20Everyone%20Embraces%20Their%20Own%20Circumstances.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E23%20-%20Various%20Paths!!%20Everyone%20Embraces%20Their%20Own%20Circumstances.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E24%20-%20Together%20Forever.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E24%20-%20Together%20Forever.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20-%20S01E24%20-%20Together%20Forever.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E01%20-%20Freshman%20Year%20Summer!%20I'll%20Definitely%20Find%20a%20Boyfriend!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E01%20-%20Freshman%20Year%20Summer!%20I'll%20Definitely%20Find%20a%20Boyfriend!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E01%20-%20Freshman%20Year%20Summer!%20I'll%20Definitely%20Find%20a%20Boyfriend!.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E02%20-%20The%20Ex-Girlfriend%20Love%20Triangle!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E02%20-%20The%20Ex-Girlfriend%20Love%20Triangle!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E02%20-%20The%20Ex-Girlfriend%20Love%20Triangle!.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E03%20-%20A%20Guy%20You%20Like%20or%20a%20Guy%20from%20the%20Past.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E03%20-%20A%20Guy%20You%20Like%20or%20a%20Guy%20from%20the%20Past.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E03%20-%20A%20Guy%20You%20Like%20or%20a%20Guy%20from%20the%20Past.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E04%20-%20Kiss!%20I've%20Fallen%20For%20You!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E04%20-%20Kiss!%20I've%20Fallen%20For%20You!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E04%20-%20Kiss!%20I've%20Fallen%20For%20You!.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E05%20-%20Send%20Forbidden%20Love%20Flying!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E05%20-%20Send%20Forbidden%20Love%20Flying!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E05%20-%20Send%20Forbidden%20Love%20Flying!.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E06%20-%20A%20Maiden's%20Determination!%20Love%20Love%20Confession%20Plan!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E06%20-%20A%20Maiden's%20Determination!%20Love%20Love%20Confession%20Plan!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E06%20-%20A%20Maiden's%20Determination!%20Love%20Love%20Confession%20Plan!!.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E07%20-%20Sunk!%20Worst%20Confession%20in%20History.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E07%20-%20Sunk!%20Worst%20Confession%20in%20History.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E07%20-%20Sunk!%20Worst%20Confession%20in%20History.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E08%20-%20Comeback%20Impossible!%20Major%20Heartbreak!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E08%20-%20Comeback%20Impossible!%20Major%20Heartbreak!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E08%20-%20Comeback%20Impossible!%20Major%20Heartbreak!!.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E09%20-%20Resuscitation!!%20Aim%20for%20Girlfriend%20Status!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E09%20-%20Resuscitation!!%20Aim%20for%20Girlfriend%20Status!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E09%20-%20Resuscitation!!%20Aim%20for%20Girlfriend%20Status!!.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E10%20-%20A%20Confrontation%20with%20the%20Ex-Girlfriend!%20The%20Epic%20Breast-Baring%20Battle!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E10%20-%20A%20Confrontation%20with%20the%20Ex-Girlfriend!%20The%20Epic%20Breast-Baring%20Battle!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E10%20-%20A%20Confrontation%20with%20the%20Ex-Girlfriend!%20The%20Epic%20Breast-Baring%20Battle!!.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E11%20-%20Absolute%20Death!%20Revived%20Love%20with%20the%20Ex-Girlfriend!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E11%20-%20Absolute%20Death!%20Revived%20Love%20with%20the%20Ex-Girlfriend!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E11%20-%20Absolute%20Death!%20Revived%20Love%20with%20the%20Ex-Girlfriend!.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E12%20-%20Recapture%20Love!%20Improve%20as%20a%20Girl%20with%20Winning%20Honmei%20Chocolate!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E12%20-%20Recapture%20Love!%20Improve%20as%20a%20Girl%20with%20Winning%20Honmei%20Chocolate!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E12%20-%20Recapture%20Love!%20Improve%20as%20a%20Girl%20with%20Winning%20Honmei%20Chocolate!!.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E13%20-%20Heating%20Up!%20A%20First%20Kiss%20in%20His%20Room.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E13%20-%20Heating%20Up!%20A%20First%20Kiss%20in%20His%20Room.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E13%20-%20Heating%20Up!%20A%20First%20Kiss%20in%20His%20Room.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E14%20-%20A%20Killer%20Crush%20on%20Maity!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E14%20-%20A%20Killer%20Crush%20on%20Maity!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E14%20-%20A%20Killer%20Crush%20on%20Maity!.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E15%20-%20A%20Dangerous%20Man%2C%20Maity's%20Sweet%20Temptation.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E15%20-%20A%20Dangerous%20Man%2C%20Maity's%20Sweet%20Temptation.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E15%20-%20A%20Dangerous%20Man%2C%20Maity's%20Sweet%20Temptation.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E16%20-%20Maity's%20Magic!%20The%20Transforming%20Patterns%20of%20Love!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E16%20-%20Maity's%20Magic!%20The%20Transforming%20Patterns%20of%20Love!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E16%20-%20Maity's%20Magic!%20The%20Transforming%20Patterns%20of%20Love!.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E17%20-%20Love's%20Iron%20Fist!%20Catch%2C%20O%20Maiden%20Soul!!.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E17%20-%20Love's%20Iron%20Fist!%20Catch%2C%20O%20Maiden%20Soul!!.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E17%20-%20Love's%20Iron%20Fist!%20Catch%2C%20O%20Maiden%20Soul!!.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E18%20-%20The%20Best%20Birthday%20in%20History.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E18%20-%20The%20Best%20Birthday%20in%20History.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E18%20-%20The%20Best%20Birthday%20in%20History.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E19%20-%20Sudden%20Downturn!!%20The%20First%20Date%20Is%20the%20Beginning%20of%20Disaster.mp4",
+        "dubUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E19%20-%20Sudden%20Downturn!!%20The%20First%20Date%20Is%20the%20Beginning%20of%20Disaster.mp4",
+        "subUrl": "https://archive.org/download/lovely-complex-s-01-e-06-a-maidens-determination-love-love-confession-plan/Lovely%20Complex%20Season%2001%2FLovely%20Complex%20-%20S01E19%20-%20Sudden%20Downturn!!%20The%20First%20Date%20Is%20the%20Beginning%20of%20Disaster.mp4"
+      }
+    ]
+  },
+  {
+    "id": 102755,
+    "title": {
+      "english": "Golden Time",
+      "romaji": "Golden Time",
+      "native": "ゴールデンタイム"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102755-9YtWYbF83Uk8.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102755-9YtWYbF83Uk8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/102755-9YtWYbF83Uk8.jpg",
+      "color": "#785028"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102755-9YtWYbF83Uk8.jpg",
+    "description": "In Japan's economic bubble years during the 1980s, a long-serving furniture-style television set made in the 1960s is abandoned at a junkyard. It attempts to escape from its new surroundings.\n\nBackground:\nA theatrically-released short film from production company ROBOT, makers of La Maison en Petits Cubes which won the Best Animated Short Film category at the 2009 Academy Awards. Winner of an Excellence Award in the animation division of the 2013 Japan Media Arts Festival.\n",
+    "averageScore": 66,
+    "seasonYear": 2015,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "COLLEGE ROMANCE • 24 EPS",
+    "isStaffPick": true,
+    "staffNotes": "From the creator of Toradora!, a deep college romance about second chances.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/1.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/1.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/1.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/2.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/2.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/2.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/3.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/3.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/3.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/4.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/4.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/4.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/5.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/5.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/5.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/6.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/6.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/6.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/7.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/7.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/7.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/8.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/8.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/8.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/9.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/9.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/9.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/10.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/10.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/11.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/11.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/12.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/12.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/13.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/13.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/14.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/14.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/15.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/15.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/16.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/16.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/17.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/17.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/18.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/18.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/19.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/19.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/20.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/20.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/21.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/21.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/22.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/22.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/23.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/23.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Golden Time (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/golden-time_202107/24.mp4",
+        "dubUrl": "https://archive.org/download/golden-time_202107/24.mp4",
+        "subUrl": "https://archive.org/download/golden-time_202107/24.mp4"
+      }
+    ]
+  },
+  {
+    "id": 8425,
+    "title": {
+      "english": "Gosick",
+      "romaji": "GOSICK",
+      "native": "GOSICK"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx8425-Bn14ayPjnq9o.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx8425-Bn14ayPjnq9o.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx8425-Bn14ayPjnq9o.jpg",
+      "color": "#ec4899"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8425-Lf6WLBHfOdRQ.jpg",
+    "description": "Kazuya Kujou is a foreign student at Saint Marguerite Academy, a luxurious boarding school in the Southern European country of Sauville. Originally from Japan, his jet-black hair and dark brown eyes cause his peers to shun him and give him the nickname \"Black Reaper,\" based on a popular urban legend about the traveler who brings death in the spring.\n\nOn a day like any other, Kujou visits the school's extravagant library in search of ghost stories. However, his focus soon changes as he becomes curious about a golden strand of hair on the stairs. The steps lead him to a large garden and a beautiful doll-like girl known as Victorique de Blois, whose complex and imaginative foresight allows her to predict their futures, now intertwined.\n\nWith more mysteries quickly developing—including the appearance of a ghost ship and an alchemist with the power of transmutation—Victorique and Kujou, bound by fate and their unique skills, have no choice but to rely on each other.\n(Source: MAL Rewrite)",
+    "averageScore": 77,
+    "seasonYear": 2011,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "GOTHIC ROMANCE MYSTERY • 24 EPS",
+    "isStaffPick": false,
+    "staffNotes": "Victorian gothic mystery with an unforgettable bond between Kazuya and Victorique.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2001%20%5BBD%201080p%20FLAC%5D%20%5B47AA7312%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2001%20%5BBD%201080p%20FLAC%5D%20%5B47AA7312%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2001%20%5BBD%201080p%20FLAC%5D%20%5B47AA7312%5D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2002%20%5BBD%201080p%20FLAC%5D%20%5BF5E7CBB2%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2002%20%5BBD%201080p%20FLAC%5D%20%5BF5E7CBB2%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2002%20%5BBD%201080p%20FLAC%5D%20%5BF5E7CBB2%5D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2003%20%5BBD%201080p%20FLAC%5D%20%5B1227AEB7%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2003%20%5BBD%201080p%20FLAC%5D%20%5B1227AEB7%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2003%20%5BBD%201080p%20FLAC%5D%20%5B1227AEB7%5D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2004%20%5BBD%201080p%20FLAC%5D%20%5BD0B56F03%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2004%20%5BBD%201080p%20FLAC%5D%20%5BD0B56F03%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2004%20%5BBD%201080p%20FLAC%5D%20%5BD0B56F03%5D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2005%20%5BBD%201080p%20FLAC%5D%20%5B5A2A671A%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2005%20%5BBD%201080p%20FLAC%5D%20%5B5A2A671A%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2005%20%5BBD%201080p%20FLAC%5D%20%5B5A2A671A%5D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2006%20%5BBD%201080p%20FLAC%5D%20%5BFA798B49%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2006%20%5BBD%201080p%20FLAC%5D%20%5BFA798B49%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2006%20%5BBD%201080p%20FLAC%5D%20%5BFA798B49%5D.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2007%20%5BBD%201080p%20FLAC%5D%20%5B640F4CED%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2007%20%5BBD%201080p%20FLAC%5D%20%5B640F4CED%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2007%20%5BBD%201080p%20FLAC%5D%20%5B640F4CED%5D.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2008%20%5BBD%201080p%20FLAC%5D%20%5BC50A260D%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2008%20%5BBD%201080p%20FLAC%5D%20%5BC50A260D%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2008%20%5BBD%201080p%20FLAC%5D%20%5BC50A260D%5D.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2009%20%5BBD%201080p%20FLAC%5D%20%5B103A2375%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2009%20%5BBD%201080p%20FLAC%5D%20%5B103A2375%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2009%20%5BBD%201080p%20FLAC%5D%20%5B103A2375%5D.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2010%20%5BBD%201080p%20FLAC%5D%20%5BB2897753%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2010%20%5BBD%201080p%20FLAC%5D%20%5BB2897753%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2010%20%5BBD%201080p%20FLAC%5D%20%5BB2897753%5D.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2011%20%5BBD%201080p%20FLAC%5D%20%5B1531EA50%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2011%20%5BBD%201080p%20FLAC%5D%20%5B1531EA50%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2011%20%5BBD%201080p%20FLAC%5D%20%5B1531EA50%5D.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2012%20%5BBD%201080p%20FLAC%5D%20%5BC4273951%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2012%20%5BBD%201080p%20FLAC%5D%20%5BC4273951%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2012%20%5BBD%201080p%20FLAC%5D%20%5BC4273951%5D.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2013%20%5BBD%201080p%20FLAC%5D%20%5BE0965d52%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2013%20%5BBD%201080p%20FLAC%5D%20%5BE0965d52%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2013%20%5BBD%201080p%20FLAC%5D%20%5BE0965d52%5D.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2014%20%5BBD%201080p%20FLAC%5D%20%5BDB781774%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2014%20%5BBD%201080p%20FLAC%5D%20%5BDB781774%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2014%20%5BBD%201080p%20FLAC%5D%20%5BDB781774%5D.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2015%20%5BBD%201080p%20FLAC%5D%20%5B0640C402%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2015%20%5BBD%201080p%20FLAC%5D%20%5B0640C402%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2015%20%5BBD%201080p%20FLAC%5D%20%5B0640C402%5D.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2016%20%5BBD%201080p%20FLAC%5D%20%5B3A660F51%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2016%20%5BBD%201080p%20FLAC%5D%20%5B3A660F51%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2016%20%5BBD%201080p%20FLAC%5D%20%5B3A660F51%5D.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2017%20%5BBD%201080p%20FLAC%5D%20%5B2E182F18%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2017%20%5BBD%201080p%20FLAC%5D%20%5B2E182F18%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2017%20%5BBD%201080p%20FLAC%5D%20%5B2E182F18%5D.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2018%20%5BBD%201080p%20FLAC%5D%20%5BE9FAC221%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2018%20%5BBD%201080p%20FLAC%5D%20%5BE9FAC221%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2018%20%5BBD%201080p%20FLAC%5D%20%5BE9FAC221%5D.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2019%20%5BBD%201080p%20FLAC%5D%20%5B55F36E18%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2019%20%5BBD%201080p%20FLAC%5D%20%5B55F36E18%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2019%20%5BBD%201080p%20FLAC%5D%20%5B55F36E18%5D.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2020%20%5BBD%201080p%20FLAC%5D%20%5B41A707F9%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2020%20%5BBD%201080p%20FLAC%5D%20%5B41A707F9%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2020%20%5BBD%201080p%20FLAC%5D%20%5B41A707F9%5D.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2021%20%5BBD%201080p%20FLAC%5D%20%5B46A28F1F%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2021%20%5BBD%201080p%20FLAC%5D%20%5B46A28F1F%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2021%20%5BBD%201080p%20FLAC%5D%20%5B46A28F1F%5D.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2022%20%5BBD%201080p%20FLAC%5D%20%5B8AE2C4DF%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2022%20%5BBD%201080p%20FLAC%5D%20%5B8AE2C4DF%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2022%20%5BBD%201080p%20FLAC%5D%20%5B8AE2C4DF%5D.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2023%20%5BBD%201080p%20FLAC%5D%20%5B36F24CBE%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2023%20%5BBD%201080p%20FLAC%5D%20%5B36F24CBE%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2023%20%5BBD%201080p%20FLAC%5D%20%5B36F24CBE%5D.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2024%20%5BBD%201080p%20FLAC%5D%20%5B5AA8BFDC%5D.mp4",
+        "dubUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2024%20%5BBD%201080p%20FLAC%5D%20%5B5AA8BFDC%5D.mp4",
+        "subUrl": "https://archive.org/download/gosick-fansub/%5BElite%5D%20Gosick%2024%20%5BBD%201080p%20FLAC%5D%20%5B5AA8BFDC%5D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "title": {
+      "english": "Shakugan no Shana",
+      "romaji": "Shakugan no Shana",
+      "native": "灼眼のシャナ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx355-tB52QB38leMs.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx355-tB52QB38leMs.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx355-tB52QB38leMs.png",
+      "color": "#e46b50"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/355-HYE6kTOrxZpG.jpg",
+    "description": "He had thought his normal days would last forever, until they were ended abruptly by an encounter with a girl with red hair and eyes. He named her Shana.\nNot long after he enters high school, Sakai Yuji&rsquo;s normal days come to an end. He sees something bizarre on his way home: people are frozen in a strange fire, and a monster that looks like a large doll is attacking them. Just when he's about to be killed, a girl in a dark cloak wielding a large sword appears, and slices the monster in half. Although Yuji survives the strange encounter, the girl informs him of a desolate truth: \" 'You' don't exist anymore.\"\nShe calls herself a Flame Haze who hunts \"Guze no Tomogara\"; intruders from another world. She explains to him that he is a \"Torch\", a substitute of Yuji whose &ldquo;existence&rdquo; has already been devoured. She also told him that he is a special Torch, \"Mystes\", which contains a precious item in it. When he looks at his chest, he sees within himself a faint flame, just as she said.\nIt is in this way that his eternal struggle alongside the girl begins. \n(Source: AnimeNfo)",
+    "averageScore": 70,
+    "seasonYear": 2005,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SUPERNATURAL ROMANCE • 24 DUB EPS",
+    "isStaffPick": false,
+    "staffNotes": "The flame-haired warrior and Yuji battle the Crimson Denizens.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E01.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E01.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E01.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E02.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E02.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E02.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E03.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E03.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E03.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E04.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E04.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E04.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E05.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E05.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E05.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E06.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E06.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E06.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E07.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E07.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E07.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E08.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E08.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E08.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E09.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E09.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E09.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E10.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E10.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E10.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E11.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E11.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E11.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E12.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E12.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E12.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E13.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E13.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E13.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E14.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E14.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E14.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E15.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E15.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E15.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E16.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E16.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E16.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E17.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E17.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E17.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E18.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E18.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E18.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E19.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E19.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E19.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E20.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E20.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E20.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E21.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E21.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E21.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E22.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E22.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E22.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E23.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E23.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E23.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E24.mp4",
+        "dubUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E24.mp4",
+        "subUrl": "https://archive.org/download/ZiM.comShakuganNoShanaS01E24/%5Bzi-m.com%5DShakugan%20no%20Shana%20S01E24.mp4"
+      }
+    ]
+  },
+  {
+    "id": 11013,
+    "title": {
+      "english": "Inu X Boku Secret Service",
+      "romaji": "Inu x Boku SS",
+      "native": "妖狐×僕SS"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11013-EBA11hztD2yi.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11013-EBA11hztD2yi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11013-EBA11hztD2yi.jpg",
+      "color": "#f1e435"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11013.jpg",
+    "description": "The Shirakiin house's daughter, Shirakiin Ririchiyo, who has a complex about being unable to live independently and unprotected, feels the need to move out and live on her own under the condition of residing in the mansion named \"Ayakashi Kan.\" In this mansion, only those who have cleared a very strict examination could reside in it, and for each resident, they are accompanied with one agent of the Secret Service (S.S.). Although Riricho has rejected the company of the S.S., while residing in the mansion she finds out that the agent dedicated to protecting her is actually the Fox Spirit.",
+    "averageScore": 70,
+    "seasonYear": 2012,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "SUPERNATURAL ROMANCE • 12 EPS",
+    "isStaffPick": false,
+    "staffNotes": "A wealthy tsundere girl and her loyal secret service agent bodyguard.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2001%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2001%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2001%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2001%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2001%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2001%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2002%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2002%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2002%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2002%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2002%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2002%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2003%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2003%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2003%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2003%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2003%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2003%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2004%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2004%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2004%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2004%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2004%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2004%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2005%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2005%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2005%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2005%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2005%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2005%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2006%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2006%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2006%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2006%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2006%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2006%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2007%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2007%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2007%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2007%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2007%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2007%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2008%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2008%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2008%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2008%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2008%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2008%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2009%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2009%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2009%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2009%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2009%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2009%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2010%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2010%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2010%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2010%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2010%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2010%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2011%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2011%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2011%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2011%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2011%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2011%20VOSTFR.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2012%20VOSTFR.ia.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2012%20VOSTFR.ia.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2012%20VOSTFR.ia.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2012%20VOSTFR.mp4",
+        "dubUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2012%20VOSTFR.mp4",
+        "subUrl": "https://archive.org/download/inu-x-boku-ss-01-vostfr/Inu%20x%20Boku%20SS%20-%2012%20VOSTFR.mp4"
+      }
+    ]
+  },
+  {
+    "id": 10110,
+    "title": {
+      "english": "Mayo Chiki!",
+      "romaji": "Mayo Chiki!",
+      "native": "まよチキ!"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10110-BXC37EbeTL3h.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10110-BXC37EbeTL3h.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10110-BXC37EbeTL3h.png",
+      "color": "#e4e428"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10110.jpg",
+    "description": "When you've got acute gynophobia, even a pretty girl can be a malady, and as the sparring partner for his family of female wrestlers, Sakamachi Kinjiro has the worst case EVER! Just one touch makes his nose bleed, so school's a bloody nightmare even before Kanade, the Principal's twisted daughter, deduces both Kinjiro's \"feminine issue\" AND that his name contains the sounds \"Chi\" and \"Kin\" back to back. But Chi-Kin's female troubles don't totally redline until a wrong turn in the men's room exposes the secret Subaru, Kanade's manservant, has been hiding in the water closet. (Well, to be fair, we should say WOmanservant.) And if Subaru's cross reactions concerning her cross-dressing aren't enough of a drag, Kinjiro's girl problems also include a haunted martial artist (with ghosts); a cat-eared fetishist (meow!); AND his own sister, whose interest in \"wrestling\" a certain incorrectly packaged butler may result in an unexpected ending! And that's JUST the set up! \n(Source: Sentai Filmworks)",
+    "averageScore": 69,
+    "seasonYear": 2011,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "HAREM ROM-COM • 13 DUB EPS",
+    "isStaffPick": false,
+    "staffNotes": "A boy with gynophobia discovers the coolest butler in school is secretly a girl!",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep1.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep1.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep1.ia.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep1.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep1.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep1.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep2.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep2.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep2.ia.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep2.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep2.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep2.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep3.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep3.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep3.ia.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep3.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep3.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep3.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep4.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep4.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep4.ia.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep4.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep4.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep4.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep5.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep5.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep5.ia.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep5.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep5.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep5.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep6.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep6.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep6.ia.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep6.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep6.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep6.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep7.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep7.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep7.ia.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep7.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep7.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep7.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep8.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep8.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep8.ia.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep8.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep8.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep8.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep9.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep9.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep9.ia.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep9.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep9.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep9.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep10.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep10.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep10.ia.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep10.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep10.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep10.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep11.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep11.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep11.ia.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep11.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep11.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep11.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep12.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep12.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep12.ia.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep12.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep12.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep12.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep13.ia.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep13.ia.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep13.ia.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26 (English Dub)",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep13.mp4",
+        "dubUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep13.mp4",
+        "subUrl": "https://archive.org/download/mayo-chiki-eng/Mayo%20Chiki-ep13.mp4"
+      }
+    ]
+  },
+  {
+    "id": 20954,
+    "title": {
+      "english": "A Silent Voice",
+      "romaji": "Koe no Katachi",
+      "native": "聲の形"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20954-sYRfE5jQRtSB.jpg",
+      "color": "#5dbbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20954-f30bHMXa5Qoe.jpg",
+    "description": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n(Source: Eleven Arts)",
+    "averageScore": 88,
+    "seasonYear": 2016,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "MASTERPIECE MOVIE • 1080P HD",
+    "isStaffPick": true,
+    "staffNotes": "Kyoto Animation’s legendary masterpiece about redemption, empathy, and love.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "A Silent Voice (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/a-silent-voice_202409/Full%20Movie.mp4",
+        "dubUrl": "https://archive.org/download/a-silent-voice_202409/Full%20Movie.mp4",
+        "subUrl": "https://archive.org/download/a-silent-voice_202409/Full%20Movie.mp4"
+      }
+    ]
+  },
+  {
+    "id": 106286,
+    "title": {
+      "english": "Weathering With You",
+      "romaji": "Tenki no Ko",
+      "native": "天気の子"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx106286-5COcpd0J9VbL.png",
+      "color": "#5dbbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106286-3oKwiwjd7Wkm.jpg",
+    "description": "High school student Hodaka leaves his home on an isolated island and moves to Tokyo, but he immediately becomes broke. He lives his days in isolation, but finally finds a job as a writer for a shady occult magazine. After he starts his job, the weather has been rainy day after day. In a corner of the crowded and busy city, Hodaka meets a young woman named Hina. Due to certain circumstances, Hina and her younger brother live together, but have a cheerful and sturdy life. Hina also has a certain power: the power to stop the rain and clear the sky.\n\n(Source: Anime News Network)",
+    "averageScore": 81,
+    "seasonYear": 2019,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "MAKOTO SHINKAI MOVIE • 1080P",
+    "isStaffPick": true,
+    "staffNotes": "Makoto Shinkai’s stunning blockbuster about love against the elements.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Weathering With You (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/weathering-with-you-bluray/Weathering%20With%20You%202019.mp4",
+        "dubUrl": "https://archive.org/download/weathering-with-you-bluray/Weathering%20With%20You%202019.mp4",
+        "subUrl": "https://archive.org/download/weathering-with-you-bluray/Weathering%20With%20You%202019.mp4"
+      }
+    ]
+  },
+  {
+    "id": 16782,
+    "title": {
+      "english": "The Garden of Words",
+      "romaji": "Kotonoha no Niwa",
+      "native": "言の葉の庭"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16782-qpFGk18UqaHn.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16782-qpFGk18UqaHn.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx16782-qpFGk18UqaHn.jpg",
+      "color": "#93e450"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16782.jpg",
+    "description": "Some people revel and play in the rain; others dread it and hide at the first drop. For high school student Takao, a summer shower is a source of artistic inspiration… but when he skips school in order to sketch in a rainy garden, Takao finds an even greater muse in Yukino, an older woman who seems adrift in the world. Despite the difference in their ages and lives, they strike up a comfortable relationship that slowly evolves as they randomly meet in the same garden whenever it rains. But with the rainy season coming to a close, Takao wonders if there's enough time left to put his feelings into actions and words.\n(Source: Sentai Filmworks)",
+    "averageScore": 75,
+    "seasonYear": 2013,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "MAKOTO SHINKAI MOVIE • 1080P HD",
+    "isStaffPick": true,
+    "staffNotes": "Makoto Shinkai’s visually breathtaking rainy season romance masterpiece.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "The Garden of Words (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/anime-pahe-kotonoha-no-niwa-01-bd-1080p-coalgirls/AnimePahe_Kotonoha_no_Niwa_-_01_BD_1080p_Coalgirls.mp4",
+        "dubUrl": "https://archive.org/download/anime-pahe-kotonoha-no-niwa-01-bd-1080p-coalgirls/AnimePahe_Kotonoha_no_Niwa_-_01_BD_1080p_Coalgirls.mp4",
+        "subUrl": "https://archive.org/download/anime-pahe-kotonoha-no-niwa-01-bd-1080p-coalgirls/AnimePahe_Kotonoha_no_Niwa_-_01_BD_1080p_Coalgirls.mp4"
+      }
+    ]
+  },
+  {
+    "id": 99750,
+    "title": {
+      "english": "I Want to Eat Your Pancreas",
+      "romaji": "Kimi no Suizou wo Tabetai",
+      "native": "君の膵臓をたべたい"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-pNyly9d3MEgV.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-pNyly9d3MEgV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99750-pNyly9d3MEgV.jpg",
+      "color": "#f1c9f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99750-KPFW2Jv03b2B.jpg",
+    "description": "Spring time in April and the last of the cherry blossoms are still in bloom. The usually aloof bookworm with no interest in others comes across a book in a hospital waiting room. Handwritten on the cover are the words: \"Living with Dying.\" He soon discovers that it is a diary kept by his very popular and genuinely cheerful classmate, Sakura Yamauchi, who reveals to him that she is secretly suffering from a pancreatic illness and only has a limited time left. It is at this moment that she gains just one more person to share her secret.\n\nTrying to maintain a normal life as much as possible, Sakura is determined to live her life to the fullest until the very last day. As her free spirit and unpredictable actions throw him for a loop, his heart begins to gradually change.\n\n(Source: Aniplex USA)",
+    "averageScore": 84,
+    "seasonYear": 2018,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "EMOTIONAL ROMANCE MOVIE • 1080P",
+    "isStaffPick": true,
+    "staffNotes": "Heart-wrenching romantic drama about cherishing every single moment together.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "I Want to Eat Your Pancreas (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/kimi-no-suizou-wo-tabetai_202204/kimi-no-suizou-wo-tabetai-episode-1.ia.mp4",
+        "dubUrl": "https://archive.org/download/kimi-no-suizou-wo-tabetai_202204/kimi-no-suizou-wo-tabetai-episode-1.ia.mp4",
+        "subUrl": "https://archive.org/download/kimi-no-suizou-wo-tabetai_202204/kimi-no-suizou-wo-tabetai-episode-1.ia.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "I Want to Eat Your Pancreas (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/kimi-no-suizou-wo-tabetai_202204/kimi-no-suizou-wo-tabetai-episode-1.mp4",
+        "dubUrl": "https://archive.org/download/kimi-no-suizou-wo-tabetai_202204/kimi-no-suizou-wo-tabetai-episode-1.mp4",
+        "subUrl": "https://archive.org/download/kimi-no-suizou-wo-tabetai_202204/kimi-no-suizou-wo-tabetai-episode-1.mp4"
+      }
+    ]
+  },
+  {
+    "id": 113596,
+    "title": {
+      "english": "Josee, the Tiger and the Fish",
+      "romaji": "Josee to Tora to Sakanatachi",
+      "native": "ジョゼと虎と魚たち"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113596-LKA0bYJGjLnB.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113596-LKA0bYJGjLnB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113596-LKA0bYJGjLnB.jpg",
+      "color": "#a1e4ff"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113596-8r3fCSFgQHIY.jpg",
+    "description": "The story centers on the relationship between Tsuneo and Josee. Tsuneo is a university student, and Josee is a young girl who has rarely gone out of the house by herself due to her being unable to walk. The two meet when Tsuneo finds Josee's grandmother taking her out for a morning walk.\n\n(Source: Anime News Network)",
+    "averageScore": 83,
+    "seasonYear": 2020,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "AWARD-WINNING MOVIE • 1080P HD",
+    "isStaffPick": true,
+    "staffNotes": "Inspiring and heartwarming romantic journey between Tsuneo and Josee.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Josee, the Tiger and the Fish (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/josee-to-tora-to-sakana-tachi/Josee%20to%20Tora%20to%20Sakana-tachi.mp4",
+        "dubUrl": "https://archive.org/download/josee-to-tora-to-sakana-tachi/Josee%20to%20Tora%20to%20Sakana-tachi.mp4",
+        "subUrl": "https://archive.org/download/josee-to-tora-to-sakana-tachi/Josee%20to%20Tora%20to%20Sakana-tachi.mp4"
+      }
+    ]
+  },
+  {
+    "id": 142770,
+    "title": {
+      "english": "Suzume",
+      "romaji": "Suzume no Tojimari",
+      "native": "すずめの戸締まり"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142770-dDaDIRnsv5jN.jpg",
+      "color": "#43bbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142770-YgESt2HJXlNg.jpg",
+    "description": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disasters from the other side. The film depicts Suzume's liberation and growth, as she closes the doors that are causing disaster.\n\n(Source: Anime News Network)",
+    "averageScore": 81,
+    "seasonYear": 2022,
+    "genres": [
+      "Romance",
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "BLOCKBUSTER MOVIE • DUB 1080P",
+    "isStaffPick": true,
+    "staffNotes": "Makoto Shinkai’s epic supernatural romance across Japan.",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [
+      "Mild Romantic Themes"
+    ],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Suzume (Movie)",
+        "duration": "1:45:00",
+        "videoUrl": "https://archive.org/download/suzume.compressed/Suzume(%E3%81%99%E3%81%9A%E3%82%81%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A).com.mp4",
+        "dubUrl": "https://archive.org/download/suzume.compressed/Suzume(%E3%81%99%E3%81%9A%E3%82%81%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A).com.mp4",
+        "subUrl": "https://archive.org/download/suzume.compressed/Suzume(%E3%81%99%E3%81%9A%E3%82%81%E3%81%AE%E6%88%B8%E7%B7%A0%E3%81%BE%E3%82%8A).com.mp4"
       }
     ]
   }
