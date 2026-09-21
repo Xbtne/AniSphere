@@ -101,12 +101,12 @@ export default function Navbar({
               <span className="text-lg sm:text-2xl font-black tracking-tight text-white font-serif italic group-hover:text-amber-200 transition-colors">
                 Ani<span className="text-gradient">Sphere</span>
               </span>
-              <span className="hidden sm:inline-block text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.2 rounded bg-gradient-to-r from-emerald-500/30 to-teal-600/30 text-emerald-400 border border-emerald-500/40">
-                100% DIRECT
+              <span className="hidden sm:inline-block text-[10px] uppercase font-black tracking-wider px-2 py-0.5 rounded-full bg-gradient-to-r from-amber-500/20 to-yellow-500/20 text-amber-300 border border-amber-500/40 shadow-sm">
+                200+ COMPLETE
               </span>
             </div>
             <p className="text-[10px] text-gray-400 font-medium hidden sm:block">
-              Our Own Streaming Service • Native HD Playback
+              Direct Streaming Cloud • 7,100+ High-Def Streams
             </p>
           </div>
         </div>
@@ -152,12 +152,14 @@ export default function Navbar({
 
           <button
             onClick={onOpenSearch}
-            className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-xl bg-white/10 hover:bg-white/15 border border-white/10 text-xs text-gray-200 transition-all hover:scale-105 group shadow-sm"
-            title="Search Catalog"
+            className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-white/10 hover:bg-white/15 border border-amber-500/30 text-xs text-gray-200 transition-all hover:scale-105 group shadow-sm ring-1 ring-white/5 hover:ring-amber-400/40"
+            title="Instant Search (Ctrl+K or /)"
           >
-            <Search className="w-3.5 h-3.5 text-teal-400 group-hover:scale-110" />
-            <span className="hidden 2xl:inline text-gray-300">Search 2,600+ Dubs...</span>
-            <span className="hidden xl:inline 2xl:hidden text-gray-300">Search</span>
+            <Search className="w-3.5 h-3.5 text-amber-400 group-hover:scale-110 transition-transform" />
+            <span className="hidden sm:inline font-medium text-gray-200">Search Anime...</span>
+            <kbd className="hidden lg:inline-flex items-center gap-0.5 px-1.5 py-0.5 text-[9px] font-mono bg-black/40 text-amber-300/80 rounded border border-white/10">
+              ⌘K
+            </kbd>
           </button>
 
           {/* Xron Admin Panel Launcher */}

@@ -95,13 +95,13 @@ export default function AnnouncementBar({
           </p>
 
           <div className="hidden xl:flex items-center gap-1.5 shrink-0 text-[11px] font-semibold">
+            <span className="px-2 py-0.5 rounded-md bg-amber-500/15 border border-amber-500/30 text-amber-300">
+              200+ Full Anime
+            </span>
             <span className="px-2 py-0.5 rounded-md bg-emerald-500/15 border border-emerald-500/30 text-emerald-300">
-              150 Full Anime
+              7,100+ Episodes & Films
             </span>
             <span className="px-2 py-0.5 rounded-md bg-teal-500/15 border border-teal-500/30 text-teal-300">
-              6,300+ Episodes
-            </span>
-            <span className="px-2 py-0.5 rounded-md bg-amber-500/15 border border-amber-500/30 text-amber-300">
               100% Direct Playback
             </span>
           </div>

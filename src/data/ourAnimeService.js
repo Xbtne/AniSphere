@@ -62978,5 +62978,1256 @@ export const OUR_ANIME_CATALOG = [
         "subUrl": "https://archive.org/download/jormungand-jolli/Jormungand/Jormungand%201x01%20Eng%20Sub%20720p%20HD.mp4"
       }
     ]
+  },
+  {
+    "id": 467,
+    "title": {
+      "english": "Ghost in the Shell: Stand Alone Complex",
+      "romaji": "Koukaku Kidoutai: STAND ALONE COMPLEX",
+      "native": "攻殻機動隊 STAND ALONE COMPLEX"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx467-mBTtIoR13qs2.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx467-mBTtIoR13qs2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx467-mBTtIoR13qs2.jpg",
+      "color": "#5da1e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/467-n0kTT3ecHMrG.jpg",
+    "description": "In the not so distant future, mankind has advanced to a state where complete body transplants from flesh to machine is possible. This allows for great increases in both physical and cybernetic prowess and blurring the lines between the two worlds. However, criminals can also make full use of such technology, leading to new and sometimes, very dangerous crimes. In response to such innovative new methods, the Japanese Government has established Section 9, an independently operating police unit which deals with such highly sensitive crimes.\nLed by Daisuke Aramaki and Motoko Kusanagi, Section 9 deals with such crimes over the entire social spectrum, usually with success. However, when faced with a new A level hacker nicknamed “The Laughing Man”, the team is thrown into a dangerous cat and mouse game, following the hacker’s trail as it leaves its mark on Japan.\n(Source: MyAnimeList)",
+    "averageScore": 82,
+    "seasonYear": 2002,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "26 COMPLETE EPS",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.03.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.03.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.03.TnH.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.01.TnH.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.05.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.05.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.05.TnH.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.06.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.06.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.06.TnH.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.07.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.07.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.07.TnH.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.08.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.08.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.08.TnH.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.09.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.09.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.09.TnH.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.10.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.10.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.10.TnH.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.11.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.11.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.11.TnH.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.12.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.12.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.12.TnH.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.13.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.13.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.13.TnH.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.14.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.14.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.14.TnH.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.15.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.15.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.15.TnH.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.16.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.16.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.16.TnH.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.17.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.17.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.17.TnH.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.18.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.18.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.18.TnH.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.19.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.19.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.19.TnH.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.20.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.20.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.20.TnH.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.21.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.21.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.21.TnH.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.22.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.22.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.22.TnH.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.23.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.23.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.23.TnH.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.24.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.24.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.24.TnH.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.25.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.25.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.25.TnH.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26",
+        "duration": "25:00",
+        "videoUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.26.TnH.mp4",
+        "dubUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.26.TnH.mp4",
+        "subUrl": "https://archive.org/download/ghost-in-the-shell-stand-alone-complex/Ghost%20In%20The%20Shell%20-%20Stand%20Alone%20Complex%20-%202nd%20GIG/GITS.SAC2.26.TnH.mp4"
+      }
+    ]
+  },
+  {
+    "id": 2890,
+    "title": {
+      "english": "Ponyo",
+      "romaji": "Gake no Ue no Ponyo",
+      "native": "崖の上のポニョ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2890-wcNtFr6aUYOR.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2890-wcNtFr6aUYOR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2890-wcNtFr6aUYOR.jpg",
+      "color": "#50bbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2890-9ABkcfl2a7xS.jpg",
+    "description": "A young boy named Sosuke rescues a goldfish named Ponyo, and they embark on a fantastic journey of friendship and discovery before Ponyo's father, a powerful sorcerer, forces her to return to her home in the sea. But Ponyo's desire to be human upsets the delicate balance of nature and triggers a gigantic storm. Only Ponyo's mother, a beautiful sea goddess, can restore nature's balance and make Ponyo's dreams come true. \r\n(Source: Disney)",
+    "averageScore": 79,
+    "seasonYear": 2008,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "FULL MOVIE 1080P",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Ponyo",
+        "duration": "101:00",
+        "videoUrl": "https://archive.org/download/ponyo-1080p/Ponyo_1080p.mp4",
+        "dubUrl": "https://archive.org/download/ponyo-1080p/Ponyo_1080p.mp4",
+        "subUrl": "https://archive.org/download/ponyo-1080p/Ponyo_1080p.mp4"
+      }
+    ]
+  },
+  {
+    "id": 7711,
+    "title": {
+      "english": "The Secret World of Arrietty",
+      "romaji": "Karigurashi no Arrietty",
+      "native": "借りぐらしのアリエッティ"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7711-IDDzqp6d3tQz.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7711-IDDzqp6d3tQz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7711-IDDzqp6d3tQz.jpg",
+      "color": "#e43550"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n7711-sxtXcjmMKfaF.jpg",
+    "description": "Arrietty, a tiny but tenacious 14-year-old, lives with her parents in the recesses of a suburban garden home, unbeknownst to the homeowner and her housekeeper. Like all little people, Arrietty remains hidden from view, except during occasional covert ventures beyond the floorboards to \"borrow\" scrap supplies like sugar cubes from her human hosts. But when 12-year-old Shou, a human boy who comes to stay in the home, discovers his mysterious housemate one evening, a secret friendship blossoms. If discovered, their relationship could drive Arrietty's family from the home and straight into danger.\n(Source: Disney)",
+    "averageScore": 77,
+    "seasonYear": 2010,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "FULL MOVIE 1080P",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "The Secret World of Arrietty",
+        "duration": "94:00",
+        "videoUrl": "https://archive.org/download/arrietty.-2010.1080p.-bdrip.-dual.-audio.-aac-5.1.10bits.x-265-rapta/Arrietty.2010.1080p.BDRip.Dual.Audio.AAC5.1.10bits.x265-Rapta.mp4",
+        "dubUrl": "https://archive.org/download/arrietty.-2010.1080p.-bdrip.-dual.-audio.-aac-5.1.10bits.x-265-rapta/Arrietty.2010.1080p.BDRip.Dual.Audio.AAC5.1.10bits.x265-Rapta.mp4",
+        "subUrl": "https://archive.org/download/arrietty.-2010.1080p.-bdrip.-dual.-audio.-aac-5.1.10bits.x-265-rapta/Arrietty.2010.1080p.BDRip.Dual.Audio.AAC5.1.10bits.x265-Rapta.mp4"
+      }
+    ]
+  },
+  {
+    "id": 597,
+    "title": {
+      "english": "The Cat Returns",
+      "romaji": "Neko no Ongaeshi",
+      "native": "猫の恩返し"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx597-Prw5pUyYwcFO.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx597-Prw5pUyYwcFO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx597-Prw5pUyYwcFO.png",
+      "color": "#5da1e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/597-nTMnq104EwyB.jpg",
+    "description": "The Cat Returns is something of a loose spin-off of \"Whisper of the Heart\" as it features two characters from that film: Muta (the cat from \"Whisper\") and the Baron (the cat statue from \"Whisper\"). There is no other connection between the two movies and this is not a sequel. The story is based on Neko no Danshaku (Baron of Cat) by Hiiragi Aoi.\nThe main character of the story, Haru, is a clueless, ordinary 17-year-old girl. She has no special abilities and neither is she an extraordinary beauty. When faced with reality, she is unable to make decisions for herself, thus often sways to others' opinions to avoid challenge. One day, Haru saves the life of a cat without considering her own safety. The cat turns out to be the Cat Prince from the Kingdom of Cats, however as a result, Haru is trapped in the world of cats. Can Baron and Muta rescue Haru who has wandered into the world of cats?\n(Source: AniDB, edited)",
+    "averageScore": 75,
+    "seasonYear": 2002,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "format": "MOVIE",
+    "hasDub": true,
+    "badgeText": "FULL MOVIE 1080P",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "The Cat Returns",
+        "duration": "75:00",
+        "videoUrl": "https://archive.org/download/the-cat-returns_202404/The%20Cat%20Returns.mp4",
+        "dubUrl": "https://archive.org/download/the-cat-returns_202404/The%20Cat%20Returns.mp4",
+        "subUrl": "https://archive.org/download/the-cat-returns_202404/The%20Cat%20Returns.mp4"
+      }
+    ]
+  },
+  {
+    "id": 949,
+    "title": {
+      "english": "Gunbuster",
+      "romaji": "Top wo Nerae! GunBuster",
+      "native": "トップをねらえ! GunBuster"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx949-LDCFxDufSwTQ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx949-LDCFxDufSwTQ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx949-LDCFxDufSwTQ.png",
+      "color": "#e4bba1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/949-SeKG5aRhF26j.jpg",
+    "description": "In the very near future, a race of huge, insect like aliens is discovered traveling the galaxy. These aliens seem dedicated to the eradication of the human species as it takes its first steps away from the solar system, and they are getting closer and closer to Earth. Humanity has responded by developing spacegoing battleships and giant fighting robots. These robots are piloted by the best and brightest of Earth's youth, picked from training schools around the world.\nThe story begins in the year 2023, not long after the first battles with the aliens, and centers on young Noriko Takaya. Although Noriko's father was a famous Captain in the space fleet who was killed during one of the first battles of the war, her own talents as a pilot are questionable. Nonetheless, she has entered a training school. Through the series Noriko, joined by the beautiful and talented Kazumi Amano, will fight to overcome the trauma of war, the doubts of her peers, and her own lack of confidence. \n(Source: AniDB)",
+    "averageScore": 77,
+    "seasonYear": 1988,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "format": "OVA",
+    "hasDub": true,
+    "badgeText": "6 COMPLETE EPS",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1",
+        "duration": "28:00",
+        "videoUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e01-%7Bedition-4K-remaster-open-matte%7D.mp4",
+        "dubUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e01-%7Bedition-4K-remaster-open-matte%7D.mp4",
+        "subUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e01-%7Bedition-4K-remaster-open-matte%7D.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2",
+        "duration": "28:00",
+        "videoUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e02-%7Bedition-open-matte%7D.mp4",
+        "dubUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e02-%7Bedition-open-matte%7D.mp4",
+        "subUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e02-%7Bedition-open-matte%7D.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3",
+        "duration": "28:00",
+        "videoUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e03-%7Bedition-open-matte%7D.mp4",
+        "dubUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e03-%7Bedition-open-matte%7D.mp4",
+        "subUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e03-%7Bedition-open-matte%7D.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4",
+        "duration": "28:00",
+        "videoUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e01-%7Bedition-4K-remaster-open-matte%7D.mp4",
+        "dubUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e01-%7Bedition-4K-remaster-open-matte%7D.mp4",
+        "subUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e01-%7Bedition-4K-remaster-open-matte%7D.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5",
+        "duration": "28:00",
+        "videoUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e05-%7Bedition-open-matte%7D.mp4",
+        "dubUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e05-%7Bedition-open-matte%7D.mp4",
+        "subUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e05-%7Bedition-open-matte%7D.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "duration": "28:00",
+        "videoUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e06-%7Bedition-open-matte%7D.mp4",
+        "dubUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e06-%7Bedition-open-matte%7D.mp4",
+        "subUrl": "https://archive.org/download/gunbuster-4k-remaster/Gunbuster%20s01e06-%7Bedition-open-matte%7D.mp4"
+      }
+    ]
+  },
+  {
+    "id": 1352,
+    "title": {
+      "english": "Cyber City Oedo 808",
+      "romaji": "Cyber City OEDO 808",
+      "native": "サイバーシティ OEDO 808"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1352-1Sytay3y8ZON.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1352-1Sytay3y8ZON.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1352-1Sytay3y8ZON.jpg",
+      "color": "#e4865d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1352-YR39oBZLsbLz.jpg",
+    "description": "It is the year 2808. Three convicts are recruited as members of the Cyber Police to keep major criminal activity in Oedo (formerly Tokyo) in check. In return, their life sentences will be reduced by a few years for every mission accomplished. However, to ensure that these convicts are doing their job, the police have secured special collars around their necks. If they attempt to remove their collars or fail to meet the time limit of their mission, the collars will self-destruct.\n\n(Source: Anime News Network)",
+    "averageScore": 29,
+    "seasonYear": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "format": "OVA",
+    "hasDub": true,
+    "badgeText": "3 COMPLETE EPS",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%201%20-%20Mort%20Virtual%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "dubUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%201%20-%20Mort%20Virtual%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "subUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%201%20-%20Mort%20Virtual%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "id": "1352-ep-1"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%201%20-%20Mort%20Virtual%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "dubUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%201%20-%20Mort%20Virtual%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "subUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%201%20-%20Mort%20Virtual%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "id": "1352-ep-2"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3",
+        "duration": "24:00",
+        "videoUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%203%20-%20El%20Catalitzador%20Carmes%C3%AD%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "dubUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%203%20-%20El%20Catalitzador%20Carmes%C3%AD%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "subUrl": "https://archive.org/download/Cyber-City-Oedo-808-cat/Cyber%20City%20Oedo%20808%20-%203%20-%20El%20Catalitzador%20Carmes%C3%AD%20-%20%5B1080p%20h264%5D%20%5Baudio%20cat.eng.jap%5D%5Bsubs%20eng.ru%5D-%20ElMillorAnime.mp4",
+        "id": "1352-ep-3"
+      }
+    ]
+  },
+  {
+    "id": 3059,
+    "title": {
+      "english": "Ninja Robots",
+      "romaji": "Ninja Senshi Tobikage",
+      "native": "忍者戦士飛影"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3059-CKnm3o7jfDz2.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3059-CKnm3o7jfDz2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3059-CKnm3o7jfDz2.jpg",
+      "color": "#f1a150"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3059-CKnm3o7jfDz2.jpg",
+    "description": "Ninja Senshi Tobikage tells the story of a boy named Joe Maya. One day, Joe, who lives on Mars, witnesses a battle between aliens. Those from Planet Zaboom are attacking the princess of Planet Radorio, she has escaped from the emperor of Zaboom who is scheming to conquer the universe and has crash landed on mars. Joe stumbles aboard the princesses ship, this starts a chain reaction of events that will alter their lives. Joe and his friends wield three powerful mecha beasts against the emperor of Zaboom and his forces, but the odds are stacked heavily against them. When all hope seems to be lost a mysterious ninja robot named Tobikage appears as if from nowhere to provide assitance, able to combine with the 3 mechanical beasts provides Tobikage with unmatched power, with his aide Joe fights the forces of Zaboom...\n\n(Source: Anime News Network)",
+    "averageScore": 56,
+    "seasonYear": 1987,
+    "genres": [
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "format": "OVA",
+    "hasDub": true,
+    "badgeText": "43 COMPLETE EPS",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2001.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2001.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2001.mp4",
+        "id": "3059-ep-1"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2002.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2002.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2002.mp4",
+        "id": "3059-ep-2"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2003.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2003.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2003.mp4",
+        "id": "3059-ep-3"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2001.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2001.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2001.mp4",
+        "id": "3059-ep-4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2005.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2005.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2005.mp4",
+        "id": "3059-ep-5"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2006.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2006.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2006.mp4",
+        "id": "3059-ep-6"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2007.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2007.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2007.mp4",
+        "id": "3059-ep-7"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2008.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2008.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2008.mp4",
+        "id": "3059-ep-8"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2009.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2009.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2009.mp4",
+        "id": "3059-ep-9"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2010.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2010.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2010.mp4",
+        "id": "3059-ep-10"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2011.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2011.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2011.mp4",
+        "id": "3059-ep-11"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2012.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2012.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2012.mp4",
+        "id": "3059-ep-12"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2013.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2013.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2013.mp4",
+        "id": "3059-ep-13"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2014.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2014.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2014.mp4",
+        "id": "3059-ep-14"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2015.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2015.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2015.mp4",
+        "id": "3059-ep-15"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2016.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2016.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2016.mp4",
+        "id": "3059-ep-16"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2017.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2017.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2017.mp4",
+        "id": "3059-ep-17"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2018.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2018.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2018.mp4",
+        "id": "3059-ep-18"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2019.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2019.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2019.mp4",
+        "id": "3059-ep-19"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2020.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2020.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2020.mp4",
+        "id": "3059-ep-20"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2021.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2021.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2021.mp4",
+        "id": "3059-ep-21"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2022.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2022.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2022.mp4",
+        "id": "3059-ep-22"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2023.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2023.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2023.mp4",
+        "id": "3059-ep-23"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2024.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2024.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2024.mp4",
+        "id": "3059-ep-24"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2025.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2025.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2025.mp4",
+        "id": "3059-ep-25"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2026.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2026.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2026.mp4",
+        "id": "3059-ep-26"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2027.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2027.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2027.mp4",
+        "id": "3059-ep-27"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2028.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2028.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2028.mp4",
+        "id": "3059-ep-28"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2029.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2029.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2029.mp4",
+        "id": "3059-ep-29"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2030.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2030.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2030.mp4",
+        "id": "3059-ep-30"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2031.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2031.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2031.mp4",
+        "id": "3059-ep-31"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2032.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2032.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2032.mp4",
+        "id": "3059-ep-32"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2033%20fixed.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2033%20fixed.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2033%20fixed.mp4",
+        "id": "3059-ep-33"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2034.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2034.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2034.mp4",
+        "id": "3059-ep-34"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2035.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2035.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2035.mp4",
+        "id": "3059-ep-35"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2036.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2036.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2036.mp4",
+        "id": "3059-ep-36"
+      },
+      {
+        "episodeNumber": 37,
+        "title": "Episode 37",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2037%20fixed.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2037%20fixed.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2037%20fixed.mp4",
+        "id": "3059-ep-37"
+      },
+      {
+        "episodeNumber": 38,
+        "title": "Episode 38",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2038.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2038.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2038.mp4",
+        "id": "3059-ep-38"
+      },
+      {
+        "episodeNumber": 39,
+        "title": "Episode 39",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2039.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2039.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2039.mp4",
+        "id": "3059-ep-39"
+      },
+      {
+        "episodeNumber": 40,
+        "title": "Episode 40",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2040.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2040.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2040.mp4",
+        "id": "3059-ep-40"
+      },
+      {
+        "episodeNumber": 41,
+        "title": "Episode 41",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2041.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2041.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2041.mp4",
+        "id": "3059-ep-41"
+      },
+      {
+        "episodeNumber": 42,
+        "title": "Episode 42",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2042.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2042.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2042.mp4",
+        "id": "3059-ep-42"
+      },
+      {
+        "episodeNumber": 43,
+        "title": "Episode 43",
+        "duration": "53:00",
+        "videoUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2043.mp4",
+        "dubUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2043.mp4",
+        "subUrl": "https://archive.org/download/ninja-robots-18/Ninja%20Robots%2043.mp4",
+        "id": "3059-ep-43"
+      }
+    ]
+  },
+  {
+    "id": 1088,
+    "title": {
+      "english": "Macross",
+      "romaji": "Choujikuu Yousai Macross",
+      "native": "超時空要塞マクロス"
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1088-b2eAPvA5zmmi.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1088-b2eAPvA5zmmi.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1088-b2eAPvA5zmmi.png",
+      "color": "#ffd61a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1088-qEDmlgWXrKH3.jpg",
+    "description": "In 1999, a giant alien spacecraft crash lands on South Ataria island. Humanity proceeds to attempt to rebuild this marvel, but political conflicts centered around the Macross result in a global war. After 10 years, the Unification Wars are finally over, the new Earth United Nations Government is in power, and work on the Macross is complete.\n\nOn the day of the launching ceremony, its main cannon fires on its own, destroying an alien spacecraft. This fateful day marks the beginning of the war between the humans on the Macross and the Zentradi, a race of humanoid aliens of giant proportions.\n\n(Source: AnimEigo)",
+    "averageScore": 75,
+    "seasonYear": 1982,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Music",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "format": "TV",
+    "hasDub": true,
+    "badgeText": "36 COMPLETE EPS",
+    "isStaffPick": false,
+    "staffNotes": "",
+    "isMature": false,
+    "contentRating": "TV-14",
+    "contentWarnings": [],
+    "episodes": [
+      {
+        "episodeNumber": 1,
+        "title": "Episode 1",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/01.%20Booby%20Trap.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/01.%20Booby%20Trap.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/01.%20Booby%20Trap.mp4"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Episode 2",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/02.%20Countdown.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/02.%20Countdown.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/02.%20Countdown.mp4"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Episode 3",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/03.%20Space%20Fold.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/03.%20Space%20Fold.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/03.%20Space%20Fold.mp4"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Episode 4",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/01.%20Booby%20Trap.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/01.%20Booby%20Trap.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/01.%20Booby%20Trap.mp4"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Episode 5",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/05.%20Transformation.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/05.%20Transformation.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/05.%20Transformation.mp4"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/06.%20Daedalus%20Attack.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/06.%20Daedalus%20Attack.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/06.%20Daedalus%20Attack.mp4"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Episode 7",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/07.%20Bye-Bye%20Mars.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/07.%20Bye-Bye%20Mars.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/07.%20Bye-Bye%20Mars.mp4"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Episode 8",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/08.%20Longest%20Birthday.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/08.%20Longest%20Birthday.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/08.%20Longest%20Birthday.mp4"
+      },
+      {
+        "episodeNumber": 9,
+        "title": "Episode 9",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/09.%20Miss%20Macross.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/09.%20Miss%20Macross.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/09.%20Miss%20Macross.mp4"
+      },
+      {
+        "episodeNumber": 10,
+        "title": "Episode 10",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/10.%20Blind%20Game.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/10.%20Blind%20Game.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/10.%20Blind%20Game.mp4"
+      },
+      {
+        "episodeNumber": 11,
+        "title": "Episode 11",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/11.%20First%20Contact.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/11.%20First%20Contact.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/11.%20First%20Contact.mp4"
+      },
+      {
+        "episodeNumber": 12,
+        "title": "Episode 12",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/12.%20Big%20Escape.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/12.%20Big%20Escape.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/12.%20Big%20Escape.mp4"
+      },
+      {
+        "episodeNumber": 13,
+        "title": "Episode 13",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/13.%20Blue%20Wind.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/13.%20Blue%20Wind.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/13.%20Blue%20Wind.mp4"
+      },
+      {
+        "episodeNumber": 14,
+        "title": "Episode 14",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/14.%20Global's%20Report.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/14.%20Global's%20Report.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/14.%20Global's%20Report.mp4"
+      },
+      {
+        "episodeNumber": 15,
+        "title": "Episode 15",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/15.%20Chinatown.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/15.%20Chinatown.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/15.%20Chinatown.mp4"
+      },
+      {
+        "episodeNumber": 16,
+        "title": "Episode 16",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/16.%20Kung%20Fu%20Dandy.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/16.%20Kung%20Fu%20Dandy.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/16.%20Kung%20Fu%20Dandy.mp4"
+      },
+      {
+        "episodeNumber": 17,
+        "title": "Episode 17",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/17.%20Phantasm.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/17.%20Phantasm.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/17.%20Phantasm.mp4"
+      },
+      {
+        "episodeNumber": 18,
+        "title": "Episode 18",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/18.%20Pineapple%20Salad.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/18.%20Pineapple%20Salad.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/18.%20Pineapple%20Salad.mp4"
+      },
+      {
+        "episodeNumber": 19,
+        "title": "Episode 19",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/19.%20Burst%20Point.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/19.%20Burst%20Point.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/19.%20Burst%20Point.mp4"
+      },
+      {
+        "episodeNumber": 20,
+        "title": "Episode 20",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/20.%20Paradise%20Lost.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/20.%20Paradise%20Lost.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/20.%20Paradise%20Lost.mp4"
+      },
+      {
+        "episodeNumber": 21,
+        "title": "Episode 21",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/21.%20Micro%20Cosmos.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/21.%20Micro%20Cosmos.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/21.%20Micro%20Cosmos.mp4"
+      },
+      {
+        "episodeNumber": 22,
+        "title": "Episode 22",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/22.%20Love%20Concert.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/22.%20Love%20Concert.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/22.%20Love%20Concert.mp4"
+      },
+      {
+        "episodeNumber": 23,
+        "title": "Episode 23",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/23.%20Drop%20Out.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/23.%20Drop%20Out.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/23.%20Drop%20Out.mp4"
+      },
+      {
+        "episodeNumber": 24,
+        "title": "Episode 24",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/24.%20Goodbye%20Girl.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/24.%20Goodbye%20Girl.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/24.%20Goodbye%20Girl.mp4"
+      },
+      {
+        "episodeNumber": 25,
+        "title": "Episode 25",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/25.%20Virgin%20Road.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/25.%20Virgin%20Road.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/25.%20Virgin%20Road.mp4"
+      },
+      {
+        "episodeNumber": 26,
+        "title": "Episode 26",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/26.%20Messenger.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/26.%20Messenger.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/26.%20Messenger.mp4"
+      },
+      {
+        "episodeNumber": 27,
+        "title": "Episode 27",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/27.%20Love%20Flows%20By.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/27.%20Love%20Flows%20By.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/27.%20Love%20Flows%20By.mp4"
+      },
+      {
+        "episodeNumber": 28,
+        "title": "Episode 28",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/28.%20My%20Album.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/28.%20My%20Album.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/28.%20My%20Album.mp4"
+      },
+      {
+        "episodeNumber": 29,
+        "title": "Episode 29",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/29.%20Lonely%20Song.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/29.%20Lonely%20Song.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/29.%20Lonely%20Song.mp4"
+      },
+      {
+        "episodeNumber": 30,
+        "title": "Episode 30",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/30.%20Viva%20Maria.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/30.%20Viva%20Maria.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/30.%20Viva%20Maria.mp4"
+      },
+      {
+        "episodeNumber": 31,
+        "title": "Episode 31",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/31.%20Satan's%20Dolls.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/31.%20Satan's%20Dolls.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/31.%20Satan's%20Dolls.mp4"
+      },
+      {
+        "episodeNumber": 32,
+        "title": "Episode 32",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/32.%20Broken%20Heart.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/32.%20Broken%20Heart.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/32.%20Broken%20Heart.mp4"
+      },
+      {
+        "episodeNumber": 33,
+        "title": "Episode 33",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/33.%20Rainy%20Night.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/33.%20Rainy%20Night.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/33.%20Rainy%20Night.mp4"
+      },
+      {
+        "episodeNumber": 34,
+        "title": "Episode 34",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/34.%20Private%20Time.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/34.%20Private%20Time.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/34.%20Private%20Time.mp4"
+      },
+      {
+        "episodeNumber": 35,
+        "title": "Episode 35",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/35.%20Romanesque.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/35.%20Romanesque.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/35.%20Romanesque.mp4"
+      },
+      {
+        "episodeNumber": 36,
+        "title": "Episode 36",
+        "duration": "26:00",
+        "videoUrl": "https://archive.org/download/Macross-ADV-480i/36.%20Farewell%20to%20Tenderness.mp4",
+        "dubUrl": "https://archive.org/download/Macross-ADV-480i/36.%20Farewell%20to%20Tenderness.mp4",
+        "subUrl": "https://archive.org/download/Macross-ADV-480i/36.%20Farewell%20to%20Tenderness.mp4"
+      }
+    ]
   }
 ];

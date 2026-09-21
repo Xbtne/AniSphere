@@ -194,17 +194,17 @@ export function WatchlistProvider({ children }) {
   const [announcement, setAnnouncement] = useState(() => {
     const defaultAnnouncement = {
       active: true,
-      message: 'AniSphere Direct Streaming Cloud: 150 Complete Anime • 6,300+ Verified Native English Dub Episodes',
+      message: `AniSphere Direct Streaming Cloud: 200+ Complete Anime • 7,100+ Verified Native HD Episodes & Movies Ready to Stream!`,
       type: 'info',
-      badge: 'DIRECT STREAMING'
+      badge: '200+ ANIME MILESTONE'
     };
 
     try {
       const saved = localStorage.getItem('anisphere_announcement');
       if (saved) {
         const parsed = JSON.parse(saved);
-        // Clear out old 140th milestone or outdated celebration messages
-        if (!parsed?.message || parsed.message.includes('140') || parsed.badge?.includes('140') || parsed.type === 'celebration' || parsed.message.includes('100 Legendary') || parsed.message.includes('66 Legendary') || parsed.message.includes('Login as Xron')) {
+        // Clear out old milestone or outdated celebration messages
+        if (!parsed?.message || parsed.message.includes('140') || parsed.message.includes('150') || parsed.badge?.includes('140') || parsed.badge?.includes('150') || parsed.type === 'celebration' || parsed.message.includes('100 Legendary') || parsed.message.includes('66 Legendary') || parsed.message.includes('Login as Xron')) {
           localStorage.setItem('anisphere_announcement', JSON.stringify(defaultAnnouncement));
           return defaultAnnouncement;
         }

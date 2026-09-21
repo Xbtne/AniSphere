@@ -9,6 +9,7 @@ import WatchlistDrawer from './components/WatchlistDrawer';
 import AuthModal from './components/AuthModal';
 import AdminPanel from './components/AdminPanel';
 import ProfileModal from './components/ProfileModal';
+import SearchModal from './components/SearchModal';
 import { OUR_ANIME_CATALOG } from './data/ourAnimeService';
 import {
   Sparkles,
@@ -37,6 +38,7 @@ export default function App() {
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
   const [isAdminPanelOpen, setIsAdminPanelOpen] = useState(false);
   const [isProfileOpen, setIsProfileOpen] = useState(false);
+  const [isSearchModalOpen, setIsSearchModalOpen] = useState(false);
 
   const {
     history,
@@ -49,6 +51,23 @@ export default function App() {
     announcement
   } = useWatchlist();
   const { isAuthenticated, user, isAdmin } = useAuth();
+
+  // Global hotkeys for instant search
+  useEffect(() => {
+    const handleGlobalKeyDown = (e) => {
+      // Ctrl+K / Cmd+K or "/" when not inside an input/textarea
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        setIsSearchModalOpen((prev) => !prev);
+      } else if (e.key === '/' && !['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)) {
+        e.preventDefault();
+        setIsSearchModalOpen(true);
+      }
+    };
+
+    window.addEventListener('keydown', handleGlobalKeyDown);
+    return () => window.removeEventListener('keydown', handleGlobalKeyDown);
+  }, []);
 
   const regularCatalog = React.useMemo(
     () => OUR_ANIME_CATALOG.filter((anime) => !isMatureAnime(anime)),
@@ -107,9 +126,7 @@ export default function App() {
   };
 
   const handleOpenSearch = () => {
-    handleNavigateSection('explore');
-    const input = document.querySelector('#explore input');
-    if (input) input.focus();
+    setIsSearchModalOpen(true);
   };
 
   const handleRollRandom = () => {
@@ -339,6 +356,13 @@ export default function App() {
         isOpen={isWatchlistOpen}
         onClose={() => setIsWatchlistOpen(false)}
         onSelectAnime={setSelectedAnime}
+      />
+
+      {/* Instant Search Command Center Modal */}
+      <SearchModal
+        isOpen={isSearchModalOpen}
+        onClose={() => setIsSearchModalOpen(false)}
+        onSelectAnime={handleSelectAnime}
       />
 
       {/* Footer */}
