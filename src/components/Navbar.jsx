@@ -21,7 +21,7 @@ import {
   Play,
   Check
 } from 'lucide-react';
-import { useWatchlist } from '../context/WatchlistContext';
+import { useWatchlist, WATCH_STATUSES } from '../context/WatchlistContext';
 import { useAuth } from '../context/AuthContext';
 import { OUR_ANIME_CATALOG } from '../data/ourAnimeService';
 import AuthModal from './AuthModal';
@@ -49,7 +49,10 @@ export default function Navbar({
   const searchContainerRef = useRef(null);
   const searchInputRef = useRef(null);
 
-  const { watchlist, announcement, isInWatchlist, addToWatchlist, removeFromWatchlist } = useWatchlist();
+  const watchlistContext = useWatchlist();
+  const watchlist = watchlistContext?.watchlist || {};
+  const setAnimeStatus = watchlistContext?.setAnimeStatus;
+  const announcement = watchlistContext?.announcement;
   const { user, logout, isAuthenticated, isAdmin } = useAuth();
 
   const totalSaved = Object.keys(watchlist).length;
@@ -250,8 +253,8 @@ export default function Navbar({
                   ) : (
                     searchMatches.map((anime) => {
                       const title = anime.title?.english || anime.title?.romaji || 'Unknown Title';
-                      const poster = anime.coverImage?.extraLarge || anime.coverImage?.large;
-                      const isSaved = isInWatchlist(anime.id);
+                      const poster = anime.coverImage?.extraLarge || anime.coverImage?.large || anime.coverImage?.medium;
+                      const isSaved = Boolean(watchlist?.[anime.id]);
 
                       return (
                         <div
@@ -288,10 +291,8 @@ export default function Navbar({
                           <div className="flex items-center gap-1 shrink-0" onClick={(e) => e.stopPropagation()}>
                             <button
                               onClick={() => {
-                                if (isSaved) {
-                                  removeFromWatchlist(anime.id);
-                                } else {
-                                  addToWatchlist(anime);
+                                if (setAnimeStatus) {
+                                  setAnimeStatus(anime, isSaved ? null : WATCH_STATUSES.PLAN_TO_WATCH);
                                 }
                               }}
                               className={`p-1.5 rounded-lg transition-all ${

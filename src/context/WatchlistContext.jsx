@@ -567,6 +567,10 @@ export function WatchlistProvider({ children }) {
         reportContent,
         resolveReport,
         deleteReport,
+        // Watchlist Helpers
+        isInWatchlist: (animeId) => Boolean(watchlist[animeId]),
+        addToWatchlist: (anime, status = WATCH_STATUSES.PLAN_TO_WATCH) => setAnimeStatus(anime, status),
+        removeFromWatchlist: (animeId) => removeAnime(animeId),
         // Staff Picks
         staffPicks,
         isStaffPick,

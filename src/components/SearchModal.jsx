@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import {
   Search,
   X,
@@ -12,11 +12,10 @@ import {
   Flame,
   Zap,
   Heart,
-  TrendingUp,
-  Clock
+  TrendingUp
 } from 'lucide-react';
 import { OUR_ANIME_CATALOG } from '../data/ourAnimeService';
-import { useWatchlist } from '../context/WatchlistContext';
+import { useWatchlist, WATCH_STATUSES } from '../context/WatchlistContext';
 
 export default function SearchModal({
   isOpen,
@@ -30,39 +29,103 @@ export default function SearchModal({
   const inputRef = useRef(null);
   const resultsContainerRef = useRef(null);
 
-  const { isInWatchlist, addToWatchlist, removeFromWatchlist, isStaffPick } = useWatchlist();
+  const watchlistContext = useWatchlist();
+  const watchlist = watchlistContext?.watchlist || {};
+  const setAnimeStatus = watchlistContext?.setAnimeStatus;
+  const isStaffPick = watchlistContext?.isStaffPick || (() => false);
 
-  // Reset or focus input on open
+  // Focus input when modal opens
   useEffect(() => {
     if (isOpen) {
       if (initialQuery) setQuery(initialQuery);
       setSelectedIndex(0);
-      setTimeout(() => {
+      const timer = setTimeout(() => {
         if (inputRef.current) {
           inputRef.current.focus();
-          inputRef.current.select();
         }
       }, 50);
       document.body.style.overflow = 'hidden';
+      return () => {
+        clearTimeout(timer);
+        document.body.style.overflow = '';
+      };
     } else {
       document.body.style.overflow = '';
     }
-    return () => {
-      document.body.style.overflow = '';
-    };
   }, [isOpen, initialQuery]);
+
+  const categories = useMemo(() => [
+    { id: 'All', label: 'All', icon: Sparkles },
+    { id: 'StaffPicks', label: 'Staff Picks', icon: Flame },
+    { id: 'Movies', label: 'Movies', icon: Film },
+    { id: 'Romance', label: 'Romance', icon: Heart },
+    { id: 'Action', label: 'Action', icon: Zap },
+    { id: 'Sci-Fi', label: 'Sci-Fi', icon: TrendingUp }
+  ], []);
+
+  // Compute filtered search results
+  const filteredResults = useMemo(() => {
+    const q = (query || '').trim().toLowerCase();
+
+    let list = OUR_ANIME_CATALOG.filter((anime) => {
+      if (!anime) return false;
+
+      // Category match
+      if (selectedCategory === 'StaffPicks' && !isStaffPick(anime.id)) return false;
+      if (selectedCategory === 'Movies' && anime.format !== 'MOVIE' && (!anime.episodes || anime.episodes.length > 1)) return false;
+      if (selectedCategory === 'Romance' && !anime.genres?.includes('Romance')) return false;
+      if (selectedCategory === 'Action' && !anime.genres?.includes('Action')) return false;
+      if (selectedCategory === 'Sci-Fi' && !anime.genres?.includes('Sci-Fi')) return false;
+
+      // Search query match
+      if (!q) return true;
+
+      const eng = (anime.title?.english || (typeof anime.title === 'string' ? anime.title : '') || '').toLowerCase();
+      const rom = (anime.title?.romaji || '').toLowerCase();
+      const nat = (anime.title?.native || '').toLowerCase();
+      const aliases = Array.isArray(anime.aliases) ? anime.aliases.map((a) => a.toLowerCase()) : [];
+      const genres = (anime.genres || []).map((g) => g.toLowerCase());
+      const year = String(anime.seasonYear || '');
+
+      return (
+        eng.includes(q) ||
+        rom.includes(q) ||
+        nat.includes(q) ||
+        aliases.some((a) => a.includes(q)) ||
+        genres.some((g) => g.includes(q)) ||
+        year.includes(q)
+      );
+    });
+
+    if (q) {
+      list.sort((a, b) => {
+        const aTitle = (a.title?.english || a.title?.romaji || '').toLowerCase();
+        const bTitle = (b.title?.english || b.title?.romaji || '').toLowerCase();
+
+        const aStarts = aTitle.startsWith(q);
+        const bStarts = bTitle.startsWith(q);
+
+        if (aStarts && !bStarts) return -1;
+        if (!aStarts && bStarts) return 1;
+
+        return (b.averageScore || 0) - (a.averageScore || 0);
+      });
+    }
+
+    return list;
+  }, [query, selectedCategory, isStaffPick]);
 
   // Handle keyboard navigation
   useEffect(() => {
-    const handleKeyDown = (e) => {
-      if (!isOpen) return;
+    if (!isOpen) return;
 
+    const handleKeyDown = (e) => {
       if (e.key === 'Escape') {
         e.preventDefault();
         onClose();
       } else if (e.key === 'ArrowDown') {
         e.preventDefault();
-        setSelectedIndex((prev) => Math.min(prev + 1, filteredResults.length - 1));
+        setSelectedIndex((prev) => Math.min(prev + 1, Math.max(0, filteredResults.length - 1)));
       } else if (e.key === 'ArrowUp') {
         e.preventDefault();
         setSelectedIndex((prev) => Math.max(prev - 1, 0));
@@ -78,7 +141,7 @@ export default function SearchModal({
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  });
+  }, [isOpen, selectedIndex, filteredResults, onClose, onSelectAnime]);
 
   // Keep selected index in view
   useEffect(() => {
@@ -90,66 +153,10 @@ export default function SearchModal({
     }
   }, [selectedIndex]);
 
-  // Compute filtered results
-  const categories = [
-    { id: 'All', label: 'All', icon: Sparkles },
-    { id: 'StaffPicks', label: 'Staff Picks', icon: Flame },
-    { id: 'Movies', label: 'Movies', icon: Film },
-    { id: 'Romance', label: 'Romance', icon: Heart },
-    { id: 'Action', label: 'Action', icon: Zap },
-    { id: 'Sci-Fi', label: 'Sci-Fi', icon: TrendingUp }
-  ];
-
-  const q = query.trim().toLowerCase();
-
-  let filteredResults = OUR_ANIME_CATALOG.filter((anime) => {
-    // Category match
-    if (selectedCategory === 'StaffPicks' && !isStaffPick(anime.id)) return false;
-    if (selectedCategory === 'Movies' && anime.format !== 'MOVIE' && (!anime.episodes || anime.episodes.length > 1)) return false;
-    if (selectedCategory === 'Romance' && !anime.genres?.includes('Romance')) return false;
-    if (selectedCategory === 'Action' && !anime.genres?.includes('Action')) return false;
-    if (selectedCategory === 'Sci-Fi' && !anime.genres?.includes('Sci-Fi')) return false;
-
-    // Search query match
-    if (!q) return true;
-
-    const eng = (anime.title?.english || (typeof anime.title === 'string' ? anime.title : '') || '').toLowerCase();
-    const rom = (anime.title?.romaji || '').toLowerCase();
-    const nat = (anime.title?.native || '').toLowerCase();
-    const aliases = Array.isArray(anime.aliases) ? anime.aliases.map((a) => a.toLowerCase()) : [];
-    const genres = (anime.genres || []).map((g) => g.toLowerCase());
-    const year = String(anime.seasonYear || '');
-
-    return (
-      eng.includes(q) ||
-      rom.includes(q) ||
-      nat.includes(q) ||
-      aliases.some((a) => a.includes(q)) ||
-      genres.some((g) => g.includes(q)) ||
-      year.includes(q)
-    );
-  });
-
-  // Prioritize exact/prefix matches
-  if (q) {
-    filteredResults.sort((a, b) => {
-      const aTitle = (a.title?.english || a.title?.romaji || '').toLowerCase();
-      const bTitle = (b.title?.english || b.title?.romaji || '').toLowerCase();
-
-      const aStarts = aTitle.startsWith(q);
-      const bStarts = bTitle.startsWith(q);
-
-      if (aStarts && !bStarts) return -1;
-      if (!aStarts && bStarts) return 1;
-
-      return (b.averageScore || 0) - (a.averageScore || 0);
-    });
-  }
-
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-start justify-center pt-12 sm:pt-20 px-3 sm:px-6 pb-6 animate-fade-in">
+    <div className="fixed inset-0 z-50 flex items-start justify-center pt-10 sm:pt-16 px-3 sm:px-6 pb-6 animate-fade-in">
       {/* Backdrop */}
       <div
         onClick={onClose}
@@ -244,9 +251,9 @@ export default function SearchModal({
             filteredResults.map((anime, index) => {
               const isSelected = index === selectedIndex;
               const title = anime.title?.english || anime.title?.romaji || 'Unknown Title';
-              const isSaved = isInWatchlist(anime.id);
+              const isSaved = Boolean(watchlist[anime.id]);
               const isMovie = anime.format === 'MOVIE' || (!anime.episodes || anime.episodes.length === 1);
-              const poster = anime.coverImage?.extraLarge || anime.coverImage?.large;
+              const poster = anime.coverImage?.extraLarge || anime.coverImage?.large || anime.coverImage?.medium;
 
               return (
                 <div
@@ -328,10 +335,8 @@ export default function SearchModal({
                   <div className="flex items-center gap-1.5 shrink-0" onClick={(e) => e.stopPropagation()}>
                     <button
                       onClick={() => {
-                        if (isSaved) {
-                          removeFromWatchlist(anime.id);
-                        } else {
-                          addToWatchlist(anime);
+                        if (setAnimeStatus) {
+                          setAnimeStatus(anime, isSaved ? null : WATCH_STATUSES.PLAN_TO_WATCH);
                         }
                       }}
                       className={`p-2 rounded-lg transition-all ${
