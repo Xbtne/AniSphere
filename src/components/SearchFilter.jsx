@@ -71,7 +71,16 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
         const rom = (a.title?.romaji || '').toLowerCase();
         const native = (a.title?.native || '').toLowerCase();
         const aliases = Array.isArray(a.aliases) ? a.aliases.map((al) => al.toLowerCase()) : [];
-        return eng.includes(q) || rom.includes(q) || native.includes(q) || aliases.some((al) => al.includes(q));
+        const genres = (a.genres || []).map((g) => g.toLowerCase());
+        const year = String(a.seasonYear || '');
+        return (
+          eng.includes(q) ||
+          rom.includes(q) ||
+          native.includes(q) ||
+          aliases.some((al) => al.includes(q)) ||
+          genres.some((g) => g.includes(q)) ||
+          year.includes(q)
+        );
       });
     }
 
@@ -117,7 +126,7 @@ export default function SearchFilter({ onSelectAnime, initialGenre = 'All' }) {
 
     debounceTimeout.current = setTimeout(() => {
       fetchCatalog(1);
-    }, 350);
+    }, 50);
 
     return () => {
       if (debounceTimeout.current) clearTimeout(debounceTimeout.current);

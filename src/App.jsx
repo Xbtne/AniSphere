@@ -152,6 +152,7 @@ export default function App() {
         onOpenAdmin={() => setIsAdminPanelOpen(true)}
         onOpenProfile={() => setIsProfileOpen(true)}
         onOpenAuth={() => setIsAuthModalOpen(true)}
+        onSelectAnime={handleSelectAnime}
       />
 
       {/* Hero Spotlight Billboard */}

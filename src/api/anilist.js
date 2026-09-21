@@ -351,12 +351,14 @@ export async function getAnimeDetails(id) {
 
 export function hasEnglishDub(anime) {
   if (!anime) return false;
+  if (typeof anime.hasDub === 'boolean') return anime.hasDub;
+  if (Array.isArray(anime.episodes) && anime.episodes.some((ep) => ep.dubUrl || ep.videoUrl)) return true;
   if (anime.characters?.edges) {
     return anime.characters.edges.some((edge) =>
       edge.voiceActors?.some((va) => va?.languageV2 === 'English')
     );
   }
-  return false;
+  return true;
 }
 
 export const POPULAR_GENRES = [
